@@ -1,6 +1,7 @@
 class Subject:
-    def __init__(self, stringName, duration, Faculty, School, offering):
+    def __init__(self, stringName, courseCode, duration, Faculty, School, offering):
         self.name = stringName
+        self.courseCode = courseCode
         self.preRequisites = []
         self.futureSubject = []
         self.duration = duration
