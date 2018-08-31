@@ -1,6 +1,7 @@
 from subject import *
 from data_structure import *
 import json as js
+import matplotlib.pyplot as plotting
 
 data = Data_structure()
 with open("software_engineering_courses.json") as json_file:

@@ -20,7 +20,6 @@ class Subject:
         return self.duration
     def getName(self):
         return self.name 
-
     def getSchool(self):
         return self.School
     
