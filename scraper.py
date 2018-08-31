@@ -4,8 +4,7 @@ from datetime import datetime
 
 import bs4 
 
-
-from . import subject
+import subject
 
 class SemesterFlags(enum.Flag):
     SEMESTER_1 = enum.auto()

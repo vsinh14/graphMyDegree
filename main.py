@@ -1,4 +1,4 @@
-from uq_data.scraper import *
+from scraper import *
 
 if __name__ == '__main__':
     parse_course_code('MATH1051')
