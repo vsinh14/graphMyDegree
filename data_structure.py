@@ -19,7 +19,7 @@ class Data_structure:
     def addFutureSubject(self, course1, course2):
         self.graph.has_node(course1)
         self.graph.has_node(course2)
-        self.graph.add_edge(course1, course2) 
+        self.graph.add_edge(course2, course1) 
 
     def getGraph(self):
         return self.graph
