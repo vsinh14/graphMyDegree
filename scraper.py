@@ -5,7 +5,7 @@ import json
 
 import bs4 
 
-import subject
+from subject import *
 
 class SemesterFlags(enum.Flag):
     SEMESTER_1 = 1 
@@ -68,7 +68,7 @@ def parse_course_code(course_code: str):
         school = soup.find('p', {'id': 'course-faculty'}).text
         units = int(soup.find('p', {'id': 'course-units'}).text)
 
-        duration = soup.find('p', {'id': 'course-duration'}).text
+        duration = soup.find('p', 'id': 'course-duration'}).text
 
         this_year = str(datetime.today().year)
 

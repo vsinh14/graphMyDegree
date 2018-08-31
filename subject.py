@@ -1,9 +1,9 @@
 class Subject:
-    def __init__(self, stringName, courseCode, duration, Faculty, School, offering):
-        self.name = stringName
+    def __init__(self, courseCode):
         self.courseCode = courseCode
-        self.preRequisites = []
-        self.futureSubject = []
+
+    def addValues(self, stringName, duration, Faculty, School, offering):
+        self.name = stringName
         self.duration = duration
         self.Faculty = Faculty
         self.School = School
@@ -16,24 +16,11 @@ class Subject:
         # 7 for sem 1 sem 2 and summer sem 
         self.offering = offering
 
-    def addPreRequisite(self, subject):
-        self.preRequisites.append(subject)
+    def getDuration(self):
+        return self.duration
+    def getName(self):
+        return self.name 
 
-    def addFutureSubject(self, subject):
-        self.futureSubject.append(subject)
-
-    def getPreRequisiteList(self):
-        return self.preRequisites
-
-    def getFutureList(self):
-        return self.futureSubject
-
-    def getPreRequisiteNumber(self):
-        return len(self.preRequisites)
-
-    def getFutureNumber(self):
-        return len(self.futureSubject)
-    
     def getSchool(self):
         return self.School
     
@@ -42,3 +29,5 @@ class Subject:
     
     def getOffering(self):
         return self.offering
+    def getCourseCode(self):
+        return self.courseCode
