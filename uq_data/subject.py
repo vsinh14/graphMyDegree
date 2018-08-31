@@ -15,29 +15,29 @@ class Subject:
         # 7 for sem 1 sem 2 and summer sem 
         self.offering = offering
 
-    def addPreRequisite(subject):
+    def addPreRequisite(self, subject):
         self.preRequisites.append(subject)
 
-    def addFutureSubject(subject):
+    def addFutureSubject(self, subject):
         self.futureSubject.append(subject)
 
-    def getPreRequisiteList():
+    def getPreRequisiteList(self):
         return self.preRequisites
 
-    def getFutureList():
+    def getFutureList(self):
         return self.futureSubject
 
-    def getPreRequisiteNumber():
+    def getPreRequisiteNumber(self):
         return len(self.preRequisites)
 
-    def getFutureNumber():
+    def getFutureNumber(self):
         return len(self.futureSubject)
     
-    def getSchool():
+    def getSchool(self):
         return self.School
     
-    def getFaculty():
+    def getFaculty(self):
         return self.Faculty
     
-    def getOffering():
+    def getOffering(self):
         return self.offering
