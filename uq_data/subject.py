@@ -30,7 +30,7 @@ class Subject:
     def getPreRequisiteNumber():
         return len(self.preRequisites)
 
-    def getFutureNumber:
+    def getFutureNumber():
         return len(self.futureSubject)
     
     def getSchool():
