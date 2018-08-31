@@ -1,6 +1,8 @@
 import bs4 
 import urllib.request
 
+from . import data_structure
+
 """
 Parses the requirements of a major.
 
