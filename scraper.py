@@ -6,7 +6,7 @@ from collections import defaultdict
 
 import bs4 
 
-import subject
+from subject import *
 
 class SemesterFlags(enum.Flag):
     SEMESTER_1 = 1 
