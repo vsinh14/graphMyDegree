@@ -9,6 +9,7 @@ def main():
             existing_courses = set(json.decoder.JSONDecoder().decode(f.read()).keys())
     except FileNotFoundError:
         pass
+    print(f'Parsed {len(existing_courses)} of {len(course_list)} courses.')
     write_course_data_to_file(set(course_list)-existing_courses, 'full_course_data.json')
 
 

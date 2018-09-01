@@ -12,6 +12,9 @@ class SemesterFlags(enum.Flag):
     SEMESTER_1 = 1 
     SEMESTER_2 = 2
     SUMMER = 4
+    TRIMESTER_1 = 8
+    TRIMESTER_2 = 16 
+    TRIMESTER_3 = 32
 
     @classmethod
     def from_str(cls, string):
@@ -21,6 +24,12 @@ class SemesterFlags(enum.Flag):
             return cls.SEMESTER_2
         elif string == 'Summer Semester':
             return cls.SUMMER
+        elif string == 'Trimester 1':
+            return cls.TRIMESTER_1
+        elif string == 'Trimester 2':
+            return cls.TRIMESTER_2
+        elif string == 'Trimester 3':
+            return cls.TRIMESTER_3
         raise ValueError('Unknown semester string ' + string)
 
     """
@@ -34,6 +43,12 @@ class SemesterFlags(enum.Flag):
             value += 2
         if self & self.SUMMER:
             value += 4
+        if self & self.TRIMESTER_1:
+            value += 8 
+        if self & self.TRIMESTER_2:
+            value += 16 
+        if self & self.TRIMESTER_3:
+            value += 32
         return value
 
 
@@ -63,10 +78,19 @@ def parse_course_code(course_code: str):
         soup = bs4.BeautifulSoup(html_file.read())
 
         # Get the course title by deleting " (ABCD1234)" from the heading.
-        course_name = soup.find('h1', {'id': 'course-title'}).text.replace(' ('+course_code+')', '', 1)
+        try:
+            course_name = soup.find('h1', {'id': 'course-title'}).text.replace(' ('+course_code+')', '', 1)
+        except AttributeError:
+            return None
         # Gets everything else
-        faculty = soup.find('p', {'id': 'course-level'}).text.strip()
-        school = soup.find('p', {'id': 'course-faculty'}).text.strip()
+        try:
+            faculty = soup.find('p', {'id': 'course-faculty'}).text.strip()
+        except AttributeError:
+            faculty = ''
+        try:
+            school = soup.find('p', {'id': 'course-school'}).text.strip()
+        except AttributeError:
+            school = ''
         units = int(soup.find('p', {'id': 'course-units'}).text)
 
         duration = soup.find('p', {'id': 'course-duration'}).text.strip()
@@ -77,19 +101,23 @@ def parse_course_code(course_code: str):
         except AttributeError:
             prereq = ''
 
+        description = soup.find('p', {'id': 'course-summary'}).text
+
         offerings = SemesterFlags(0)
         semester_elements = soup.find_all('a', {'class': 'course-offering-year'})
         for sem_elem in semester_elements:
             # TODO: Will break for the first half of a year!!
             if this_year in sem_elem.text: # only consider offerings in this year.
-                offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip())
+                offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
         print(course_code)
         return {
             'course_name':course_name,
             'course_code':course_code,
             'duration':duration,
+            'units': units,
             'faculty':faculty,
             'school':school,
+            'description': description,
             'semesters':(offerings).int(),
             'prerequisites': prereq
         }
@@ -161,9 +189,10 @@ def write_course_to_file(major_code: str, file_name: str):
 def write_course_data_to_file(course_list, file_name):
     courses_dict = {}
     for c in course_list:
+        print('Getting course data for', c)
         courses_dict[c] = parse_course_code(c)
-    with open(file_name, 'w') as f:
-        f.write(json.encoder.JSONEncoder(indent=4).encode(courses_dict))
+        with open(file_name, 'w') as f:
+            f.write(json.encoder.JSONEncoder(indent=4).encode(courses_dict))
     return courses_dict
 
 def write_major_parts_to_file(major_code, file_name):
