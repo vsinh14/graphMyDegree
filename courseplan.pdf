@@ -1,0 +1,7 @@
+digraph "course plan" {
+	ENGG1100
+	ENGG1200
+	ENGG1211
+	ENGG1100 -> ENGG1200
+	ENGG1200 -> ENGG1211
+}
