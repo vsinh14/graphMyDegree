@@ -6,7 +6,8 @@ import networkx as nx
 from graphviz import Digraph
 
 def draw_graph(ds):
-    drawn = Digraph('course plan', filename = 'courseplan.pdf', format = 'pdf')
+    drawn = Digraph('course plan', filename = 'courseplan', format = 'pdf')
+    drawn.attr('node', shape='box')
     data = ds.getData()
     graph = ds.getGraph()
     for key in data.keys():
