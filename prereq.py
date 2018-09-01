@@ -85,12 +85,12 @@ def _parse_fragment(fragment, course_code, level=0):
                 _log('Not our course.')
                 break
             else:
-                _log('Skipping 1 item.')
+                _log('Found specific details for our course.')
                 i += 1
         elif token == '(':
             _log('Found (')
             len_remaining = len(fragment[i+1:]) # Number of tokens after this one.
-            # Takes a fragment ['CSSE2002', ')', 'and', ...]
+            # Calls again with a fragment ['CSSE2002', ')', 'and', ...]
             # Returns ('CSSE2002', ['and', '...])
             this_elem, rest = _parse_fragment(fragment[i+1:], course_code, level+1) 
             len_of_rest = len(rest) # Number of tokens after the end of the brackets.
@@ -107,7 +107,9 @@ def _parse_fragment(fragment, course_code, level=0):
             elif OPERATIONS[token] == operation:
                 pass # Operation is the same as current; continue.
             else:
-                _log(' But operation already defined!')
+                _log('New operation:', token)
+                stack = [operation(stack)]
+                operation = OPERATIONS[token]
         else:
             print(fragment)
             print('Unknown component', token)
@@ -126,7 +128,9 @@ def parse_prereq(prereq_string: str, course_code: str):
     return _parse_fragment(tokens, course_code)[0]
 
 if __name__ == '__main__':
-    print(parse_prereq('For COMS3000 prereq: CSSE2310; For COMS7003 prereq: CSSE7231', 'COMS3000'))
+    # print(parse_prereq('((MATH1051 or MATH1071) + (STAT1201, STAT1301 or STAT2201) + STAT2003 OR STAT2203', 'STAT2004'))
+    # raise 'a'
+    # print(parse_prereq('For COMS3000 prereq: CSSE2310; For COMS7003 prereq: CSSE7231', 'COMS3000'))
 
     prereq_dict = {}
     with open('course_data.json', 'r') as f:

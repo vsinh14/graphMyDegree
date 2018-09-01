@@ -374,24 +374,29 @@
     },
     "STAT2004": [
         {
-            "type": "all",
+            "type": "any",
             "children": [
                 {
-                    "type": "any",
+                    "type": "all",
                     "children": [
-                        "MATH1051",
-                        "MATH1071"
+                        {
+                            "type": "any",
+                            "children": [
+                                "MATH1051",
+                                "MATH1071"
+                            ]
+                        },
+                        {
+                            "type": "any",
+                            "children": [
+                                "STAT1201",
+                                "STAT1301",
+                                "STAT2201"
+                            ]
+                        },
+                        "STAT2003"
                     ]
                 },
-                {
-                    "type": "any",
-                    "children": [
-                        "STAT1201",
-                        "STAT1301",
-                        "STAT2201"
-                    ]
-                },
-                "STAT2003",
                 "STAT2203"
             ]
         }
