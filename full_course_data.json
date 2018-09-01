@@ -1,0 +1,119 @@
+{
+    "ABTS1000": {
+        "course_name": "Indigenous Australian Issues: Past, Present, Future",
+        "course_code": "ABTS1000",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 3,
+        "prerequisites": ""
+    },
+    "ABTS1010": {
+        "course_name": "Torres Strait Islander Studies",
+        "course_code": "ABTS1010",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": ""
+    },
+    "ABTS1020": {
+        "course_name": "Ten Canoes: Exploring Indigenous Art, Film, Music and Literature Through Iconi",
+        "course_code": "ABTS1020",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 1,
+        "prerequisites": ""
+    },
+    "ABTS2010": {
+        "course_name": "Indigenous Women and Men: Gendered Business",
+        "course_code": "ABTS2010",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": ""
+    },
+    "ABTS2020": {
+        "course_name": "Contemporary Indigenous knowledge, thought and philosophy",
+        "course_code": "ABTS2020",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": ""
+    },
+    "ABTS2060": {
+        "course_name": "Contemporary Indigenous Social Organisation: Identity, family, community, nati",
+        "course_code": "ABTS2060",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 1,
+        "prerequisites": "ABTS1000"
+    },
+    "ABTS2080": {
+        "course_name": "Independent Project in Aboriginal & Torres Strait Islander Studies I",
+        "course_code": "ABTS2080",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 1,
+        "prerequisites": "Approval of course coordinator for ethical clearance"
+    },
+    "ABTS2090": {
+        "course_name": "Independent Project in Aboriginal & Torres Strait Islander Studies 2",
+        "course_code": "ABTS2090",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": "Approval of Course Coordinator for Ethical Clearance"
+    },
+    "ABTS3010": {
+        "course_name": "Work Placement in Indigenous Australian Studies",
+        "course_code": "ABTS3010",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": "ABTS1000, ABTS2020, or #6 of ABTS-coded courses"
+    },
+    "ABTS3020": {
+        "course_name": "Working with Indigenous People",
+        "course_code": "ABTS3020",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 2,
+        "prerequisites": ""
+    },
+    "ABTS3030": {
+        "course_name": "International Indigenous Perspectives: Approaches from the Global South",
+        "course_code": "ABTS3030",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Humanities and Social Sciences",
+        "semesters": 0,
+        "prerequisites": ""
+    },
+    "ABTS7000": {
+        "course_name": "Major Themes in Aboriginal & Torres Strait Islander Studies",
+        "course_code": "ABTS7000",
+        "duration": "One Semester",
+        "faculty": "Postgraduate Coursework",
+        "school": "Humanities and Social Sciences",
+        "semesters": 0,
+        "prerequisites": ""
+    },
+    "ACCT1101": {
+        "course_name": "Accounting for Decision Making",
+        "course_code": "ACCT1101",
+        "duration": "One Semester",
+        "faculty": "Undergraduate",
+        "school": "Business, Economics & Law",
+        "semesters": 3,
+        "prerequisites": ""
+    }
+}
