@@ -2,6 +2,7 @@ import enum
 import urllib.request
 from datetime import datetime
 import json
+from collections import defaultdict
 
 import bs4 
 
@@ -65,32 +66,115 @@ def parse_course_code(course_code: str):
         course_name = soup.find('h1', {'id': 'course-title'}).text.replace(' ('+course_code+')', '', 1)
         # Gets everything else
         faculty = soup.find('p', {'id': 'course-level'}).text.strip()
-        school = soup.find('p', {'id': 'course-faculty'}).text
+        school = soup.find('p', {'id': 'course-faculty'}).text.strip()
         units = int(soup.find('p', {'id': 'course-units'}).text)
 
-        duration = soup.find('p', {'id': 'course-duration'}).text
+        duration = soup.find('p', {'id': 'course-duration'}).text.strip()
 
         this_year = str(datetime.today().year)
+        try:
+            prereq = soup.find('p', {'id': 'course-prerequisite'}).text.strip()
+        except AttributeError:
+            prereq = ''
 
         offerings = SemesterFlags(0)
         semester_elements = soup.find_all('a', {'class': 'course-offering-year'})
         for sem_elem in semester_elements:
             # TODO: Will break for the first half of a year!!
             if this_year in sem_elem.text: # only consider offerings in this year.
-                offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1))
+                offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip())
+        print(course_code)
+        return {
+            'course_name':course_name,
+            'course_code':course_code,
+            'duration':duration,
+            'faculty':faculty,
+            'school':school,
+            'semesters':(offerings).int(),
+            'prerequisites': prereq
+        }
 
-        return Subject(
-            course_name,
-            course_code,
-            duration,
-            faculty,
-            school,
-            (offerings).int()
-        )
+class MajorPart(dict):
+    def __init__(self, parent, label):
+        self.parent = parent
+        self['label'] = label
+        self['children'] = []
+
+    def add_child(self, child):
+        self['children'].append(child)
+
+def first_element_child(tag: bs4.Tag):
+    for c in tag.children:
+        if isinstance(c, bs4.Tag):
+            return c
+
+def remove_left_bracket(text):
+    return text.replace('[\t\r\n\t', '', 1).replace('[\u00a0', '', 1)
+
+
+def parse_major_properly(major_code):
+    url = 'https://my.uq.edu.au/programs-courses/plan_display.html?acad_plan='+major_code
+    with urllib.request.urlopen(url) as html_file:
+        soup = bs4.BeautifulSoup(html_file.read())
+
+        parts = []
+        current_object = None
+        current_part = None
+        course_parts = defaultdict(lambda: set()) # Set for uniqueness.
+
+        major_name = soup.find('h1', {'class': 'trigger'}).text
+        intro_html = ''
+        for part in soup.find('div', {'class': 'block'}).children:
+            if isinstance(part, bs4.NavigableString):
+                continue
+            part: bs4.Tag = part
+            if not part.text.strip():
+                continue
+            if part.name in ('p', 'ol'):
+                intro_html += part.decode_contents()
+            elif 'courselist' in part.attrs['class']: 
+                # This is the case type we'll see. Almost everything is here.
+                first_child = first_element_child(part)
+                table = part.find('table', {'class': 'courses'})
+                if first_child.name == 'h2': # Part A, B, ... heading.
+                    current_part = first_child.text
+                if table is not None:
+                    for r in table.find_all('tr'):
+                        link = first_element_child(r)
+                        code = remove_left_bracket(link.text.strip())
+                        if code in ('or', 'Course Code'):
+                            continue # Blacklist.
+                        course_parts[code].add(current_part)
+        
+        return {k: list(v) for k, v in course_parts.items()}
+
+
 
 def write_course_to_file(major_code: str, file_name: str):
+    courses = list(parse_one_major(major_code))
     with open(file_name, 'w') as f:
         f.write(json.encoder.JSONEncoder(indent=4).encode(
-            list(parse_one_major(major_code))
+            courses
+    ))
+    return courses
+
+def write_course_data_to_file(course_list, file_name):
+    courses_dict = {}
+    for c in course_list:
+        courses_dict[c] = parse_course_code(c)
+    with open(file_name, 'w') as f:
+        f.write(json.encoder.JSONEncoder(indent=4).encode(courses_dict))
+    return courses_dict
+
+def write_major_parts_to_file(major_code, file_name):
+    parts = parse_major_properly(major_code)
+    with open(file_name, 'w') as f:
+        f.write(json.encoder.JSONEncoder(indent=4).encode(
+            parts
         ))
+    return parts
+
+if __name__ == '__main__':
+    write_major_parts_to_file('SOFTWX2342', 'soft_eng_major_parts.json')
+
 
