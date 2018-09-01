@@ -34,6 +34,7 @@ text_replaces = {
 
     'Permission of Head of School': 'HOS_Permission',
 
+    ' OR ': ' or ',
     ' + ': ' and ',
     ' & ': ' and ',
     ' | ': ' or ',
@@ -52,7 +53,6 @@ COURSE_REGEX = re.compile(r'^[A-Z]{3,4}[0-9]{4}$')
 OPERATIONS = {
     'and': AndRelation,
     'or': OrRelation,
-    'OR': OrRelation,
 }
 
 """Parses a fragment of a prereq string, split by spaces. 
