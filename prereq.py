@@ -63,6 +63,7 @@ The rest of the list should be parsed at the parent caller's level.
 """
 def _parse_fragment(fragment, course_code, level=0):
     def _log(*args, **kwargs):
+        return
         print(' '*level, *args, **kwargs)
     _log('Parsing fragment', fragment)
     stack = []
