@@ -32,6 +32,8 @@ text_replaces = {
     'SA Yr 12 Maths C': '12_Maths_C_SA',
     'Maths B': '12_Maths_B',
 
+    'Permission of Head of School': 'HOS_Permission',
+
     ' + ': ' and ',
     ' & ': ' and ',
     ' | ': ' or ',
@@ -42,7 +44,7 @@ text_replaces = {
     '; ': ' ',
 }
 
-HIGHSCHOOL_SUBJECTS = ('12_Maths_C_HA', '12_Maths_C_SA', '12_Maths_B')
+HIGHSCHOOL_SUBJECTS = ('12_Maths_C_HA', '12_Maths_C_SA', '12_Maths_B', 'HOS_Permission')
 SKIP_TOKENS = ('prereq', 'prereqs')
 
 COURSE_REGEX = re.compile(r'^[A-Z]{3,4}[0-9]{4}$')

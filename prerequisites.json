@@ -160,7 +160,9 @@
     },
     "ENGG4801": [],
     "ENGG4802": [],
-    "ENGG4805": [],
+    "ENGG4805": [
+        "HOS_Permission"
+    ],
     "ENGG4900": [],
     "COMP3301": {
         "type": "any",
