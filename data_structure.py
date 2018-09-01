@@ -34,6 +34,9 @@ class Data_structure:
     """
     def getGraph(self):
         return self.graph
+    """
+    return dict with data
+    """
     
     def getData(self):
         return self.data
