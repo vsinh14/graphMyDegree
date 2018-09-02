@@ -1,0 +1,13 @@
+{
+    "course_code": "ARCS2003",
+    "course_name": "Forensics: The Archaeology of Death & Crime Scenes",
+    "semesters": 5,
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores practices involving the systematic location and recovery of human remains and other crime scene materials. Students will gain experience in search techniques, excavation, recovery, analysis and conservation of material evidence that are vital in criminal investigations.",
+    "prerequisites": "#4 units of undergrad courses",
+    "incompatible": "CRIM2060 and BIOM2003",
+    "restricted": ""
+}

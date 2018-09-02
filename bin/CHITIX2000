@@ -1,0 +1,261 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	ENGG1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1100</TD></TR><TR><TD><FONT POINT-SIZE="10">Engineering Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1211 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1211</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Design, Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1051 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1051</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1071 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1071</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1052 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1052</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1072 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH1072</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Software Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1300</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Electrical Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	INFS1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>INFS1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Information Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1061 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1061</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Discrete Mathematics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE2002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE2002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Programming in the Large</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE2010</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Computer Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	COMP3506 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3506</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Algorithms &amp; Data Structures</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE2310 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CSSE2310</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Computer Systems Principles and Programming</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	DECO2800 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>DECO2800</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Design Computing Studio 2 - Testing &amp; Evaluation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	STAT2203 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT2203</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Probability Models and Data Analysis for Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE3002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE3002</TD></TR><TR><TD><FONT POINT-SIZE="10">The Software Process</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	DECO2500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>DECO2500</TD></TR><TR><TD><FONT POINT-SIZE="10">Human-Computer Interaction</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	DECO3800 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>DECO3800</TD></TR><TR><TD><FONT POINT-SIZE="10">Design Computing Studio 3 - Proposal</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	DECO3801 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>DECO3801</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Design Computing Studio 3 - Build</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4801 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4801</TD></TR><TR><TD><FONT POINT-SIZE="10">Thesis Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4802 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG4802</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Thesis Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4805 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4805</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Thesis Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4900 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4900</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Professional Practice and the Business Environment</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	COMP3301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3301</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Operating Systems Architecture</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP3702 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3702</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Artificial Intelligence</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP4403 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COMP4403</TD></TR><TR><TD><FONT POINT-SIZE="10">Compilers and Interpreters</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP4500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP4500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Algorithms &amp; Data Structures</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP4702 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COMP4702</TD></TR><TR><TD><FONT POINT-SIZE="10">Machine Learning</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMS3000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMS3000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Information Security</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMS3200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COMS3200</TD></TR><TR><TD><FONT POINT-SIZE="10">Computer Networks I</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMS4200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMS4200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Computer Networks II</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMS4507 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COMS4507</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Computer and Network Security</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COSC3000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COSC3000</TD></TR><TR><TD><FONT POINT-SIZE="10">Visualization, Computer Graphics &amp; Data Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COSC3500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COSC3500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">High-Performance Computing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE3010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE3010</TD></TR><TR><TD><FONT POINT-SIZE="10">Embedded Systems Design &amp; Interfacing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE3100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE3100</TD></TR><TR><TD><FONT POINT-SIZE="10">Reasoning About Programs</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE4004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE4004</TD></TR><TR><TD><FONT POINT-SIZE="10">Distributed Computing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE4010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CSSE4010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Digital System Design</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	DECO1400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>DECO1400</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Web Design</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	DECO3500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>DECO3500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Social &amp; Mobile Computing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	DECO4500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>DECO4500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Human-Computer Interaction</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	INFS2200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>INFS2200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Relational Database Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	INFS3200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>INFS3200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Database Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	INFS3202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>INFS3202</TD></TR><TR><TD><FONT POINT-SIZE="10">Web Information Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE4011 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE4011</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Embedded Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	ENGG4020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG4020</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Systems Safety Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	ENGG4800 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4800</TD></TR><TR><TD><FONT POINT-SIZE="10">Project Management</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	INFS3208 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>INFS3208</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Cloud Computing</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	INFS4203 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>INFS4203</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Data Mining</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	INFS4205 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>INFS4205</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Techniques for High Dimensional Data</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	MATH2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	MATH2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Calculus and Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	MATH2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Analysis of Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=yellow style=filled]
+	STAT2004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT2004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Statistical Modelling &amp; Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT3001</TD></TR><TR><TD><FONT POINT-SIZE="10">Mathematical Statistics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT3003</TD></TR><TR><TD><FONT POINT-SIZE="10">Experimental Design</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT3004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Probability Models &amp; Stochastic Processes</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode6 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode8 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode9 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode10 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode11 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode12 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode14 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode15 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode29 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode30 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode31 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode32 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode33 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode34 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode35 [label=or]
+	node [shape=box style=filled]
+	ARCA1000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ARCA1000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Discovering Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Doing Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ARCS2000</TD></TR><TR><TD><FONT POINT-SIZE="10">Science in Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS3010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS3010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Field Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ARCS2003</TD></TR><TR><TD><FONT POINT-SIZE="10">Forensics: The Archaeology of Death &amp; Crime Scenes</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Ancient Technologies: Experimental and Analytical Approaches to Understanding</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2011 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2011</TD></TR><TR><TD><FONT POINT-SIZE="10">Lithic Analysis: Current and Future Directions for Research and Heritage Manag</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2060 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2060</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Archaeology Field School</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2080 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2080</TD></TR><TR><TD><FONT POINT-SIZE="10">Plants and Archaeology: Food, fuel, foraging and farming in the human past</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCA2020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ARCA2020</TD></TR><TR><TD><FONT POINT-SIZE="10">Australasian Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2050 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2050</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Historical Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS2070 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ARCS2070</TD></TR><TR><TD><FONT POINT-SIZE="10">Bioarchaeology: Human remains and ancient disease</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL2201 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL2201</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Evolution</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ERTH2002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ERTH2002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Palaeobiology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ERTH2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ERTH2003</TD></TR><TR><TD><FONT POINT-SIZE="10">Sedimentology, Stratigraphy and Palaeoenvironments</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ERTH2005 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ERTH2005</TD></TR><TR><TD><FONT POINT-SIZE="10">Mineralogy</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	GEOS2100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>GEOS2100</TD></TR><TR><TD><FONT POINT-SIZE="10">Environmental Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	GEOS2103 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>GEOS2103</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Biogeography &amp; Geomorphology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ARCS3001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ARCS3001</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Research in Archaeology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL3209 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL3209</TD></TR><TR><TD><FONT POINT-SIZE="10">Biodiversity Analysis, Discovery and Systematics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ERTH3103 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ERTH3103</TD></TR><TR><TD><FONT POINT-SIZE="10">Sedimentary Environments</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ERTH3205 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ERTH3205</TD></TR><TR><TD><FONT POINT-SIZE="10">Geochemistry and Geochronology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	GEOS3107 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>GEOS3107</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Plants, People and the Environment</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	PSYC3262 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PSYC3262</TD></TR><TR><TD><FONT POINT-SIZE="10">Evolutionary Approaches to Human Behaviour</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode36 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode37 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode40 [label=or]
+	node [shape=box style=filled]
+	CHIN2700 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHIN2700</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chinese > English Translation: An Introductory Course</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN2750 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHIN2750</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fundamentals in English > Chinese Translation and Interpreting</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COMU1002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COMU1002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Crossing Bridges: Communicating between Cultures</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LING1000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>LING1000</TD></TR><TR><TD><FONT POINT-SIZE="10">The Secret Life of Language: Words and Sentences</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	WRIT1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>WRIT1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Writing for International Students</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN2600 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHIN2600</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chinese for Native Speakers: Essentials of Chinese Language</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN2555 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHIN2555</TD></TR><TR><TD><FONT POINT-SIZE="10">English and Chinese Interpreting 1</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN3555 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHIN3555</TD></TR><TR><TD><FONT POINT-SIZE="10">English and Chinese Interpreting 2</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LING2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>LING2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Semantics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LING2035 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>LING2035</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Language &amp; Society</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LTCS3002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>LTCS3002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Translating &amp; Interpreting Studies</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN3760 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHIN3760</TD></TR><TR><TD><FONT POINT-SIZE="10">Techniques in English > Chinese Translation</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHIN3770 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHIN3770</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Chinese>English Translation</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ENGG1100 -> ENGG1200
+	ENGG1100 -> DECO3800
+	ENGG1200 -> orNode8
+	ENGG1211 -> orNode8
+	MATH1051 -> orNode10
+	MATH1051 -> COMP4702
+	MATH1051 -> orNode29
+	MATH1051 -> orNode31
+	MATH1071 -> orNode10
+	MATH1071 -> orNode29
+	MATH1071 -> orNode31
+	MATH1052 -> orNode30
+	MATH1052 -> orNode32
+	MATH1052 -> orNode33
+	MATH1072 -> orNode30
+	MATH1072 -> orNode32
+	MATH1072 -> orNode33
+	CSSE1001 -> CSSE2002
+	CSSE1001 -> CSSE2310
+	CSSE1001 -> orNode12
+	CSSE1001 -> COMP3702
+	CSSE1001 -> COMP4702
+	CSSE1001 -> INFS3202
+	CSSE1001 -> INFS3208
+	INFS1200 -> INFS3202
+	INFS1200 -> INFS3208
+	INFS1200 -> INFS2200
+	MATH1061 -> orNode6
+	MATH1061 -> CSSE3100
+	CSSE2002 -> COMP3506
+	CSSE2002 -> orNode9
+	CSSE2002 -> orNode11
+	CSSE2002 -> orNode14
+	CSSE2002 -> orNode15
+	CSSE2002 -> CSSE3100
+	CSSE2002 -> COSC3000
+	CSSE2002 -> COSC3500
+	CSSE2010 -> orNode6
+	CSSE2010 -> CSSE2310
+	CSSE2010 -> CSSE4010
+	COMP3506 -> COMP4500
+	COMP3506 -> COMP4403
+	CSSE2310 -> COMS3000
+	CSSE2310 -> COMP3301
+	CSSE2310 -> COMS3200
+	CSSE2310 -> CSSE3010
+	DECO2800 -> orNode11
+	STAT2203 -> COMP4702
+	DECO2500 -> DECO3500
+	DECO2500 -> DECO4500
+	COMP3301 -> CSSE4004
+	COMS3000 -> COMS4507
+	COMS3200 -> COMS4200
+	COMS3200 -> CSSE4004
+	CSSE3010 -> CSSE4011
+	DECO1400 -> orNode12
+	DECO1400 -> INFS3202
+	INFS2200 -> orNode9
+	INFS2200 -> orNode14
+	INFS2200 -> orNode15
+	INFS2200 -> INFS3200
+	INFS2200 -> INFS4203
+	INFS2200 -> INFS4205
+	MATH2000 -> orNode34
+	MATH2000 -> orNode35
+	MATH2001 -> orNode34
+	MATH2001 -> orNode35
+	STAT2004 -> STAT3001
+	STAT2004 -> STAT3003
+	orNode6 -> COMP3506
+	orNode8 -> DECO2800
+	orNode9 -> DECO2800
+	orNode10 -> STAT2203
+	orNode11 -> CSSE3002
+	orNode12 -> DECO2500
+	orNode14 -> DECO3800
+	orNode15 -> DECO3801
+	orNode29 -> MATH2000
+	orNode30 -> MATH2000
+	orNode31 -> MATH2001
+	orNode32 -> MATH2001
+	orNode33 -> MATH2010
+	orNode34 -> STAT3001
+	orNode35 -> STAT3004
+	ARCA1000 -> ARCS2000
+	ARCA1000 -> orNode36
+	ARCA1000 -> orNode37
+	ARCA1000 -> ARCS2060
+	ARCA1000 -> ARCA2020
+	ARCA1000 -> ARCS2050
+	ARCA1000 -> ARCS2070
+	ARCA1000 -> orNode40
+	ARCS1001 -> orNode36
+	ARCS1001 -> orNode37
+	ARCS1001 -> ARCS2080
+	ARCS1001 -> orNode40
+	ERTH2003 -> ERTH3103
+	ERTH2003 -> ERTH3205
+	orNode36 -> ARCS3010
+	orNode37 -> ARCS2011
+	orNode40 -> ARCS3001
+	CHIN2700 -> CHIN3770
+	CHIN2750 -> CHIN3760
+	LING1000 -> LING2000
+	CHIN2555 -> CHIN3555
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}

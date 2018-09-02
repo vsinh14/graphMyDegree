@@ -1,0 +1,13 @@
+{
+    "course_code": "ARCS2000",
+    "course_name": "Science in Archaeology",
+    "semesters": 1,
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to application of scientific methods to archaeological research. Topics include dating, remote sensing and materials analysis.",
+    "prerequisites": "ARCA1000",
+    "incompatible": "ARCA2010 and BIOM2000",
+    "restricted": ""
+}

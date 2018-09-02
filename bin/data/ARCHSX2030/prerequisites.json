@@ -1,0 +1,86 @@
+{
+    "ARCA1000": [],
+    "ARCS1001": [],
+    "ARCS2000": [
+        "ARCA1000"
+    ],
+    "ARCS3010": {
+        "type": "any",
+        "children": [
+            "ARCA1000",
+            "ARCA1001",
+            "ARCS1001"
+        ]
+    },
+    "ARCS2003": [],
+    "ARCS2010": [],
+    "ARCS2011": {
+        "type": "any",
+        "children": [
+            "ARCA1001",
+            "ARCS1001",
+            "ARCA1000"
+        ]
+    },
+    "ARCS2060": [
+        "ARCA1000"
+    ],
+    "ARCS2080": [
+        "ARCS1001"
+    ],
+    "ARCA2020": {
+        "type": "all",
+        "children": [
+            "ARCA1000"
+        ]
+    },
+    "ARCS2050": [
+        "ARCA1000"
+    ],
+    "ARCS2070": [
+        "ARCA1000"
+    ],
+    "BIOL2201": [
+        "BIOL1020"
+    ],
+    "ERTH2002": [],
+    "ERTH2003": [],
+    "ERTH2005": {
+        "type": "any",
+        "children": [
+            "ERTH1000",
+            "ERTH1501"
+        ]
+    },
+    "GEOS2100": [],
+    "GEOS2103": [],
+    "ARCS3001": {
+        "type": "any",
+        "children": [
+            {
+                "type": "all",
+                "children": [
+                    {
+                        "type": "any",
+                        "children": [
+                            "ARCA1000",
+                            "ARCA1001",
+                            "ARCS1001"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "BIOL3209": [],
+    "ERTH3103": [
+        "ERTH2003"
+    ],
+    "ERTH3205": [
+        "ERTH2003",
+        "ERTH2006",
+        "ERTH2005"
+    ],
+    "GEOS3107": [],
+    "PSYC3262": []
+}

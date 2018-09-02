@@ -1,0 +1,29 @@
+{
+    "CHIN2700": [],
+    "CHIN2750": [],
+    "COMU1002": [],
+    "LING1000": [],
+    "WRIT1001": [],
+    "CHIN2600": [],
+    "CHIN2555": [],
+    "CHIN3555": [
+        "CHIN2555"
+    ],
+    "LING2000": [
+        "LING1000"
+    ],
+    "LING2035": [],
+    "LTCS3002": {
+        "type": "any",
+        "children": []
+    },
+    "CHIN3760": {
+        "type": "any",
+        "children": [
+            "CHIN2750"
+        ]
+    },
+    "CHIN3770": [
+        "CHIN2700"
+    ]
+}
