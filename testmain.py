@@ -40,7 +40,6 @@ def actualRecursion(dataStruct, key, part):
     if(part['type'] == "any"):
         orName = "orNode" + str(orCounter)
         orCounter+=1
-        orNode = Subject(orName)
         dataStruct.addSubject(orName, Subject(orName))
         for i in part["children"]:
             if(isinstance(i, str)):
@@ -65,4 +64,30 @@ with open("data/SOFTWX2342/prerequisites.json") as pre_file:
         if(len(p) == 0):
             continue
         recursiveRelation(dataStructure, k, p)
+
+graph = dataStructure.getGraph()
+
+
+edited = True
+while edited:
+    edited = False 
+    for i, node in enumerate(dict(graph.nodes())):
+        if node.startswith('or'):
+            if graph.in_degree(node) == 0 or graph.out_degree(node) == 0:
+                print('Removing', node)
+                graph.remove_node(node)
+                del dataStructure.data[node]
+                edited = True
+            elif graph.in_degree(node) == 1:
+                print('One in degree', node)
+                single_parent = list(graph[node].keys())[0]
+                print('', single_parent)
+                for child in graph.predecessors(node):
+                    print('', 'Has child', child)
+                    dataStructure.addPreRequisite(child, single_parent)
+                graph.remove_node(node)
+                del dataStructure.data[node]
+                edited = True
+
+
 draw_graph(dataStructure)

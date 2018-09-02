@@ -31,7 +31,7 @@ class Data_structure:
 
     def deletePreRequisite(self, course1, course2):
         if self.graph.has_node(course1) & self.graph.has_node(course2):
-            self.graph.remove_edge(course1, course 2)
+            self.graph.remove_edge(course1, course2)
     """
     return graph object
     """
