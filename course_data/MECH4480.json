@@ -1,6 +1,7 @@
 {
     "course_code": "MECH4480",
     "course_name": "Computational Fluid Dynamics",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

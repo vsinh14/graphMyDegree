@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE3020",
     "course_name": "Process Systems Analysis",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

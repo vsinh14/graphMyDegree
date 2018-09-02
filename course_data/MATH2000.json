@@ -1,6 +1,7 @@
 {
     "course_code": "MATH2000",
     "course_name": "Calculus & Linear Algebra II",
+    "semesters": 7,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

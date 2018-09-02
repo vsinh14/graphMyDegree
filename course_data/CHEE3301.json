@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE3301",
     "course_name": "Polymer Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

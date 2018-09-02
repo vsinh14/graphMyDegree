@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL2530",
     "course_name": "Probability, Statistics and Scientific Computing",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School, Mathematics & Physics School",
     "units": "2",

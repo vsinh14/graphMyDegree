@@ -1,6 +1,7 @@
 {
     "course_code": "MINE4203",
     "course_name": "Flotation",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

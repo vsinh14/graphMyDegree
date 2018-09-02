@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE2002",
     "course_name": "Programming in the Large",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL2410",
     "course_name": "Traffic Flow Theory & Analysis",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

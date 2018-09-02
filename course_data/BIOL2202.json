@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2202",
     "course_name": "Genetics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Biological Sciences School, Chemistry & Molec Biosciences",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE3003",
     "course_name": "Chemical Thermodynamics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

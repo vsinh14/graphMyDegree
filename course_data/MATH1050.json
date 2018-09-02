@@ -1,6 +1,7 @@
 {
     "course_code": "MATH1050",
     "course_name": "Mathematical Foundations",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE2003",
     "course_name": "Fluid & Particle Mechanics",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

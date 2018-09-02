@@ -1,6 +1,7 @@
 {
     "course_code": "MECH4552",
     "course_name": "Major Design Project",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "4",

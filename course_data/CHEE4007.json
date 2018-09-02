@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE4007",
     "course_name": "Individual Inquiry",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

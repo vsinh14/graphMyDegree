@@ -1,6 +1,7 @@
 {
     "course_code": "ENGY4000",
     "course_name": "Energy Systems",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Mech & Mine Engineering School",
     "units": "2",

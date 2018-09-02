@@ -1,6 +1,7 @@
 {
     "course_code": "ERTH1501",
     "course_name": "Earth Processes & Geological Materials for Engineers",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Earth and Environment Sc Schl",
     "units": "2",

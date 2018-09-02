@@ -1,6 +1,7 @@
 {
     "course_code": "MECH3600",
     "course_name": "Engineering Management & Communication",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

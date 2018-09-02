@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG1200",
     "course_name": "Engineering Modelling & Problem Solving",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",

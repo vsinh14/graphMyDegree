@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC4320",
     "course_name": "Modern Asset Management and Condition Monitoring in Power System",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

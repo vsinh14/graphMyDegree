@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC4000",
     "course_name": "Special Topics in Electrical Engineering 4A",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

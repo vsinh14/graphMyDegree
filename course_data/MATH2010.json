@@ -1,6 +1,7 @@
 {
     "course_code": "MATH2010",
     "course_name": "Analysis of Ordinary Differential Equations",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "1",

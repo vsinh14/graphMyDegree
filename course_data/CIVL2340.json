@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL2340",
     "course_name": "Introduction to Structural Design",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

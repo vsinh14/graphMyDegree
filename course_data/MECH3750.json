@@ -1,6 +1,7 @@
 {
     "course_code": "MECH3750",
     "course_name": "Engineering Analysis II",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mathematics & Physics School, Mech & Mine Engineering School",
     "units": "2",

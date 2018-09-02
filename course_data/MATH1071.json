@@ -1,6 +1,7 @@
 {
     "course_code": "MATH1071",
     "course_name": "Advanced Calculus & Linear Algebra I",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

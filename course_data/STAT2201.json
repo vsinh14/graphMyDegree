@@ -1,6 +1,7 @@
 {
     "course_code": "STAT2201",
     "course_name": "Analysis of Engineering & Scientific Data",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "1",

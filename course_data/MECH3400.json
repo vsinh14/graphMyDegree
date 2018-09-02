@@ -1,6 +1,7 @@
 {
     "course_code": "MECH3400",
     "course_name": "Thermodynamics & Heat Transfer",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

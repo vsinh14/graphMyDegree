@@ -1,6 +1,7 @@
 {
     "course_code": "MATH1072",
     "course_name": "Advanced Multivariate Calculus & Ordinary Differential Equations",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

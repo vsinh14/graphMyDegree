@@ -1,6 +1,7 @@
 {
     "course_code": "PHYS1171",
     "course_name": "Physical Basis of Biological Systems",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Biomedical Sciences School, Mathematics & Physics School",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "COMS3200",
     "course_name": "Computer Networks I",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

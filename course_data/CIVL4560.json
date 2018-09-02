@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL4560",
     "course_name": "Project",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

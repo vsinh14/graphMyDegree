@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC4630",
     "course_name": "Image Processing and Computer Vision",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "COMS4105",
     "course_name": "Communication Systems",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

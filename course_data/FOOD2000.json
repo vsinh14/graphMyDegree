@@ -1,6 +1,7 @@
 {
     "course_code": "FOOD2000",
     "course_name": "Food Science",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Agriculture Food Sciences Schl",
     "units": "2",

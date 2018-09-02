@@ -1,6 +1,7 @@
 {
     "course_code": "MECH4501",
     "course_name": "Engineering Thesis",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "4",

@@ -1,6 +1,7 @@
 {
     "course_code": "MECH2410",
     "course_name": "Fundamentals of Fluid Mechanics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

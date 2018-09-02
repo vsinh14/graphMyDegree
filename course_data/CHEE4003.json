@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE4003",
     "course_name": "Special Topics A",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "MECH4950",
     "course_name": "Advanced Manufacturing in Practice",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

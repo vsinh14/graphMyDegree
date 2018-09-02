@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE4020",
     "course_name": "Biomolecular Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Chemistry & Molec Biosciences",
     "units": "2",

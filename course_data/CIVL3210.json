@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL3210",
     "course_name": "Geotechnical Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

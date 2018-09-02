@@ -1,6 +1,7 @@
 {
     "course_code": "MICR2001",
     "course_name": "Food Microbiology I",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Agriculture Food Sciences Schl",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE4302",
     "course_name": "Electrochemistry & Corrosion",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

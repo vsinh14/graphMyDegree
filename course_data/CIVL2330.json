@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL2330",
     "course_name": "Structural Mechanics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

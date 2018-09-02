@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG4802",
     "course_name": "Thesis Project",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "4",

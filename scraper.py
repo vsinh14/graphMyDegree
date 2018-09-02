@@ -115,7 +115,7 @@ def parse_course_code(course_code: str):
             if this_year in sem_elem.text: # only consider offerings in this year.
                 offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
 
-        dictionary['semesters'] = offerings
+        dictionary['semesters'] = offerings.int()
 
         for k, v in _id_mapping.items():
             _find_section(k, v)

@@ -1,6 +1,7 @@
 {
     "course_code": "METR3100",
     "course_name": "Control System Implementation",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",

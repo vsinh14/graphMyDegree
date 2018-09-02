@@ -1,6 +1,7 @@
 {
     "course_code": "MICR2000",
     "course_name": "Microbiology & Immunology",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

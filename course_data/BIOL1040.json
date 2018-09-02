@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL1040",
     "course_name": "Cells to Organisms",
+    "semesters": 3,
     "faculty": "Medicine",
     "school": "Biomedical Sciences School, Agriculture Food Sciences Schl",
     "units": "2",
