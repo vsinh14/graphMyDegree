@@ -13,12 +13,7 @@ data = dataStructure.getData()
 orCounter = 0
 
 def generate_graph(major_code):
-
-    def courseCheck(dataDict, string):
-        if string in dataDict:
-            return true
-        return false
-
+    
     def recursiveRelation(dataStruct, key, part):
         if(isinstance(part, list)):
             #only one subject
@@ -51,14 +46,14 @@ def generate_graph(major_code):
             dataStruct.addPreRequisite(orName, key)
             
     #adding all subjects and information associated with subject
-    with open("data/MECHAX2342/course_data.json") as json_file:
+    with open(f"data/{major_code}/course_data.json") as json_file:
         data1= js.load(json_file)
         for k, p in data1.items():
             courseSubject = Subject(p)
             courseSubject.addValues(p['course_name'], p['semesters'], p['major_part'] )
             dataStructure.addSubject(k, courseSubject)
     # add prereqs
-    with open("data/MECHAX2342/prerequisites.json") as pre_file:
+    with open(f"data/{major_code}/prerequisites.json") as pre_file:
         data2= js.load(pre_file)
         for k, p in data2.items():
             if(len(p) == 0):
