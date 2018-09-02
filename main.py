@@ -12,30 +12,46 @@ def write_all_data_for_major(major_code):
     courses = write_course_to_file(major_code, major_dir+'course_list.json')
 
     # Dict of all course data in this major.
-    course_data_dict = {}
+    course_data = {}
 
     for c in courses:
         print('Finding data for', c)
         # If the course is already parsed and updated with a semester code,
         # use that.
         if os.path.isfile(f'course_data/{c}.json'):
-            with open(f'course_data/{c}.json') as f:
-                course_data = json.load(f)
-            if 'semesters' in course_data:
+            try:
+                with open(f'course_data/{c}.json') as f:
+                    old_data = json.load(f)
+            except json.JSONDecodeError:
+                old_data = {} # Continue to scrape data.
+            if 'semesters' in old_data:
                 print(' ... using existing data.')
-                course_data_dict[c] = course_data_dict
+                course_data[c] = old_data
                 continue 
         print(' ... scraping data.')
         # Otherwise, scrape and update the course data.
         new_data = parse_course_code(c)
+        course_data[c] = new_data
         # Write to folder of all courses ever.
-        with open(f'course_data/{c}.json', 'w'):
+        with open(f'course_data/{c}.json', 'w') as f:
             json.dump(new_data, f, indent=4)
-            
-    print('Writing course data.')
-    course_data = write_course_data_to_file(courses, major_dir+'course_data.json')
+
+    # Handled writing course data manually above and further below.
+    # print('Writing course data.')
+    # course_data = write_course_data_to_file(courses, major_dir+'course_data.json')
+
     print('Writing major parts.')
-    write_major_parts_to_file(major_code, major_dir+'major_parts.json')
+    major_parts = write_major_parts_to_file(major_code, major_dir+'major_parts.json')
+
+    # Adds the part letter to the major's course_data.json.
+    for course, parts in major_parts.items():
+        min_parts = min(x.split(' ')[1] for x in parts)
+        print(course, parts, min_parts)
+        course_data[course]['major_part'] = min_parts
+
+    print('Rewriting with added part letter.')
+    with open(major_dir+'course_data.json', 'w') as f:
+        json.dump(course_data, f, indent=4)
 
     print('Analysing prereqs.')
     prereq_dict = {}
@@ -46,5 +62,5 @@ def write_all_data_for_major(major_code):
         f.write(json.encoder.JSONEncoder(indent=4).encode(prereq_dict))
 
 if __name__ == '__main__':
-    for x in ('ELECTX2342', ):
+    for x in ('ELECTX2342', 'MECHAX2342', 'CIVILX2342', 'CHEMIX2342'):
         write_all_data_for_major(x)
