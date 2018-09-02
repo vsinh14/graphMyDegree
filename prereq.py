@@ -98,7 +98,7 @@ def _parse_fragment(fragment, course_code, level=0):
             if this_elem.children:
                 stack.append(this_elem)
             i += (len_remaining-len_of_rest)+1
-        elif token == ')':
+        elif token == ')': 
             _log('Found )')
             break
         elif token in OPERATIONS:
