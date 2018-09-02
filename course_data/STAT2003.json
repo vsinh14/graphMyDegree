@@ -1,6 +1,7 @@
 {
     "course_code": "STAT2003",
     "course_name": "Probability & Statistics",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

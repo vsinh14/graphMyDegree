@@ -1,6 +1,7 @@
 {
     "course_code": "STAT3306",
     "course_name": "Statistical Analysis of Genetic Data",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

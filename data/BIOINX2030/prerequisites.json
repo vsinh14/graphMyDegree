@@ -1,0 +1,214 @@
+{
+    "BIOL1020": [],
+    "BIOL3014": {
+        "type": "any",
+        "children": [
+            "SCIE2100",
+            "MATH2210"
+        ]
+    },
+    "SCIE2100": {
+        "type": "any",
+        "children": [
+            {
+                "type": "all",
+                "children": [
+                    "SCIE1000",
+                    "STAT1201"
+                ]
+            },
+            {
+                "type": "all",
+                "children": [
+                    {
+                        "type": "any",
+                        "children": [
+                            "MATH1051",
+                            "MATH1071"
+                        ]
+                    },
+                    "CSSE1001"
+                ]
+            }
+        ]
+    },
+    "BIOC2000": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "BIOL1020",
+                    "BIOM1050",
+                    "BIOM1051"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1100",
+                    "CHEM1221",
+                    "CHEM1222",
+                    "CHEM1021",
+                    "CHEM1022"
+                ]
+            }
+        ]
+    },
+    "BIOL2202": {
+        "type": "any",
+        "children": [
+            "BIOL1020",
+            "CHEE1001"
+        ]
+    },
+    "COSC2500": {
+        "type": "any",
+        "children": [
+            "SCIE1000",
+            {
+                "type": "any",
+                "children": [
+                    {
+                        "type": "all",
+                        "children": [
+                            "CSSE1001",
+                            "MATH1051"
+                        ]
+                    },
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    {
+                        "type": "all",
+                        "children": [
+                            {
+                                "type": "any",
+                                "children": [
+                                    "MATH1051",
+                                    "MATH1071"
+                                ]
+                            },
+                            "MATH1052"
+                        ]
+                    },
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "CSSE2002": [
+        "CSSE1001"
+    ],
+    "INFS2200": {
+        "type": "any",
+        "children": [
+            "INFS1200",
+            "MGTS3203"
+        ]
+    },
+    "BIOL2006": {
+        "type": "any",
+        "children": [
+            "STAT1201",
+            "STAT1301"
+        ]
+    },
+    "STAT2003": {
+        "type": "any",
+        "children": [
+            "MATH1050"
+        ]
+    },
+    "BIOC3000": [
+        "BIOC2000"
+    ],
+    "BIOC3005": {
+        "type": "all",
+        "children": [
+            "BIOC2000",
+            {
+                "type": "any",
+                "children": [
+                    "BIOL2202",
+                    "BIOL2902"
+                ]
+            }
+        ]
+    },
+    "BIOL3222": {
+        "type": "any",
+        "children": [
+            "BIOL2202",
+            "BIOL2902"
+        ]
+    },
+    "COMP3506": {
+        "type": "all",
+        "children": [
+            "CSSE2002",
+            {
+                "type": "any",
+                "children": [
+                    "MATH1061",
+                    {
+                        "type": "all",
+                        "children": [
+                            "CSSE2010",
+                            "STAT2202"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "COSC3000": {
+        "type": "any",
+        "children": [
+            "COSC2500",
+            "CSSE2002"
+        ]
+    },
+    "COSC3500": {
+        "type": "any",
+        "children": [
+            "COSC2500",
+            "CSSE2002"
+        ]
+    },
+    "INFS3200": [
+        "INFS2200"
+    ],
+    "MATH3104": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MICR3004": [
+        "MICR2000"
+    ],
+    "STAT3306": {
+        "type": "any",
+        "children": [
+            "STAT2004",
+            "STAT2203"
+        ]
+    }
+}

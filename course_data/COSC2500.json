@@ -1,6 +1,7 @@
 {
     "course_code": "COSC2500",
     "course_name": "Numerical Methods in Computational Science",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Info Tech & Elec Engineering, Mathematics & Physics School",
     "units": "2",

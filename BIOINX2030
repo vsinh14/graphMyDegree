@@ -1,0 +1,47 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	BIOL1020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL1020</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Genes, Cells &amp; Evolution</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL3014 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL3014</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Bioinformatics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	SCIE2100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>SCIE2100</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Bioinformatics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOC2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOC2000</TD></TR><TR><TD><FONT POINT-SIZE="10">Biochemistry &amp; Molecular Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL2202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL2202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Genetics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COSC2500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COSC2500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Numerical Methods in Computational Science</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CSSE2002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE2002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Programming in the Large</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	INFS2200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>INFS2200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Relational Database Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL2006 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL2006</TD></TR><TR><TD><FONT POINT-SIZE="10">Biostatistics &amp; Experimental Design</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT2003</TD></TR><TR><TD><FONT POINT-SIZE="10">Probability &amp; Statistics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOC3000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOC3000</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Biochemistry and Molecular Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOC3005 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOC3005</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Molecular Systems Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	BIOL3222 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL3222</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Model Organism Genetics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COMP3506 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3506</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Algorithms &amp; Data Structures</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COSC3000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COSC3000</TD></TR><TR><TD><FONT POINT-SIZE="10">Visualization, Computer Graphics &amp; Data Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COSC3500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COSC3500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">High-Performance Computing</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	INFS3200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>INFS3200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Database Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MATH3104 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH3104</TD></TR><TR><TD><FONT POINT-SIZE="10">Mathematical Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MICR3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MICR3004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Microbial Genomics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3306 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT3306</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Statistical Analysis of Genetic Data</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode16 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode17 [label=or]
+	node [shape=box style=filled]
+	BIOL1020 -> BIOC2000
+	BIOL1020 -> BIOL2202
+	SCIE2100 -> BIOL3014
+	BIOC2000 -> BIOC3000
+	BIOC2000 -> BIOC3005
+	BIOL2202 -> BIOC3005
+	BIOL2202 -> BIOL3222
+	COSC2500 -> orNode16
+	COSC2500 -> orNode17
+	CSSE2002 -> COMP3506
+	CSSE2002 -> orNode16
+	CSSE2002 -> orNode17
+	INFS2200 -> INFS3200
+	orNode16 -> COSC3000
+	orNode17 -> COSC3500
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}

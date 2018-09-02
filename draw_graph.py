@@ -32,7 +32,7 @@ def draw_graph(ds: Data_structure, file_name):
             drawn.node(key, label=f'<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR>{top}<TR><TD>{key}</TD></TR>{bottom}<TR><TD><FONT POINT-SIZE="10">{name}</FONT></TD></TR></TABLE></FONT>>', style='filled', fillcolor = colour)
     for edge in graph.edges:
         drawn.edge(edge[0], edge[1])
-    drawn.attr(label=r'\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives')
+    drawn.attr(label=r'\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other')
     drawn.attr(fontsize='20')
     drawn.view()
 

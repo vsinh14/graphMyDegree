@@ -1,6 +1,7 @@
 {
     "course_code": "BIOC3000",
     "course_name": "Advanced Biochemistry and Molecular Biology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

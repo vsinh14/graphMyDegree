@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3104",
     "course_name": "Mathematical Biology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",
