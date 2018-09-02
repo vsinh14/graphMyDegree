@@ -10,7 +10,8 @@
         "description": "Introduction to engineering design through a discipline-specific team project. Students will learn and apply professional engineering concepts and issues including: sustainability, safety, estimation, materials selection, decision making, project management, information literacy, communication (graphics, written, oral), ethics, and prototyping (building). The course provides an introduction to engineering as a profession.",
         "prerequisites": "",
         "incompatible": "ENGG1000 and ENGG1211",
-        "restricted": "BE(Hons) and BE(Hons) dual degree students only"
+        "restricted": "BE(Hons) and BE(Hons) dual degree students only",
+        "major_part": "A"
     },
     "ENGG1200": {
         "course_code": "ENGG1200",
@@ -23,7 +24,8 @@
         "description": "Introduction to a) engineering problem solving through the relationship between theoretical, mathematical and computational modelling for predicting design performance, and b) the properties, and behaviours of engineering materials in design. Students will engage in a major team based multidisciplinary design project to develop first phase virtual and second phase physical prototype solutions. Students will be able to nominate a preference for system behavioural modelling using MatLab simulation software or structural modelling and CNC machining of a system component using Creo computer aided design software. The final system prototype will be physically tested to validate predicted performance in an end of session demonstration. The primary technical learning outcomes will be addressed through a combination of online learning activities and hands-on collaborative tutorials and laboratories Students will require good project management, teamwork, information literacy, and communication skills.",
         "prerequisites": "MATH1050 or sound achievement or better in Qld Senior Maths C, ENGG1100",
         "incompatible": "ENGG1000 and ENGG1211",
-        "restricted": "BE(Hons) and BE(Hons) dual degree students only"
+        "restricted": "BE(Hons) and BE(Hons) dual degree students only",
+        "major_part": "A"
     },
     "ENGG1211": {
         "course_code": "ENGG1211",
@@ -36,7 +38,8 @@
         "description": "Introduction to a) engineering design through a disciplinespecific\nteam project b) engineering problem solving through the relationship between theoretical,\nmathematical and computational modelling for predicting design performance, and c) the properties, and\nbehaviours of engineering materials in design. Students will learn and apply professional engineering\nconcepts and issues including: sustainability, safety, estimation, materials selection, decision making, project\nmanagement, information literacy, communication (graphics, written, oral), ethics, and prototyping\n(building). \nStudents will also engage in a major team based multidisciplinary design project to develop first phase virtual\nand second phase physical prototype solutions. Students will be able to nominate a preference for system\nbehavioural modelling using MatLab simulation software or structural modelling and CNC machining of a\nsystem component using Creo computer aided design software. The final system prototype will be physically\ntested to validate predicted performance in an end of session demonstration. The primary technical learning\noutcomes will be addressed through a combination of online learning activities and hands on collaborative\ntutorials and laboratories Students will require good project management, teamwork, information literacy,\nand communication skills. The course provides an introduction to engineering as a profession.\n\n(This course is intended for students who commence the BE(Hons) in semester two. This course spans two semesters and students must enrol in ENGG1211 in both semester two and the following summer semester to receive a final grade for the course. Students who commence in semester one should undertake ENGG1100 in semester one and ENGG1200 in semester two.)",
         "prerequisites": "",
         "incompatible": "ENGG1000 or ENGG1100 or ENGG1200",
-        "restricted": "BE(Hons) and BE(Hons) Dual degree\nstudents only"
+        "restricted": "BE(Hons) and BE(Hons) Dual degree\nstudents only",
+        "major_part": "A"
     },
     "MATH1051": {
         "course_code": "MATH1051",
@@ -49,7 +52,8 @@
         "description": "(MATH1051 can be studied concurrently with MATH1052) Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Equation of straight line & plane. Extreme value theorem, maxima & minima. Sequences, series, Taylor series, L'Hopital's rules. Techniques of integration, numerical methods, volumes of revolution.",
         "prerequisites": "MATH1050 or SA in Year 12 Maths C",
         "incompatible": "",
-        "restricted": "Semester 1 External offering restricted to students enrolled in Enhanced Studies program (program code 1014)."
+        "restricted": "Semester 1 External offering restricted to students enrolled in Enhanced Studies program (program code 1014).",
+        "major_part": "A"
     },
     "MATH1071": {
         "course_code": "MATH1071",
@@ -62,7 +66,8 @@
         "description": "1. Elementary linear algebra: Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, Gaussian elimination, eigenvalues, eigenvectors, applications. Equation of straight line & plane.\n\n2. Introduction to proof-based calculus: Fields, sequences, limits, continuity, intermediate and extreme value theorems, maxima & minima.\n\n3. Techniques of calculus: Series, differentiation, integration, numerical methods, Taylor series, L'Hopital's rule.\n\nThis course differs from MATH1051 by treating material in more depth and with greater rigour.",
         "prerequisites": "At least 6 in MATH1050 or HA in Year 12 Maths C",
         "incompatible": "MATH1051, MATH7051",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "MATH1052": {
         "course_code": "MATH1052",
@@ -75,7 +80,8 @@
         "description": "(MATH1052 can be studied concurrently with MATH1051) Vector calculus, arclength, line integrals, applications. Calculus of 2 & 3 variables: partial derivatives, conservative fields, Taylor series, maxima & minima, non-linear equations. 1st order & linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods.",
         "prerequisites": "MATH1050 or SA Yr 12 Maths C",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "MATH1072": {
         "course_code": "MATH1072",
@@ -88,7 +94,8 @@
         "description": "Vector calculus, arc-length, line integrals, applications. Calculus of 2 & 3 variables: partial derivatives, conservative fields, maxima & minima. 1st order & linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods for non-linear equations and differential equations. Introduction to mathematical modelling and programming. \n\n(MATH1072 can be studied concurrently with MATH1051)",
         "prerequisites": "At least 6 in MATH1050 or HA in Yr 12 Maths C (or equivalent)",
         "incompatible": "MATH1052, MATH7502",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "CSSE1001": {
         "course_code": "CSSE1001",
@@ -101,7 +108,8 @@
         "description": "Introduction to Software Engineering through programming with particular focus on the fundamentals of computing & programming, using an exploratory problem-based approach. Building abstractions with procedures, data & objects; data modelling; designing, coding & debugging programs of increasing complexity",
         "prerequisites": "",
         "incompatible": "COMP1502 or CSSE7030",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ENGG1300": {
         "course_code": "ENGG1300",
@@ -114,7 +122,8 @@
         "description": "Introduction to electrical circuits & systems. Solution of simple AC and DC Circuits. Electrical units & measurements. Voltage, current, impedance. Equivalent circuits. Electrical energy & power. Resistors, inductors, capacitors, phasors, filters. Introduction to analog and digital telecommunication systems. Operational amplifiers, sensors & actuators, simple controllers. Use of laboratory instruments, simulators and mathematical software tools.",
         "prerequisites": "Maths B or MATH1040",
         "incompatible": "ENGG1030 or ENGG1060 or ELEC1000",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "PHYS1002": {
         "course_code": "PHYS1002",
@@ -127,7 +136,8 @@
         "description": "Electricity, magnetism, optics, quantum physics, relativity. Laboratory experiments.",
         "prerequisites": "",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "CSSE2010": {
         "course_code": "CSSE2010",
@@ -140,7 +150,8 @@
         "description": "Introduction to digital logic & digital systems; machine level representation of data; computer organization; memory system organization & architecture; interfacing & communication; microcontroller architecture and usage; programming of microcontroller based systems.",
         "prerequisites": "",
         "incompatible": "COMP1300 or COMP2303 or COMP2302 or CSSE1000 or CSSE7035 or CSSE7201 or ELEC2002",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC2003": {
         "course_code": "ELEC2003",
@@ -153,7 +164,8 @@
         "description": "First principles introduction to electromagnetic fields & their applications in electrical machines. Physical models of semiconductor devices. Common electronic circuits using discrete semiconductor devices. Theoretical investigations, substantial case studies & laboratory experiments.",
         "prerequisites": "ELEC1000 or ENGG1300",
         "incompatible": "ELEC2000",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "MATH2001": {
         "course_code": "MATH2001",
@@ -166,7 +178,8 @@
         "description": "Second order differential equations; undetermined coefficients, variation of parameters. Multi-dimensional calculus; surface & volume integrals, cylindrical, spherical and general coordinate transformations. Stoke's & Green's theorems, applications (flux, heat equations). Linear algebra, diagonalization, quadratic forms, elementary numerical linear algebra. Taylor series, maxima, minima and saddle points in N-dimensions. Method of least squares for functions. Vector spaces, norms and inner products (for square-integrable functions). Gram-Schmidt orthogonalisation and orthogonal matrices.",
         "prerequisites": "(MATH1051 or MATH1071) and (MATH1052 or MATH1072)",
         "incompatible": "MATH2000 and MATH7000",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "CSSE2310": {
         "course_code": "CSSE2310",
@@ -179,7 +192,8 @@
         "description": "Systems Programming in C. Operating Systems Principles: memory management, basics of machine organization, file systems, processes & threads, interprocess communication. Computer Networks Principles: topologies & models of computer networks, protocols, network programming, network applications.",
         "prerequisites": "CSSE1001 and (CSSE1000 or CSSE2010)",
         "incompatible": "COMP2303 or COMP7306 or CSSE7231",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC2004": {
         "course_code": "ELEC2004",
@@ -192,7 +206,8 @@
         "description": "Mathematical models of electrical components, circuits & systems. Time & frequency response. Issues in building complex systems from subsystems, including feedback. Signal theory & filter design. Theoretical investigations, substantial case studies & laboratory experiments.",
         "prerequisites": "ELEC1000 or ENGG1300",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ENGG2800": {
         "course_code": "ENGG2800",
@@ -205,7 +220,8 @@
         "description": "Small teams of students undertake design, implementation, testing, evaluation & presentation of specific project of a size & complexity suitable for novice students.",
         "prerequisites": "(CSSE1000 or CSSE2010) and (ELEC1000 or ENGG1300) and CSSE1001",
         "incompatible": "METR2800",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "MATH2010": {
         "course_code": "MATH2010",
@@ -218,7 +234,8 @@
         "description": "ODE's - Systems: variation of constants, fundamental matrix. Laplace transform, transform for systems, transfer function. Stability, asymptotic stability; phase plane analysis.",
         "prerequisites": "MATH1052 or MATH1072",
         "incompatible": "MATH2100",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "STAT2202": {
         "course_code": "STAT2202",
@@ -231,7 +248,8 @@
         "description": "Probability models & applications in engineering & science, including basic probability theory, distributions & their properties, transform methods, construction of probability models, reliability, joint distributions, random processes: queues, Markov processes, Gaussian processes & weakly stationary processes.",
         "prerequisites": "MATH1051 or MATH1071",
         "incompatible": "STAT2003 or 2001",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "CSSE3010": {
         "course_code": "CSSE3010",
@@ -244,7 +262,8 @@
         "description": "Microcontroller system hardware and software. C programming for embedded microcontroller and peripheral devices. Principles and practice of using Embedded RTOS (Real Time Operating System) and peripheral devices such as sensors and actuators to build a small embedded system. Peripheral interfacing methods and standards. Analog-digital conversion methods and interfacing. Basics of digital communication signals, modulation schemes and error correction methods. Data compression, formats for audio, image and video coding.",
         "prerequisites": "(COMP2303 or CSSE2310) and ELEC2004",
         "incompatible": "CSSE4001 or CSSE7003 or CSSE7301",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC3004": {
         "course_code": "ELEC3004",
@@ -257,7 +276,8 @@
         "description": "Discrete-time signals & systems, system properties (linearity, time-invariance, memory, causality, stability), sampling & reconstruction, A/D and D/A converters, DFT/FFT, z transform, stochastic processes, frequency-selective filters, effect of feedback, introduction to control.",
         "prerequisites": "ELEC2004 and STAT2202",
         "incompatible": "ELEC3600 or ELEC7312 or ELEC7601",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC3400": {
         "course_code": "ELEC3400",
@@ -270,7 +290,8 @@
         "description": "Detailed examination of electrical & electronic circuit analysis & synthesis tools & techniques such as the Laplace transform, nodal analysis & two port network theory. Examples of use in analysis & design of amplifiers, filters, oscillators & other circuits.",
         "prerequisites": "ELEC2003 and (ELEC2004 or MATH2010)",
         "incompatible": "ELEC7401",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC3100": {
         "course_code": "ELEC3100",
@@ -283,7 +304,8 @@
         "description": "Fundamentals of electromagnetics including transmission lines, time varying fields, plane waves, radiation, waveguides & basic antennas, radar fundamentals. Applications in area of satellite communications & radar sensors.",
         "prerequisites": "ELEC2003 and (MATH2000 or MATH2001)",
         "incompatible": "ELEC7101",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ELEC3300": {
         "course_code": "ELEC3300",
@@ -296,7 +318,8 @@
         "description": "Generation of electricity. Three phase balanced circuits; magnetic circuits. Transformers. Harmonics. Steady state analysis of dc. Synchronous & induction machines. Special motors. Modern motor control systems. Demand side management. Renewable energy sources. Distributed generation & uninterruptible power supplies.",
         "prerequisites": "ELEC2003",
         "incompatible": "For ELEC3300: inc ELEC7302\nFor ELEC7302: inc ELEC3300",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ENGG3800": {
         "course_code": "ENGG3800",
@@ -309,7 +332,8 @@
         "description": "Small teams of students undertake design, implementation, testing, evaluation & presentation of a complete product",
         "prerequisites": "ENGG2800",
         "incompatible": "COMP3800 or ELEC3800 or METR3800 or 3E391",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "ENGG4801": {
         "course_code": "ENGG4801",
@@ -322,7 +346,8 @@
         "description": "[Restricted to Final Year BE students] Thesis on subject selected or approved by Head of School. Detailed statements on requirements supplied. Students commencing thesis in Semester 1 enrol in ENGG4801 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in Semester 2 enrol in ENGG4802 for Sem 2 (Part A) and the following Sem 1 (Part B).",
         "prerequisites": "",
         "incompatible": "COMP4801 or COMP4802 or COMP4807 or COMP4808 or ELEC4801 or ELEC4802 or 3E400 or 3E401 or 3E491 or 3E492",
-        "restricted": "Restricted to Final Year BE Students."
+        "restricted": "Restricted to Final Year BE Students.",
+        "major_part": "A"
     },
     "ENGG4802": {
         "course_code": "ENGG4802",
@@ -335,7 +360,8 @@
         "description": "[Restricted to Final Year BE students] Thesis on subject selected or approved by Head of School. Detailed statements on requirements supplied. Students commencing thesis in Semester 1 enrol in ENGG4801 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in Semester 2 enrol in ENGG4802 for Sem 2 (Part A) and the following Sem 1 (Part B).",
         "prerequisites": "",
         "incompatible": "COMP4801 or COMP4802 or COMP4807 or COMP4808 or ELEC4801 or ELEC4802 or 3E400 or 3E401 or 3E491 or 3E492",
-        "restricted": "Restricted to Final Year BE Students."
+        "restricted": "Restricted to Final Year BE Students.",
+        "major_part": "A"
     },
     "ENGG4805": {
         "course_code": "ENGG4805",
@@ -348,7 +374,8 @@
         "description": "[Restricted to Final Year BE students] Thesis on subject selected or approved by Head of School. Detailed statements on requirements supplied. Students completing in one semester enrol in ENGG4805. This code is intended for special cases including CEED projects. Usually, students commencing thesis in Semester 1 enrol in ENGG4801 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in Semester 2 enrol in ENGG4802 for Sem 2 (Part A) and the following Sem 1 (Part B).",
         "prerequisites": "Permission of Head of School",
         "incompatible": "ENGG4801 or ENGG4802",
-        "restricted": "Permission of Head of School, Restricted to Final Year BE Students."
+        "restricted": "Permission of Head of School, Restricted to Final Year BE Students.",
+        "major_part": "A"
     },
     "ENGG4900": {
         "course_code": "ENGG4900",
@@ -361,7 +388,8 @@
         "description": "Professional Practice is designed to give you the knowledge needed to effect change and implement design solutions in the real world. You will be able to identify barriers to technology uptake and work towards overcoming these through practical knowledge of: engineering economics, engineering law, engineering ethics, and the nature of engineering businesses. Students will learn how to undertake and interpret cost-benefit analyses, develop the skills required to understand business decision-making and economic drivers relevant to engineering and investigate key concepts required for ethical professional practice.\nIndustry representatives and academics will deliver key note lectures. Students will engage in workshops and project-based discipline-specific content and assessment which will lead the student through the issues encountered in professional engineering practice. Assessment will have both written and oral sections.",
         "prerequisites": "",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "A"
     },
     "COMS4103": {
         "course_code": "COMS4103",
@@ -374,7 +402,8 @@
         "description": "Introduction to modern photonics for applications in optical communications, data storage, optical computing & optical sensing. After completing the course, students will have the understanding of operation & limitations of enabling photonic technologies & gain the ability to analyse & simulate photonic devices & systems using analytical & numerical methods.",
         "prerequisites": "For COMS4103: prereqs ELEC3100\nFor COMS7400: prereqs ELEC7101",
         "incompatible": "For COMS4103: inc COMS7400\nFor COMS7400: inc COMS4103",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "COMS4104": {
         "course_code": "COMS4104",
@@ -387,7 +416,8 @@
         "description": "This course uses electromagnetic principles to present the theory & operation of simple circuit devices & antennas at microwave frequencies, which are the part of modern microwave communication equipment. The emphasis is placed on planar guiding & radiating structures that enable either hybrid &/or monolithic integration of the devices. Modern CAD software packages are introduced & demonstrated through simulations of microwave networks & antenna configurations.",
         "prerequisites": "ELEC3100 and MATH2000",
         "incompatible": "COMS7104",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "COMS4105": {
         "course_code": "COMS4105",
@@ -400,7 +430,8 @@
         "description": "Communications receivers & transmitters, modulation & demodulation, baseband & narrowband signal characteristics, analogue & digital communication systems, information theory, source & channel coding.",
         "prerequisites": "CSSE3010 and ELEC3004",
         "incompatible": "COMS3100 or COMS4100 or COMS7100 or COMS7105 or COMS7410",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "CSSE4010": {
         "course_code": "CSSE4010",
@@ -413,7 +444,8 @@
         "description": "The objective of this course is to give the students the theoretical basis & practical skills in modern design of medium size digital systems in various technologies, with a focus on Field Programmable Gate Arrays (FPGAs). The design methodology, systematically introduced & used in the course, is based on simulation & synthesis with hardware description language (VHDL) tools. Topics covered in this course include: conceptual design step from requirements & specification to simulation & synthesis model in VHDL, design of complex controllers with Finite State Machines, design of sequential blocks with Controller-Datapath methodology, issues in design for testability, electrical & timing issues in logic and system design, overview of implementation technologies with emphasis on advances in FPGAs.",
         "prerequisites": "CSSE1000 or CSSE2010",
         "incompatible": "CSSE2000 or CSSE3000 or CSSE7011 or CSSE7410",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "ELEC4300": {
         "course_code": "ELEC4300",
@@ -426,7 +458,8 @@
         "description": "Overview of power system modelling, load flow analysis, symmetrical & unsymmetrical fault calculation, economic operation, power system stability, basic methods of power system reliability. Loss of load & energy indices.",
         "prerequisites": "For ELEC4300: prereq ELEC3300\nFor ELEC7303: prereq ELEC7302",
         "incompatible": "For ELEC4300: inc ELEC7303\nFor ELEC7303: inc ELEC4300",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "ELEC4400": {
         "course_code": "ELEC4400",
@@ -439,7 +472,8 @@
         "description": "Power electronic semiconductors, switch mode power converters, motor drives & their control. Digital signal interfacing, including optoelectronic & transceivers. Precision analog signal conditioning. High speed & low power techniques. Practical circuit construction & testing techniques.",
         "prerequisites": "For ELEC4400: prereq ELEC3400\nFor ELEC7402: prereq ELEC7401",
         "incompatible": "For ELEC4400: inc ELEC7402\nFor ELEC7402: inc ELEC4400",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "ELEC4620": {
         "course_code": "ELEC4620",
@@ -452,7 +486,8 @@
         "description": "Advanced digital filtering: polyphase, multirate, all-pass, lattice & IIR filters. Signal conditioning, analog filter types, sigma delta converters. Fast algorithms; Cooley-Tukey FFT, mixed radix formulations, Good-Thomas algorithm. Autoregressive, moving average signals. DSP applications and programming.",
         "prerequisites": "ELEC3004",
         "incompatible": "ELEC3600 or ELEC4600 or ELEC7462 or ELEC7601 or ELEC760",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "ELEC4630": {
         "course_code": "ELEC4630",
@@ -465,7 +500,8 @@
         "description": "Image sensors, colour models, discrete cosine transform, image & video compression. Computer vision, morphological techniques, watershed transform, skeletonisation, image segmentation, active contours.",
         "prerequisites": "ELEC3004",
         "incompatible": "ELEC3601 or ELEC4600 or ELEC7463 or ELEC7602 or ELEC7608",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "METR4201": {
         "course_code": "METR4201",
@@ -478,7 +514,8 @@
         "description": "Introduction to control system design; system modelling principles for electrical & mechanical systems; the Laplace transform; block diagram modelling; open & closed loop control; role of feedback; transient & steady state performance; root locus; frequency response analysis; compensator design, practical issues in the implementation of control systems.",
         "prerequisites": "MECH2210 or ELEC2004",
         "incompatible": "METR3200 or METR7200",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "METR4202": {
         "course_code": "METR4202",
@@ -491,7 +528,8 @@
         "description": "Modern control & robotic techniques for use in practical applications. Coverage of advanced control methodologies & intelligent robotic systems.",
         "prerequisites": "ELEC3004 or METR3200 or METR4201",
         "incompatible": "METR4200 or METR7201 or METR7202 or ELEC3700 or ELEC7700",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "B"
     },
     "COMP4702": {
         "course_code": "COMP4702",
@@ -504,7 +542,8 @@
         "description": "Machine learning is a branch of artificial intelligence concerned with the development & application of adaptive algorithms that use example data or previous experience to solve a given problem. Topics include: \nlearning problems (e.g regression, classification, unsupervised,\nreinforcement) & theory, neural networks, statistical & probabilistic models, clustering, ensembles, implementation issues, applications (e.g. bioinformatics, cognitive science, forecasting, robotics, signal & image processing).",
         "prerequisites": "CSSE1001 and MATH1051 and (STAT1201 or STAT2203 or STAT2202 or STAT2003)",
         "incompatible": "COGS4021 or COMP3700 or COMP7703 or ELEC4700 or ELEC7701",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "COMS3200": {
         "course_code": "COMS3200",
@@ -517,7 +556,8 @@
         "description": "OSI & Internet reference models. Communication protocols for Local, Metropolitan & Wide Area Networks. BISDN networks. The Internet protocol suite. Mobile Networks. Quality of service in communication protocols. Network security. Trends in communication networks.",
         "prerequisites": "COMP2303 OR CSSE2310",
         "incompatible": "COMS7201",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "COMS4200": {
         "course_code": "COMS4200",
@@ -530,7 +570,8 @@
         "description": "Software Defined Networking, Network Programming, Peer-to-peer Networks, Network Management, Queuing Theory, Wireless Networks",
         "prerequisites": "COMS3200",
         "incompatible": "COMS7200",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "CSSE2002": {
         "course_code": "CSSE2002",
@@ -543,7 +584,8 @@
         "description": "This course covers techniques that scale to programming large software systems with teams of programmers. The techniques are explained in the context of the specification, implementation, testing and maintenance of software systems. The course utilises the Java programming language and covers programming concepts such as data abstraction, procedural abstraction, unit testing, class hierarchies and polymorphism, exception handling, file I/O, and graphical user interfaces.",
         "prerequisites": "CSSE1001",
         "incompatible": "COMP2500 or COMP7908 or CSSE7023",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "CSSE4011": {
         "course_code": "CSSE4011",
@@ -556,7 +598,8 @@
         "description": "Advanced topics in Embedded System, including wireless networks and wireless sensor networks.",
         "prerequisites": "CSSE3010",
         "incompatible": "CSSE4003 or CSSE7005 or CSSE7411",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4000": {
         "course_code": "ELEC4000",
@@ -569,7 +612,8 @@
         "description": "Specialist lectures/projects on topical issues in electrical engineering to be given by visiting lecturers or staff members nominated by the Head of School. For details, consult Head of School.",
         "prerequisites": "Permission of Head of School",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4001": {
         "course_code": "ELEC4001",
@@ -582,7 +626,8 @@
         "description": "Specialist lectures/projects on topical issues in electrical engineering to be given by visiting lecturers or staff members nominated by the Head of School. For details, consult Head of School.",
         "prerequisites": "Permission of Head of School",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4302": {
         "course_code": "ELEC4302",
@@ -595,7 +640,8 @@
         "description": "This course will focus on design of transmission and distribution protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, transformers and bus. Additionally the course will focus on settings of feeder and transformer protection schemes, and selection of current and voltage instrument transformers for those protection schemes. The issues surrounding power quality and how these affect power systems will be also addressed. This will include measurement and modelling techniques to identify power quality problems and mitigating techniques. Impact of electrical overstress on the design and operation of power systems and electronic equipment will be discussed and protection systems will be built to \"eliminate\" equipment malfunction and damage due to electrical overstress.",
         "prerequisites": "ELEC3300",
         "incompatible": "ELEC4301 or ELEC7304 or ELEC7311",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4320": {
         "course_code": "ELEC4320",
@@ -608,7 +654,8 @@
         "description": "Probability and reliability theories to optimize maintenance process and modern asset management techniques. Cause of failure and asset management strategies for transformer, underground cable, switch gear, and transmission/distribution network.",
         "prerequisites": "ELEC3300",
         "incompatible": "",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4403": {
         "course_code": "ELEC4403",
@@ -621,7 +668,8 @@
         "description": "Measurement of biological signals from transducers, signal conditioning, display & analysis. Practical work based on design, construction & validation of simple clinical measurement devices. Field trips to clinical measurement laboratories.",
         "prerequisites": "ELEC3400",
         "incompatible": "ELEC3401 or ELEC4401 or ELEC7403",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ELEC4601": {
         "course_code": "ELEC4601",
@@ -634,7 +682,8 @@
         "description": "Modern ionizing medical imaging technology. Techniques & hardware for ionising radiation methods (X-rays, CT scans, Single Photon Emission Tomography (SPECT), Positron Emission Tomography (PET)). ELEC4601 and ELEC4602 are compatible and can be undertaken simultaneously.",
         "prerequisites": "For ELEC4601: ELEC3004\nFor ELEC7606: ELEC3004 or ELEC7312",
         "incompatible": "For ELEC4601: ELEC7606\nFor ELEC7606: ELEC4601",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ENGG1400": {
         "course_code": "ENGG1400",
@@ -647,7 +696,8 @@
         "description": "Statics: Resolution & resultants of forces - 2D & 3D. Moments - 2D & 3D. Equivalent systems. Equilibrium of particles & Free Body Diagrams. Equilibrium, reactions & structure types. 2D Planar Trusses. Internal forces, bending-moment, shear & axial force diagrams. Properties of Area - Centroid & Second Moment of Area. Materials - Introduction to Stress-Strain, Yield Stress, Young's Modulus, Engineers Theory of Bending. Dynamics: Motion of a point - straight line & curvilinear. Kinetics. Energy Methods. Momentum Methods. Moments of Inertia. Application of rotation inertia.",
         "prerequisites": "MATH1040 or Senior Maths B",
         "incompatible": "ENGG1010",
-        "restricted": ""
+        "restricted": "",
+        "major_part": "C"
     },
     "ENGG4800": {
         "course_code": "ENGG4800",
@@ -660,6 +710,7 @@
         "description": "Project management in high-tech electrical & information technology engineering laboratories, where dealing with risk & fast changing technologies are special factors. Good working knowledge of project management for the early career engineer. Development of interpersonal skills for team management.",
         "prerequisites": "ENGG2800 or METR2800",
         "incompatible": "CSSE3004 or CSSE3005 or CSSE7024 or CSSE7025 or ENGG7800 or METR4910 or MCH3600",
-        "restricted": "Third or Fourth year students only"
+        "restricted": "Third or Fourth year students only",
+        "major_part": "C"
     }
 }

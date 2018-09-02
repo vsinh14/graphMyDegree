@@ -1,6 +1,7 @@
 {
     "course_code": "MECH3300",
     "course_name": "Finite Element Method & Fracture Mechanics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

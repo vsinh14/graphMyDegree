@@ -1,6 +1,7 @@
 {
     "course_code": "PHYS2082",
     "course_name": "Space Science & Stellar Astrophysics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

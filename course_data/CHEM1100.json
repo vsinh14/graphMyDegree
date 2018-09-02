@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM1100",
     "course_name": "Chemistry 1",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

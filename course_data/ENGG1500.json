@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG1500",
     "course_name": "Engineering Thermodynamics",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mathematics & Physics School, Mech & Mine Engineering School",
     "units": "2",

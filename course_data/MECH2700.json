@@ -1,6 +1,7 @@
 {
     "course_code": "MECH2700",
     "course_name": "Engineering Analysis I",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

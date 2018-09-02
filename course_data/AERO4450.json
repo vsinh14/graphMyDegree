@@ -1,6 +1,7 @@
 {
     "course_code": "AERO4450",
     "course_name": "Aerospace Propulsion",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

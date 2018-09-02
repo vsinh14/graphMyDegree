@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG4103",
     "course_name": "Engineering Asset Management",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

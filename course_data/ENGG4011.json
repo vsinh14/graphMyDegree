@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG4011",
     "course_name": "Professional Engineering Project",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "6",

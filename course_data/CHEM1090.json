@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM1090",
     "course_name": "Introductory Chemistry",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",
