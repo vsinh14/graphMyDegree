@@ -1,6 +1,7 @@
 {
     "course_code": "MINE3125",
     "course_name": "Rock Breakage",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

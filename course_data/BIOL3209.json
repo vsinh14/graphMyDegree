@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3209",
     "course_name": "Biodiversity Analysis, Discovery and Systematics",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

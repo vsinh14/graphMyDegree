@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM3008",
     "course_name": "Medicinal & Biological Chemistry",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

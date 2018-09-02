@@ -1,6 +1,7 @@
 {
     "course_code": "COMP3702",
     "course_name": "Artificial Intelligence",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

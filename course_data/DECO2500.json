@@ -1,6 +1,7 @@
 {
     "course_code": "DECO2500",
     "course_name": "Human-Computer Interaction",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

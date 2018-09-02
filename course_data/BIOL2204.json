@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2204",
     "course_name": "Zoology",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

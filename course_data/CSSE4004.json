@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE4004",
     "course_name": "Distributed Computing",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

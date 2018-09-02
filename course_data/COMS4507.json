@@ -1,6 +1,7 @@
 {
     "course_code": "COMS4507",
     "course_name": "Advanced Computer and Network Security",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

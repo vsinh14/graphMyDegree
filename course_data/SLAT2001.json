@@ -1,6 +1,7 @@
 {
     "course_code": "SLAT2001",
     "course_name": "Second Language Learning",
+    "semesters": 1,
     "faculty": "Humanities and Social Sciences",
     "school": "Languages & Cultures School",
     "units": "2",

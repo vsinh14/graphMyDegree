@@ -1,6 +1,7 @@
 {
     "course_code": "BIOC3005",
     "course_name": "Molecular Systems Biology",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

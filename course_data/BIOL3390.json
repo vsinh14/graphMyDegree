@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3390",
     "course_name": "Genome Evolution",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

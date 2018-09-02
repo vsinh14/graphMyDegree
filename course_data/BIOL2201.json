@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2201",
     "course_name": "Evolution",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

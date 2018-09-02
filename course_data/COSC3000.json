@@ -1,6 +1,7 @@
 {
     "course_code": "COSC3000",
     "course_name": "Visualization, Computer Graphics & Data Analysis",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
     "units": "2",

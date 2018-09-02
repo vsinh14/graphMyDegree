@@ -1,6 +1,7 @@
 {
     "course_code": "MINE3123",
     "course_name": "Mine Planning",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

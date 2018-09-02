@@ -1,6 +1,7 @@
 {
     "course_code": "COMP4403",
     "course_name": "Compilers and Interpreters",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

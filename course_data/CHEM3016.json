@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM3016",
     "course_name": "Advanced Experimental Chemistry",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

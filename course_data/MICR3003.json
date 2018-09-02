@@ -1,6 +1,7 @@
 {
     "course_code": "MICR3003",
     "course_name": "Molecular Microbiology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

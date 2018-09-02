@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG4020",
     "course_name": "Systems Safety Engineering",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

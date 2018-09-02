@@ -1,0 +1,107 @@
+{
+    "CHEM1100": {
+        "type": "any",
+        "children": [
+            "CHEM1090"
+        ]
+    },
+    "CHEM1200": [
+        "CHEM1100"
+    ],
+    "CHEM2050": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1100",
+                    "CHEM1020"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1200",
+                    "CHEM1030",
+                    "CHEM1010"
+                ]
+            }
+        ]
+    },
+    "CHEM2054": {
+        "type": "all",
+        "children": [
+            "CHEM1100",
+            "CHEM1200"
+        ]
+    },
+    "CHEM2060": {
+        "type": "all",
+        "children": [
+            "CHEM1100",
+            "CHEM1200"
+        ]
+    },
+    "CHEM3016": [
+        "CHEM2054"
+    ],
+    "CHEM3001": {
+        "type": "any",
+        "children": [
+            "CHEM2050",
+            "CHEM2901",
+            "CHEM2054"
+        ]
+    },
+    "CHEM3010": {
+        "type": "any",
+        "children": [
+            "CHEM2050",
+            "CHEM2901"
+        ]
+    },
+    "CHEM3011": {
+        "type": "any",
+        "children": [
+            "CHEM2056",
+            "CHEM2002",
+            "CHEM2902",
+            {
+                "type": "all",
+                "children": [
+                    "PHYS2020",
+                    "PHYS2041"
+                ]
+            }
+        ]
+    },
+    "CHEM3004": {
+        "type": "any",
+        "children": [
+            "CHEM2050",
+            "CHEM2901"
+        ]
+    },
+    "CHEM3008": {
+        "type": "any",
+        "children": [
+            "CHEM2050",
+            "CHEM2901",
+            "CHEM2052"
+        ]
+    },
+    "CHEM3013": {
+        "type": "any",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEM2002",
+                    "CHEM2902"
+                ]
+            },
+            "CHEM2056"
+        ]
+    },
+    "CHEM3014": []
+}

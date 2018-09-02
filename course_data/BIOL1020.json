@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL1020",
     "course_name": "Genes, Cells & Evolution",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Biological Sciences School, Chemistry & Molec Biosciences",
     "units": "2",

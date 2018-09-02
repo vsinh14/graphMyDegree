@@ -1,6 +1,7 @@
 {
     "course_code": "MICR3004",
     "course_name": "Microbial Genomics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

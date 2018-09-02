@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE3100",
     "course_name": "Reasoning About Programs",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

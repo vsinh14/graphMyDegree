@@ -1,6 +1,7 @@
 {
     "course_code": "SCIE2100",
     "course_name": "Introduction to Bioinformatics",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
     "units": "2",

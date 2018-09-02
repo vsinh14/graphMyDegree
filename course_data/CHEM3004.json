@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM3004",
     "course_name": "Determination of Molecular Structure",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "INFS3202",
     "course_name": "Web Information Systems",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

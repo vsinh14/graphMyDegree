@@ -1,6 +1,7 @@
 {
     "course_code": "BIOC3003",
     "course_name": "Human Molecular Genetics & Disease",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

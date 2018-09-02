@@ -1,6 +1,7 @@
 {
     "course_code": "STAT2004",
     "course_name": "Statistical Modelling & Analysis",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

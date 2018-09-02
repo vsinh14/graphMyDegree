@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2010",
     "course_name": "Ecology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

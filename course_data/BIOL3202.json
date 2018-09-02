@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3202",
     "course_name": "Plant Biology II",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School, Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
     "units": "2",

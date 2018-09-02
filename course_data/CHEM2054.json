@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM2054",
     "course_name": "Experimental Chemistry",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

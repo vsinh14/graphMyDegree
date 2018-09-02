@@ -1,6 +1,7 @@
 {
     "course_code": "COMP4500",
     "course_name": "Advanced Algorithms & Data Structures",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "STAT2203",
     "course_name": "Probability Models and Data Analysis for Engineering",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mathematics & Physics School",
     "units": "2",

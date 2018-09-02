@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3004",
     "course_name": "Genomics & Bioinformatics",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "STAT3004",
     "course_name": "Probability Models & Stochastic Processes",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

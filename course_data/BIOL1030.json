@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL1030",
     "course_name": "Global Challenges in Biology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

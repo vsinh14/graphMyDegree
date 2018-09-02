@@ -1,6 +1,7 @@
 {
     "course_code": "DECO4500",
     "course_name": "Advanced Human-Computer Interaction",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

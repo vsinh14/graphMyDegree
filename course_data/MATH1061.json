@@ -1,6 +1,7 @@
 {
     "course_code": "MATH1061",
     "course_name": "Discrete Mathematics",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "INFS1200",
     "course_name": "Introduction to Information Systems",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

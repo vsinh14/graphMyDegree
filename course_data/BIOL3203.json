@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3203",
     "course_name": "Plant Molecular Biology & Biotechnology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
     "units": "2",

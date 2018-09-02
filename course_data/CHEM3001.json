@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM3001",
     "course_name": "Advanced Organic Chemistry",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

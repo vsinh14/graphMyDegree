@@ -1,6 +1,7 @@
 {
     "course_code": "INFS4203",
     "course_name": "Data Mining",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

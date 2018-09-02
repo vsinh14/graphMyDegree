@@ -1,6 +1,7 @@
 {
     "course_code": "INFS3200",
     "course_name": "Advanced Database Systems",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

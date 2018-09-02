@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2006",
     "course_name": "Biostatistics & Experimental Design",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School, Mathematics & Physics School",
     "units": "2",

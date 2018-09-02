@@ -1,6 +1,7 @@
 {
     "course_code": "INFS3208",
     "course_name": "Cloud Computing",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

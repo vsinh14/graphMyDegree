@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL3310",
     "course_name": "Macroecology and Biogeography",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biological Sciences School",
     "units": "2",

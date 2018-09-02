@@ -1,6 +1,7 @@
 {
     "course_code": "COMP3301",
     "course_name": "Operating Systems Architecture",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

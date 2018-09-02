@@ -1,6 +1,7 @@
 {
     "course_code": "INFS2200",
     "course_name": "Relational Database Systems",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

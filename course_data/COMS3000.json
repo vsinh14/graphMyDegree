@@ -1,6 +1,7 @@
 {
     "course_code": "COMS3000",
     "course_name": "Information Security",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

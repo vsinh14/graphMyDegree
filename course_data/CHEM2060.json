@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM2060",
     "course_name": "Intermediate Chemistry 2",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

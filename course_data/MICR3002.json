@@ -1,6 +1,7 @@
 {
     "course_code": "MICR3002",
     "course_name": "Virology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Veterinary Science School",
     "units": "2",
