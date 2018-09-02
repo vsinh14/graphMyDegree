@@ -29,6 +29,9 @@ class Data_structure:
         if self.graph.has_node(course1) & self.graph.has_node(course2):
             self.graph.add_edge(course1, course2)
 
+    def deletePreRequisite(self, course1, course2):
+        if self.graph.has_node(course1) & self.graph.has_node(course2):
+            self.graph.remove_edge(course1, course 2)
     """
     return graph object
     """
