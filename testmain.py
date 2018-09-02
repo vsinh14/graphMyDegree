@@ -7,13 +7,15 @@ from graphviz import Digraph as dg
 from draw_graph import *
 from sys import exit
 
+from main import write_all_data_for_major
+
 dataStructure = Data_structure()
 graph = dataStructure.getGraph()
 data = dataStructure.getData()
 orCounter = 0
 
 def generate_graph(major_code):
-    
+
     def recursiveRelation(dataStruct, key, part):
         if(isinstance(part, list)):
             #only one subject
@@ -84,4 +86,5 @@ def generate_graph(major_code):
     draw_graph(dataStructure)
 
 if __name__ == '__main__':
+    # write_all_data_for_major('GENTCX2030')
     generate_graph('SOFTWX2342')

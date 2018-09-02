@@ -62,5 +62,5 @@ def write_all_data_for_major(major_code):
         f.write(json.encoder.JSONEncoder(indent=4).encode(prereq_dict))
 
 if __name__ == '__main__':
-    for x in ('ELECTX2342', 'MECHAX2342', 'CIVILX2342', 'CHEMIX2342'):
+    for x in ('ELECTX2342', 'MECHAX2342', 'CIVILX2342', 'CHEMIX2342', 'MININX2342'):
         write_all_data_for_major(x)
