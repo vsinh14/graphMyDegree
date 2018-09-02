@@ -1,0 +1,36 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	CHEM1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 1</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 2</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM2050 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM2050</TD></TR><TR><TD><FONT POINT-SIZE="10">Intermediate Chemistry 1</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM2054 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM2054</TD></TR><TR><TD><FONT POINT-SIZE="10">Experimental Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM2060 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM2060</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Intermediate Chemistry 2</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3016 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM3016</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Experimental Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM3001</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Organic Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM3010</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Inorganic Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3011 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM3011</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Physical Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM3004</TD></TR><TR><TD><FONT POINT-SIZE="10">Determination of Molecular Structure</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3008 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM3008</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Medicinal &amp; Biological Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3013 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM3013</TD></TR><TR><TD><FONT POINT-SIZE="10">Nanoscience: Self-assembly</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEM3014 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM3014</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Nanoscience: Synthesis</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode3 [label=or]
+	node [shape=box style=filled]
+	CHEM1100 -> CHEM1200
+	CHEM1100 -> CHEM2054
+	CHEM1100 -> CHEM2060
+	CHEM1100 -> CHEM2050
+	CHEM1200 -> CHEM2054
+	CHEM1200 -> CHEM2060
+	CHEM1200 -> CHEM2050
+	CHEM2050 -> orNode3
+	CHEM2050 -> CHEM3010
+	CHEM2050 -> CHEM3004
+	CHEM2050 -> CHEM3008
+	CHEM2054 -> CHEM3016
+	CHEM2054 -> orNode3
+	orNode3 -> CHEM3001
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives"
+	fontsize=20
+}

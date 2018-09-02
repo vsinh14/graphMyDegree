@@ -5,7 +5,7 @@ import matplotlib.pyplot as plotting
 import networkx as nx
 from graphviz import Digraph as dg
 from draw_graph import *
-from sys import exit
+from sys import exit, argv
 
 from main import write_all_data_for_major
 
@@ -86,5 +86,15 @@ def generate_graph(major_code):
     draw_graph(dataStructure, major_code)
 
 if __name__ == '__main__':
-    # write_all_data_for_major('GENTCX2030')
-    generate_graph('SOFTWX2342')
+    if len(argv) > 1:
+        write_all_data_for_major(argv[1])
+        generate_graph(argv[1])
+    else:
+        while True:
+            url = input('Enter major URL: ')
+            try:
+                code = url.split('=')[-1]
+                write_all_data_for_major(code)
+                generate_graph(code)
+            except Exception:
+                print('Invalid URL.')

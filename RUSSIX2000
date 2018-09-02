@@ -1,0 +1,22 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	RSSN1110 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>RSSN1110</TD></TR><TR><TD><FONT POINT-SIZE="10">Introductory Russian I</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN1120 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>RSSN1120</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introductory Russian II</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN2110 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>RSSN2110</TD></TR><TR><TD><FONT POINT-SIZE="10">Russian Language III</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN2120 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>RSSN2120</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Russian Language IV</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LTCS2310 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>LTCS2310</TD></TR><TR><TD><FONT POINT-SIZE="10">Russia Now and Then</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	LTCS3002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>LTCS3002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Translating &amp; Interpreting Studies</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MSTU2012 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MSTU2012</TD></TR><TR><TD><FONT POINT-SIZE="10">European Film Today</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	SLAT2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>SLAT2001</TD></TR><TR><TD><FONT POINT-SIZE="10">Second Language Learning</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	SLAT3001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>SLAT3001</TD></TR><TR><TD><FONT POINT-SIZE="10">Cognitive and Social Aspects of Bilingualism</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN3130 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>RSSN3130</TD></TR><TR><TD><FONT POINT-SIZE="10">Russian V</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN3140 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>RSSN3140</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Russian VI</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	RSSN1110 -> RSSN1120
+	RSSN1120 -> RSSN2110
+	RSSN2110 -> RSSN2120
+	RSSN2120 -> RSSN3130
+	RSSN2120 -> RSSN3140
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives"
+	fontsize=20
+}
