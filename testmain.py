@@ -52,8 +52,6 @@ def actualRecursion(dataStruct, key, part):
 with open("data/SOFTWX2342/course_data.json") as json_file:
     data1= js.load(json_file)
     for k, p in data1.items():
-        print(k)
-        print(p['semesters'])
         courseSubject = Subject(p)
         courseSubject.addValues(p['course_name'], p['semesters'], p['major_part'] )
         dataStructure.addSubject(k, courseSubject)
@@ -74,16 +72,12 @@ while edited:
     for i, node in enumerate(dict(graph.nodes())):
         if node.startswith('or'):
             if graph.in_degree(node) == 0 or graph.out_degree(node) == 0:
-                print('Removing', node)
                 graph.remove_node(node)
                 del dataStructure.data[node]
                 edited = True
             elif graph.in_degree(node) == 1:
-                print('One in degree', node)
                 single_parent = list(graph[node].keys())[0]
-                print('', single_parent)
                 for child in graph.predecessors(node):
-                    print('', 'Has child', child)
                     dataStructure.addPreRequisite(child, single_parent)
                 graph.remove_node(node)
                 del dataStructure.data[node]

@@ -30,10 +30,11 @@ def draw_graph(ds: Data_structure):
     graph = ds.getGraph()
     for key in data.keys():
         if(key.startswith('or')):
-            drawn.attr('node', shape="circle")
+            drawn.attr('node', shape="circle", color = "grey", style='filled', fillcolor = 'grey')
             drawn.node(key, "or")
             drawn.attr('node', shape='box')
         else:
+            
             style = border_styles[data[key].getOffering() & 3]
             drawn.node(key, label=f'''<<TABLE><TR><TD>{key}</TD></TR></TABLE>>''')
     for edge in graph.edges:
