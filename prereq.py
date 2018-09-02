@@ -95,7 +95,7 @@ def _parse_fragment(fragment, course_code, level=0):
             # Returns ('CSSE2002', ['and', '...])
             this_elem, rest = _parse_fragment(fragment[i+1:], course_code, level+1) 
             len_of_rest = len(rest) # Number of tokens after the end of the brackets.
-            if this_elem.children:
+            if this_elem and this_elem.children:
                 stack.append(this_elem)
             i += (len_remaining-len_of_rest)+1
         elif token == ')': 
