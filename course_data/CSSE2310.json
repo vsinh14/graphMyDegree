@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE2310",
     "course_name": "Computer Systems Principles and Programming",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

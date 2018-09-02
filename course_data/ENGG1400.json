@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG1400",
     "course_name": "Engineering Mechanics: Statics & Dynamics",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",

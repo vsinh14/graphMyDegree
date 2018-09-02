@@ -1,6 +1,7 @@
 {
     "course_code": "METR4202",
     "course_name": "Robotics & Automation",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",

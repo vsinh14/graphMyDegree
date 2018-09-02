@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG3800",
     "course_name": "Team Project II",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

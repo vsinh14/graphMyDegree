@@ -1,6 +1,7 @@
 {
     "course_code": "PHYS1002",
     "course_name": "Electromagnetism and Modern Physics",
+    "semesters": 3,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

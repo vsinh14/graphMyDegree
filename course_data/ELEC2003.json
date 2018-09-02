@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC2003",
     "course_name": "Electromechanics & Electronics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

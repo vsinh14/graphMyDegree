@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE2010",
     "course_name": "Introduction to Computer Systems",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

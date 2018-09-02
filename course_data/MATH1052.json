@@ -1,6 +1,7 @@
 {
     "course_code": "MATH1052",
     "course_name": "Multivariate Calculus & Ordinary Differential Equations",
+    "semesters": 7,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

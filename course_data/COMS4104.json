@@ -1,6 +1,7 @@
 {
     "course_code": "COMS4104",
     "course_name": "Microwave Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE1001",
     "course_name": "Introduction to Software Engineering",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

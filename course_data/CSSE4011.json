@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE4011",
     "course_name": "Advanced Embedded Systems",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

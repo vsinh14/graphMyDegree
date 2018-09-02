@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG4900",
     "course_name": "Professional Practice and the Business Environment",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

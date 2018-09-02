@@ -1,6 +1,7 @@
 {
     "course_code": "CSSE4010",
     "course_name": "Digital System Design",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG1300",
     "course_name": "Introduction to Electrical Systems",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",

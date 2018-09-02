@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC4601",
     "course_name": "Medical Imaging",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

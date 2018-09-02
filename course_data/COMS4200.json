@@ -1,6 +1,7 @@
 {
     "course_code": "COMS4200",
     "course_name": "Computer Networks II",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

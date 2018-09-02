@@ -1,6 +1,7 @@
 {
     "course_code": "ELEC2004",
     "course_name": "Circuits, Signals & Systems",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Info Tech & Elec Engineering",
     "units": "2",

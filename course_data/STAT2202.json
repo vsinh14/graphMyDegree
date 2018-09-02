@@ -1,6 +1,7 @@
 {
     "course_code": "STAT2202",
     "course_name": "Probability Models for Engineering & Science",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "1",

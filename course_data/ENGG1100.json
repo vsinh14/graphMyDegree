@@ -1,6 +1,7 @@
 {
     "course_code": "ENGG1100",
     "course_name": "Engineering Design",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
     "units": "2",
