@@ -1,7 +1,6 @@
 from subject import *
 from data_structure import *
 import json as js
-import matplotlib.pyplot as plotting
 import networkx as nx
 from graphviz import Digraph
 import graphviz
