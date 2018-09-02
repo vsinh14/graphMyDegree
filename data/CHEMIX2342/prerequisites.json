@@ -429,8 +429,20 @@
     "ENGY4000": {
         "type": "any",
         "children": [
-            "CHEE3020",
-            "CHEE2002"
+            {
+                "type": "all",
+                "children": [
+                    {
+                        "type": "any",
+                        "children": [
+                            "CHEE3020",
+                            "CHEE2002"
+                        ]
+                    },
+                    "CHEE3004"
+                ]
+            },
+            "MECH3400"
         ]
     },
     "MECH4304": [],
