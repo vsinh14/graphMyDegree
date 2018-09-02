@@ -34,8 +34,10 @@ def draw_graph(ds: Data_structure):
             drawn.node(key, "or")
             drawn.attr('node', shape='box')
         else:
-            style = border_styles[data[key].getOffering() & 3]
-            drawn.node(key, label=f'''<<TABLE><TR><TD>{key}</TD></TR></TABLE>>''')
+            semester = data[key].getOffering()
+            top = '<HR/>' if semester & 1 else ''
+            bottom = '<HR/>' if semester & 2 else '' 
+            drawn.node(key, label=f'<<TABLE BORDER="0"><TR><TD></TD></TR>{top}<TR><TD>{key}</TD></TR>{bottom}<TR><TD></TD></TR></TABLE>>')
     for edge in graph.edges:
         drawn.edge(edge[0], edge[1])
     drawn.view()
