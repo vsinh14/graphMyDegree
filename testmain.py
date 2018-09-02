@@ -83,7 +83,7 @@ def generate_graph(major_code):
                     edited = True
 
 
-    draw_graph(dataStructure)
+    draw_graph(dataStructure, major_code)
 
 if __name__ == '__main__':
     # write_all_data_for_major('GENTCX2030')
