@@ -10,7 +10,7 @@ class Subject:
     """
     Add all other values relating to the subjects
     """
-    def addValues(self, stringName, duration, Faculty, School, offering):
+    def addValues(self, stringName, duration, offering):
         self.name = stringName
         self.duration = duration
         self.Faculty = Faculty
