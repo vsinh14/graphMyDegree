@@ -52,6 +52,10 @@ def write_all_data_for_major(major_code):
             min_parts = None
         course_data[course]['major_part'] = min_parts
 
+    for k, v in course_data.items():
+        if 'major_part' not in v:
+            v['major_part'] = None
+
     print('Rewriting with added part letter.')
     with open(major_dir+'course_data.json', 'w') as f:
         json.dump(course_data, f, indent=4)
