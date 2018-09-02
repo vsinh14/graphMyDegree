@@ -1,6 +1,7 @@
 {
     "course_code": "CHEM1200",
     "course_name": "Chemistry 2",
+    "semesters": 7,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

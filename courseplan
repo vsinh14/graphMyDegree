@@ -1,0 +1,8 @@
+digraph "course plan" {
+	node [shape=box]
+	ENGG1100
+	ENGG1200
+	ENGG1211
+	ENGG1100 -> ENGG1200
+	ENGG1200 -> ENGG1211
+}

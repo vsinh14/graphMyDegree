@@ -1,6 +1,7 @@
 {
     "course_code": "MINE3121",
     "course_name": "Mining Geomechanics",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

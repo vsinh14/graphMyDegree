@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE2010",
     "course_name": "Engineering Investigation & Statistical Analysis",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Mathematics & Physics School",
     "units": "2",

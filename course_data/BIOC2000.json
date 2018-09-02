@@ -1,6 +1,7 @@
 {
     "course_code": "BIOC2000",
     "course_name": "Biochemistry & Molecular Biology",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences",
     "units": "2",

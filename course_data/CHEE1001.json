@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE1001",
     "course_name": "Principles of Biological Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School, Chemistry & Molec Biosciences",
     "units": "2",

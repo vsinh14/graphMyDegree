@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE4026",
     "course_name": "Thesis Project",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "4",

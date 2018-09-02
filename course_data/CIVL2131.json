@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL2131",
     "course_name": "Fluid Mechanics for Civil & Environmental Engineers",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

@@ -1,0 +1,458 @@
+{
+    "ENGG1100": [],
+    "ENGG1200": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA",
+            "ENGG1100"
+        ]
+    },
+    "ENGG1211": [],
+    "MATH1051": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1071": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "MATH1052": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1072": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "CHEM1100": {
+        "type": "any",
+        "children": [
+            "CHEM1090"
+        ]
+    },
+    "ENGG1500": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "12_Maths_B",
+                    "MATH1040"
+                ]
+            }
+        ]
+    },
+    "CHEE2001": {
+        "type": "all",
+        "children": [
+            "MATH1051",
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1100",
+                    "CHEM1020"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1500",
+                    "ENGG1050"
+                ]
+            }
+        ]
+    },
+    "CHEM1200": [
+        "CHEM1100"
+    ],
+    "MATH2000": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MATH2001": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "CHEE2003": {
+        "type": "all",
+        "children": [
+            "CHEE2001",
+            "MATH1052"
+        ]
+    },
+    "CHEE2010": [
+        "CHEE2001"
+    ],
+    "CHEM2056": {
+        "type": "any",
+        "children": [
+            "CHEM1100",
+            "CHEM1020"
+        ]
+    },
+    "CHEE3002": {
+        "type": "all",
+        "children": [
+            "CHEE2001",
+            "CHEE2003"
+        ]
+    },
+    "CHEE3003": {
+        "type": "all",
+        "children": [
+            "ENGG1500",
+            "CHEE2001"
+        ]
+    },
+    "CHEE3020": [
+        "CHEE2001"
+    ],
+    "CHEE3004": {
+        "type": "all",
+        "children": [
+            "CHEE3002",
+            "CHEE3003"
+        ]
+    },
+    "CHEE3005": {
+        "type": "all",
+        "children": [
+            "CHEE3002",
+            "CHEE3003"
+        ]
+    },
+    "CHEE3007": {
+        "type": "all",
+        "children": [
+            "CHEE3002",
+            "CHEE3003"
+        ]
+    },
+    "CHEE4002": {
+        "type": "any",
+        "children": [
+            "CHEE2010",
+            "CHEE3010"
+        ]
+    },
+    "CHEE4009": {
+        "type": "all",
+        "children": [
+            "CHEE3002",
+            "CHEE3005"
+        ]
+    },
+    "CHEE4060": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEE3020",
+                    "CHEE2002"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEE3007",
+                    "CIVL3150"
+                ]
+            }
+        ]
+    },
+    "ENGG4900": [],
+    "CHEE4001": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEE4060",
+                    "CHEE3006"
+                ]
+            },
+            "CHEE3004"
+        ]
+    },
+    "CHEM1090": [],
+    "MATH1050": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "PHYS1171": [],
+    "BIOL1040": [],
+    "CHEE1001": [],
+    "CSSE1001": [],
+    "ENGG1300": {
+        "type": "any",
+        "children": [
+            "12_Maths_B",
+            "MATH1040"
+        ]
+    },
+    "ENGG1400": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "ENGG1600": {
+        "type": "all",
+        "children": []
+    },
+    "ERTH1501": [],
+    "PHYS1002": [],
+    "BIOC2000": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "BIOL1020",
+                    "BIOM1050",
+                    "BIOM1051"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1100",
+                    "CHEM1221",
+                    "CHEM1222",
+                    "CHEM1021",
+                    "CHEM1022"
+                ]
+            }
+        ]
+    },
+    "BIOL2202": {
+        "type": "any",
+        "children": [
+            "BIOL1020",
+            "CHEE1001"
+        ]
+    },
+    "CHEE2501": {
+        "type": "all",
+        "children": [
+            "CHEM1020",
+            "MATH1052"
+        ]
+    },
+    "CHEE3008": [
+        "HOS_Permission"
+    ],
+    "CHEE3301": [],
+    "CHEE4003": [
+        "HOS_Permission"
+    ],
+    "CHEE4015": [
+        "HOS_Permission"
+    ],
+    "CIVL3141": [],
+    "ENGG4103": [],
+    "ENVM3103": [],
+    "FOOD2000": {
+        "type": "any",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1100",
+                    "CHEM1200"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEM1010",
+                    "CHEM1020",
+                    "CHEM1030"
+                ]
+            }
+        ]
+    },
+    "FOOD3007": [],
+    "FOOD3008": [],
+    "FOOD3011": [],
+    "FOOD3017": [],
+    "MECH2310": {
+        "type": "any",
+        "children": [
+            "ENGG1211",
+            "ENGG1200"
+        ]
+    },
+    "MICR2000": [
+        "BIOL1020"
+    ],
+    "MICR2001": [],
+    "MINE2201": [],
+    "MINE3211": [],
+    "MINE3212": [
+        "CHEE3003"
+    ],
+    "MINE3219": {
+        "type": "all",
+        "children": [
+            "MINE2201",
+            {
+                "type": "any",
+                "children": [
+                    "CHEE2010",
+                    "CHEE3010",
+                    "MINE3214"
+                ]
+            }
+        ]
+    },
+    "MINE4207": [
+        "HOS_Permission"
+    ],
+    "CHEE4006": [],
+    "CHEE4007": [],
+    "CHEE4012": {
+        "type": "all",
+        "children": [
+            "CHEM1020",
+            {
+                "type": "any",
+                "children": [
+                    "CHEE2003",
+                    "CIVL3130",
+                    "CIVL2131",
+                    "MINE2101"
+                ]
+            }
+        ]
+    },
+    "CHEE4020": {
+        "type": "all",
+        "children": [
+            "CHEE1001",
+            "CHEE2001"
+        ]
+    },
+    "CHEE4022": {
+        "type": "all",
+        "children": [
+            "CHEM2056",
+            "CHEE4009"
+        ]
+    },
+    "CHEE4026": [],
+    "CHEE4027": [],
+    "CHEE4034": [
+        "CHEE4020"
+    ],
+    "CHEE4301": [
+        "MECH2300"
+    ],
+    "CHEE4302": [],
+    "CHEE4303": {
+        "type": "any",
+        "children": [
+            "CHEM2056",
+            "CHEM2002"
+        ]
+    },
+    "CHEE4305": [
+        "CHEE1001"
+    ],
+    "ENGG3500": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "CHEE2003",
+                    "MECH2410"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "CHEE3003",
+                    "MECH3400"
+                ]
+            }
+        ]
+    },
+    "ENGY4000": {
+        "type": "any",
+        "children": [
+            "CHEE3020",
+            "CHEE2002"
+        ]
+    },
+    "MECH4304": [],
+    "MINE4203": {
+        "type": "all",
+        "children": [
+            "CHEM2056",
+            {
+                "type": "any",
+                "children": [
+                    "MINE3208",
+                    "CHEE3004"
+                ]
+            }
+        ]
+    },
+    "MINE4204": {
+        "type": "all",
+        "children": [
+            "CHEE3003",
+            "CHEE3005"
+        ]
+    },
+    "FOOD3000": []
+}

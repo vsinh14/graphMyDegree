@@ -1,6 +1,7 @@
 {
     "course_code": "CIVL4340",
     "course_name": "Wind Engineering",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Civil Engineering School",
     "units": "2",

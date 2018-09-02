@@ -1,6 +1,7 @@
 {
     "course_code": "CHEE3004",
     "course_name": "Unit Operations",
+    "semesters": 2,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Chemical Engineering School",
     "units": "2",

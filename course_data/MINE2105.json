@@ -1,6 +1,7 @@
 {
     "course_code": "MINE2105",
     "course_name": "Introduction to Mining",
+    "semesters": 1,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

@@ -23,7 +23,7 @@ def write_all_data_for_major(major_code):
                 with open(f'course_data/{c}.json') as f:
                     old_data = json.load(f)
             except json.JSONDecodeError:
-                old_data = {} # Continue to scrape data.
+                old_data = {} # Corrupted data, re-scrape.
             if 'semesters' in old_data:
                 print(' ... using existing data.')
                 course_data[c] = old_data
