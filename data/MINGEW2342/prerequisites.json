@@ -1,0 +1,191 @@
+{
+    "ENGG1100": [],
+    "ENGG1200": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA",
+            "ENGG1100"
+        ]
+    },
+    "ENGG1211": [],
+    "MATH1051": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1071": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "MATH1052": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1072": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "ENGG1400": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "ERTH1501": [],
+    "MATH2000": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MATH2001": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MECH2410": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1010",
+                    "ENGG1400"
+                ]
+            }
+        ]
+    },
+    "MINE2105": [],
+    "MINE2107": [],
+    "STAT2201": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "CIVL2210": {
+        "type": "all",
+        "children": [
+            "ENGG1400",
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "ERTH2004": {
+        "type": "any",
+        "children": [
+            "ERTH1000",
+            "ERTH1501"
+        ]
+    },
+    "MINE2106": [],
+    "MINE2201": [],
+    "CIVL4270": [
+        "CIVL3210"
+    ],
+    "MINE3120": [],
+    "MINE3121": [],
+    "MINE3122": [],
+    "ERTH3250": [],
+    "MINE3123": [],
+    "MINE3124": [],
+    "MINE3125": [],
+    "MINE4120": [],
+    "MINE4122": [
+        "HOS_Permission"
+    ],
+    "MINE4124": [],
+    "MINE4128": [],
+    "CIVL4280": [
+        "MINE3121"
+    ],
+    "ENGG4900": [],
+    "MINE4123": [],
+    "MINE4125": [],
+    "CHEM1090": [],
+    "MATH1050": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "PHYS1171": [],
+    "CHEM1100": {
+        "type": "any",
+        "children": [
+            "CHEM1090"
+        ]
+    },
+    "CSSE1001": [],
+    "ENGG1300": {
+        "type": "any",
+        "children": [
+            "12_Maths_B",
+            "MATH1040"
+        ]
+    },
+    "ENGG1500": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "12_Maths_B",
+                    "MATH1040"
+                ]
+            }
+        ]
+    },
+    "ENGG1600": {
+        "type": "all",
+        "children": []
+    },
+    "PHYS1002": []
+}

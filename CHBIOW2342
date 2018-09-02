@@ -1,0 +1,128 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	ENGG1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1100</TD></TR><TR><TD><FONT POINT-SIZE="10">Engineering Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1211 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1211</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Design, Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1051 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1051</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1071 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1071</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1052 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1052</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1072 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH1072</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE1001</TD></TR><TR><TD><FONT POINT-SIZE="10">Principles of Biological Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 1</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Thermodynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOC2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOC2000</TD></TR><TR><TD><FONT POINT-SIZE="10">Biochemistry &amp; Molecular Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE2001</TD></TR><TR><TD><FONT POINT-SIZE="10">Process Principles</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 2</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Calculus and Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL2202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL2202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Genetics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE2003</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fluid &amp; Particle Mechanics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE2010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Investigation &amp; Statistical Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM2056 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM2056</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical Chemistry for Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3002</TD></TR><TR><TD><FONT POINT-SIZE="10">Heat &amp; Mass Transfer</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3003</TD></TR><TR><TD><FONT POINT-SIZE="10">Chemical Thermodynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3020</TD></TR><TR><TD><FONT POINT-SIZE="10">Process Systems Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4020</TD></TR><TR><TD><FONT POINT-SIZE="10">Biomolecular Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Unit Operations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3005 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3005</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Reaction Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3007 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3007</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Process Modelling &amp; Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4305 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4305</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Biomaterials: Materials in Medicine</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4002</TD></TR><TR><TD><FONT POINT-SIZE="10">Impact and Risk in the Process Industries</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4009 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4009</TD></TR><TR><TD><FONT POINT-SIZE="10">Transport Phenomena</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4034 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4034</TD></TR><TR><TD><FONT POINT-SIZE="10">Cell &amp; Tissue Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4060 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4060</TD></TR><TR><TD><FONT POINT-SIZE="10">Process &amp; Control System Synthesis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Process Engineering Design Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4900 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4900</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Professional Practice and the Business Environment</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1090 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1090</TD></TR><TR><TD><FONT POINT-SIZE="10">Introductory Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1050 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1050</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mathematical Foundations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	PHYS1171 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1171</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical Basis of Biological Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL1040 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL1040</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Cells to Organisms</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Software Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1300</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Electrical Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1400</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Mechanics: Statics &amp; Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1600 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1600</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Research Practices - The Big Issues</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ERTH1501 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ERTH1501</TD></TR><TR><TD><FONT POINT-SIZE="10">Earth Processes &amp; Geological Materials for Engineers</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	PHYS1002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electromagnetism and Modern Physics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL2200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL2200</TD></TR><TR><TD><FONT POINT-SIZE="10">Cell Structure &amp; Function</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3301</TD></TR><TR><TD><FONT POINT-SIZE="10">Polymer Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MICR2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MICR2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Microbiology &amp; Immunology</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4012 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4012</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Industrial Wastewater &amp; Solid Waste Management</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4022 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4022</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Principles of Adsorption</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4028 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4028</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Metabolic Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4301</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Nanomaterials &amp; Their Characterisation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4302 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4302</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electrochemistry &amp; Corrosion</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode0 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode11 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode12 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode13 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode14 [label=or]
+	node [shape=box style=filled]
+	ENGG1100 -> orNode0
+	MATH1051 -> CHEE2001
+	MATH1051 -> orNode11
+	MATH1051 -> orNode13
+	MATH1071 -> orNode11
+	MATH1071 -> orNode13
+	MATH1052 -> orNode12
+	MATH1052 -> orNode14
+	MATH1052 -> CHEE2003
+	MATH1072 -> orNode12
+	MATH1072 -> orNode14
+	CHEE1001 -> CHEE4020
+	CHEE1001 -> CHEE4305
+	CHEE1001 -> BIOL2202
+	CHEM1100 -> CHEM1200
+	CHEM1100 -> BIOC2000
+	CHEM1100 -> CHEE2001
+	CHEM1100 -> CHEM2056
+	ENGG1500 -> CHEE3003
+	ENGG1500 -> CHEE2001
+	CHEE2001 -> CHEE2003
+	CHEE2001 -> CHEE2010
+	CHEE2001 -> CHEE3002
+	CHEE2001 -> CHEE3003
+	CHEE2001 -> CHEE3020
+	CHEE2001 -> CHEE4020
+	CHEE2003 -> CHEE3002
+	CHEE2003 -> CHEE4012
+	CHEE2010 -> CHEE4002
+	CHEM2056 -> CHEE4022
+	CHEE3002 -> CHEE3004
+	CHEE3002 -> CHEE3005
+	CHEE3002 -> CHEE3007
+	CHEE3002 -> CHEE4009
+	CHEE3003 -> CHEE3004
+	CHEE3003 -> CHEE3005
+	CHEE3003 -> CHEE3007
+	CHEE3020 -> CHEE4060
+	CHEE4020 -> CHEE4034
+	CHEE4020 -> CHEE4028
+	CHEE3004 -> CHEE4001
+	CHEE3005 -> CHEE4009
+	CHEE3007 -> CHEE4060
+	CHEE4009 -> CHEE4022
+	CHEE4060 -> CHEE4001
+	CHEM1090 -> CHEM1100
+	MATH1050 -> orNode0
+	MATH1050 -> MATH1051
+	MATH1050 -> MATH1071
+	MATH1050 -> MATH1052
+	MATH1050 -> MATH1072
+	orNode0 -> ENGG1200
+	orNode11 -> MATH2000
+	orNode12 -> MATH2000
+	orNode13 -> MATH2001
+	orNode14 -> MATH2001
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}

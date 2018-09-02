@@ -1,0 +1,360 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	ENGG1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1100</TD></TR><TR><TD><FONT POINT-SIZE="10">Engineering Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1211 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1211</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Design, Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1051 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1051</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1071 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1071</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1052 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1052</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1072 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH1072</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE1001</TD></TR><TR><TD><FONT POINT-SIZE="10">Principles of Biological Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 1</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Thermodynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOC2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOC2000</TD></TR><TR><TD><FONT POINT-SIZE="10">Biochemistry &amp; Molecular Biology</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE2001</TD></TR><TR><TD><FONT POINT-SIZE="10">Process Principles</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Chemistry 2</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Calculus and Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL2202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>BIOL2202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Genetics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE2003</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fluid &amp; Particle Mechanics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE2010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Investigation &amp; Statistical Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM2056 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEM2056</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical Chemistry for Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3002</TD></TR><TR><TD><FONT POINT-SIZE="10">Heat &amp; Mass Transfer</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3003</TD></TR><TR><TD><FONT POINT-SIZE="10">Chemical Thermodynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3020</TD></TR><TR><TD><FONT POINT-SIZE="10">Process Systems Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4020 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4020</TD></TR><TR><TD><FONT POINT-SIZE="10">Biomolecular Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CHEE3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Unit Operations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3005 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3005</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Reaction Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3007 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3007</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Process Modelling &amp; Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4305 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4305</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Biomaterials: Materials in Medicine</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4002</TD></TR><TR><TD><FONT POINT-SIZE="10">Impact and Risk in the Process Industries</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4009 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4009</TD></TR><TR><TD><FONT POINT-SIZE="10">Transport Phenomena</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4034 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4034</TD></TR><TR><TD><FONT POINT-SIZE="10">Cell &amp; Tissue Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4060 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4060</TD></TR><TR><TD><FONT POINT-SIZE="10">Process &amp; Control System Synthesis</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Process Engineering Design Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4900 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4900</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Professional Practice and the Business Environment</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1090 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1090</TD></TR><TR><TD><FONT POINT-SIZE="10">Introductory Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1050 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1050</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mathematical Foundations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	PHYS1171 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1171</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical Basis of Biological Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL1040 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL1040</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Cells to Organisms</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Software Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1300</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Electrical Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1400</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Mechanics: Statics &amp; Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1600 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1600</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Research Practices - The Big Issues</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ERTH1501 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ERTH1501</TD></TR><TR><TD><FONT POINT-SIZE="10">Earth Processes &amp; Geological Materials for Engineers</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	PHYS1002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electromagnetism and Modern Physics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	BIOL2200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>BIOL2200</TD></TR><TR><TD><FONT POINT-SIZE="10">Cell Structure &amp; Function</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE3301</TD></TR><TR><TD><FONT POINT-SIZE="10">Polymer Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MICR2000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MICR2000</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Microbiology &amp; Immunology</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4012 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4012</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Industrial Wastewater &amp; Solid Waste Management</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4022 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4022</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Principles of Adsorption</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4028 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4028</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Metabolic Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4301</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Nanomaterials &amp; Their Characterisation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4302 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4302</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electrochemistry &amp; Corrosion</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode0 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode11 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode12 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode13 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode14 [label=or]
+	node [shape=box style=filled]
+	CHEE2501 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE2501</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Environmental Systems Engineering I: Processes</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENVM3103 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENVM3103</TD></TR><TR><TD><FONT POINT-SIZE="10">Regulatory Frameworks for Environmental Management &amp; Planning</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CIVL3141 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CIVL3141</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Catchment Hydrology</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	CIVL3150 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CIVL3150</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Modelling of Environmental Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ENGY4000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGY4000</TD></TR><TR><TD><FONT POINT-SIZE="10">Energy Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CIVL4140 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CIVL4140</TD></TR><TR><TD><FONT POINT-SIZE="10">Groundwater &amp; Surface Water Modelling</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ENGG4103 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4103</TD></TR><TR><TD><FONT POINT-SIZE="10">Engineering Asset Management</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ENVM2522 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENVM2522</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Carbon &amp; Energy Management</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENVM3524 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENVM3524</TD></TR><TR><TD><FONT POINT-SIZE="10">Business Management in a Carbon Constrained World</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	ENVM3528 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENVM3528</TD></TR><TR><TD><FONT POINT-SIZE="10">Industrial Ecology &amp; Life Cycle Thinking</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MGTS3526 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MGTS3526</TD></TR><TR><TD><FONT POINT-SIZE="10">Systems Thinking</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MINE2201 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE2201</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical &amp; Chemical Processing of Minerals</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE4203 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MINE4203</TD></TR><TR><TD><FONT POINT-SIZE="10">Flotation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE4204 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MINE4204</TD></TR><TR><TD><FONT POINT-SIZE="10">Aqueous Solution Processing &amp; Electrometallurgy</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode25 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode34 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode35 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode36 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode37 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode42 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode43 [label=or]
+	node [shape=box style=filled]
+	MECH2300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH2300</TD></TR><TR><TD><FONT POINT-SIZE="10">Structures &amp; Materials</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH2305 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH2305</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Engineering Design and Manufacturing</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH2310 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH2310</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Science &amp; Engineering of Metals</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH3301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3301</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Materials Selection</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH4304 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH4304</TD></TR><TR><TD><FONT POINT-SIZE="10">Net Shape Manufacturing</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE3008 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE3008</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Special Topics C</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4003</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Special Topics A</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4015 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4015</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Special Topics VII</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE3211 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE3211</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Special Topics in Minerals Processing II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE4207 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE4207</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Special Topics in Minerals Processing I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode52 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode61 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode62 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode63 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode64 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode66 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode67 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode69 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode70 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode73 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode78 [label=or]
+	node [shape=box style=filled]
+	MINE3219 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MINE3219</TD></TR><TR><TD><FONT POINT-SIZE="10">Process Mineralogy and Comminution</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE3208 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE3208</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mineral and Coal Beneficiation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE3212 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE3212</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Pyrometallurgy</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE4200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE4200</TD></TR><TR><TD><FONT POINT-SIZE="10">Impact and Risk for Minerals Processing</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE4201 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MINE4201</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Metallurgical Plant Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENVM3525 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENVM3525</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Sustainable Business Practice</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MINE2105 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MINE2105</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Mining</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	TIMS3309 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>TIMS3309</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fundamentals of Technology and Innovation Management</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4006 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4006</TD></TR><TR><TD><FONT POINT-SIZE="10">Individual Inquiry</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4007 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4007</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Individual Inquiry</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4026 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEE4026</TD></TR><TR><TD><FONT POINT-SIZE="10">Thesis Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4027 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4027</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Thesis Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEE4303 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CHEE4303</TD></TR><TR><TD><FONT POINT-SIZE="10">Interface and Colloid Science and Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG3500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG3500</TD></TR><TR><TD><FONT POINT-SIZE="10">Reservoir Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode80 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode89 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode90 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode91 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode92 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode96 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode97 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode104 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode105 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode106 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode111 [label=or]
+	node [shape=box style=filled]
+	ENGG1100 -> orNode0
+	ENGG1100 -> orNode25
+	ENGG1100 -> orNode52
+	ENGG1100 -> orNode80
+	ENGG1200 -> orNode66
+	ENGG1200 -> orNode67
+	ENGG1200 -> orNode69
+	ENGG1200 -> orNode70
+	ENGG1200 -> orNode104
+	ENGG1200 -> orNode105
+	ENGG1200 -> orNode106
+	ENGG1211 -> orNode66
+	ENGG1211 -> orNode67
+	ENGG1211 -> orNode69
+	ENGG1211 -> orNode70
+	ENGG1211 -> orNode104
+	ENGG1211 -> orNode105
+	ENGG1211 -> orNode106
+	MATH1051 -> CHEE2001
+	MATH1051 -> orNode11
+	MATH1051 -> orNode13
+	MATH1051 -> orNode34
+	MATH1051 -> orNode36
+	MATH1051 -> orNode61
+	MATH1051 -> orNode63
+	MATH1051 -> orNode89
+	MATH1051 -> orNode91
+	MATH1071 -> orNode11
+	MATH1071 -> orNode13
+	MATH1071 -> orNode34
+	MATH1071 -> orNode36
+	MATH1071 -> orNode61
+	MATH1071 -> orNode63
+	MATH1071 -> orNode89
+	MATH1071 -> orNode91
+	MATH1052 -> orNode12
+	MATH1052 -> orNode14
+	MATH1052 -> CHEE2003
+	MATH1052 -> orNode35
+	MATH1052 -> orNode37
+	MATH1052 -> CHEE2501
+	MATH1052 -> orNode62
+	MATH1052 -> orNode64
+	MATH1052 -> orNode90
+	MATH1052 -> orNode92
+	MATH1072 -> orNode12
+	MATH1072 -> orNode14
+	MATH1072 -> orNode35
+	MATH1072 -> orNode37
+	MATH1072 -> orNode62
+	MATH1072 -> orNode64
+	MATH1072 -> orNode90
+	MATH1072 -> orNode92
+	CHEE1001 -> CHEE4020
+	CHEE1001 -> CHEE4305
+	CHEE1001 -> BIOL2202
+	CHEM1100 -> CHEM1200
+	CHEM1100 -> BIOC2000
+	CHEM1100 -> CHEE2001
+	CHEM1100 -> CHEM2056
+	ENGG1500 -> CHEE3003
+	ENGG1500 -> CHEE2001
+	ENGG1500 -> CIVL3150
+	CHEE2001 -> CHEE2003
+	CHEE2001 -> CHEE2010
+	CHEE2001 -> CHEE3002
+	CHEE2001 -> CHEE3003
+	CHEE2001 -> CHEE3020
+	CHEE2001 -> CHEE4020
+	CHEE2003 -> CHEE3002
+	CHEE2003 -> CHEE4012
+	CHEE2003 -> MINE3208
+	CHEE2003 -> ENGG3500
+	CHEE2010 -> CHEE4002
+	CHEE2010 -> MINE3219
+	CHEE2010 -> MINE4200
+	CHEM2056 -> CHEE4022
+	CHEM2056 -> MINE4203
+	CHEM2056 -> CHEE4303
+	CHEE3002 -> CHEE3004
+	CHEE3002 -> CHEE3005
+	CHEE3002 -> CHEE3007
+	CHEE3002 -> CHEE4009
+	CHEE3003 -> CHEE3004
+	CHEE3003 -> CHEE3005
+	CHEE3003 -> CHEE3007
+	CHEE3003 -> MINE4204
+	CHEE3003 -> MINE3212
+	CHEE3003 -> ENGG3500
+	CHEE3020 -> CHEE4060
+	CHEE3020 -> orNode43
+	CHEE3020 -> orNode78
+	CHEE3020 -> orNode111
+	CHEE4020 -> CHEE4034
+	CHEE4020 -> CHEE4028
+	CHEE3004 -> CHEE4001
+	CHEE3004 -> orNode43
+	CHEE3004 -> MINE4203
+	CHEE3004 -> orNode78
+	CHEE3004 -> orNode97
+	CHEE3004 -> orNode111
+	CHEE3005 -> CHEE4009
+	CHEE3005 -> MINE4204
+	CHEE3007 -> CHEE4060
+	CHEE3007 -> orNode42
+	CHEE3007 -> orNode73
+	CHEE3007 -> orNode96
+	CHEE4009 -> CHEE4022
+	CHEE4060 -> CHEE4001
+	CHEE4060 -> MINE4201
+	CHEM1090 -> CHEM1100
+	MATH1050 -> orNode0
+	MATH1050 -> MATH1051
+	MATH1050 -> MATH1071
+	MATH1050 -> MATH1052
+	MATH1050 -> MATH1072
+	MATH1050 -> orNode25
+	MATH1050 -> orNode52
+	MATH1050 -> orNode80
+	ENGG1400 -> MECH2300
+	orNode0 -> ENGG1200
+	orNode11 -> MATH2000
+	orNode12 -> MATH2000
+	orNode13 -> MATH2001
+	orNode14 -> MATH2001
+	CIVL3141 -> CIVL4140
+	CIVL3150 -> orNode42
+	CIVL3150 -> orNode73
+	CIVL3150 -> orNode96
+	MINE2201 -> MINE3219
+	orNode25 -> ENGG1200
+	orNode34 -> MATH2000
+	orNode35 -> MATH2000
+	orNode36 -> MATH2001
+	orNode37 -> MATH2001
+	orNode42 -> CHEE4060
+	orNode43 -> ENGY4000
+	MECH2300 -> CHEE4301
+	orNode52 -> ENGG1200
+	orNode61 -> MATH2000
+	orNode62 -> MATH2000
+	orNode63 -> MATH2001
+	orNode64 -> MATH2001
+	orNode66 -> MECH2300
+	orNode67 -> MECH2305
+	orNode69 -> MECH2310
+	orNode70 -> MECH3301
+	orNode73 -> CHEE4060
+	orNode78 -> ENGY4000
+	MINE3219 -> MINE3208
+	MINE3208 -> orNode97
+	MINE3208 -> MINE4201
+	orNode80 -> ENGG1200
+	orNode89 -> MATH2000
+	orNode90 -> MATH2000
+	orNode91 -> MATH2001
+	orNode92 -> MATH2001
+	orNode96 -> CHEE4060
+	orNode97 -> MINE4203
+	orNode104 -> MECH2300
+	orNode105 -> MECH2305
+	orNode106 -> MECH2310
+	orNode111 -> ENGY4000
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}

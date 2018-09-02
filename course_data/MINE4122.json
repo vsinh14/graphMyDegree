@@ -1,6 +1,7 @@
 {
     "course_code": "MINE4122",
     "course_name": "Mining Research Project I",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

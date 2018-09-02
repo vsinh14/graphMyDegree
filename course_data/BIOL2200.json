@@ -1,6 +1,7 @@
 {
     "course_code": "BIOL2200",
     "course_name": "Cell Structure & Function",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "BIOM2012",
     "course_name": "Systems Physiology",
+    "semesters": 2,
     "faculty": "Medicine",
     "school": "Biomedical Sciences School, Mathematics & Physics School",
     "units": "2",

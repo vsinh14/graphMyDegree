@@ -85,10 +85,25 @@ def generate_graph(major_code):
 
     draw_graph(dataStructure, major_code)
 
+def go(code):
+    write_all_data_for_major(code)
+    generate_graph(code)
+
 if __name__ == '__main__':
+    '''l = [
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHBIOW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHENVW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHMATW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=CHMETW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=MINGEW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ELCOMW2342',
+        'https://my.uq.edu.au/programs-courses/plan.html?acad_plan=ELBIOW2342'
+    ]
+    for c in l:
+        go(c.split('=')[-1])
+    exit(1)'''
     if len(argv) > 1:
-        write_all_data_for_major(argv[1])
-        generate_graph(argv[1])
+        go(argv[1])
     else:
         while True:
             url = input('Enter major URL: ')

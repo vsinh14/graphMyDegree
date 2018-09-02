@@ -1,0 +1,179 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	ENGG1100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1100</TD></TR><TR><TD><FONT POINT-SIZE="10">Engineering Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1211 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ENGG1211</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Design, Modelling &amp; Problem Solving</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1051 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1051</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1071 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1071</TD></TR><TR><TD><FONT POINT-SIZE="10">Advanced Calculus &amp; Linear Algebra I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1052 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1052</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH1072 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH1072</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Multivariate Calculus &amp; Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1300</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Electrical Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG1400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1400</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Mechanics: Statics &amp; Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE1001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE1001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Introduction to Software Engineering</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CSSE2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE2010</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Computer Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2001</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Calculus and Linear Algebra II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH2300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH2300</TD></TR><TR><TD><FONT POINT-SIZE="10">Structures &amp; Materials</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ELEC2004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ELEC2004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Circuits, Signals &amp; Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MATH2010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH2010</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Analysis of Ordinary Differential Equations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH2210 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH2210</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Intermediate Mechanical &amp; Space Dynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR2800 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>METR2800</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mechatronic System Design Project I</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	STAT2202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT2202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Probability Models for Engineering &amp; Science</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ELEC2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ELEC2003</TD></TR><TR><TD><FONT POINT-SIZE="10">Electromechanics &amp; Electronics</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ELEC3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ELEC3004</TD></TR><TR><TD><FONT POINT-SIZE="10">Signals, Systems &amp; Control</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR3100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>METR3100</TD></TR><TR><TD><FONT POINT-SIZE="10">Control System Implementation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR4201 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>METR4201</TD></TR><TR><TD><FONT POINT-SIZE="10">Control Engineering 1</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH2100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH2100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Machine Element Design</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	MECH3200 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3200</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Dynamics &amp; Vibrations</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR4202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>METR4202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Robotics &amp; Automation</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	ENGG4900 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG4900</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Professional Practice and the Business Environment</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR4810 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>METR4810</TD></TR><TR><TD><FONT POINT-SIZE="10">Mechatronic System Design Project II</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR4900 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>METR4900</TD></TR><TR><TD><FONT POINT-SIZE="10">Thesis/Design Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	METR4901 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>METR4901</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Thesis/Design Project</FONT></TD></TR></TABLE></FONT>> fillcolor=orange style=filled]
+	CHEM1090 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CHEM1090</TD></TR><TR><TD><FONT POINT-SIZE="10">Introductory Chemistry</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MATH1050 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH1050</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mathematical Foundations</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	PHYS1171 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1171</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Physical Basis of Biological Systems</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP3506 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3506</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Algorithms &amp; Data Structures</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	COMP3702 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COMP3702</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Artificial Intelligence</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE2002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE2002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Programming in the Large</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE2310 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>CSSE2310</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Computer Systems Principles and Programming</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	CSSE3010 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>CSSE3010</TD></TR><TR><TD><FONT POINT-SIZE="10">Embedded Systems Design &amp; Interfacing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC3100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ELEC3100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fundamentals of Electromagnetic Fields &amp; Waves</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC3300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ELEC3300</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electrical Energy Conversion &amp; Utilisation</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC3400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ELEC3400</TD></TR><TR><TD><FONT POINT-SIZE="10">Electronic Circuits</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC4400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ELEC4400</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Electronic &amp; Power Electronics Design</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC4620 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>ELEC4620</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Digital Signal Processing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ELEC4630 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ELEC4630</TD></TR><TR><TD><FONT POINT-SIZE="10">Image Processing and Computer Vision</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	ENGG1500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>ENGG1500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Thermodynamics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH2305 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH2305</TD></TR><TR><TD><FONT POINT-SIZE="10">Introduction to Engineering Design and Manufacturing</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH2310 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH2310</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Science &amp; Engineering of Metals</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH2410 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH2410</TD></TR><TR><TD><FONT POINT-SIZE="10">Fundamentals of Fluid Mechanics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3100 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3100</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Mechanical Systems Design</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3250 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3250</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Acoustics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3300 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH3300</TD></TR><TR><TD><FONT POINT-SIZE="10">Finite Element Method &amp; Fracture Mechanics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3301 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3301</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Materials Selection</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3400 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MECH3400</TD></TR><TR><TD><FONT POINT-SIZE="10">Thermodynamics &amp; Heat Transfer</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3410 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3410</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Fluid Mechanics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	MECH3750 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MECH3750</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Engineering Analysis II</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	PHYS1002 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>PHYS1002</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Electromagnetism and Modern Physics</FONT></TD></TR></TABLE></FONT>> fillcolor=green style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode0 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode7 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode8 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode10 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode12 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode14 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode16 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode17 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode18 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode20 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode24 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode26 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode27 [label=or]
+	node [shape=box style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode29 [label=or]
+	node [shape=box style=filled]
+	ENGG1100 -> orNode0
+	ENGG1200 -> orNode10
+	ENGG1200 -> orNode26
+	ENGG1200 -> orNode27
+	ENGG1200 -> orNode29
+	ENGG1211 -> orNode10
+	ENGG1211 -> orNode26
+	ENGG1211 -> orNode27
+	ENGG1211 -> orNode29
+	MATH1051 -> orNode7
+	MATH1051 -> orNode14
+	MATH1071 -> orNode7
+	MATH1071 -> orNode14
+	MATH1052 -> orNode8
+	MATH1052 -> orNode12
+	MATH1072 -> orNode8
+	MATH1072 -> orNode12
+	ENGG1300 -> ELEC2004
+	ENGG1300 -> ELEC2003
+	ENGG1400 -> MECH3100
+	ENGG1400 -> MECH2300
+	ENGG1400 -> MECH2210
+	ENGG1400 -> MECH2410
+	CSSE1001 -> COMP3702
+	CSSE1001 -> CSSE2002
+	CSSE1001 -> CSSE2310
+	CSSE2010 -> orNode20
+	CSSE2010 -> CSSE2310
+	MATH2001 -> ELEC3100
+	MECH2300 -> MECH2100
+	MECH2300 -> MECH3100
+	MECH2300 -> MECH3300
+	ELEC2004 -> ELEC3004
+	ELEC2004 -> orNode16
+	ELEC2004 -> CSSE3010
+	ELEC2004 -> orNode24
+	MATH2010 -> orNode24
+	MECH2210 -> orNode16
+	MECH2210 -> MECH3200
+	METR2800 -> orNode17
+	STAT2202 -> ELEC3004
+	STAT2202 -> orNode20
+	ELEC2003 -> ELEC3100
+	ELEC2003 -> ELEC3300
+	ELEC2003 -> ELEC3400
+	ELEC3004 -> orNode18
+	ELEC3004 -> ELEC4620
+	ELEC3004 -> ELEC4630
+	METR4201 -> orNode18
+	MECH2100 -> MECH3100
+	MATH1050 -> orNode0
+	MATH1050 -> MATH1051
+	MATH1050 -> MATH1071
+	MATH1050 -> MATH1052
+	MATH1050 -> MATH1072
+	CSSE2002 -> COMP3506
+	CSSE2310 -> CSSE3010
+	ELEC3400 -> ELEC4400
+	ENGG1500 -> MECH3400
+	MECH2305 -> orNode17
+	MECH2410 -> MECH3400
+	MECH2410 -> MECH3410
+	orNode0 -> ENGG1200
+	orNode7 -> MATH2001
+	orNode8 -> MATH2001
+	orNode10 -> MECH2300
+	orNode12 -> MATH2010
+	orNode14 -> STAT2202
+	orNode16 -> METR4201
+	orNode17 -> MECH2100
+	orNode18 -> METR4202
+	orNode20 -> COMP3506
+	orNode24 -> ELEC3400
+	orNode26 -> MECH2305
+	orNode27 -> MECH2310
+	orNode29 -> MECH3301
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}

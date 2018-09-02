@@ -1,6 +1,7 @@
 {
     "course_code": "BIPH2000",
     "course_name": "Foundations of Biophysics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Chemistry & Molec Biosciences, Mathematics & Physics School",
     "units": "2",

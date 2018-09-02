@@ -1,6 +1,7 @@
 {
     "course_code": "ERTH3250",
     "course_name": "Hydrogeology",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Earth and Environment Sc Schl",
     "units": "2",

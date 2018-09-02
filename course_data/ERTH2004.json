@@ -1,6 +1,7 @@
 {
     "course_code": "ERTH2004",
     "course_name": "Structural Geology",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Earth and Environment Sc Schl",
     "units": "2",

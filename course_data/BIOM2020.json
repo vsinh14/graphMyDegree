@@ -1,6 +1,7 @@
 {
     "course_code": "BIOM2020",
     "course_name": "Human Anatomy",
+    "semesters": 1,
     "faculty": "Medicine",
     "school": "Biomedical Sciences School",
     "units": "2",
