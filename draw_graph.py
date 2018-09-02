@@ -6,7 +6,7 @@ import networkx as nx
 from graphviz import Digraph
 import graphviz
 
-colorDict ={"A":'orange', "B":'green', "C":"yellow", "D":"blue"}
+colorDict ={"A":'orange', "B":'green', "C":"yellow", "D":"blue", None: 'white'}
 def draw_graph(ds: Data_structure, file_name):
     drawn = Digraph('course plan', filename = file_name, format = 'pdf')
     drawn.attr('node', shape='box')

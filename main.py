@@ -45,8 +45,11 @@ def write_all_data_for_major(major_code):
 
     # Adds the part letter to the major's course_data.json.
     for course, parts in major_parts.items():
-        min_parts = min(x.split(' ')[1] for x in parts)
-        print(course, parts, min_parts)
+        try:
+            min_parts = min(x.split(' ')[1] for x in parts)
+            print(course, parts, min_parts)
+        except AttributeError:
+            min_parts = None
         course_data[course]['major_part'] = min_parts
 
     print('Rewriting with added part letter.')
