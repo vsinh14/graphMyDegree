@@ -1,0 +1,12 @@
+{
+    "course_code": "HLTH6002",
+    "course_name": "Thesis",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "This course is designed for research students to implement a research proposal, conduct a research investigation and present the completed research findings in an academic thesis in the form of a research paper for publication in a relevant academic journal. Part-time students must enrol in HLTH6003 (year-long course).",
+    "prerequisites": "HLTH6000+6001",
+    "incompatible": "",
+    "restricted": ""
+}

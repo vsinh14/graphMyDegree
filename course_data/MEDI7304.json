@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7304",
+    "course_name": "Medicine",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "",
+    "description": "The purpose of the eight week Medicine rotation in Year 3 is to provide an introduction to clinical medicine and therapeutics. The rotation is based upon placements in (mainly) general medicine units located in each Clinical School as a framework for clinical learning in medicine, coupled with clinical discussion sessions for each of the seven weeks of the rotation. The clinical discussion sessions will be co-ordinated by a consultant physician. In some cases a sub-specialist with a clinical interest in the topic of the week will be involved. The plan is for Year 3 students to continue to use their self-directed learning techniques and knowledge acquired during Years 1 and 2 of the MD to focus their learning within a hospital ward environment.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7242",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

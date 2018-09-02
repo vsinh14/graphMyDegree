@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP3505",
+    "course_name": "Social and Mobile Computing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by DECO3500.]",
+    "prerequisites": "COMP2506",
+    "incompatible": "COMP7705",
+    "restricted": ""
+}

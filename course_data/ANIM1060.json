@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM1060",
+    "course_name": "Animal and Veterinary Biology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "VETS1060 will replace ANIM1060 from 2015 onwards.",
+    "prerequisites": "",
+    "incompatible": "VETS1022",
+    "restricted": "Any student that has completed BIOL1020, BIOL1030 or BIOL1040 will need permission from the Faculty of Science to enrol into ANIM1060. Please contact the Faculty of Science."
+}

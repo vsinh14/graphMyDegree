@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3101",
+    "course_name": "Income Tax Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introductory level examination of the basic principles of taxation law in Australia, with particular emphasis on the topics required by professional accounting bodies for accreditation purposes.",
+    "prerequisites": "COMM1202 or LAWS1000 or 1100",
+    "incompatible": "LAWS5144 or LAWS7012 or LAWS7144 or LAWS7344",
+    "restricted": "Not for students enrolled in LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Grad Entry), LLB(Hons) duals and LLB dual programs"
+}

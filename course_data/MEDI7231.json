@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7231",
+    "course_name": "Ethics and Professional Practice 3",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course provides a deeper engagement with the ethical, professional and legal obligations of the doctor consistent with the second year of the medical program. Problem-solving skills in the context of the clinical consultation necessarily include consideration of the ethical and legal aspects of the presenting problem and its management. These skills develop in conjunction with developing analytical and communication skills. The course will be delivered using a combination of lectures and symposia, web-based resources and readings.",
+    "prerequisites": "MEDI7132",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT4042",
+    "course_name": "Dentistry for Children II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Instruction in clinical techniques in paediatric dentistry & orthodontics. Patients are allocated for clinical examination, case analysis & treatment.",
+    "prerequisites": "DENT3042",
+    "incompatible": "",
+    "restricted": ""
+}

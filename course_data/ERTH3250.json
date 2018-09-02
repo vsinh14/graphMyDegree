@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3250",
+    "course_name": "Hydrogeology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The hydrologic cycle, water budgets and basic hydrologic processes. Physical properties of porous media and groundwater flow principles. Steady-state groundwater flow; transient groundwater flow, well hydraulics and groundwater resource evaluation and regional groundwater flow. Hydrogeochemistry and transport processes. All applied to current issues around groundwater and the hydrologic cycle.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

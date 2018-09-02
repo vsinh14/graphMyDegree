@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7203",
+    "course_name": "Applied Probability & Statistics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Probability and Statistics for Data Science: basic probability theory, distributions and properties, sampling methods, EDA, estimation, hypothesis tests, regression, experimental design, transform methods, model construction, reliability, and joint distributions.",
+    "prerequisites": "MATH7501",
+    "incompatible": "ECON1310, ECON1320, STAT1201, STAT2003, STAT2201, STAT2202, STAT2203",
+    "restricted": ""
+}

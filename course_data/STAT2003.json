@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT2003",
+    "course_name": "Probability & Statistics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Probability; random variables; probability distributions; Markov processes; statistical analysis & modelling",
+    "prerequisites": "MATH1050 or SA Year 12 Maths C",
+    "incompatible": "STAT2001",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2012",
+    "course_name": "Systems Physiology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will develop an understanding of how the major organ systems of the body perform their normal functions & how these are regulated & integrated in order to maintain homeostasis.",
+    "prerequisites": "BIOM2011 + BIOL2200",
+    "incompatible": "BIOM2007 or BIOM2008",
+    "restricted": ""
+}

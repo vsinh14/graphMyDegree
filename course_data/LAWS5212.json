@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5212",
+    "course_name": "Alternative Dispute Resolution",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the theories and principles of Alternative Dispute Resolution (ADR) and to the application of ADR, both within Australia and internationally, including an overview of the principal ADR processes (such as mediation and arbitration) and an analysis of their theoretical and legal underpinnings and of their practical applications, under both party agreement and rules of court.",
+    "prerequisites": "All Level 1 and 2 LAWS courses",
+    "incompatible": "LAWS7212",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE7620",
+    "course_name": "Fire Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to build on the skills and knowledge on the principles of fire dynamics that were introduced in FIRE3700. Detail will be developed in the following areas: fire growth, combustion chemistry, smoke behaviour, compartment fires and heat transfer.",
+    "prerequisites": "FIRE3700 or ENGG3700",
+    "incompatible": "",
+    "restricted": ""
+}

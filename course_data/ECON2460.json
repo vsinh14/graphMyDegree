@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2460",
+    "course_name": "Health Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Descriptive & theoretical aspects of health & medical services; demand & supply for health insurance, hospitals, etc; equity v. efficiency in services; health financing & health systems; evaluation techniques.",
+    "prerequisites": "ECON1010",
+    "incompatible": "ECON7460",
+    "restricted": ""
+}

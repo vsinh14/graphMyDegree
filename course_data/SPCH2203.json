@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH2203",
+    "course_name": "Clinical Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Supervised clinical learning & practice with a focus on the integration of knowledge & skills in the description & analysis of communication disorders, & the role of the student as a clinical practitioner.",
+    "prerequisites": "SPCH2104, SPCH2105, SPCH2106",
+    "incompatible": "",
+    "restricted": "BSpPath Students"
+}

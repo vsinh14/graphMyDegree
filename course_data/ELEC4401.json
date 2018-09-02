@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4401",
+    "course_name": "Medical & Industrial Instrumentation",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Measurement of biological signals from transducers, signal conditioning, display & analysis. Practical work based on design, construction & validation of simple clinical measurement devices. Field trips to clinical measurement laboratories.",
+    "prerequisites": "ELEC7401",
+    "incompatible": "ELEC3401 or ELEC4401 or ELEC4403",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS1003",
+    "course_name": "Digestion, Metabolism & Nutrition",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Anatomy of the oral cavity, gastro-intestinal tract, liver & pancreas. Cellular, organ & whole body regulation of carbohydrate, lipid & amino acid metabolism in mammals. Elimination of waste products. Nutrient-endocrine & nutrient-gene interactions. Food & feed composition & nutritive value. Development, sites & mechanism of digestion & absorption in different species, diet & nutrient profiles for tissue use.",
+    "prerequisites": "VETS1060 or ANIM1060",
+    "incompatible": "ANIM1023",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

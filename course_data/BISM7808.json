@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7808",
+    "course_name": "Information Technology for Business Value",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In the current business environment, Information Communication Technology (ICT) is recognised as not only supporting current business strategies but providing opportunities to competitively shape them. ICT Leadership within organisations in modern organisations requires a diverse understanding of business strategy, internal and external stakeholders, business operations, prevailing organisational social climate, firm's current IT environment, and future ICT trends that can support or shape organisational strategy. \nFurthermore, ICT executives must utilise analytic and forecasting capabilities to plan and manage a complex portfolio of ICT investments successfully, through the evaluation of the impact and performance of these investments over time. A central concern of these ICT investments is the provision of high-quality information services at multiple points across an organisation's supply and value chains to improve operational and strategic outcomes. Hence, this course aims to provide a strategic understanding of the benefits, issues, risks, and limitations of ICT's role in the provision of integrated information services and systems in sympathy with business requirements from both leadership and management perspectives.",
+    "prerequisites": "",
+    "incompatible": "MGTS7070 or 7808",
+    "restricted": "GCBA, GDipBA, MBA"
+}

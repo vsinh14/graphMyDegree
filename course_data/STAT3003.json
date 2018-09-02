@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT3003",
+    "course_name": "Experimental Design",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of completely random design, block designs, Latin squares, multiple comparisions, factorial experiments. Basic concepts of sampling introduced, with following in detail: simple random sampling, stratified sampling & aspects of ratio estimation.",
+    "prerequisites": "STAT2004",
+    "incompatible": "",
+    "restricted": ""
+}

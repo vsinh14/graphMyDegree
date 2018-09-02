@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2051",
+    "course_name": "Animal Anatomy & Physiology 1",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course serves as an introduction to the structure and function of mammals from cells, to tissues and then some of the major organ systems.",
+    "prerequisites": "",
+    "incompatible": "ANIM1003;VETS1000",
+    "restricted": ""
+}

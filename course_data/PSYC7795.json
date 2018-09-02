@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC7795",
+    "course_name": "Externship C",
+    "faculty": "Social & Behavioural Sciences",
+    "school": "Human Movement Studies School, Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Not offered in 2010. \nSupervised professional practice in an area of psychology other than sport.",
+    "prerequisites": "Probationary or general state registration plus PSYC7745",
+    "incompatible": "PY892, PSYC7765",
+    "restricted": "MPsychSport&Ex"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3014",
+    "course_name": "Nanoscience: Synthesis",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the synthesis of nanostructures and their use in nanotechnology. Fundamentals of synthetic methods, structure-property relationships and application in computing, drug and vaccine delivery, plastic optoelectronics, diagnostics, nanoreactors, and nanorobots. This course would aid anyone as a practitioner in the field of nanomaterials.",
+    "prerequisites": "",
+    "incompatible": "CHEM3007",
+    "restricted": ""
+}

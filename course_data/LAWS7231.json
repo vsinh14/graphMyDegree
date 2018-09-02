@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7231",
+    "course_name": "Criminal Law and Procedure B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7104",
+    "incompatible": "LAWS2006 or 2114 or 7106",
+    "restricted": "JD"
+}

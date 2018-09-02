@@ -1,0 +1,12 @@
+{
+    "course_code": "EVNT2000",
+    "course_name": "Fundamentals of Event Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces key concepts and processes relevant to event management. It explores the theoretical underpinnings of event management and presents a number of Australian and international case studies for student consideration.",
+    "prerequisites": "",
+    "incompatible": "QB340 or TALM2502",
+    "restricted": "Not to be studied by BE students"
+}

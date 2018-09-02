@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP3702",
+    "course_name": "Artificial Intelligence",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Methods & techniques within the field of artificial intelligence, including problem solving and optimisation by search, representing and reasoning with uncertain knowledge and machine learning. Specific emphasis on the practical utility of algorithms and their implementation in software.",
+    "prerequisites": "CSSE1001",
+    "incompatible": "COMP3701 or COMP7701 or COMP7702",
+    "restricted": ""
+}

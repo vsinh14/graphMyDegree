@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS7800",
+    "course_name": "Applied Research in Health Sciences",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "",
+    "prerequisites": "",
+    "incompatible": "[HRSS7800 + HRSS7801] (only if completed as an individual project), HRSS4100, HRSS4300, HRSS6001, HRSS7300, HRSS7803, HRSS7805",
+    "restricted": "MSpPathSt"
+}

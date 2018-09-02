@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2011",
+    "course_name": "Animal Physiology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A holistic, integrative physiological view of the major organs & tissues in mammals.",
+    "prerequisites": "",
+    "incompatible": "QA116 or VG204",
+    "restricted": ""
+}

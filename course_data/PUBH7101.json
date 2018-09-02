@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7101",
+    "course_name": "Communicable Disease Management & Control",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers the management and control of communicable diseases affecting human populations. The core components of communicable disease management and control such as surveillance, screening, case finding and diagnostics, vector elimination, immunisation, and outbreak control in the domestic and international settings will be discussed. Diseases will be discussed according to their common modes of transmission and how this impacts on the implementation and effectiveness of management and control strategies. The global distribution, epidemiology, life cycle, clinical manifestations, treatment, prevention, control and surveillance of selected communicable diseases will be discussed in detail to assist students to apply the principles of communicable disease management and control covered in this course. For diseases that have vectors or intermediary hosts, factors affecting disease transmission, vector ecology and environmental control options will also be discussed. This course may not be offered if the enrolment is less than 15 students.",
+    "prerequisites": "PUBH7600",
+    "incompatible": "",
+    "restricted": ""
+}

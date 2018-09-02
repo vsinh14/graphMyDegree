@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7232",
+    "course_name": "Operations Research & Mathematical Planning",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Techniques and applications of optimisation in operations research, including linear programming, integer programming, dynamic programming and meta-heuristics. Use of Python and the Gurobi optimisation package for linear and integer programming.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH3202",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM3031",
+    "course_name": "Social and Professional Aspects of Pharmacy B1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Evidence based practice, critical appraisal of studies, study design, clinical epidemiology.",
+    "prerequisites": "",
+    "incompatible": "PHRM3030",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy"
+}

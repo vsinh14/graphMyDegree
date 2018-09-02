@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2340",
+    "course_name": "Introduction to Structural Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Basic principles of structural design, loads on structures. Limit State design methodology, design of steel members: tension, compression, beam-columns & combined actions.",
+    "prerequisites": "",
+    "incompatible": "CIVL2320 or 2310",
+    "restricted": ""
+}

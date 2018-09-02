@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3010",
+    "course_name": "Engineering Investigation & Statistical Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project based investigation of engineering operations. Effective quantitative sampling & statistical analysis including hypothesis testing, standard probability models, estimation, regression & experimental design. Technical reporting & project management skills",
+    "prerequisites": "(MATH1050 or MT150 or SA in year 12 maths C) + (CHEE2001 or 1E201)",
+    "incompatible": "CHEE3001 + STAT2201",
+    "restricted": "BE students required to complete STAT2201, CHEE3010, MINE3214, must not enrol in ECON1310. Students must obtain approval from the BEL Faculty. BE Students required to complete STAT2201, STAT2202, CHEE3010, MINE3214, for the BE must not enrol in STAT1201. Exemption given for STAT1201."
+}

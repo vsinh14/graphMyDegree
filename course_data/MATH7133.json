@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7133",
+    "course_name": "Algebraic Methods of Mathematical Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Algebraic structures & their representations of importance to current mathematical physics research: Lie algebras & superalgebras; quantum groups & algebras; Hopf & quasi-Hopf algebras; affine & Kac-Moody algebras. Illustrative applications to knot theory & physics.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH3103",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT3103",
+    "course_name": "Accounting for Corporate Structures",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Accounting for corporate group structures, joint arrangements, associates, foreign currency translations, operating segments, external administration and capital structures.",
+    "prerequisites": "ACCT3102",
+    "incompatible": "ACCT7104",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

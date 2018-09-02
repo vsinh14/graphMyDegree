@@ -1,0 +1,12 @@
+{
+    "course_code": "PLNT2002",
+    "course_name": "Plant Physiology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines plant physiology and relates this to growth and development. The main physiological systems will be examined sequentially and aspects of biology relevant to currently active or promising research areas featured. The course features aspects of physiology that are relevant to the development of plants important to agriculture and horticulture, including weeds. Lectures and laboratory classes will be accompanied with web-based resources.",
+    "prerequisites": "",
+    "incompatible": "PLNT2006 or AGRC7048",
+    "restricted": ""
+}

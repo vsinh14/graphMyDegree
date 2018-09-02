@@ -1,0 +1,12 @@
+{
+    "course_code": "PLNT2011",
+    "course_name": "Plant and Environmental Health",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the identification and management of pests in cropping and conservation areas. The course aims to provide an understanding of the best strategies for the management of these problems through the developmment of integrated programs.",
+    "prerequisites": "",
+    "incompatible": "PLNT2008, AGRC2042",
+    "restricted": ""
+}

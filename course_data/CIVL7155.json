@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7155",
+    "course_name": "Physical and numerical modelling of environmental fluid mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in even-numbered years (eg. 2018). The focus of this course is the physical and numerical modelling of environmental fluid mechanic flows (e.g. dam-break flow, open channel hydraulics, wind, or waves). Techniques for data collection, physical model verification, data analysis, scaling laws are explored. Digital literacy through numerical model choice and development, finite difference, finite element and finite volume models, stability analysis, both analytically and numerically, rules of thumb to check models, data handling and managing model codes and test cases, uncertainty methods, two phase flows. Techniques and models to be in aligned with Industry practice and research, including developing model input (e.g., model choice, survey data, model schemes, structures, & historical information), Boundary conditions, initial conditions, model parameters, sensitivity & uncertainty, calibration/verification, quality assurance processes, reporting.",
+    "prerequisites": "(STAT2201 or CIVL2150) and CIVL2135 and CIVL3140 and CIVL3141",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM1201",
+    "course_name": "Transforming Business with Information Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Uses of information systems in organisations, management of information systems. Introduction to computer hardware & software; information systems development, implementation & operation. Practical experience with spreadsheets, database management and other business applications software for business problems.",
+    "prerequisites": "",
+    "incompatible": "MGTS1201 or BISM7202 or MGTS7202",
+    "restricted": ""
+}

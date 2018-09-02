@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2010",
+    "course_name": "Microeconomic Theory",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Draws on models developed in Introductory Microeconomics. Partial & general equilibrium analysis, demand, production & cost theory. Various theories of the firm examined.",
+    "prerequisites": "ECON1010 or EC110 or 121",
+    "incompatible": "EC211",
+    "restricted": ""
+}

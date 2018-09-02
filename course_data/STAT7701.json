@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7701",
+    "course_name": "Special Topics I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced topics in statistics.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "",
+    "restricted": ""
+}

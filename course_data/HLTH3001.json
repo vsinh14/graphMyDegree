@@ -1,0 +1,12 @@
+{
+    "course_code": "HLTH3001",
+    "course_name": "Practicum in Health Sciences",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course involves supervised work experience in environments where Health Sciences graduates may work including health services, universities and non-government agencies. The course assumes students will have knowledge and skills consistent with completion of the first two years of the Bachelor of Health Sciences program.",
+    "prerequisites": "Completed 2 full years of the BHlthSc.",
+    "incompatible": "",
+    "restricted": "BHlthSc, Enrolment requires permission from the Program Director"
+}

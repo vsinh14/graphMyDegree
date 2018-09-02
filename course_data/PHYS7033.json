@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7033",
+    "course_name": "Condensed Matter Physics: Electronic properties of crystals",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "It will be shown how the electronic properties of crystals can be understood in terms of quantum mechanics and statistical mechanics. What distinguishes metals, semiconductors, and insulators? The course will be useful to students in physics, chemistry, and materials and electrical engineering.",
+    "prerequisites": "Permission of Head of School + PHYS3020 + 3040",
+    "incompatible": "PHYS4030",
+    "restricted": ""
+}

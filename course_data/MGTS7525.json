@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS7525",
+    "course_name": "Business Dynamics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Building on existing business strategy concepts, this course uses the tools and principles of System Dynamics to analyse and understand a firm's performance and design robust strategies to improve its performance through time.",
+    "prerequisites": "MGTS7523",
+    "incompatible": "",
+    "restricted": ""
+}

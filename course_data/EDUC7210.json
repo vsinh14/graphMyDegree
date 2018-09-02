@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC7210",
+    "course_name": "Teaching and Learning in Inclusive Settings",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Education School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an overview of teaching and learning for individuals with a diverse range of abilities and needs in inclusive settings. It aims to develop understanding of what is required to facilitate the learning of a diverse range of students in the regular classroom.\n\nThe course is designed to examine how teachers and others should assist students with a diverse range of abilities and needs in the regular classroom. An emphasis is on examining the use of Universal Design for Learning and differentiated instruction. The issue of the use of research-based approaches to teaching and learning is highlighted. This course may not be offered internally if the enrolment is less than 10 students.",
+    "prerequisites": "EDUC7019 or co-requisite",
+    "incompatible": "EDUC7202",
+    "restricted": "Quota: Minimum 10 student enrolments for internal offering"
+}

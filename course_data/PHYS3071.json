@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3071",
+    "course_name": "Computational Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Computational physics involving the Unix/Linux operating system environment and C programming. This is an introduction to computer programming & relevant numerical & graphical methods as applied to a range of physics problems. Topics include classical dynamics (ODEs), and Schrodinger's Wave Equation (PDEs).",
+    "prerequisites": "(MATH2001 + MATH2100)",
+    "incompatible": "PHYS3070",
+    "restricted": ""
+}

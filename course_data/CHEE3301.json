@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3301",
+    "course_name": "Polymer Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Polymer synthesis & characterisation. Dependence of properties on molecular structure & microstructure. Polymer rheology. Unit processing operations, formulation & uses of polymers, mechanical properties, degradation & failure methods.",
+    "prerequisites": "",
+    "incompatible": "CHEE7331 or MMME3301 or 7305",
+    "restricted": ""
+}

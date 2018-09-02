@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH6560",
+    "course_name": "Advanced Geophysical Signal Processing",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to follow on from the introductory course entitled 'Geophysical Signal Processing' (ERTH4120, ERTH7150). The theoretical material from that course is assumed to be prerequisite and will be required here. The course will include various elements including:\n\n- A number of assignments designed to extend concepts studied previously\n\n- Concise mini-lectures to outline assignments and introduce new concepts\n\nThe course pans one semester and is worth 2 units. In this course, assignment work is an important tool in the learning process. The course is intended for students who can operate autonomously.",
+    "prerequisites": "Geophysical Signal Processing (ERTH4120 or ERTH7510)",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students.\nPermission required to enrol in course. Please email sees@enquire.uq.edu.au"
+}

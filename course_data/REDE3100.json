@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE3100",
+    "course_name": "Investment Method of Valuation",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The investment method of valuation and its application to industrial and commercial property. Valuation methods, principles and their application. Applied computer modelling for income producing properties and the preparation of valuation reports.",
+    "prerequisites": "REDE1100",
+    "incompatible": "REDE2501 or 7100",
+    "restricted": ""
+}

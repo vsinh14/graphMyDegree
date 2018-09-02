@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2054",
+    "course_name": "Experimental Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will consist of practical laboratory training, addressing the market place need for industry-ready chemists with relevant practical and communication skills. A laboratory intensive experience will include attendant exposure to quantitative & qualitative analytical skills & other core laboratory competencies. In lectorials, students will learn the theory underlying various laboratory techniques, including spectroscopy, separation science and electrochemistry, before applying these in the laboratory. Emphasis will be placed on the requirements of good scientific communication in terms of keeping a lab notebook and writing of laboratory reports. Students will be introduced to the ethical principles underlying the responsible practice of Chemistry.",
+    "prerequisites": "CHEM1100 and CHEM1200",
+    "incompatible": "",
+    "restricted": ""
+}

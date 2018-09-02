@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP4000",
+    "course_name": "Special Topics in Computer Science 4A",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Specialist lectures/projects on topical issues in computer science to be given by visiting lecturers or staff members nominated by the Head of School. For details, consult Head of School.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "",
+    "restricted": ""
+}

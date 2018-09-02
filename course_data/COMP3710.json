@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP3710",
+    "course_name": "Pattern Recognition and Analysis",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Understanding patterns in our environment and in data is an important cognitive ability. The development of recognition and automated algorithms that are able to process copious amounts data without (or with limited) human intervention is critical in replicating this ability in machines. \nThis course will cover the fundamentals of creating computational algorithms that are able to recognise and/or analyse patterns within data of various forms. Python and state-of-the-art packages like Tensorflow will be used as a mechanism for students to study patterns in nature, noise and data from various real-world sources, such images, social media and biomedical signals. The course is divided into four main modules:\n1. Understanding patterns in nature \u00c2\u00bf Introduction to fractal geometry and how nature compresses and generates patterns\n2. Using noise and properties of noise to recover lost signals \u00c2\u00bf Introduction to stochastic resonance, Kalman and Wiener filtering, expectation maximisation, and compressed sensing\n3. Analysing patterns using different transform domains \u00c2\u00bf Introduction to Hough, Fourier, Radon, Fermat, Wavelet and Hilbert transforms.\n4. Understanding the Human Vision System \u00c2\u00bf Introduction to simple psycho-visual models of the human vision system using transform domains.\nStudents will have the opportunity to implement and create pattern recognition and analysis solutions using the algorithms discussed on actual research data. This will allow them to specialise into areas of image analysis, sound analysis and data science for specific assessments. Guest lecturers and leaders in these areas will present some of their work to highlight the societal impact of these algorithms.",
+    "prerequisites": "MATH1052 and CSSE1001",
+    "incompatible": "",
+    "restricted": ""
+}

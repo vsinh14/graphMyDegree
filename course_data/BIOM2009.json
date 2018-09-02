@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2009",
+    "course_name": "Human Physiology & Pharmacology A I",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Development of understanding of function of human body & use & effects of drugs in disease-oriented context. Integrated approach to the physiology & pharmacology of the nervous system.",
+    "prerequisites": "BIOM1052",
+    "incompatible": "",
+    "restricted": "BPharm students"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7023",
+    "course_name": "Business and Corporate Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the Australian legal system and develops student knowledge of Australian business and corporations law. The course is intended to provide a foundation for non-legal professionals intending to work in business.",
+    "prerequisites": "",
+    "incompatible": "(LAWS1100 + LAWS3100) or LAWS4112 or LAWS5017 or (LAWS7000 + LAWS7011) or (LAWS7010 + LAWS7011) or LAWS7117 or LAWS7234 or LAWS7317\nNot available to students in the LLM, LLM(Adv), LLM(#16) or LLM(#24) programs",
+    "restricted": "Course is not recommended for students with legal qualifications"
+}

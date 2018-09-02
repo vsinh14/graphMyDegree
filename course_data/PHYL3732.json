@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL3732",
+    "course_name": "Advanced Exercise Physiology",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Develop skills in reading, reporting and evaluating research on human physiological responses to exercise and training and to advance practical skills in major areas of measurement and programming. \n This course had the previous code of HMST3732 which can be viewed in the archived area within the Course and Program site http://www.uq.edu.au/study/archive/index.html",
+    "prerequisites": "HMST2730 or PHYL2730 + First Aid and Cardiopulmonary Resuscitation",
+    "incompatible": "HMST3732",
+    "restricted": "BENS or BExSS or BExSS(Hons)"
+}

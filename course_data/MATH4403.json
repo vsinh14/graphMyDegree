@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4403",
+    "course_name": "Partial Differential Equations III/IVH",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 1 in odd years only)\nLaplace and heat equations (fundamental solutions, maximum principles). Wave equation (symmetric solutions, dimension reduction). Sobolev spaces ( regularity of solutions, energy methods, embedding theorems). Generalizations and applications.",
+    "prerequisites": "MATH2400 or MATH2401",
+    "incompatible": "MATH7403",
+    "restricted": ""
+}

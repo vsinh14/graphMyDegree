@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3017",
+    "course_name": "Biochemistry & Nutrition",
+    "faculty": "Natural Resources, Agriculture & Veterinary Science",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Digestion & absorption of food in animals, microbiology & biochemistry of ruminal fermentation, regulation of metabolic pathways of protein, lipid & carbohydrate synthesis & degradation, biochemical basis of maintenance & production in farm animals, protein, energy & mineral requirements of animals, nutritive value of feeds, diagnosis of nutritional deficiencies.",
+    "prerequisites": "AG201 or LF201",
+    "incompatible": "AG325, ANIM3040",
+    "restricted": ""
+}

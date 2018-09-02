@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7409",
+    "course_name": "Financial Management for Decision Makers",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Financial Management for Decision Making is designed to introduce students to accounting and finance with a focus on decision making within the organisation. The course will begin with a discussion of the finance and accounting functions in a business organisation and students will be able to explain how risk, ethical issues and stakeholder needs influence shareholder objectives. Students will learn to analyse and interpret financial statements, undertake financial forecasts and make capital investment decisions. Specifically, the time value of money and discounted cash flow methods will be implemented and evaluated in the context of alternative capital budgeting techniques. Methods of raising finance will be explored and students will be able to explain how to calculate the cost of capital and debate the issues surrounding capital structure. This debate will extend to distributions to shareholders. Concepts of risk and return will then be analysed in the context of the capital market and students will be able to provide an analysis of market efficiency and asset pricing models.",
+    "prerequisites": "",
+    "incompatible": "(ACCT1101 + FINM2400) or FINM2401 or FINM7401",
+    "restricted": "Students in the MBus(#24), GCCom, MCom programs are not permitted to enrol in this course."
+}

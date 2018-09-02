@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7202",
+    "course_name": "Statistical Methods for Data Science",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with the core ideas which are important for analysing and interpreting massive data sets. These include modelling techniques: Linear models, smoothing regularisation and LASSO methods for big datasets and logistic regression. Students will also be introduced to a range of data science specific tools such as time-series models, spatial models, graphical models, process simulation and image processing techniques. Data based decision making methods and algorithms.",
+    "prerequisites": "STAT7203 (or STAT2203), MATH7502.",
+    "incompatible": "",
+    "restricted": "Restricted to MDataSc students only."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4406",
+    "course_name": "Control Theory III/IVH",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even-numbered years only). Topics from: state space control; linear systems; calculus of variations & Pontryagin principle; optimal control, quadratic optimisation, Riccati equations; stability; LQG, Kalman filtering; frequency domain theory; Matrix transfer functions, realisations; coprime factorisation; robust control.",
+    "prerequisites": "MATH2100 or MATH2010",
+    "incompatible": "MATH7406",
+    "restricted": ""
+}

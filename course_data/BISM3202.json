@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3202",
+    "course_name": "Machine Learning in R",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Machine learning has the aim of transforming data into actionable knowledge, especially \"big data\". Working in the R environment, this course introduces students to different types of machine learning models and their applications to business analytics. Specific emphasis is placed on methods of classification and predictive models, as well as evaluating and improving model performance.",
+    "prerequisites": "BISM2204",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

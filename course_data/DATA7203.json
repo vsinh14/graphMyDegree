@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7203",
+    "course_name": "Computational Models for Data Science",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will introduce three computational models that are important in analysing algorithms operating on massive datasets. The first one, called the external memory model, is suitable for algorithms whose cost is dominated by the number of disk I/Os performed. The second one, called the stream model, is suitable for algorithms that process an unbounded sequence of continuously-arriving elements with a small amount of memory. The last one, called the MapReduce model, is suitable for algorithms that leverage a cluster of machines to accomplish a computation task. For each model, classic algorithms will be discussed to illustrate the model's characteristics and basic techniques for designing efficient algorithms.",
+    "prerequisites": "COMP7505",
+    "incompatible": "",
+    "restricted": "Restricted to MDataSc students only."
+}

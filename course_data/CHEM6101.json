@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM6101",
+    "course_name": "Research Project in Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "10",
+    "duration": "Two Semesters",
+    "description": "Individual research topic in the area of Chemistry, guided by an academic supervisor.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BSc(Hons) students"
+}

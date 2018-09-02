@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5125",
+    "course_name": "Unjust Enrichment",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines selective unjust enrichment claims. Topics include mistaken transactions; misdirected payments; claims arising out of ineffective, incomplete or failed contracts; benefits obtained by improper coercion; disgorgement of the profits of wrongdoing; defences and proprietary remedies for unjust enrichment.",
+    "prerequisites": "All Level 1, 2 & 3 LAWS courses",
+    "incompatible": "LA429 or 761 or LAWS7125 or 7325",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

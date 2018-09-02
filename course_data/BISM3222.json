@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3222",
+    "course_name": "Information Analysis and System Design",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Structured analysis & design for business; data analysis & design; object-oriented analysis & design; testing & quality assurance; practical group experience with computer-assisted software engineering tools for business applications.",
+    "prerequisites": "BISM1201 or MGTS1201 or 2 units COMP/COMS/INFS courses",
+    "incompatible": "INFS3222 or BISM7255 or INFS7255",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

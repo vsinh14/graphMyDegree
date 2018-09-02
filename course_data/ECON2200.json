@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2200",
+    "course_name": "Management of Financial Institutions",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analyses economics of modern banking theory & financial institutions management. Describes various types of financial institutions & examines means of managing their operations.",
+    "prerequisites": "ECON1010",
+    "incompatible": "EC202",
+    "restricted": ""
+}

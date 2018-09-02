@@ -1,0 +1,12 @@
+{
+    "course_code": "TIMS3302",
+    "course_name": "Entrepreneurship",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces theory, practice and research into starting and growing new ventures. Knowledge and skill development focuses on start-up planning as well as learning-by-doing through adaptive execution. Topics include matching types of new venture to entrepreneurial goals, the value creation process, designing business models for value, assessing market attractiveness, networking, raising finance, creating competitive advantage, writing business plans, franchising and managing growth.",
+    "prerequisites": "8 units BBusMan / BAdvBus(Hons) courses",
+    "incompatible": "MEBS7116 or TIMS7301 or 7329",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2901",
+    "course_name": "Advanced Chemistry 1",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is specifically designed for students enrolled in the BAdvSc(Hons) with an interest in Chemistry. The fundamentals of Organic and Inorganic Chemistry as well as Chemical Kinetics taught in CHEM2050 will be built upon and explored in depth. The additional advanced content will enhance understanding of the fundamental concepts but also provide a more coherent foundation for third year chemistry courses and for research in the fields of organic, biological, inorganic and materials chemistry. The course will contain no wet practicals but will have problem based-learning workshops with advanced problem solving e.g. strategies for multi-step synthesis. This will clearly be integral to producing students with theoretical problem solving skills and the ability to communicate.",
+    "prerequisites": "CHEM1100 and CHEM1200",
+    "incompatible": "CHEM2050",
+    "restricted": "BAdvSc(Hons) or by approval of the course coordinator"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH1240",
+    "course_name": "Architecture in the Western Tradition",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the main theoretical issues in the history of western European architecture & how they have shaped architectural knowledge & production.",
+    "prerequisites": "",
+    "incompatible": "ARCH2110",
+    "restricted": ""
+}

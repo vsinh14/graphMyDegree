@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2052",
+    "course_name": "Animal Anatomy & Physiology 2",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course follows on from ANIM2051 and includes, blood, the cardiovascular, nervous and endocrine systems with an emphasis on homeostasis.",
+    "prerequisites": "ANIM2051",
+    "incompatible": "ANIM2011",
+    "restricted": ""
+}

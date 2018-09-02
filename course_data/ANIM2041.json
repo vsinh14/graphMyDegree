@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2041",
+    "course_name": "Livestock Industries",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the major animal industries of economic significance in Australia including welfare, management and production aspects.",
+    "prerequisites": "ANIM1014",
+    "incompatible": "ANIM2012, ANIM1958D, ANIM1959D, ANIM1962D, ANIM1963D",
+    "restricted": ""
+}

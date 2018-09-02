@@ -1,0 +1,12 @@
+{
+    "course_code": "PCOL2000",
+    "course_name": "Introduction to Basic and Clinical Pharmacology",
+    "faculty": "Medicine & Biomedical Sciences",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to Basic & Clinical Pharmacology will build on the knowledge obtained in Anatomy for Paramedics (ANAT1100) and Physiology for Paramedics (BIOM1100) and Applied Pathology (PATH1000). Students will receive introductory level teaching of pharmacology including topics such as the actions, reactions and interactions of medications; how medications are absorbed, distributed, metabolised and excreted; how patient variables such as age, size and comorbidities affect responses to medication; and the principles and processes of safe drug administration. Students will also gain an understanding of the structure and function of commonly used medications including therapeutic drug classes. Students will undertake a research article relevant to pre-hospital care as well as completing a personal formulary based on medications used or commonly encountered in pre-hospital care.",
+    "prerequisites": "ANAT1100, BIOM1100, PATH1000, PMDC1102, PMDC1202, PMDC1303",
+    "incompatible": "",
+    "restricted": ""
+}

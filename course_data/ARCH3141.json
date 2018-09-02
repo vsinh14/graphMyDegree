@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH3141",
+    "course_name": "Architecture in Asia",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The study of the principal cultures of Asia and their significant buildings considering them as conscious responses to environment, social conditions, beliefs & ideologies.",
+    "prerequisites": "",
+    "incompatible": "ARCH3300",
+    "restricted": ""
+}

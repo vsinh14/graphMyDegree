@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM1051",
+    "course_name": "Introductory Cellular Physiology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers the fundamental concepts that allow complex organisms to function, with some focus on the human body & other higher organisms. Key concepts include basic cellular transport & signalling mechanisms, principles of biochemistry, neuronal structure & function, motor mechanisms & locomotion, circulation & gas exchange, the endocrine system & developmental biology. Of key importance is the integration of concepts as they apply to the structure and function of different regions of the entire organism.",
+    "prerequisites": "",
+    "incompatible": "BIOL1040, BIOM1050",
+    "restricted": "Restricted to students enrolled in the BPharm (Hons), BDentSc (Hons), BOccHlthSafetySc (Hons) programs only."
+}

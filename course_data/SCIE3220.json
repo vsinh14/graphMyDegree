@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3220",
+    "course_name": "Biomedical Science Research Skills",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will present students with the oportunity to develop core research skills in the field of biomedical science. Students will develop vital research skills such as safe laboratory techniques, proper record keeping, different forms of communication in science and ethics in science. They will also carry out a research project under the supervision of a researcher in their research laboratory.",
+    "prerequisites": "Completion of #24 prior to enrolment in the course",
+    "incompatible": "BIOL3012, BIOL3017, BIOL3043, SCIE3017, SCIE3012",
+    "restricted": ""
+}

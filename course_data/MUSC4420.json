@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC4420",
+    "course_name": "Independent Study",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Completion of an individually supervised research project in music",
+    "prerequisites": "MUSC4410",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7290",
+    "course_name": "Engineering Placement Semester",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "A major investigation or research project or a significant design task in industry, UQ or another university/research institute that integrates factors encountered in real life industry or research projects.\nPlease note: This course falls outside the regular semester teaching periods. Students are required to undertake a placement of up to 24 weeks in duration between the following dates: Semester 1 - January to June; Semester 2 - July to December.",
+    "prerequisites": "",
+    "incompatible": "CHEE7104 or CHEE7105 or CHEE7106 or CHEE7107 or CHEE7108 or CHEE7109 or ENGG7280 or ENGG7281 or ENGG7282 or ENGG7820 or ENGG7830 or METR7820 or METR7830",
+    "restricted": "Only available for students in the BE(Hons)/ME program. Enrollment permission from School of Mech & Mining, please email studentenquiries@mechmining.uq.edu.au."
+}

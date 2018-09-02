@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7040",
+    "course_name": "Macroeconomic Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Recent developments in macroeconomic theory & relationships to economic policy.",
+    "prerequisites": "ECON2020 or 7020 or 7021",
+    "incompatible": "ECON3020",
+    "restricted": ""
+}

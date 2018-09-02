@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS6000",
+    "course_name": "Honours Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Tourism School",
+    "units": "6",
+    "duration": "One Semester",
+    "description": "Research project on selected topic within relevant field of study. Topic to be approved by Head of School. (If enrolling in this course across 2 semesters: Students commencing in Semester 1 must enrol in MGTS6002 for both semesters. Students commencing in Semester 2 must enrol in MGTS6003 for both semesters. Students enrolling in a single semester must enrol in MGTS6000).",
+    "prerequisites": "",
+    "incompatible": "QB499 or MGTS6001 or 6002 or 6003 or TALM6103 or 6113 or 6123",
+    "restricted": "BIHTM(Hons)"
+}

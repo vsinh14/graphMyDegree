@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2060",
+    "course_name": "Behavioural and Evolutionary Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines approaches to economics of consumers and firms based upon applications of psychology and studies of actual behaviour in complex, uncertain and rapidly changing environments. Examines the policy implications of these contributions and includes coverage of recent work on the economics of happiness. The significance of behavioural economics was acknowledged by Nobel Prizes awarded to Herbert Simon (1978) and Daniel Kahneman (2002) and it has become widely taught in the past decade. The unit will be taught in a way that aims to develop critical thinking skills rather than focusing on mathematical techniques.",
+    "prerequisites": "EC101 or 121 or ECON1010",
+    "incompatible": "ECON2400",
+    "restricted": ""
+}

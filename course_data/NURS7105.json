@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7105",
+    "course_name": "Cardiovascular & Respiratory Nursing",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will learn the anatomy, physiology and pathophysiology of the cardiovascular and respiratory systems using practice problems involving acute and chronic cardiac and respiratory conditions, in the acute care and community setting. Students will learn the prevalence and risk factors for cardiovascular and respiratory problems identified by population based studies and learn about health education for individuals and health promotion strategies for communities to prevent these problems. Issues associated with the nursing management of these people, including pharmacology and other treatments and strategies to assist individuals and families cope with change and loss.",
+    "prerequisites": "NURS7112, NURS7113, NURS7103, NURS7102, NURS7104",
+    "incompatible": "",
+    "restricted": "MNStudies"
+}

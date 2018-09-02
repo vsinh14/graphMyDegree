@@ -1,0 +1,12 @@
+{
+    "course_code": "HORT3010",
+    "course_name": "Urban Site Specific Management",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will cover the basics of spatial variability in the urban landscape, focusing particularly on the use of high tech tools such as satellite data, global positioning systems, GIS, to look at precision measurement, monitoring and management of the urban forest and other lifestyle horticultural applications such as precise fertiliser programs for sports turf management.",
+    "prerequisites": "",
+    "incompatible": "HORT2008, BIOL3227",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7109",
+    "course_name": "Radiotracer Based Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This unit of study explores the principles and methods that underpin two key molecular imaging techniques based on the radioactive tracer principle: single photon emission computed tomography (SPECT) and positron emission tomography (PET). Topics covered include the radioactive tracer principle, radioisotope production and decay, radiation transport in tissue, radiation detection, PET and SPECT instrumentation, tomographic reconstruction and an introduction to tracer kinetic modelling. On completion of this unit, students will have a thorough understanding of the imaging chain as it relates to PET and SPECT, starting with the emission of radiation in the body, leading to its external detection and, finally, a reconstructed image of the radioactive tracer distribution in the body. The factors affecting the accuracy and noise properties of molecular images will be explored. Students will also have an appreciation of how to use these imaging technologies to exploit the properties of the radioactive tracer principle and make estimates of important physiological parameters.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to MMIT students."
+}

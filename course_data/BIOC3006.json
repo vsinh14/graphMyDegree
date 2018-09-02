@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC3006",
+    "course_name": "Biochemistry of Metabolism in Health and Disease",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to metabolism at the molecular level. The content will be presented in the context of the normal, exercise and disease states. Applications and examples drawn from current research areas with an emphasis on the metabolic syndrome. The course will build on and extend knowledge gained in the second level course BIOC2000 and will include the modern discipline areas of metabolomics and nutrigenomics. Core topics include aspects of carbohydrate, lipid, protein and amino acid metabolism built around the theme of obesity and the metabolic syndrome as an exemplar of the application of modern knowledge gained through our understanding of the genome and metabolome. The course will show how knowledge from these disciplines aids in our understanding of this health problem affecting many world-wide. The course is designed for those students who are interested or planning careers in the biomedical area, including health science, exercise science, nutrition/dietetics, food science and the biological sciences more broadly.",
+    "prerequisites": "BIOL1020 or BIOL1040",
+    "incompatible": "BIOC3001, BIOL3230",
+    "restricted": ""
+}

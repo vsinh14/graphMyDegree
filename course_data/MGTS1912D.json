@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1912D",
+    "course_name": "Business Project B",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "Students are provided with an opportunity to review knowledge, and practice skills for effective teamwork and entrepreneurship by reviewing a range of content and literature relating to team dynamics and effectiveness in an entrepreneurial setting. The course relies on experiential learning processes in the form of the Young Achievement Australia (YAA) project to allow students to gain insight into their own strengths and weaknesses, while working in self-autonomous student project teams. Through the lectures, activities and project work, students are challenged to investigate the processes of entrepreneurial learning by evaluating issues, solve problems and make informed decisions. \n \nThe activities will also examine the effect of team processes such as communication, conflict, and conflict management on entrepreneurial learning through the interactions and issues that teams face in embarking on the YAA project. The process of participation, reflection (in the form of a learning journal, surveys and interviews), and experiences assist in building a shared mental model where knowledge structures are organised that allow individuals to interact with their environment. It also assists in the explanation of how teams are able to cope with difficulty and changing task conditions. Consequently the course is designed as an interactive and practical workshop where the contribution of each member of the team is vital to the success of the project.",
+    "prerequisites": "MGTS1911D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

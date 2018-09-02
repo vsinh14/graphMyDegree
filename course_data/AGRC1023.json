@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC1023",
+    "course_name": "Applied Mathematics and Statistics",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to basic mathematical and statistical techniques and their applications in a wide range of discipline areas related to plant and animal agriculture.",
+    "prerequisites": "",
+    "incompatible": "MATH1040, STAT1201",
+    "restricted": "Only available to students enrolled in the BEqSc, BVetTech, BWildSc, BSusAgr or the dual BAgribus/BEqSc, BAgribus/BVetTech, BAgribus/BWildSc, BAgribus/BSusAgr programs."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7100",
+    "course_name": "Reasoning about Programs",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Software is written with the intention that it will carry out a desired task. To write such software requires algorithmic problem solving skills; and to do so correctly requires us to make precise the task at hand, and to be able to reason that an implementation satisfies the task's precise requirements. This advanced course on programming introduces structured, formal methods for: specifying the desired behaviour of programs, showing that programs are correct with respect to their specifications, and deriving algorithms from specifications. These techniques are designed to assist developers to solve programming problems, and to produce high quality software.",
+    "prerequisites": "MATH7861 and CSSE7023",
+    "incompatible": "",
+    "restricted": ""
+}

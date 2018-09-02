@@ -1,0 +1,12 @@
+{
+    "course_code": "BIPH2000",
+    "course_name": "Foundations of Biophysics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Biophysics is a multidisciplinary molecular science which applies physics, chemistry & mathematics to enhance an understanding of the mechanisms underlying biological systems. BIPH2000 is the introductory course which aims to provide a basic understanding of the physical, chemical & mathematical principles crucial to understanding the behaviour of biological systems.",
+    "prerequisites": "BIOC2000 or (BIOL1040 + PHYS1001) or (BIOL1040 + PHYS1171)",
+    "incompatible": "PHYS2170",
+    "restricted": ""
+}

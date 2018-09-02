@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH7105",
+    "course_name": "Special Topics IV",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth study of a selected topic pertinent to resource exploration.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ERTH7005 or ERTH7205",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM7511",
+    "course_name": "Natural Resource Management",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Systems perspective of natural resource management problems; integration of ecological, economic, & institutional dimensions; application to management & policy issues at regional, national & global levels; particular reference to rural resource management.",
+    "prerequisites": "",
+    "incompatible": "LPWM4000 or NRSM4001 or ENVM7509",
+    "restricted": ""
+}

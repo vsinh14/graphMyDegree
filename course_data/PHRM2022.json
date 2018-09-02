@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM2022",
+    "course_name": "Dosage Form Design A2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The study and application of physicochemical principles to the design, formulation and effective use of solid dosage forms. Factors influencing drug absorption, particularly from the gastro-intestinal tract, will be introduced. The lectures and practicals cover particle sizing and crystal structure, powder properties and mixing, powder flow and capsule filling, tablet formulation and manufacture, tablet properties and dissolution. Drug and dosage form stability will be presented, and consideration given to medicines packaging.",
+    "prerequisites": "",
+    "incompatible": "PHRM2020",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5124",
+    "course_name": "Human Rights Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is a critical examination of the legal and social issues that arise in the practice of human rights law. It draws comparisons between Australian law and law in other jurisdictions, particularly the United States and Europe. The course seeks to develop students' skills in critical analysis by encouraging them to reflect on the role of human rights law within democratic societies, and whether human rights law has the capability to solve complex social problems.",
+    "prerequisites": "All Level 1 & 2 LAWS courses",
+    "incompatible": "LAWS7124",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

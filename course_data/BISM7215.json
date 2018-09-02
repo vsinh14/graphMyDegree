@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7215",
+    "course_name": "Managing Virtual Work",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Development of business plans for the management of virtual entities. Indepth understanding of the processes, practices, features and issues arising from operating in a virtual corporate environment. Managerial perspective on organisation structures, managing technology and communication procedures in a virtual organisation. Hands-on experience with virtual teams software. Legal implications & associated policy & strategy issues.",
+    "prerequisites": "BISM7202 or BISM7210 or INFS7211 or 7210 or MGTS7202",
+    "incompatible": "BISM3207 or MGTS3207 or MGTS7215",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

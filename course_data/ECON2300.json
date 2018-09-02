@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2300",
+    "course_name": "Introductory Econometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models & role of econometrics, linear regression, general linear model, hypothesis testing, specification testing, dummy variables, models with endogenous regressors, panel data models, simple dynamic models and simple cointegration models. Practical problems are solved using EViews or equivalent econometrics\nprogram.",
+    "prerequisites": "ECON1310; (For BInfTech students ECON1010 + STAT2004)",
+    "incompatible": "EC230 or 735",
+    "restricted": ""
+}

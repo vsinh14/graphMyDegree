@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3203",
+    "course_name": "Plant Molecular Biology & Biotechnology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "How plants function at the molecular level, with an emphasis on molecular genetics. How the concepts & tools of molecular biology are applied to solve biological problems & produce improved plants & products. Plant genes, molecular markers, & transgenic plants.",
+    "prerequisites": "BIOL2202 or BIOL2902",
+    "incompatible": "BOTN3006 or PLNT3806",
+    "restricted": ""
+}

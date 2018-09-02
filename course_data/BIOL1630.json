@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL1630",
+    "course_name": "Biomechanics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will introduce biomechanical principles and how they relate to the analysis of human movement to help understand human performance, potential mechanisms of injury and understanding how to prevent injuries and how the body interacts with the environment or equipment. The course will cover the interaction of the human body with the physical world by combining principles from biology and physics - kinematics, kinetics, energetics and muscle function. It will provide students with skills for quantitative and qualitative analysis of human movement, which can be applied in the context of health, exercise, sport and activities of daily living in a variety of populations.",
+    "prerequisites": "",
+    "incompatible": "BIOL2630, HMST2630",
+    "restricted": ""
+}

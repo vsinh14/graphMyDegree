@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS2200",
+    "course_name": "Relational Database Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Semester two only from 2015] Concepts needed to build large information system using current technology; relational & other data models, query processing & views, index structures for access, dataflow & dynamic models.",
+    "prerequisites": "INFS1200 or MGTS3203",
+    "incompatible": "BSIS7206 or COMM7605 or INFS7903",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "INDN3000",
+    "course_name": "Advanced Indonesian",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced level course in Indonesian language which aims to extend comprehension and competence in formal and informal registers. The course focuses on a range of themes covering specific oral and written genres.",
+    "prerequisites": "INDN2001",
+    "incompatible": "INDN3100",
+    "restricted": ""
+}

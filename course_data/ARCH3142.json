@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH3142",
+    "course_name": "Architecture in Australia",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The study of Australian architecture through cultural & historical analysis considering the influences of colonization, trans-national exchange & regional identity, & the ongoing cultural significance of architecture in Australia.",
+    "prerequisites": "",
+    "incompatible": "ARCH2230",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7120",
+    "course_name": "Analysis of Scientific Data",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of scientific data and experiments: Design of experiments and ethical research. Data modelling and management. Exploratory data analysis. Randomness and probability. Statistical analysis including linear regression, analysis of variance, logistic regression, categorical data analysis, and non-parametric methods.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "STAT1201, STAT7201",
+    "restricted": "Permission from the Head of School is required to enrol in this course."
+}

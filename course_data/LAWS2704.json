@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2704",
+    "course_name": "Trusts and Equity I",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to the nature and history of the equitable jurisdiction and to the law of trusts, focusing upon the creation of trusts, both testamentary and inter vivos. It also considers the classification of trusts, and commercial and other applications of trusts.",
+    "prerequisites": "All level 1 LAWS courses",
+    "incompatible": "LAWS3012 or LAWS3113",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

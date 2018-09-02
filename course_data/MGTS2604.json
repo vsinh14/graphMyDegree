@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS2604",
+    "course_name": "Introduction to Human Resource Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction & overview of the theory & practice of Human Resource Management including strategic & international HRM. Students gain an appreciation of the breadth & scope of HRM.",
+    "prerequisites": "(MGTS1601 + 4 units courses) or 6 units BAdvBus(Hons) courses",
+    "incompatible": "MGTS7612",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

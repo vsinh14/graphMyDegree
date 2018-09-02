@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5122",
+    "course_name": "Labour Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is focused on the federal law regulating employment. The course seeks to develop student awareness of this practical and important area, covering both individual and collective aspects, and common law, constitutional and statutory issues. It also places the black-letter law in its political context, including the balance between employee protection and economic efficiency.",
+    "prerequisites": "All Level 1 LAWS courses + LAWS2111 + LAWS2112",
+    "incompatible": "LA406 or 743 or LAWS7122 or 7322",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

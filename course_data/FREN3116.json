@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN3116",
+    "course_name": "French Language and Culture 5",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course develops general advanced language skills and equips students to use markers of argumentation in spoken and written French.",
+    "prerequisites": "FREN3115 or permission of course coordinator",
+    "incompatible": "FREN3110",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1020",
+    "course_name": "Introductory Macroeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines functioning of the economy & its interaction with international economy. Studies GDP, unemployment & inflation, interest rates, investment, government expenditure, taxation policies & balance of payments. Alternative macroeconomic theories & models examined.",
+    "prerequisites": "",
+    "incompatible": "EC100 or 110 or 122",
+    "restricted": "Minimum quota of 25 for summer semester"
+}

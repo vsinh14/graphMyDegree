@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCA2020",
+    "course_name": "Australasian Archaeology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Review and discussion of the archaeological evidence for human settlement and subsequent cultural change in the greater Australia region.",
+    "prerequisites": "ARCA1000 + #6 ARCA/ARCS courses",
+    "incompatible": "AY222",
+    "restricted": ""
+}

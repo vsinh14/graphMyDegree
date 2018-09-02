@@ -1,0 +1,12 @@
+{
+    "course_code": "PLAN4008",
+    "course_name": "Planning Thesis",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Research thesis describing the background, methods and discussion of research work executed. Students will build upon the research proposal (GEOS6001) developed in their previous semester of studies.",
+    "prerequisites": "GEOS6001 and Permission of Head of School",
+    "incompatible": "PLAN4004 or 4005 or 4006 or 4007",
+    "restricted": ""
+}

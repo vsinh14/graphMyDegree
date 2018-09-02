@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7333",
+    "course_name": "Abstract Algebra & Number Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "MATH7333 covers key topics in group theory and ring theory, with a view towards commutative algebra, algebraic number theory and representation theory.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH3303",
+    "restricted": ""
+}

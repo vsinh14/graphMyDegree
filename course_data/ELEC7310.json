@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7310",
+    "course_name": "Electricity Market Operation and Security",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a broad knowledge on (i) evolution of electricity market, related rules, generator and retailer behaviours and risk management; (ii) power system security/stability issues. Stability or security of the power system is the most important issue in power system operations and management either in a regulated or deregulated environment. System stability analysis is one of the essential skills for an electrical engineer working in the power industry. Following the deregulation over the past 2 decades, many power systems have been pushed toward their stability limits in order to maximise profit in energy trading. This course will cover the essential techniques in electricity market as well as power system stability analysis. Students will learn electricity market management, structure, operations, power system modelling, system dynamics, stability and security assessment, and new challenges in power system stability in an electricity market.",
+    "prerequisites": "",
+    "incompatible": "ELEC7306 or ELEC7307",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3340",
+    "course_name": "Structural Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Indeterminate structures, static & kinematic indeterminacy, flexibility & stiffness concepts. Matrix structural analysis, force & displacement methods. Direct stiffness method & structural modelling using computer packages. Introduction to nonlinear analysis, plastic analysis & collapse mechanisms. Introduction to structural dynamics.",
+    "prerequisites": "CIVL2330",
+    "incompatible": "",
+    "restricted": ""
+}

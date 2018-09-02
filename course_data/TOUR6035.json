@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR6035",
+    "course_name": "Advanced Research Methods and Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores the analysis and presentation of data for both academic and industry audiences. Students will learn about the management and analysis of qualitative and quantitative data using software. Topics include coding and formatting data sets, data quality and cleansing, descriptive statistics, inferential statistics, developing research conclusions, and reporting research methods and results for different audiences.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BIHTM(Hons)"
+}

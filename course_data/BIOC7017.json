@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC7017",
+    "course_name": "Major Research Project & Seminars",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Laboratory - or computer-based project involving research & analysis of a specific topic in molecular biology. The area of work may be the technology or business of molecular biology. Students completing the course over two semesters must enrol in BIOC7000 if commencing in sem 1 & completing in sem 2 or BIOC7002 if commencing in sem 2 & completing in sem 1 the following year or BIOC7017 if commencing in sem 2 and completing in summer sem or BIOC7018 if commencing in summer sem & completing in sem 1 the following year. Students completing the course in one semester must enrol in BIOC7003. Advanced Masters students (either #24 or #32) can also enrol in BIOC7021 in sem 1, 2 or summer if they have completed any of the above courses.",
+    "prerequisites": "Permission of Director, Postgraduate Molecular Biology Programs",
+    "incompatible": "EM402",
+    "restricted": ""
+}

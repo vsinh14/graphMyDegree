@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2402",
+    "course_name": "Principles of Pharmacology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principles of Pharmacology is designed to introduce students to fundamental concepts in drug action and drug disposition at the molecular and cellular level. Topics include the binding of drugs to receptors, receptor activation and inhibition, effect of drugs on cell signalling, drug absorption and metabolism, genetic determinants of drug action and drug toxicity. Along with basic concepts of pharmacology, students are introduced to experimental approaches to study drug effects.",
+    "prerequisites": "BIOL2200 + (CHEM1100, CHEM1222, CHEM1022 or CHEM1020)",
+    "incompatible": "BIOM2041",
+    "restricted": ""
+}

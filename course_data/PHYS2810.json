@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2810",
+    "course_name": "Electronics & Circuit Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Electric circuits & electronics designed for the laboratory scientist. Complex impedance & Laplace Transform methods. Elementary design of analogue & digital devices. Applications to signal processing & measurement systems.",
+    "prerequisites": "PHYS1002",
+    "incompatible": "",
+    "restricted": ""
+}

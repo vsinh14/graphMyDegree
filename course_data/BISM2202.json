@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM2202",
+    "course_name": "Data Analytics and Information Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Data & information as organisational resources. Management of data, information & knowledge; data integrity & quality issues; data warehousing, data mining and business intelligence. Management issues of security, security, privacy, ethics for information & knowledge resources.",
+    "prerequisites": "BISM2207",
+    "incompatible": "MGTS2202 or BISM7233 or INFS7233",
+    "restricted": ""
+}

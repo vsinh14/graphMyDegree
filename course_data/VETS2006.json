@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2006",
+    "course_name": "Principles of Disease I",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The natural history of disease & chain of infection. Disease ecology, including an overview of host factors & environmental factors, as well as agents of disease (parasites, bacteria, fungi & viruses).",
+    "prerequisites": "AGRC1041",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

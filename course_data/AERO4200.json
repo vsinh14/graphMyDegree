@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO4200",
+    "course_name": "Flight Mechanics & Avionics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Flight mechanics deals with the interaction between vehicles and the atmosphere. Problems in this area include producing more efficient designs, improving the control systems for aircraft, reducing aircraft vibration and noise, etc. The course covers aircraft performance during take-off, climb, level flight and landing. Aircraft stability and static equilibrium including the effect of components, aircraft control surfaces and devices, and trimmed equilibrium condition and its effect on performance.",
+    "prerequisites": "MATH2000 and MECH2410",
+    "incompatible": "AERO3000",
+    "restricted": ""
+}

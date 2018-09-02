@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS3201",
+    "course_name": "Advanced Research Processes in Health Sciences",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Mathematics & Physics School, Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "",
+    "prerequisites": "HRSS3100",
+    "incompatible": "HRSS6001, HRSS7802, HRSS7808",
+    "restricted": "BOccThy (Hons), BPhty (Hons), BSpPath (Hons)"
+}

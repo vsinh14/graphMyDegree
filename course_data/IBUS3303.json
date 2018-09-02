@@ -1,0 +1,12 @@
+{
+    "course_code": "IBUS3303",
+    "course_name": "Global Production and Logistics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Management of global operations & manufacturing. Impact of technology & information systems. Supply management & multinational sourcing. Performance improvement. Case studies.",
+    "prerequisites": "IBUS2301",
+    "incompatible": "IBUS7311",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

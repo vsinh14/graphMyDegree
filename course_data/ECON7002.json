@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7002",
+    "course_name": "Economics for Commerce",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces professional accounting & management students to both microeconomics & macroeconomics; highlights practical applicability of economics to analysis of contemporary problems; market trends & government policies.",
+    "prerequisites": "",
+    "incompatible": "([ECON1010 or 2400] + 1020) or 7000 or 7003 or 7010 or 7011 or EC865 or 868",
+    "restricted": ""
+}

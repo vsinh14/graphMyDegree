@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7029",
+    "course_name": "Conservation in Context",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The major aim of this first course is to present some real-life conservation challenges that include cases of industry, tourism, conservation and local communities working together. As part of the experience you will be collecting data that will be used to learn how geographical information systems (GIS) techniques can be used to address conservation issues.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "MConsBiol, MConsSc"
+}

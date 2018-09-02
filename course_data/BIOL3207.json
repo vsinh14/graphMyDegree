@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3207",
+    "course_name": "Animal Behaviour",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Patterns of invertebrate & vertebrate animal behaviour, physiological bases of behaviour, development of behaviour, how patterns of behaviour evolve & how these are studied. Examples will be taken from both invertebrate & vertebrate animals. Evaluate & test hypotheses about behaviour critically. Critique papers from the primary literature & carry out research projects on animal behaviour.",
+    "prerequisites": "",
+    "incompatible": "ZOOL3002",
+    "restricted": ""
+}

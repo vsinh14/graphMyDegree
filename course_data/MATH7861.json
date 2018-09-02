@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7861",
+    "course_name": "Discrete Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Propositional & predicate logic, valid arguments. Elementary set theory. Elementary graph theory. Relations & functions, categories. Induction & recursive definitions. Counting methods (pigeonhole, inclusion/exclusion). Introductory probability. Binary operations, semi-groups, groups, fields. Applications of finite fields. Elementary number theory.",
+    "prerequisites": "",
+    "incompatible": "MATH1061",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP2048",
+    "course_name": "Theory of Computing",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces some of the central ideas of computer science. It will cover Finite State Automata, Regular Languages, Push Down Automata, Context Free Languanges, Turing Machines, Turing decidable and recognisable languages, variants of Turing Machines, and decidability.",
+    "prerequisites": "MATH1061, CSSE1001",
+    "incompatible": "",
+    "restricted": ""
+}

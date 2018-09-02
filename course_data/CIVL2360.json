@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2360",
+    "course_name": "Reinforced Concrete Structures & Concrete Technology",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Reinforced concrete theory for flexure, shear, compression; strength & serviceability limit states; slabs - lower bound analysis. Strength & deformation properties; material selection; mix design & specification; durability; code requirements; case studies; laboratory; practicals. \n [Students will be required to provide their own PPE (safety glasses and steel cap boots) and possess a current \"General Safety Induction Course - Construction Industry\" site card or similar recognised under Queensland legislation.]",
+    "prerequisites": "",
+    "incompatible": "CIVL2510 or CIVL3320 or CIVL3360",
+    "restricted": ""
+}

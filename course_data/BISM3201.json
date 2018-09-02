@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3201",
+    "course_name": "Accounting Information Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Nature of systems in the real world; nature & functions of computer-based information systems used to support the processes & management of a business; practical experience with business applications software.",
+    "prerequisites": "ACCT2101 + (BISM1201 or MGTS1201); or (ACCT2112 + BISM1201)",
+    "incompatible": "ACCT3201 or ACCT7209 or BISM7209",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

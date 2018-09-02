@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE7102",
+    "course_name": "Valuation of Specialist Properties",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Valuation of complex urban properties. An introduction to the valuation of rural property. Application of advanced computer based cash flow modelling and other software to the valuation of multi-tenanted real estate. Valuation of specialised properties with emphasis ongoing concerns, retail property and land with development potential.",
+    "prerequisites": "REDE7100",
+    "incompatible": "REDE3102 or 3502",
+    "restricted": ""
+}

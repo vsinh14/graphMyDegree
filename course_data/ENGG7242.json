@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7242",
+    "course_name": "Engineering Project 4A",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School, Mech & Mine Engineering School, Civil Engineering School, Mech & Mine Engineering School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Project or thesis on a topic relevant to the School's research profile & the student's field of engineering study. Students commencing a year long project in sem 1 enrol in ENGG7241 in sem 1 & sem 2; students commencing a year long project in sem 2 enrol in ENGG7242 in sem 2 & the following sem 1; students completing the course in a single semester enrol in ENGG7240. For information about how to find a project and supervisor, and enrol in this course, please visit http://www.mechmining.uq.edu.au/mengsc-thesis",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ENGG7240",
+    "restricted": ""
+}

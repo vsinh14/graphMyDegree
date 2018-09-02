@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL6003",
+    "course_name": "Philosophy Honours Coursework 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Weekly seminar program covering a range of topics with discussions introduced & led by a member of staff, designed to develop awareness & understanding of philosophy & its breadth.",
+    "prerequisites": "PHIL major PHIL1020",
+    "incompatible": "PHIL6010, PHIL6020, PHIL6030, PHIL6040",
+    "restricted": ""
+}

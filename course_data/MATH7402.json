@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7402",
+    "course_name": "Advanced Ordinary Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only)\nBackground analysis. Gronwall's inequality. Initial value problems for systems: existence & extendability of solutions. Periodic solutions: first integrals, Morse theorem, attractors; Brouwer's fixed point theorem & degree theory; Floquet's theorem. Perturbation theory: Poincare-Lindstedt method for periodic solutions.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4402",
+    "restricted": ""
+}

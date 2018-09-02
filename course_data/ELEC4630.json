@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4630",
+    "course_name": "Image Processing and Computer Vision",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Image sensors, colour models, discrete cosine transform, image & video compression. Computer vision, morphological techniques, watershed transform, skeletonisation, image segmentation, active contours.",
+    "prerequisites": "ELEC3004",
+    "incompatible": "ELEC3601 or ELEC4600 or ELEC7463 or ELEC7602 or ELEC7608",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3221",
+    "course_name": "Biomedical Science Research Project",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will present students with the opportunity to undertake an undergraduate research project in the field of biomedical science, under the supervision of a researcher. The research project will be carried out over 6 to 8 weeks in the summer semester.",
+    "prerequisites": "Completion of #24 units",
+    "incompatible": "BIOL3044, BIOL3017, BIOL3043, SCIE3017, SCIE3043, SCIE3044",
+    "restricted": "Permission from Head of school"
+}

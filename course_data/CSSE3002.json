@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE3002",
+    "course_name": "The Software Process",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Software lifecycle as an industrial process, definable, manageable & repeatable. Requirements engineering, object-oriented analysis. Software requirements specification, prototyping, verification & validation, configuration management, maintenance. Software quality, process standards, process improvement. Software engineering tools.",
+    "prerequisites": "For CSSE3002: prereqs CSSE2003 or (CSSE2002 and DECO2800)\nFor CSSE7001: prereqs CSSE7036 or (CSSE7023 and DECO7280)",
+    "incompatible": "For CSSE3002: inc COMP3500 or COMP7503 or CSSE7001\nFor CSSE7001: inc COMP3500 or COMP7503 or CSSE3002",
+    "restricted": ""
+}

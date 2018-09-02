@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3004",
+    "course_name": "Unit Operations",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Selected important unit operations in solids handling (hopper design, solid-fluid separations, particle size reduction & enlargement) & heat & mass transfer (furnaces, distillation, drying, membrane separation, leaching, bioprocess separation).",
+    "prerequisites": "CHEE3002 and CHEE3003",
+    "incompatible": "",
+    "restricted": ""
+}

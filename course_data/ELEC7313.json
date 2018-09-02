@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7313",
+    "course_name": "Renewable Energy Integration: Technologies to Technical Challenges",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered even years only.) Covers renewable energy technologies around the world; current grid codes and standards and the major issue of intermittency; key technical challenges associated with renewable energy integration and ways to overcome them.",
+    "prerequisites": "ELEC4300 or ELEC7303",
+    "incompatible": "",
+    "restricted": ""
+}

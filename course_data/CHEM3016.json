@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3016",
+    "course_name": "Advanced Experimental Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will consist of practical training, going some way towards addressing the market place need for industry-ready chemists with relevant practical skills. A laboratory intensive experience with the attendant exposure to quantitative & qualitative analytical skills as well as other core laboratory competencies will be taught. A lecture component may be included in order to enhance and develop many of the instrumental techniques employed in the laboratory.",
+    "prerequisites": "CHEM2054",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT1022",
+    "course_name": "Anatomy of the Head, Neck & Thorax",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Specific topographic anatomy of the head, neck & thorax emphasising structure & function of organs of speech, hearing & vision.",
+    "prerequisites": "",
+    "incompatible": "AN110 or 122",
+    "restricted": "BSpPath students"
+}

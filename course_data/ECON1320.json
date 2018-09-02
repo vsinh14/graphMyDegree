@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1320",
+    "course_name": "Quantitative Economic & Business Analysis B",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Deals with basic statistical models and methods used in business and economics. Topics may include multiple regression analysis, time series analysis, survey sampling, index numbers and decision theory. Problems & exercises are solved manually & using Microsoft Excel.",
+    "prerequisites": "ECON1310 or EC135",
+    "incompatible": "EC134 or 136",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC2045",
+    "course_name": "Molecular and quantitative genetics",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Genetics underpins the functioning of animals and plants from the cellular to whole animal level. This course explores the principles of inheritance, the molecular basis and importance of genetic variation, and current genetic technologies. It will also introduce the role of genetic variation in evolution and animal and plant breeding. This course is recommended to students of animal science, agriculture, veterinary technology, wildlife studies and biology.",
+    "prerequisites": "",
+    "incompatible": "ANIM2503, AGRC2043, ANIM2030",
+    "restricted": ""
+}

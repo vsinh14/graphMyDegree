@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4204",
+    "course_name": "Aqueous Solution Processing & Electrometallurgy",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Chemistry & process engineering of solvent extraction & ion exchange for the concentration & purification of aqueous solutions. Fundamental aspects of electrometallurgy & its applications. Cementation & precipitation processes.",
+    "prerequisites": "CHEE3003 and CHEE3005",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4024",
+    "course_name": "Energy Systems in Sustainable Development",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(No longer offered) Introduction to energy systems with an emphasis on sustainability, gas cleaning, gasification, CO2 capture & storage, renewable & non-renewable resources & energy processes, & power engineering. A range of engineering principles will be consolidated (i.e. mass & energy balances, process optimisation & power generation) in tandem with the application of sustainability principles & business perspectives from the power industry in Australia.",
+    "prerequisites": "CHEE3020 (or CHEE2002) + CHEE3004",
+    "incompatible": "CHEE4000",
+    "restricted": ""
+}

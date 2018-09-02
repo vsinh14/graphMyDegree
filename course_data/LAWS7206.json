@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7206",
+    "course_name": "Copyright Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an in depth examination of copyright law. It seeks to develop students' knowledge of the nature and significance of copyright (including moral rights) in Australia, and compare Australian law with that in jurisdictions including the UK/Europe, the US and Canada. It will pose normative questions about the appropriate scope of copyright protection.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5140 or 5206 or 7140",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3306",
+    "course_name": "Set Theory & Mathematical Logic",
+    "faculty": "Science",
+    "school": "Historical & Philosophical Inq, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will introduce students to aspects of set theory, model theory, formal logic and computability. Topics will include propositional and predicate calculus, the Zermelo-Fraenkel Axioms, ordinals and cardinals, recursive functions, Turing machines, and G\u00c3\u00b6del\u00c2\u00bfs incompleteness theorems.",
+    "prerequisites": "",
+    "incompatible": "MATH3304 or 3305",
+    "restricted": ""
+}

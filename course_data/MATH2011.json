@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2011",
+    "course_name": "Analysis of Partial Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "PDE's - Fourier series. Wave, heat, Laplace's equations. Simple maximum and uniqueness principles. Separation of variables in rectangular and polar coordinates.",
+    "prerequisites": "MATH1052 or MATH1072",
+    "incompatible": "MATH2100",
+    "restricted": ""
+}

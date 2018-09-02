@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT2113",
+    "course_name": "Management Accounting Principles",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to cost accounting concepts relevant to planning and controlling and decision making activities within organisations. Focusing on the accounting systems that managers use in their decisions about resource allocation and performance evaluation, especially within the manufacturing environment.",
+    "prerequisites": "ACCT2101 or 2111 or 2112",
+    "incompatible": "ACCT2102 or 7107",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

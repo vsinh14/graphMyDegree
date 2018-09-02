@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH3200",
+    "course_name": "Architectural Design 6",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Tectonics and Precision: Students in this course use the elemental logic of different materials and methods of construction to generate the design of a building of medium scale and complexity. Integration of building technologies with formal, environmental and aesthetic ambitions is pursued across all scales of a resolved design proposal. Documentation drawings and working models that precisely capture the means by which the design intent will be realised are produced.",
+    "prerequisites": "ARCH1100 and ARCH1160 and ARCH1201 and BLDG1220",
+    "incompatible": "",
+    "restricted": "BArchDes students only. Study abroad students must seek Head of School's permission to enrol."
+}

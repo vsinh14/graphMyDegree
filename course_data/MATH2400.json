@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2400",
+    "course_name": "Mathematical Analysis",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Note: MATH1052 may be taken concurrently with MATH2400 by students who only took MATH1050 & MATH1051 in 1st year.)\nBounded & monotone sequences. Sequences & series of real functions. Intermediate & mean value theorems, iterative procedures. Taylor's Theorem & error estimates. Criteria for integrability. Vector functions, continuity & differentials. Implicit & Inverse Function Theorems & applications.",
+    "prerequisites": "MATH1051 or MATH1071",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3006",
+    "course_name": "Molecular Cell Biology",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines cellular structure & function at the molecular level and integrates the disciplines of biochemistry, molecular biology, structural biology, and molecular genetics. This is an advanced course that utilizes current published research as the medium to instruct on topics such as methods in molecular cell biology, cell architecture, cell interactions, the nucleus, cell differentiation and cellular dynamics. The final topic discusses the role of molecular cell biology in the diagnosis and treatment of disease.",
+    "prerequisites": "BIOC2000",
+    "incompatible": "",
+    "restricted": ""
+}

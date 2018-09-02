@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7042",
+    "course_name": "Quantum Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical basic for the understanding of physical properties of systems, generally of macroscopic size, such as atoms, molecules or nuclei but also certain macroscopic systems, such as superfluids or superconductors.",
+    "prerequisites": "Permission of Head of School + PHYS2041 + MATH2000 + 2100",
+    "incompatible": "PHYS3040",
+    "restricted": ""
+}

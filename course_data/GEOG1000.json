@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOG1000",
+    "course_name": "Human Settlements",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to evolution & nature of human settlements both in developed & developing societies. Emphasis on economic & social functions of cities & their spatial form & structure. Case studies in Australia & Asia-Pacific region.",
+    "prerequisites": "",
+    "incompatible": "GEOS1200",
+    "restricted": ""
+}

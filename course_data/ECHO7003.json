@@ -1,0 +1,12 @@
+{
+    "course_code": "ECHO7003",
+    "course_name": "Echocardiography: Advanced Clinical Applications",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will further develop their skills for assessing cardiac pathology. Diseases affecting the muscle and pericardium will be encountered along with common congenital anomalies. Detailed assessment including the diagnosis and lesion localisation in the setting of myocardial infarction will be covered along with echocardiographic features of associated complications. Advanced cardiac imaging techniques will be introduced including 3D, strain and stress imaging.",
+    "prerequisites": "ECHO7001, ECHO7002",
+    "incompatible": "",
+    "restricted": "Restricted to Graduate Certificate in Critical Care Echocardiography students only."
+}

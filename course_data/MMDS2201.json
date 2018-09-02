@@ -1,0 +1,12 @@
+{
+    "course_code": "MMDS2201",
+    "course_name": "Digital Video Production",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by DECO2210] A series of lectures and practical sessions designed to familiarise the student with the theory, practice and implementation of a range of software skills and methodologies in the areas of image manipulation, audio and video editing and compositing.",
+    "prerequisites": "MMDS1311",
+    "incompatible": "MMDS7967",
+    "restricted": ""
+}

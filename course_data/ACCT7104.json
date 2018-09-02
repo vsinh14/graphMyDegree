@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7104",
+    "course_name": "Corporate Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Impact of corporate structures on financial statements & contracts written by diversified entities.",
+    "prerequisites": "ACCT7101",
+    "incompatible": "ACCT3103",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

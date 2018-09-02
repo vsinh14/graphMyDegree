@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO3500",
+    "course_name": "Social & Mobile Computing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Topics in social computing - groupware, social software, computer supported cooperative work. Considerations in the design of mobile and ubiquitous computing systems: mobility research; distributed user research; multi-player environments; tangible; physical and wearable computing.",
+    "prerequisites": "COMP2506 or DECO2500",
+    "incompatible": "COMP3505 or COMP7705 or DECO7350",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG2511",
+    "course_name": "Marketing Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with an introduction to the analytic frameworks necessary to understand consumer and business markets. In particular, emphasis is placed on the classical models of quantitative marketing analysis. The aims of the course are for students to develop an appreciation of how marketing information can be used to explain and predict consumer behaviour, and more generally, develop an appreciation of how marketing managers can use marketing information for decision and strategy making.",
+    "prerequisites": "MKTG1501",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7855",
+    "course_name": "Electronic Commerce Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course involves an advanced examination of the legal environment in which electronic business transactions take place, including transactions such as electronic data interchange, electronic banking, transnational electronic business transactions, electronic sale of goods and verification and other protective measures against electronic fraud.",
+    "prerequisites": "",
+    "incompatible": "LA460 or 883 or LAWS5151 or 7151",
+    "restricted": "GCAppLaw; GDipAppLaw; MAppLaw; LLM; LLM(Adv); LLM(#16), LLM(#24); MICLaw, MCom(#24), MCom(#32), MCom(Adv).\nQuota: minimum of 12 enrolments."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS7524",
+    "course_name": "Sustainability Dynamics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To develop testable business sustainability strategies we need to be able to simulate the interactions between business, society and the environment. This course teaches students how to use system dynamic models for simulating these interactions to evaluate the sustainability of business strategies. The course consists of 10 modules:\n\n1.\tSustainable Business Concepts \n2.\tThe Science of Sustainability\n3.\tBusiness Models for Sustainability\n4.\tBusiness Sustainability Dynamics\n5.\tCase Studies in Energy\n6.\tCase Studies in Greenhouse Gases\n7.\tCase Studies in Water\n8.\tCase Studies in Food\n9.\tThe Food, Energy, Water, GHG Nexus\n10.\tStrategies for Sustainability",
+    "prerequisites": "MGTS7523",
+    "incompatible": "",
+    "restricted": ""
+}

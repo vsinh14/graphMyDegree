@@ -1,0 +1,12 @@
+{
+    "course_code": "EXMD3372",
+    "course_name": "Exercise Science Professional Skills",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The aim of this course is to provide students with a grounding in the principles underpinning professional practice in exercise science/exercise physiology. Content includes clinical notetaking, communication (interprofessional, peer to peer and practitioner/client), ethics, legal frameworks and industry structure. Students acquire practical experience in applying technical and professional skills through: supervised delivery of a personal training intervention over the course of the semester (approximately 20 hours of practical experience); and supervised teaching of technical skills to new students (approximately 8 hours). Lectures from industry experts and opportunities for introductory experiences in corporate, clinical, community, fitness, health and sport settings and to assist students with decisions on career direction and major practicum.",
+    "prerequisites": "[HMST2362 or HMST3362 or EXMD2362] + [HMST2382 or HMST3382 or EXMD2382] + First Aid (CPR)",
+    "incompatible": "HMST3372",
+    "restricted": "BScApp(HMS-ExSc), BHMS(ExSc), BHMS/BBus, BExSS, BExSS/BBus, BExSS(Hons)"
+}

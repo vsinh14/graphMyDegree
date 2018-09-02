@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR7002",
+    "course_name": "Immunology and Infectious Diseases",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers specialised aspects of molecular approaches to the study and understanding of immunology and infectious diseases at an advanced level presented in a modular form. Modules include: immunology, mechanisms of bacterial pathogenesis, viral infectious diseases and immunity, and parasitic diseases and immunity. Interactive learning is encouraged within each module. Literature reviews, poster and in class quiz assessment items are designed to reinforce knowledge gained in each module. There is no practical component in this course.",
+    "prerequisites": "",
+    "incompatible": "MICR6008",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3360",
+    "course_name": "Applied Econometrics for Microeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The purpose of the course is to offer advanced students in Economics, Commerce and Business an understanding of the econometric tools that apply to microeconomic data. The approach is from an applied perspective. Lectures will introduce specific cross-sectional and panel models and the techniques required to estimate/predict with the model. The course will make use of the econometric package, Stata, for purposes of analysing of the data. Core content includes the analysis of individual-level data on the economic behaviour of individuals or firms using regression methods for cross section and panel data. Skills and Perspective provided by applications in the area of labour economics, consumer choice, health and education. \nAssumed Background: Students are expected to have an intermediate knowledge (second year undergraduate at least) of economic theory and econometrics or statistics and mathematics (see prerequisites).",
+    "prerequisites": "ECON2300 + (ECON2010 or ECON2011)",
+    "incompatible": "ECON3300",
+    "restricted": ""
+}

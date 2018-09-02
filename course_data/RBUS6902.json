@@ -1,0 +1,12 @@
+{
+    "course_code": "RBUS6902",
+    "course_name": "Quantitative Business Research Methods I",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Research in business is characterised by an increasing sophistication in methods and models. This course provides students with an introduction to the fundamentals of structural equations with latent variables. Latent variable structural equation modelling (SEM) is a very general and flexible modelling framework with much application to research in the applied business disciplines (e.g., accounting, business information systems, international business, management, marketing, etc.). SEM subsumes many statistical models as special cases (e.g., factor analysis and linear regression) and is especially designed to incorporate latent variables, which in typical applications represent attitudes or other latent \u00c2\u00bfconstructs.\u00c2\u00bf This course focuses on the fundamental theory of latent variable SEM and is not particularly mathematical. Emphasis is placed on the concepts and statistical theory of SEM, including model notation, model estimation and identification, and SEM sub-models. The fundamentals of the full generalised SEM model, and applications and extensions of the model are discussed, including applications to cogent social science disciplines (e.g., applied economics and applied psychology). This practical and applied course is lab-based with a mix of short seminar style presentations and instruction in the use of statistical packages for specifying and estimating SEM models.",
+    "prerequisites": "",
+    "incompatible": "RBUS3902 or 7902",
+    "restricted": "BAdvBus(Hons), BBusMan(Hons), GCBusRMeth, GDipBRM, PhD, MPhil.\nQuota: Minimum of 10 enrolments\nMCommun (Organisational Communication) students are required to email postgrad_enquiries@business.uq.edu.au for permission to enrol."
+}

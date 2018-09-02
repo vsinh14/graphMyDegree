@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7052",
+    "course_name": "Plant Control Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(From 2014 no longer offered.)\nControl systems are like the brain and nervous system of a power plant. A generating unit represents a complex integration of boiler, turbine and generator systems. While these systems are obviously connected in terms of steam flow and mechanical connection, the integration of the control facilities managing these systems is crucial for the reliable and efficient operation of the plant. This course explores the individual control systems and their interconnection, and provides a bridge between fundamental control theory and power station practice.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "ME (Power), GCEng (Power)"
+}

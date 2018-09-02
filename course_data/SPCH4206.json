@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH4206",
+    "course_name": "Clinical Management",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is the final clinical placement course in the Bachelor of Speech Pathology program. Students attend a sessional University clinic to consolidate their case-based knowledge and integration, their clinical management skills and their professional role within clinical settings.",
+    "prerequisites": "SPCH4105",
+    "incompatible": "SL406",
+    "restricted": "BSpPath Students"
+}

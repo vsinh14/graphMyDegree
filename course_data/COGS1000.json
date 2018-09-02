@@ -1,0 +1,12 @@
+{
+    "course_code": "COGS1000",
+    "course_name": "Minds & Machines: Introduction to Cognitive Science",
+    "faculty": "",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT 2013\nAn introduction to the study of cognitive science. Examines basic issues & concepts in cognitive psychology, the theory of computation, artificial intelligence, linguistics, neuroscience & philosophy, & some of the ways these fit together. No technical or mathematical background assumed. This course may not run if there are fewer than 20 enrolments.",
+    "prerequisites": "",
+    "incompatible": "IC100",
+    "restricted": ""
+}

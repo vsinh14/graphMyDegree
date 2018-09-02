@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2410",
+    "course_name": "Fundamentals of Fluid Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Conservation laws, continuity, momentum & energy balances. Fluids statics, Bernoulli equation, pipe flow. Experimental techniques, viscosity, applications.",
+    "prerequisites": "(Year 12 Maths C and Year 12 Physics) and (ENGG1010 or ENGG1400)",
+    "incompatible": "CHEE2003 and CIVL3130 and MINE2101",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOG3205",
+    "course_name": "Applied Demography",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Explores the application of demographic theory, data and methods of analysis to contemporary real world problems in social and economic planning. There is an emphasis on methods of analysing demographic data & theories of population change, including: for making population projections; analysing local population dynamics, community demography, ageing & the use of demography in planning & business",
+    "prerequisites": "",
+    "incompatible": "GEOG7000 or GEOS2202 or MGTS3307",
+    "restricted": ""
+}

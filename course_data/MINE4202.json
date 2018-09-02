@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4202",
+    "course_name": "Pyrometallurgy",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(no longer offered)Design of high temperature metal production technologies. Reaction equilibria, reaction kinetics & mechanisms in heterogeneous systems. Reactor design.",
+    "prerequisites": "CHEE3201 or 5E300 or MMME3201 or E5322",
+    "incompatible": "E5438 or MMME4202",
+    "restricted": ""
+}

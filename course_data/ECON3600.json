@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3600",
+    "course_name": "Australian Economic History",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Australian economic experience since 1788. Period since 1900 in depth.",
+    "prerequisites": "ECON1010 + ECON1020",
+    "incompatible": "EC366",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5217",
+    "course_name": "The Legal Profession",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to philosophies of applied ethics and to the idea of professionalism, including the structure and regulation of the legal profession, admission and discipline, and professional duties to the law, the courts, other practitioners and the client.",
+    "prerequisites": "All level 1 & 2 LAWS courses",
+    "incompatible": "LAWS3703 or 4015 or 4017 or 7115 or 7213",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

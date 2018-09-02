@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7208",
+    "course_name": "Law Moot",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "Permisison from Head of School",
+    "incompatible": "LAWS5208 or 5165 or 7165",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

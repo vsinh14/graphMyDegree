@@ -1,0 +1,12 @@
+{
+    "course_code": "NEUR3002",
+    "course_name": "The Integrated Brain",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Lectures & seminars illustrating how brain systems work in an integrated fashion to extract high level sensory information, plan & control movement, form memories, cope with emotional & physical stress, & adapt to drugs of addiction.",
+    "prerequisites": "BIOM2011 + BIOL2200",
+    "incompatible": "",
+    "restricted": ""
+}

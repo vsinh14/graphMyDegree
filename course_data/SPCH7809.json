@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7809",
+    "course_name": "Intensive Clinic Block",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Six weeks full-time clinical placement to develop competency in practical components of speech pathology such as professional development, effective communication skills, assessment, planning and implementation of intervention.",
+    "prerequisites": "Completed introduction and year 1 courses",
+    "incompatible": "SPCH4105",
+    "restricted": "MSpPathSt Students"
+}

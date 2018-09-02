@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH3206",
+    "course_name": "Adult & Paediatric Dysphagia & Laryngectomy",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Development of competencies in the assessment, diagnosis, treatment & management of paediatric, adult & complex dysphagic cases as well as an understanding of the assessment & management of swallowing & communication disorders following head & neck surgery.",
+    "prerequisites": "ANAT1022, ANAT2005, PHYL2063, PHYL2065, SPCH1100",
+    "incompatible": "",
+    "restricted": "BSpPath"
+}

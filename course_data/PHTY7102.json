@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY7102",
+    "course_name": "Advanced Studies in the Basic, Behavioural & Medical Sciences B",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Biomedical Sciences School, School of Medicine, Pharmacy School, Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advances student's knowledge in the fields of anatomy & the neurophysiological & behavioural aspects of pain. The medical & pharmaceutical management of musculoskeletal disorders will also be explored. Emphasis on differential diagnosis.",
+    "prerequisites": "PHTY7101",
+    "incompatible": "",
+    "restricted": "MPhty students"
+}

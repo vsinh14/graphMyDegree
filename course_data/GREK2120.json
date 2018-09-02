@@ -1,0 +1,12 @@
+{
+    "course_code": "GREK2120",
+    "course_name": "Intermediate Greek",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Intermediate course in the ancient Greek language, following on from GREK1110. Further Greek grammar and introduction to reading several Greek authors. This is not a course in modern Greek language.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "GREK1110",
+    "incompatible": "GREK1120",
+    "restricted": ""
+}

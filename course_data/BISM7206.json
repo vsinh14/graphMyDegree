@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7206",
+    "course_name": "Information Retrieval and Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Data analysis, design and policy issues in business situations. Business issues in relation to database management, conceptual modelling & data modelling in business applications. Using structured Query Language (SQL) to uncover critical information for business decision making. Business intelligence via data warehousing & data mining. Applications of database systems in a business context. Critical analysis and discussion of recent business research into database systems.",
+    "prerequisites": "BISM7202 or MGTS7202 or 2 units of COMP/COMS/INFS courses",
+    "incompatible": "BISM3203 or INFS1200 or 7900 or 7903 or MGTS3203 or 7206",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7114",
+    "course_name": "Law of Evidence",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7104 plus (LAWS7106 or LAWS7231)",
+    "incompatible": "LA418 or 751 or LAWS4014 or 7314",
+    "restricted": "JD"
+}

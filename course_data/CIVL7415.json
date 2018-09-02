@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7415",
+    "course_name": "Spatial and Quantitative Methods for Transport Data Analytics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in even-numbered years (eg. 2018). The growing amount of transport data that are available passively and actively from a variety of systems and sensors requires increasing knowledge of quantitative methods for descriptive and predictive purposes. Moreover, the location information in these data is increasingly important because the spatial context plays an essential role in decision making and problem solving in a number of transport applications. Accordingly, this course provides the necessary knowledge from statistics and regression techniques to demand forecasting, from optimisation methods to Geographic Information Systems, with emphasis on the theory as well as the practice of big data analytics.",
+    "prerequisites": "STAT2201 or CIVL2530",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

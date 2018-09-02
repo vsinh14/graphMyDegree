@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE4020",
+    "course_name": "Wireless Sensor Networks",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) The course aims to provide students with a theoretical understanding of the fundamentals of Wireless Sensor Networks (WSN), plus experience in programming WSN systems through a major group project. Topics may include: fundamental principles of WSN operation; WSN hardware - processing, communications and sensors; WSN software - operating systems and programming languages; WSN communications - understanding all layers of the wireless communications data stack; WSN applications - how data is collected, transmitted, stored and accessed; WSN programming.",
+    "prerequisites": "CSSE2310",
+    "incompatible": "CSSE7420, CSSE4003 (2012 only), ELEC4000 (2010, 2011)",
+    "restricted": "Maximum 40 students (with CSSE7420)"
+}

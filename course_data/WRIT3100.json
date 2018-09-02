@@ -1,0 +1,12 @@
+{
+    "course_code": "WRIT3100",
+    "course_name": "Writing Ancient History",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An exploration of documentary, analytical and narrative forms of writing typically encountered and used by ancient historians.",
+    "prerequisites": "ANCH1240 or ANCH1250",
+    "incompatible": "ANCH3010",
+    "restricted": ""
+}

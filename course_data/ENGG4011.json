@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4011",
+    "course_name": "Professional Engineering Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "6",
+    "duration": "One Semester",
+    "description": "A major investigation, research project or a significant design task, as part of a CEED project taken in conjunction with industry. Projects must be approved by the Head of School prior to enrolment.",
+    "prerequisites": "Completion of #44 toward the BE in the relevant field.",
+    "incompatible": "MECH4500 or MECH4501",
+    "restricted": "Permission of Head of School and acceptance into a CEED project."
+}

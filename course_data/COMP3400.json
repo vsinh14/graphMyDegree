@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP3400",
+    "course_name": "Functional & Logic Programming",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to functional & logic programming languages. Relative merits: extensibility vs. verifiability vs. efficiency. Computational models & semantics.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3200",
+    "course_name": "Coastal Processes & Management",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of coastal processes, land forms, physical & biological phenomena. Coastal zone management. Relationship between process, form & management. Resource management in coastal environments. Australian & international case studies.",
+    "prerequisites": "",
+    "incompatible": "ENVM7200",
+    "restricted": ""
+}

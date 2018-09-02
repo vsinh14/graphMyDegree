@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5016",
+    "course_name": "Clinical Veterinary Elective",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Development of clinical and research skills through understanding the principles of translating a clinical case (problem) to a well-structured clinical question to search and systematically evaluate the evidence found in relevant literature pertinent to the case, in particular during clinical practical work in one of a number of clinical disciplines.",
+    "prerequisites": "VETS4010, VETS4022, VETS4035, VETS4034, VETS4012, VETS4021",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

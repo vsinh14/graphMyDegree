@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4301",
+    "course_name": "Nanomaterials & Their Characterisation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to nanomaterials with an emphasis on their fabrication, structures, properties & applications. A range of techniques for characterising nanomaterials (such as diffraction, microscopy & spectroscopy) will also be introduced.",
+    "prerequisites": "MECH2300",
+    "incompatible": "CHEM3013 and CHEM3014",
+    "restricted": ""
+}

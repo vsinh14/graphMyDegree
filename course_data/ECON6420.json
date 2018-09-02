@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6420",
+    "course_name": "Public Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory & principles of public expenditure & taxation applied to current Australian & Queensland policy questions. Topics include: public goods, collective choice, public expenditures, taxation, deficit financing, statutory authorities.",
+    "prerequisites": "",
+    "incompatible": "EC415",
+    "restricted": "BEcon(Hons); BA(Hons)(Economics)"
+}

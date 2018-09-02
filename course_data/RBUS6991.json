@@ -1,0 +1,12 @@
+{
+    "course_code": "RBUS6991",
+    "course_name": "Honours Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "6",
+    "duration": "Two Semesters",
+    "description": "Independent research thesis in any relevant field of management. Research supervised by academic staff & involves application of current models to investigate challenges facing modern organisation & its leaders. Students commencing in sem 1 enrol in RBUS6991 in both semesters. Students commencing in sem 2 enrol in RBUS6993 in both semesters. Students completing in one semester enrol in RBUS6994.",
+    "prerequisites": "Permission from Head of School",
+    "incompatible": "RBUS6991 or 6992 or 6993 or 6994",
+    "restricted": "BAdvBus(Hons), BCom(Hons), BBusMan(Hons)"
+}

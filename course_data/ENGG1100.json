@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG1100",
+    "course_name": "Engineering Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to engineering design through a discipline-specific team project. Students will learn and apply professional engineering concepts and issues including: sustainability, safety, estimation, materials selection, decision making, project management, information literacy, communication (graphics, written, oral), ethics, and prototyping (building). The course provides an introduction to engineering as a profession.",
+    "prerequisites": "",
+    "incompatible": "ENGG1000 and ENGG1211",
+    "restricted": "BE(Hons) and BE(Hons) dual degree students only"
+}

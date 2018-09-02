@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS4701",
+    "course_name": "Civil Dispute Resolution",
+    "faculty": "",
+    "school": "",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course explores the processes of commencing, conducting and concluding civil disputes including State and Federal civil procedure, alternative dispute resolution, private international law and remedies. Issues of jurisdiction, costs of resolving disputes, the role of lawyers and the courts in managing civil disputes, defining the issues in dispute, obtaining evidence, disclosure, judgment and enforcement are all examined.",
+    "prerequisites": "#32 LAWS courses",
+    "incompatible": "LAWS4013 or LAWS5215",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

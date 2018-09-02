@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC3001",
+    "course_name": "Learning, Mind and Music Education",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to methods & issues in music pedagogy; includes practicum.\nStudents must have a valid Working With Children Bluecard.",
+    "prerequisites": "MUSC1050 and MUSC1600 + Students must have a valid Working With Children Bluecard",
+    "incompatible": "EDUC2716; MUSC3820",
+    "restricted": ""
+}

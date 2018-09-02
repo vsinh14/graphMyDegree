@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7220",
+    "course_name": "Personal and Corporate Insolvency",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A study of the law of insolvency as applied to individuals & corporate bodies. The course will explore the rationale for, & core principles of, insolvency, the law regarding the identification of the assets of the insolvent, the avoidance of pre-insolvency transactions & the order of distribution and winding up. The course will also explore alternatives to insolvency.",
+    "prerequisites": "#18 LAWS courses",
+    "incompatible": "LAWS5220",
+    "restricted": "JD, GCAppLaw, GDipAppLaw, MAppLaw"
+}

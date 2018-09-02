@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3070",
+    "course_name": "Natural Resource Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The biggest challenge facing our planet is how to maintain and manage our natural systems such as fisheries, forestry and biodiversity in the face of habitat destruction, climate change, pollution and over harvesting. In this course you will learn how to apply deterministic differential and difference equation models to real world examples, and how to solve them using numerical methods in MATLAB. You will also learn how to quantify system uncertainties with the help of statistical and probabilistic methods. Students will be taught a range of methods that are employed in industry, research, consultancies and government to model complex natural resource problems. In the process, students will learn how certain fundamental mathematical concepts such as critical points, orthogonality, eigenvalues and singularity recur in different mathematical frameworks with different but, invariably, vitally important physical interpretations.",
+    "prerequisites": "(STAT1201 or STAT1301), (MATH1052 or MATH1072)",
+    "incompatible": "MATH2070",
+    "restricted": ""
+}

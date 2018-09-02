@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC3400",
+    "course_name": "Electronic Circuits",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Detailed examination of electrical & electronic circuit analysis & synthesis tools & techniques such as the Laplace transform, nodal analysis & two port network theory. Examples of use in analysis & design of amplifiers, filters, oscillators & other circuits.",
+    "prerequisites": "ELEC2003 and (ELEC2004 or MATH2010)",
+    "incompatible": "ELEC7401",
+    "restricted": ""
+}

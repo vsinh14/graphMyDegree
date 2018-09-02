@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT1201",
+    "course_name": "Analysis of Scientific Data",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Historical & Philosophical Inq, Mathematics & Physics School, Historical & Philosophical Inq, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of scientific data and experiments: Design of experiments and ethical research. Data modelling and management. Exploratory data analysis. Randomness and probability. Statistical analysis including linear regression, analysis of variance, logistic regression, categorical data analysis, and non-parametric methods.",
+    "prerequisites": "Year 12 Maths B or MATH1040",
+    "incompatible": "ECON1310, ENVM2000, STAT1301, STAT2201, STAT2203, STAT2701, PUBH2007 or HRSS3100.",
+    "restricted": "Not available to BE, BE/Biotech, BE/BSc students, BEnvMan(Hons), BMath, BMath/BArts, BMath/BCom, BMath/BEcon, BMath/BEd(Sec), BMath/BSc"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7606",
+    "course_name": "Design of Randomised Controlled Trials",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers methods for controlled clinical trials; parallel, factorial and crossover designs; treatment allocation; blinding, stratification, and allocation concealment; sample size; intention to treat principle; phase I and II clinical studies; multiple endpoints; multiple tests and subgroup analyses; surrogate outcomes. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "PUBH7600 and STAT7601",
+    "incompatible": "",
+    "restricted": ""
+}

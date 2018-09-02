@@ -1,0 +1,12 @@
+{
+    "course_code": "HORT3009",
+    "course_name": "Horticultural Science 2",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course aims to provide students with a fundamental understanding of the establishment and management of trees in urban and orchard environments, large scale organic crop production, protected cropping and food production in urban areas.",
+    "prerequisites": "HORT2007",
+    "incompatible": "",
+    "restricted": ""
+}

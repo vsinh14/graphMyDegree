@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7208",
+    "course_name": "Information Systems Strategy and Sourcing",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examination of major concepts, theories & research to guide management of information systems function within organisations; extensive use of case studies to develop skills in applying concepts & theories.",
+    "prerequisites": "BISM7233 or BISM7255 or INFS7211 or 7233 or 7255",
+    "incompatible": "BISM3208 or MGTS3208 or MGTS7208",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

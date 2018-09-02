@@ -1,0 +1,12 @@
+{
+    "course_code": "JAPN7260",
+    "course_name": "Advanced/Technical Translation II",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Japanese-English translation of materials at an advanced and technical nature, focusing on legal, medical and pharmaceutical texts. Students translate into their A language.",
+    "prerequisites": "JAPN7210",
+    "incompatible": "JAPN7240 and JAPN7250",
+    "restricted": "MAJIT students only"
+}

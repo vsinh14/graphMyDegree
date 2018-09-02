@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM6109",
+    "course_name": "Research Project in Chemistry for BAdvSc(Hons) Students",
+    "faculty": "",
+    "school": "",
+    "units": "12",
+    "duration": "Two Semesters",
+    "description": "This is a year-long course that culminates in the submission of a research report (thesis). Students enrolling in course with #6/#6 split enrol in CHEM6107 if commencing in semester 1 or CHEM6108 if commencing in semester 2. Students enrolling in course with #4/#8 split enrol in CHEM6109 if commencing in semester 1 or CHEM6110 if commencing in semester 2. Students enrolling in course with #8/#4 split enrol in CHEM6111 if commencing in semester 1 or CHEM6112 if commencing in semester 2. Students must enrol in the same course code in 2 semesters.",
+    "prerequisites": "CHEM3016",
+    "incompatible": "",
+    "restricted": "BAdvSc(Hons) students only"
+}

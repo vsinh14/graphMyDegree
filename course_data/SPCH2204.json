@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH2204",
+    "course_name": "Paediatric & Adult Motor Speech Disorders",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to provide students with a theoretical knowledge of the motor speech disorders that occur in children and adults. In addition, the course will develop professional competencies in the assessment, differential diagnosis, and clinical management of these conditions.",
+    "prerequisites": "ANAT1022, SPCH1100, SPCH1101, SPCH1201, SPCH2106",
+    "incompatible": "",
+    "restricted": "BSpPath"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7400",
+    "course_name": "MRI pulse sequence construction and image contrast",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This program of study will all equip students with advanced theoretical knowledge and experience in the practical implementation of Magnetic Resonance Imaging (MRI) sequences as used in clinical and research settings.",
+    "prerequisites": "MRES7100",
+    "incompatible": "MRES7004",
+    "restricted": ""
+}

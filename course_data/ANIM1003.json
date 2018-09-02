@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM1003",
+    "course_name": "Animal Structure and Function",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A comparison of farm animals & wildlife from anatomy & function of their organ systems.",
+    "prerequisites": "",
+    "incompatible": "QA104 or 105 or 207 or QAA76 or VG103 or VETS1000",
+    "restricted": ""
+}

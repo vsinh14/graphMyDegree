@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR3002",
+    "course_name": "Virology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Viruses have been shown to infect all forms of life and this course provides the fundamental background for studying the way in which viruses interact with their hosts. Surprisingly these interactions may be beneficial as well as deleterious. The course will cover both sides of this dynamic interplay including virus disease in humans, animals and plants as well as molecular aspects of the nature of viruses, their evolution, replication, applications in genetic engineering and gene therapy, detection and control by both vaccines and antiviral strategies. The course will familiarize students with practical skills relevant to the isolation, purification and characterization of animal and plant viruses. These include tissue culture techniques and virus growth, as well as molecular aspects of the detection and study of viral genes and expressed proteins, and the application of virus vectors in cell biology and biotechnology.",
+    "prerequisites": "MICR2000 or BIOC2000",
+    "incompatible": "",
+    "restricted": ""
+}

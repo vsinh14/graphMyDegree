@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7050",
+    "course_name": "Generator Technology Design & Application",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Generators are an essential part of most power generation systems. Their reliability and integrity are crucial to the provision of reliable and high-quality electricity and grid support.This course explores the construction, operation and maintenance of synchronous and asynchronous generators. This course also explores condition monitoring techniques and maintenance strategies for generators.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "ME (Power), GCEng (Power)"
+}

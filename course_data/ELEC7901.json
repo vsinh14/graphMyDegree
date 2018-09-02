@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7901",
+    "course_name": "Advanced Medical Device Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In depth examination of biophysical nature of disease in selected organ systems. Engineering aspects of diagnostic, management and current research areas will be presented.",
+    "prerequisites": "ELEC4403 or ELEC7403",
+    "incompatible": "",
+    "restricted": ""
+}

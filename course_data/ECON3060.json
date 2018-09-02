@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3060",
+    "course_name": "Experimental Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Experimental economics is concerned with testing economic hypotheses & policies in a laboratory setting. Economic laboratory experiments involve finding out whether or not real people actually behave in the way economic theory predicts. This course will examine a number of topics in economics using experimental methods. Topics covered will include: Individual decision-making, market experiments, behavioural finance, experimental auction markets, public goods experiments, experiments in environmental & resource economics, game theoretic experiments.",
+    "prerequisites": "ECON2010",
+    "incompatible": "",
+    "restricted": "Quota: Maximum of 42 enrolments"
+}

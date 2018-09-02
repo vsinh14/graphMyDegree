@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7440",
+    "course_name": "Public Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the role of the government in the economy. Public policy issues are analysed theoretically and empirically. The course covers topics in government expenditure, taxation and political economy.",
+    "prerequisites": "ECON2010 + 2020 or 7010 or 7110 + 7020 or 7021",
+    "incompatible": "ECON6420 or EC415 or 850 and ECON3450",
+    "restricted": ""
+}

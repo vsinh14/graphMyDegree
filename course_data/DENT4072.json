@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT4072",
+    "course_name": "Oral Surgical Sciences II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Hospital procedures, management of oral & maxillofacial injuries, dental implantation and transplantation procedures, surgical management of oral & maxillofacial tumours & exodontia & radiography techniques.",
+    "prerequisites": "DENT3020 + 3030 + 3042 + 3062 + 3072 + 3082",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2703",
+    "course_name": "Law of Torts II",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on the basic knowledge of the law of torts developed in Torts I, focusing in greater depth on particular problem areas within the law of negligence. It also introduces students to a further range of torts protecting personal interests and places the law of torts in context by examining principles of vicarious liability and alternative compensation schemes that exist for personal injury and death.",
+    "prerequisites": "LAWS2702",
+    "incompatible": "LAWS1002 or LAWS1114",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

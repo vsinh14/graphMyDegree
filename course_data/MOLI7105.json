@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7105",
+    "course_name": "Minor Research Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is a two unit research project (as part of the industry stream projects) offered as part of the Master of Molecular Imaging, which is a new proposed collaborative program between the University of Sydney (USyd), and UQ. \nA number of projects will be offered including literature reviews, data analysis and interpretation or, for those students with access to molecular imaging systems, data acquisitions. Students may also submit their own project for approval. This subject is provided to demonstrate the ability to work independently, as would be expected for Masters students.",
+    "prerequisites": "Magnetic Resonance Imaging (MRES7100), Molecular Targets and Imaging Probes (MOLI7101 or USyd equivalent), Radiotracer Based Molecular Imaging (USyd course),Clinical Molecular Imaging (MOLI7102, or USyd equivalent)",
+    "incompatible": "",
+    "restricted": ""
+}

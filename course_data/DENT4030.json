@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT4030",
+    "course_name": "Oral Rehabilitation III",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "A largely clinically-based course with each student responsible for the management of a number of patients requiring prosthodontic treatment, including any required interdisciplinary treatment, problem solving skills, presentation of case reports, and topical prosthodontic issues.",
+    "prerequisites": "DENT3020 + 3030 + 3042 +3062 + 3072 + 3082",
+    "incompatible": "DENT4032",
+    "restricted": ""
+}

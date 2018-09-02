@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN2010",
+    "course_name": "Continuing German Language 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course revises and extends the language skills inculcated in GRMN1010 and GRMN1020 or in Senior German.",
+    "prerequisites": "GRMN1020 or Senior German",
+    "incompatible": "GRMN1110",
+    "restricted": ""
+}

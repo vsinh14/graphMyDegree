@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4060",
+    "course_name": "Process & Control System Synthesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A systematic introduction to automatic process control of industrial processes, including control system synthesis, basic instrumentation, typical system dynamic behaviours and feedback & feedforward controller design.",
+    "prerequisites": "(CHEE3020 or CHEE2002) and (CHEE3007 or CIVL3150)",
+    "incompatible": "CHEE3006",
+    "restricted": ""
+}

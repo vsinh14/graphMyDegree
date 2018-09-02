@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7131",
+    "course_name": "Urban Hydrology",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Key concepts from introductory courses in hydrology are applied to urban environments to derive information to inform the design of water cycle infrastructure. Catchment processes including precipitation, evapotranspiration, infiltration and runoff are examined in the context of sustainable urban design. Techniques for statistical analysis of hydrologic data to support hydrologic design are introduced. Principles for the design of infrastructure to address common water quality issues for urban environments as well as water harvesting to offset potable water supply are also examined. Various modelling tools are used to explore different water sensitive design scenarios.",
+    "prerequisites": "MATH1051 and MATH1052 and (STAT2201 or CIVL2530) and CIVL2131 and CIVL2135.",
+    "incompatible": "",
+    "restricted": "Minimum of 30 students, or at Head of School's discretion."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3510",
+    "course_name": "International Trade Theory & Policy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Pure theory of international trade, comparative advantage, Heckscher-Ohlin, growth & trade. Commercial policies: protection & welfare, economic integration, trade & economic development, Australian perspectives.",
+    "prerequisites": "ECON2010",
+    "incompatible": "EC352",
+    "restricted": ""
+}

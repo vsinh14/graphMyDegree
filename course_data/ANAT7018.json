@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT7018",
+    "course_name": "Functional Neuroanatomy",
+    "faculty": "Medicine & Biomedical Sciences",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Up-to-date concepts & notions of human brain & behaviour for science and psychology students, emphasising factors which define brain structure & functions & cognitive functions. Practical classes based on histology, macroscopic anatomy & neuropsychology.",
+    "prerequisites": "",
+    "incompatible": "ANAT3022",
+    "restricted": ""
+}

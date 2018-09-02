@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2053",
+    "course_name": "Animal Nutrition",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The nutrition of domestic and wild animals; nutritional ecology, nutrients, digestion and nutrient supply, food evaluation and quality, regulation of food intake, quantitative nutrition.",
+    "prerequisites": "",
+    "incompatible": "ANIM3040, ANIM7240",
+    "restricted": ""
+}

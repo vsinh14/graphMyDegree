@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH7062",
+    "course_name": "Architectural Research Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Development of an independent research project that extends a topic relevant to the discipline of architecture. Topics include architectural and environmental design, technology, practice, history, theory, heritage, and people-environment studies. This course is available to students who have completed two of the following: ARCH7012, ARCH7022, ARCH7032 and ARCH7042.",
+    "prerequisites": "A GPA of 5.5 or above and two of: ARCH7012, ARCH7022, ARCH7032 and ARCH7042",
+    "incompatible": "",
+    "restricted": "MArch students only"
+}

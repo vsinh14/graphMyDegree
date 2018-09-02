@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7163",
+    "course_name": "International Trade Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an intermediate level elective which examines and seeks to develop students' knowledge and awareness of the law, practice and regulation of International Trade Law in Australia and internationally.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5163",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

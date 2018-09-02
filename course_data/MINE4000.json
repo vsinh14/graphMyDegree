@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4000",
+    "course_name": "Mine Waste Management & Landform Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Philosophy of mine waste disposal & rehabilitation; overview of Australian & international regulations. Physical & chemical nature of mine wastes; disposal of mine wastes; geomechanics of mine waste disposal & rehabilitation; rehabilitation of mine wastes; risk assessment & remedial measures.",
+    "prerequisites": "CIVL2210",
+    "incompatible": "CIVL4240 or MINE7000",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1022",
+    "course_name": "Chemistry for the Health Professions",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to chemistry as a quantitative science. Chemistry concepts will be developed through examples drawn from the fields of Pharmacy, Medicine, and Dentistry to meet their professional accreditation requirements. Core topics include kinetic theory, energetics and spontaneity of chemical reactions, chemical equilibrium, acid base chemistry, solubility and the essential principles of chemical kinetics and redox chemistry in biological systems. The course is intended for those students who are enrolled in Pharmacy or Dentistry. The material presented will form the basis for further study in higher level chemistry within these professional disciplines.",
+    "prerequisites": "Year 11 & 12 Chemistry or CHEM1090",
+    "incompatible": "CHEM1021 & CHEM1020",
+    "restricted": ""
+}

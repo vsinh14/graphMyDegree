@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2070",
+    "course_name": "Integrated Biomedical Sciences for Nursing",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "BIOM2070 provides nursing students with an opportunity to develop an understanding and appreciation of the special senses and learning and memory, and of the integrative physiological processes that maintain homeostasis, including the regulatory control of the nervous and endocrine systems.",
+    "prerequisites": "BIOM1060 & BIOM1061",
+    "incompatible": "",
+    "restricted": "BN, BN/BMid students only"
+}

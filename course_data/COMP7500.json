@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7500",
+    "course_name": "Advanced Algorithms & Data Structures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of algorithms. Solution of summation & recurrence equations. Algorithm paradigms: divide-&-conquer, greedy algorithms, dynamic programming, backtracking, branch-&-bound. Advanced graph algorithms. Amortised analysis. Self-adjusting data structures. Complexity classes, NP-completeness. Approximation algorithms. Randomized algorithms.",
+    "prerequisites": "COMP7505",
+    "incompatible": "COMP4500",
+    "restricted": ""
+}

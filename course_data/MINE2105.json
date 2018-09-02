@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE2105",
+    "course_name": "Introduction to Mining",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to Australian mining history, mining methods & mining equipment, mine ventilation, explosives & blasting. Significant Australian mineral deposits & mines. Mining development & production terms & descriptions. Economic, social & environmental considerations. Introduction to risk management. Roles & responsibilities of a mining engineer.",
+    "prerequisites": "",
+    "incompatible": "MINE2103",
+    "restricted": ""
+}

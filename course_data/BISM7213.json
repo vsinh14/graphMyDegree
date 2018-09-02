@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7213",
+    "course_name": "Securing Business Information",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A managerial perspective of controls & audit procedures associated with preserving authenticity, accuracy, completeness, timeliness & privacy of business electronic transactions over the Internet; quality assurance for electronic commerce/online business applications for business managers.",
+    "prerequisites": "BISM7202 or BISM7210 or INFS7210 or MGTS7202",
+    "incompatible": "BISM3205 or MGTS3205 or MGTS7213",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2222",
+    "course_name": "Advanced Techniques in Biomedical Science",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will give students 'hands-on' experience with advanced techniques in biomedical science. Students will gain competency in a broad range of biomedical techniques, an understanding of the theory behind the different types of experiments and an appreciation of experimental controls. They will also get practice in data analysis and scientific writing.",
+    "prerequisites": "BIOL1040, BIOL1020, SCIE1200",
+    "incompatible": "",
+    "restricted": "Enrolment is restricted to students undertaking the BAdvSc(Hons) Biomedical Science major"
+}

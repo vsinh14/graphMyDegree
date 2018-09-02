@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1921D",
+    "course_name": "Information Systems",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This course develops an understanding of the uses of management information systems in organisations and provides an introduction to computer hardware and software, information systems development, and implementation and operation. Practical experience with spreadsheets, database management, and other business application software for business problems are provided during the course.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

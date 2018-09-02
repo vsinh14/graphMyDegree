@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOT7009",
+    "course_name": "Emerging Biotechnologies",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced study of the basic science underpinning new biotechnologies. Modules will include diagnostics, next generation genome sequencing, RNAi, biofuels, stem cells and gene therapy.",
+    "prerequisites": "",
+    "incompatible": "BIOT6009",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2010",
+    "course_name": "Analysis of Ordinary Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "ODE's - Systems: variation of constants, fundamental matrix. Laplace transform, transform for systems, transfer function. Stability, asymptotic stability; phase plane analysis.",
+    "prerequisites": "MATH1052 or MATH1072",
+    "incompatible": "MATH2100",
+    "restricted": ""
+}

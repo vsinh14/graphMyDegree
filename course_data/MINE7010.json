@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE7010",
+    "course_name": "Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School, Sustainable Minerals Institute",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Project or thesis on a topic approved by the Head of School.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "",
+    "restricted": ""
+}

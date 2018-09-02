@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3010",
+    "course_name": "Advanced Inorganic Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is for those specifically interested in inorganic chemistry and the physical methods that underpin its application to bio-inorganic and materials science. It is founded on the fundamental electronic properties which distinguish the d- and f-block elements from all others in the periodic table; their electronic structure, electron transfer and magnetic properties.",
+    "prerequisites": "CHEM2050 or CHEM2901",
+    "incompatible": "CHEM3002 or BIOL3005",
+    "restricted": ""
+}

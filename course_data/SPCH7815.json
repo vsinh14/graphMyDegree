@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7815",
+    "course_name": "Children with Special Needs",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with the knowledge and skills to assess, diagnose & plan effective treatment for children with special needs in communication, including autism spectrum disorder, hearing impairment, intellectual disability, cultural and linguistic diversity, cleft palate, and cerebral palsy.",
+    "prerequisites": "SPCH7803, SPCH7820, SPCH7821",
+    "incompatible": "SL300 or SPCH3200",
+    "restricted": "MSpPathSt Students"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC8161",
+    "course_name": "Neuroanatomy for Neuropsychologists",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course aims to provide a knowledge base in neuroanatomy, neuropathology and brain-behaviour relationships. The practical components are designed to introduce the application of knowledge to the practice of clinical neuropsychology.",
+    "prerequisites": "",
+    "incompatible": "ANAT7018",
+    "restricted": "Restricted to students in DPsych"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM7530",
+    "course_name": "Fire Ecology and Management",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In depth knowledge and practical skills required to manage fire. Aspects of fire behaviour, fire suppression, prescribed burning, fire ecology and management planning.",
+    "prerequisites": "",
+    "incompatible": "ENVM2512",
+    "restricted": ""
+}

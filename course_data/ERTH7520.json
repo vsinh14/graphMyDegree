@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH7520",
+    "course_name": "Exploration Seismology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Elastic wave equation & solution. Land & marine acquisition techniques & instrumentation. Seismic reflection processing methodology.",
+    "prerequisites": "",
+    "incompatible": "ERTH4220",
+    "restricted": "Permission of Head of School"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3007",
+    "course_name": "Process Modelling & Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students completing a dual-major in Chemical and Environmental Engineering must complete either CIVL3150 or CHEE3007. Note that CHEE2501 is a recommended pre-requisite for CIVL3150. Only students enrolled in the Chemical / Environmental Engineering dual major are eligible for CIVL3150, students from all other Chemical Engineering plans must complete CHEE3007.\n\nMathematical process modelling for design, control & optimisation of process systems. Conservation principles, development of constitutive equations in models & analysis of resultant models for use in control & diagnosis of process faults. Model verification, calibration & validation based on process data is emphasised.",
+    "prerequisites": "CHEE3002 and CHEE3003",
+    "incompatible": "CHEE3205 or CIVL3150",
+    "restricted": ""
+}

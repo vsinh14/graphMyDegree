@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7402",
+    "course_name": "Advanced Electronic & Power Electronics Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Power electronic semiconductors, switch mode power converters, motor drives & their control. Digital signal interfacing, including optoelectronic & transceivers. Precision analog signal conditioning. High speed & low power techniques. Practical circuit construction & testing techniques.",
+    "prerequisites": "For ELEC4400: prereq ELEC3400\nFor ELEC7402: prereq ELEC7401",
+    "incompatible": "For ELEC4400: inc ELEC7402\nFor ELEC7402: inc ELEC4400",
+    "restricted": ""
+}

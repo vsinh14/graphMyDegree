@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3603",
+    "course_name": "Strategic Human Resource Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced study in Human Resource Management in organisations with a particular emphasis on strategic processes of HRM. Fundamental knowledge of critical HR functions is provided emphasising need to align such functions with organisation's objectives & HRM strategy.",
+    "prerequisites": "MGTS2604",
+    "incompatible": "MGTS7603 or 7706 or 7809",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

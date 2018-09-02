@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4040",
+    "course_name": "Veterinary Population Medicine",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Population medicine involves understanding how animal health and disease is managed at a group, rather than an individual animal, level. The course will introduce students to core concepts and develop clinical skills in how populations of animals are managed with respect to diagnostic investigations, disease surveillance, outbreak investigation, diagnostic workup, statistical analysis of animal health datasets obtained on a group level, mass therapy, and preventive health programs. Foundational diagnostic, epidemiological and research skills will be applied to clinical case scenarios to develop students competences in problem solving and application of specific medical knowledge. Scenarios will be based on intensive livestock production sectors such as swine and poultry production, aquaculture and other animal populations. The same skills and knowledge will be applied to human populations with respect to managing zoonotic and emerging infectious diseases, as well as protecting the food chain through training in food security and safety, using principles of One Health practice.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

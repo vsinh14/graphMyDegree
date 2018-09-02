@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7350",
+    "course_name": "Applied Econometrics for Macroeconomics and Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Econometric tools that apply to financial and macroeconomics data. Core content includes: characteristics of time series data; capital asset pricing models; co-integrated models; volatility models; models of price changes. Applications include models of stock prices, derivatives, exchange rates, interest rates.",
+    "prerequisites": "(ECON7310+(ECON7020 or 7021) or (ECON7310+ECON7002+(FINM7401 or BSFN7401 or COMM7501)); or (ECON2300+ECON2020) or (ECON2300 + ECON1020 + (FINM2401 or COMM2501 or BSFN2401))",
+    "incompatible": "ECON3300 or ECON3350",
+    "restricted": ""
+}

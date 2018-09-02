@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3210",
+    "course_name": "Financial Markets & Institutions",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Flow of funds & financial markets, theory & behaviour of interest rates, term & risk structure of interest rates, exchange rates, interest parity, expectations formation, equity markets, debt market, Euro markets, derivatives markets, social allocation of capital.",
+    "prerequisites": "ECON1010 + (FINM2401 or FINM2400) or (ECON2011 + FINM2411) or ECON2200",
+    "incompatible": "EC302",
+    "restricted": ""
+}

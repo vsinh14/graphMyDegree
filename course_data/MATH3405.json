@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3405",
+    "course_name": "Differential Geometry",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "",
+    "prerequisites": "MATH2000 or MATH2001",
+    "incompatible": "",
+    "restricted": ""
+}

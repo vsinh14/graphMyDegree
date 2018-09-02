@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7320",
+    "course_name": "Advanced Microeconometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course concentrates on mainstream models and estimation and inference methods that are widely used in most empirical investigations in applied microeconomics. The course has a topics-based structure, and theory and applications are closely integrated. Topics include parametric and semi-parametric estimation methods applied to cross-section and panel data; treatment evaluation; models of cross-sectional dependence; quantile and mixture regressions; density estimation; Bayesian regression analysis.",
+    "prerequisites": "ECON3300 or 3350 or 3360 or 7350 or 7360",
+    "incompatible": "ECON6300 or EC443 or 860",
+    "restricted": ""
+}

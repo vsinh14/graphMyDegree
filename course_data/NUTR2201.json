@@ -1,0 +1,12 @@
+{
+    "course_code": "NUTR2201",
+    "course_name": "Advanced Topics in Nutrition Science",
+    "faculty": "",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on prior studies in nutrition science. It examines the metabolism of nutrients in detail, and examines in depth the scientific basis for nutrition reference standards and guidelines. There are four modules; the metabolism of nutrients, the scientific basis for common nutrition evaluation tools, emerging issues in nutrition science, food sources of nutrients. The content will extend prior studies leading to deeper understanding of nutrition as well as address contemporary nutrition science topics.",
+    "prerequisites": "NUTR2101",
+    "incompatible": "NUTR3201",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SOCY3039",
+    "course_name": "Applied Quantitative Research",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Skills in quantitative data analysis are highly sought after by employers and are widely used by researchers in academia, government agencies, private companies and community organizations. This course teaches some of the most important quantitative data analysis techniques to equip students to undertake their own research and to assess the research of others. The course is ideal for those who are planning to undertake a quantitative honours thesis or work in an area that requires evaluating or undertaking quantitative research. Topics covered include revision of descriptive and inferential statistics; bivariate linear regression; multiple linear regression; scaling and index construction, logistic regression; use of Stata statistical software for data analysis.",
+    "prerequisites": "SOCY2339",
+    "incompatible": "SO320 or SOCY3019, SO323 or 423 or SOCY7039",
+    "restricted": ""
+}

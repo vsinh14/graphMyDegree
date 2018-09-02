@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3014",
+    "course_name": "Advanced Bioinformatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced Bioinformatics equips the student with the interdisciplinary knowledge and skills necessary to meet the data-centred challenges of modern-day biology. Methods and algorithms for uncovering patterns in genomic data of different forms are discussed, and in several cases developed, implemented and applied to representative problems.",
+    "prerequisites": "SCIE2100 or MATH2210",
+    "incompatible": "BINF7000",
+    "restricted": ""
+}

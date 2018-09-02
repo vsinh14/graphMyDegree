@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7400",
+    "course_name": "Photonics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to modern photonics for applications in optical communications, data storage, optical computing & optical sensing. After completing the course, students will have the understanding of operation & limitations of enabling photonic technologies & gain the ability to analyse & simulate photonic devices & systems using analytical & numerical methods.",
+    "prerequisites": "For COMS4103: prereqs ELEC3100\nFor COMS7400: prereqs ELEC7101",
+    "incompatible": "For COMS4103: inc COMS7400\nFor COMS7400: inc COMS4103",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1911D",
+    "course_name": "Business Project A",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This course examines group theory and practice in-depth within the formation and development of high performing teams with particular reference to individual differences, adult learning and learning styles; group dynamics; group techniques and facilitation; communication and conflict management; and leadership and influence.",
+    "prerequisites": "MGTS1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

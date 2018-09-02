@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7100",
+    "course_name": "Magnetic Resonance Imaging: Fundamentals",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This unit of study explores the principles and methods that underpin Magnetic Resonance Imaging (MRI), a key molecular imaging technique. Topics covered include Physical principles of nuclear magnetic resonance (MR), underlying mechanisms of relaxation in MR and descriptions of the way in which pulse sequences are able to exploit relaxation to produce contrast.",
+    "prerequisites": "Admission to the Magnetic Resonance Technology, MR-PET, or Molecular Imaging suite of programs.",
+    "incompatible": "MRES7001",
+    "restricted": ""
+}

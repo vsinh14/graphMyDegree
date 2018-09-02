@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM4202",
+    "course_name": "Text Analysis in R",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The digital revolution has created an abundance of data, including text data. Applicable to all forms of text (eg company annual reports, health and medical records, web pages, etc) text analysis has the aim of extracting information from text useful to decision makers. Using R, this course provides students of business analytics with an overview of the methods of text analysis, including categorising, tagging, and classifying text, and developing and testing models for the purpose of improving decision making based on text data.",
+    "prerequisites": "BISM2204",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

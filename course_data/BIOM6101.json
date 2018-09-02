@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM6101",
+    "course_name": "Research Project in Biomedical Science",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School",
+    "units": "10",
+    "duration": "Two Semesters",
+    "description": "Individual laboratory-based research topic in the area of biomedical science, guided by an academic supervisor.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BSc(Hons) students"
+}

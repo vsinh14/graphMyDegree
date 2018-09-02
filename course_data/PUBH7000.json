@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7000",
+    "course_name": "Public Health Research Methods",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course imparts knowledge of and skills in basic qualitative and quantitative research methods used in public health research.",
+    "prerequisites": "#8 units (4 courses) of the coursework have been completed, including at least #4 units of core or Part A courses",
+    "incompatible": "PUBH7610",
+    "restricted": ""
+}

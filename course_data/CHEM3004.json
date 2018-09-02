@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3004",
+    "course_name": "Determination of Molecular Structure",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The determination of molecular structure underpins all aspects of synthetic chemistry. There are many techniques available to determine the precise structure (connectivity, conformation, stereochemistry, chirality) of a molecule. X-ray crystallography is the most direct technique for molecular structure determination. Crystallography will be presented in this course in a series of lectures and problem based learning sessions. As a complement to the lecture material all students will undertake a computer based exercise as part of their assessment where they solve and refine a real crystal structure. Nuclear Magnetic Resonance (NMR) and mass spectrometry are used routinely in the characterisation of new and existing compounds. Simple 1-D and more sophisticated 2-D NMR experiments can lead to information that, if interpreted correctly, enable the assignment of connectivity and stereochemistry. The NMR section of this course will be presented as a series of lectures and problem solving sessions. An assignment using several spectroscopic techniques to assign the structure of an unknown compound will be part of the overall assessment of this section of the course. This course provides students with requisite skills and knowledge to characterise new or existing chemical compounds in a research or quality control/analytical laboratory setting.",
+    "prerequisites": "CHEM2050 or CHEM2901",
+    "incompatible": "",
+    "restricted": ""
+}

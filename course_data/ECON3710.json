@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3710",
+    "course_name": "Economics of Natural Resources",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Market allocation, economic efficiency & economic policy in relation to natural resource capital stocks; case studies drawn from exploitation of mineral, energy, fish, timber & recreational resources.",
+    "prerequisites": "ECON2010",
+    "incompatible": "EC378",
+    "restricted": ""
+}

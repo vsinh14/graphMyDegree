@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3003",
+    "course_name": "Advanced Immunology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers advanced topics in immunology and is suited to students with some background knowledge of immunology. Topics covered include the molecular basis of immune recognition, regulation of the immune response, mechanisms of host response against infectious pathogenic agents, transplantation, vaccine design, immunodeficiency and other immune disorders. Oral and poster presentation tasks are designed to reinforce the lecture material.",
+    "prerequisites": "MICR2000",
+    "incompatible": "",
+    "restricted": ""
+}

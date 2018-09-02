@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7003",
+    "course_name": "MR Safety & Monitoring",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principal hazards of MRI environment & its effects on the human body & equipment. Physiological monitoring strategies examined from the origin of signals to integration with the imaging system. Considerations in planning for MR installations are reviewed.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite",
+    "incompatible": "",
+    "restricted": ""
+}

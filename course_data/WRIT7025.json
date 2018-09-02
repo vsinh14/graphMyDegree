@@ -1,0 +1,12 @@
+{
+    "course_code": "WRIT7025",
+    "course_name": "Academic & Corporate Editing",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will extend the grounding in the fundamentals of grammar, syntax, and style that are dealt with in WRIT6030 or WRIT7030 Professional Communication.",
+    "prerequisites": "WRIT6030 or WRIT7030 or WRIT7250",
+    "incompatible": "WRIT6020",
+    "restricted": ""
+}

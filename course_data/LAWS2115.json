@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2115",
+    "course_name": "Administrative Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An examination of the rules, principles and procedures applied by the courts to review the legality of government action, including: the contrast between legality review by the courts and merits review by tribunals; the grounds of judicial review historically associated with the concepts of ultra vires, jurisdictional error & natural justice; the statutory remedies available federally (principally via the Administrative Decisions (Judicial Review) Act 1977 (Cth)) and in Queensland (via the Judicial Review Act 1991); and other relevant statutory, common law & equitable remedies.",
+    "prerequisites": "LAWS1111 + LAWS1115 + LAWS1116",
+    "incompatible": "LAWS3701 or 5018 or 7118",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

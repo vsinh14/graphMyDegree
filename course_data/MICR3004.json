@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR3004",
+    "course_name": "Microbial Genomics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers the principles of microbial genomics and its application to cultured and uncultured microbial diversity (metagenomics), including the use of informational macromolecules such as 16S rRNA. The course emphasises recent projects that use genomics and metagenomics to advance the fields of metabolic engineering, wastewater treatment and human health. This course has content relevant to Biotechnology and Genetics majors.",
+    "prerequisites": "MICR2000",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHIN2100",
+    "course_name": "Spoken Chinese IB",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Continuation of CHIN1100.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "CHIN1100",
+    "incompatible": "",
+    "restricted": ""
+}

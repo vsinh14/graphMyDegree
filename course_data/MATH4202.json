@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4202",
+    "course_name": "Advanced Topics in Operations Research",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will work with recent papers from the literature to build on and extend the tools and concepts introduced in MATH3202. Topics will be drawn from large scale linear and integer programming, advanced dynamic programming techniques and stochastic optimisation methods.",
+    "prerequisites": "MATH3202",
+    "incompatible": "MATH7202",
+    "restricted": ""
+}

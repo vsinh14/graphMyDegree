@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3012",
+    "course_name": "Extensive Animal Production",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced concepts & practices used in the management of selected species of animals for the production of meat, milk, fibre & skins.",
+    "prerequisites": "",
+    "incompatible": "QA408 or VG310 or 311, ANIM2054",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3012",
+    "course_name": "Animal Production Systems and Welfare",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "VETS3012 brings together the knowledge that has been taught in such subjects as immunology, parasitology, virology, nutrition, toxicology, reproduction, genetics and pathology and applies this knowledge to the practical on farm situation that today's veterinarians find in large animal practice. It is important that students are able to communicate effectively with rural clients. To do this they must have a sound knowledge of the production aspects of treating extensive and intensively managed production animals as well as large animal medicine.",
+    "prerequisites": "ANIM1024, VETS1023",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

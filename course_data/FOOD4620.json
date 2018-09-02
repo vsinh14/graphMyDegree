@@ -1,0 +1,12 @@
+{
+    "course_code": "FOOD4620",
+    "course_name": "Research Project",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "This course is designed to introduce the students to research methods. This course forms the central part of the research effort of the School, with the expectation that the students will develop skills to undertake research and report their findings in the form of a technical report, project report or scientific publication.",
+    "prerequisites": "AGRC3032",
+    "incompatible": "FOOD4611 and FOOD4612",
+    "restricted": ""
+}

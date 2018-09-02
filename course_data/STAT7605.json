@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7605",
+    "course_name": "Clinical Biostatistics",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Clinical agreement (kappa statistics, Bland-Altman method, intra class correlation); diagnostic tests (sensitivity, specificity, predictive values, ROC curves, likelihood ratio); statistical process control (special and common causes of variation, Shewhart, CUSUM and EWMA charts); systematic reviews (estimating effect, heterogeneity, publication bias), Clinical trials (equivalence trials, cross-over trials). \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7601 + STAT7614",
+    "incompatible": "",
+    "restricted": ""
+}

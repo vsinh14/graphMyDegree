@@ -1,0 +1,12 @@
+{
+    "course_code": "GNET3860",
+    "course_name": "Biotechnology & Molecular Plant Improvement",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applications of molecular genetics, genetic engineering & biotechnology to plant improvement. Theory & practical experience of DNA manipulation & genetic engineering, plant genomics, DNA marker technology & bioinformatics & the integration into modern plant improvement programs. The ethical & legal aspects of use of techniques in & products of biotechnology.",
+    "prerequisites": "",
+    "incompatible": "AG454 or 462 or PLNT3005",
+    "restricted": ""
+}

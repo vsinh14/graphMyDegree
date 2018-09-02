@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN2020",
+    "course_name": "Intermediate French 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further development of communication skills in French language. It provides for the further development of oral skills, accompanied by a new emphasis on reading and writing in French.",
+    "prerequisites": "FREN2010 or placement test",
+    "incompatible": "FREN1120",
+    "restricted": ""
+}

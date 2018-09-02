@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6900",
+    "course_name": "Special Unit",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Special Unit courses offered from time to time include: Evolutionary & Institutional Economics, Labour Economics. Consult School for details.",
+    "prerequisites": "Head of School approval",
+    "incompatible": "EC423",
+    "restricted": ""
+}

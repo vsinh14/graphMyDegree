@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7950",
+    "course_name": "Dissertation (full time study)",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "The dissertation allows students to consolidate and extend the knowledge and skills acquired during the coursework and apply these in a scientific way in a public health or (clinical) epidemiological context. It can form the basis of a paper publishable in a (inter)national peer-reviewed journal in the dissertation's topic area. \nBefore enrolling, students must obtain permission from the program coordinator and have achieved a minimum GPA of 5.5 across at least 8 units of coursework, including at least 4 units from Part A. \nStudents completing dissertations are unlikely to have their degree conferred until the end of the semester following submission of their dissertation. \nThis course code is for full-time students who will complete the dissertation in one semester. Part-time students should enrol in PUBH7955 (if commencing in semester 1) or PUBH7957 (if commencing in semester 2).",
+    "prerequisites": "8 units of Part A coursework with a minimum Grade Point Average (GPA) of 5.5 over these courses.",
+    "incompatible": "GHSP7950 or 7955 or PCAH7020 or 7022 or PUBH7017 or 7018 or 7955 or SP800",
+    "restricted": ""
+}

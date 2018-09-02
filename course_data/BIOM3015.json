@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3015",
+    "course_name": "Integrative Physiology & Pathophysiology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will examine how physiological systems maintain health throughout life & how these systems change with ageing & disease. Pathophysiology will be introduced as a basis for understanding the consequences of disease.",
+    "prerequisites": "BIOM2012",
+    "incompatible": "",
+    "restricted": ""
+}

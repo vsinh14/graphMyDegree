@@ -1,0 +1,12 @@
+{
+    "course_code": "SOCY3329",
+    "course_name": "Qualitative Social Research",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Overview of qualitative approaches to sociological inquiry and corresponding methodological procedures. The course covers research design and practice, including use of the NVivo data analysis package. It introduces the methods, methodology and epistemology of various analytical approaches including content and thematic analysis, grounded theory, PAR, symbolic interactionism, phenomenology, discourse, narrative and conversation analysis. The course also explores some of the contemporary theoretical approaches and debates including interpretivism, social constructionism, positivism, postmodernism, posthumanism, feminism and post-colonial approaches.",
+    "prerequisites": "SOCY2049 or SOCY2019 or POLS2703",
+    "incompatible": "SOCY2329, SOCY7329",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "EIBS7301",
+    "course_name": "Idea Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an understanding of the importance of technological innovation for economic growth. It focuses on how businesses select and develop ideas, the research and development process, collaboration and open innovation, and the management of intellectual property.",
+    "prerequisites": "",
+    "incompatible": "TIMS7318",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

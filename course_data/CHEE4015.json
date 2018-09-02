@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4015",
+    "course_name": "Special Topics VII",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Special topics in a field relevant to chemical engineering chosen in consultation with Head of School.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "E1482",
+    "restricted": ""
+}

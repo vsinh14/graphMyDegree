@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH4107",
+    "course_name": "Disability Issues & Alternate & Augmentative Communication",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the management of communication impairments in people with disabilities and mental health issues. It addresses the provision of augmentative and alternative communication in people with severe communication impairments.",
+    "prerequisites": "Completed all of Year one to three of BSpPath(Hons)",
+    "incompatible": "SPCH4102",
+    "restricted": "BSpPath"
+}

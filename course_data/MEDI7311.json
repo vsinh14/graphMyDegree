@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7311",
+    "course_name": "Surgery",
+    "faculty": "",
+    "school": "",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "The year 3 Surgery course is devoted to general surgery (breast / endocrine, upper gastrointestinal, hepato-pancreatobiliary, colorectal, trauma and acute surgery) and some subspecialties including burns and plastics, urology, vascular, neurosurgery, cardiothoracic surgery and ear/nose/throat surgery. The aim of this course is to familiarise students with common, serious and life threatening surgical diseases and for the student to develop an understanding of how they present clinically; how to systematically evaluate these conditions; how they are investigated; principles of management; how to assess priorities for treatment; and when and how to initiate referral. The term is not intended to train students as technical surgeons but to develop students that are 'intern ready' who can function as part of a surgical team. During the work-integrated learning component of this course, students will be allocated to surgical units to participate in the daily activities of those units, and to participate in all that happens during their patients' episode of care. In addition, students should attend outpatients, ward rounds, operating theatre, and other unit meetings. A tutorial program is conducted at each individual clinical teaching unit.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7301",
+    "restricted": "MD & MD (Ochsner) students only"
+}

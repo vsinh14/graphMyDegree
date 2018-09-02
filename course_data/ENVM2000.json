@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM2000",
+    "course_name": "Environmental Data Analysis",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School, Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a foundation in the advanced quantitative and statistical skills needed for analysing data from environmental studies. The course will cover topics from survey design, regression models, analysis of variance, spatial analysis and non-parametric methods, drawing on a range of practical examples. It will also provide an introduction to statistical computing in R.",
+    "prerequisites": "GEOM1000",
+    "incompatible": "ECON1310, PUBH2007, STAT1201, STAT1301, STAT2201 or STAT2701",
+    "restricted": ""
+}

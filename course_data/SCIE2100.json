@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE2100",
+    "course_name": "Introduction to Bioinformatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "If you are interested in biology, computing or mathematics, then this could be an ideal course for you to take. You will find out about technologies and methods for analysing the expression, structure and function of DNA, RNA and proteins, and an understanding of the relationships between species. In the process, you will develop practical skills which will help you develop expertise to solve real problems at the forefront of science.",
+    "prerequisites": "(SCIE1000 and STAT1201) or (MATH1051 or MATH1071 and CSSE1001)",
+    "incompatible": "COSC2000",
+    "restricted": ""
+}

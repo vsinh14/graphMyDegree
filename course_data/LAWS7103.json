@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7103",
+    "course_name": "Law of Contract B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7100 + 7101",
+    "incompatible": "LA103 or 108 or 706 or LAWS1003 or 7303",
+    "restricted": "JD"
+}

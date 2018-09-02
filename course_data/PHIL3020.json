@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL3020",
+    "course_name": "Philosophical Logic: Thinking about Logic",
+    "faculty": "",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Not 2012\nThe course will deal with philosophical issues arising in relation to modern logic. Topics to be covered will include: argument validity, truth-functionality, conditionals, quantification, necessity, and the notion of a logical constant.",
+    "prerequisites": "PHIL1020",
+    "incompatible": "",
+    "restricted": ""
+}

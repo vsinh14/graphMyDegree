@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7106",
+    "course_name": "Research Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This is a four unit research project offered as part of the Master of Molecular Imaging Technology. The research project is carried out on routinely acquired data. Students are required to analyse previously acquired data and work under the supervision of the course coordinator. Most commonly, the research is performed by reviewing previously acquired data in the areas of molecular imaging including tomography (CT), magnetic resonance imaging (MRI), single photon emission tomography (SPECT), positron emission tomography (PET) and optical imaging (i.e. luminescence and fluorescence).",
+    "prerequisites": "MRES7100, MOLI7101 (or USyD equivalent), MOLI7102 (or USyD equivalent), Radiotracer Based Molecular Imaging (USyd course)",
+    "incompatible": "",
+    "restricted": ""
+}

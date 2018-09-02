@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM6403",
+    "course_name": "Empirical Finance Honours II",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course provides a critical overview of literature in Asset Pricing, Investments and Corporate Governance with the primary goal of preparing students to do this type of research. The course is organised around selected published articles and working papers in each field with an emphasis on quantitative tools and techniques and a consideration of the associated research design choices underlying empirical work. Given the nature of material covered in this unit, it will have a broader relevance to empirical research design issues for Honours thesis topics beyond the illustrated areas.",
+    "prerequisites": "(FINM2416 or 3402 or 3412) + permission from Head of School",
+    "incompatible": "",
+    "restricted": "BAdvBus(Hons), BCom(Hons), BAdvFinEcon(Hons), GCBusRMeth, GDipBRM, MCom, PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

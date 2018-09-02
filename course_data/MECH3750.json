@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3750",
+    "course_name": "Engineering Analysis II",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mathematics & Physics School, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Approximation of data, least squares, solving non-linear equations, numerical integration, Fast Fourier Transforms, spectral analysis, Runge-Kutta methods for ODE, finite difference methods for PDEs. Finite volume methods.",
+    "prerequisites": "MECH2700",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN2010",
+    "course_name": "Intermediate French 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Builds on language and communication skills acquired in FREN1010 & FREN1020. A short autobiography provides opportunities for greater work on reading skills.",
+    "prerequisites": "FREN1020, ab initio course in Senior-or placement test",
+    "incompatible": "FREN3112 or 1120 or 1210",
+    "restricted": ""
+}

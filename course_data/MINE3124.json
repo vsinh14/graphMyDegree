@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3124",
+    "course_name": "Mine Ventilation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is intended for undergraduate education and details the attributes, knowledge, and techniques that are required to provide a safe underground working environment through sound ventilation practice.",
+    "prerequisites": "Study Abroad students require permission to enrol",
+    "incompatible": "MINE3103 or MINE3104",
+    "restricted": ""
+}

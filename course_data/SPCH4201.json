@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH4201",
+    "course_name": "Professional Issues in Speech Pathology",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Learning about professional issues in the workplace by analysis of real-life critical incidents of speech pathologists. (Includes knowledge of OH & S, professional associations, specific organisation's policies & general employment issues.)",
+    "prerequisites": "SPCH4106, SPCH4107",
+    "incompatible": "SL401",
+    "restricted": "BSpPath Students"
+}

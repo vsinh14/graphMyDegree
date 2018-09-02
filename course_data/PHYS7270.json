@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7270",
+    "course_name": "Advanced Computational Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers advanced numerical simulation techniques used in computational physics and their application to several physical problems. Topics covered include the solution of few-body classical dynamics, quantum mechanical eigenproblems, Monte Carlo techniques, the Metropolis algorithm, and classical models of magnetism. The course will cover some topics in advanced C++ programming, including floating point numbers, vectorisation, optimisation, parallelisation, and debugging techniques. The course requires the use of C++, and this will be introduced from scratch.o cover some topics in advanced MATLAB programming, including vectorization, optimization, and debugging techniques.",
+    "prerequisites": "Permission of Head of School + [PHYS3020 or PHYS7021] + [PHYS3040 or PHYS7042] +[ PHYS3051 or PHYS7250]",
+    "incompatible": "PHYS4070 or 7070",
+    "restricted": ""
+}

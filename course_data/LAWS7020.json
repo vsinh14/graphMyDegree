@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7020",
+    "course_name": "Introduction to Criminal Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7000",
+    "incompatible": "LAWS7104",
+    "restricted": "GCAppLaw; GDipAppLaw; MAppLaw; GCSocSc, GDipSocSc, MSocSc, MSocSc(Adv)"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE2001",
+    "course_name": "Process Principles",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Basic principles of process engineering including development of conservation principles applied to mass & energy, illustrated on a small process plant. Construction, operation & analysis of plant & teamwork principles needed to achieve goals.",
+    "prerequisites": "MATH1051 and (CHEM1100 or CHEM1020) and (ENGG1500 or ENGG1050)",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2111",
+    "course_name": "Law of Contract A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the concept of contractual obligation, including the rules relating to formation of contract, terms and exemption clauses.",
+    "prerequisites": "LAWS1111 (LLB(Grad Entry) & LLB(Hons#48) students excepted)",
+    "incompatible": "LAWS1001 or 1701 or 7101",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

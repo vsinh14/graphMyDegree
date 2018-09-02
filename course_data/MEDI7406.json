@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7406",
+    "course_name": "Preparation for Practice 2",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "The Preparation for Practice 2 Course has been developed to help prepare you for your internship year, learning skills & knowledge specifically related to the day to day tasks of an intern.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7242",
+    "incompatible": "",
+    "restricted": "MD Students Only"
+}

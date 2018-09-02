@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2707",
+    "course_name": "Interests in Property",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds upon Foundations of Property Law but focuses exclusively on property rights and interests, both legal and equitable.",
+    "prerequisites": "LAWS2706",
+    "incompatible": "LAWS3009 or LAWS3111",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

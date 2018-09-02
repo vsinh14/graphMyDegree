@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3240",
+    "course_name": "Adjunct Music Study",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an opportunity for invited students to undertake study in an applied music learning environment as an adjunct to their music studies.\n\nPlease note that this course offering may be cancelled if fewer than 10 students enrol.",
+    "prerequisites": "Permission from the Head of School (Music).",
+    "incompatible": "MU332, MU333",
+    "restricted": "course offering may be cancelled if fewer than 10 students enrol"
+}

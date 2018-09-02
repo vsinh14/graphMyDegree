@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1902D",
+    "course_name": "Business Law B",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This course is an introduction to, and critical analysis of, the law regulating business in Australia today for accountants, business managers, and other non-legal professionals. Particular emphasis will be placed on dealing with consumers and competitors, protecting IP, starting a business, financing a business, owning and managing a business, and experiencing financial difficulty.",
+    "prerequisites": "LAWS1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

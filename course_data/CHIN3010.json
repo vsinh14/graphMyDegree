@@ -1,0 +1,12 @@
+{
+    "course_code": "CHIN3010",
+    "course_name": "Spoken Chinese IIB",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further facets of spoken Chinese with immediate practical application.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "CHIN2110",
+    "incompatible": "CHIN2111",
+    "restricted": ""
+}

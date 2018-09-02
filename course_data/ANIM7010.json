@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM7010",
+    "course_name": "Advanced Animal Breeding & Genetics",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This postgraduate subject is concerned with the theory & practical application of molecular genetics to veterinary science & animal production. The course is suitable for Veterinary & Animal Studies postgraduates as well as fourth year Agriculture students and Bachelor of Veterinary Biology students after the second year of the BVSc program.",
+    "prerequisites": "A Biology Subject",
+    "incompatible": "GNET7780",
+    "restricted": ""
+}

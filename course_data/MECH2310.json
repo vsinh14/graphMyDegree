@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2310",
+    "course_name": "Science & Engineering of Metals",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Phase diagrams, phase transformations, dislocations, strengthening mechanisms, metallography, corrosion, recycling, future directions",
+    "prerequisites": "ENGG1211 or ENGG1200",
+    "incompatible": "MECH3305",
+    "restricted": ""
+}

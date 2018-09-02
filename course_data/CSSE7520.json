@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7520",
+    "course_name": "Unmanned Aerial Vehicles - Avionics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.)\nThis course explores technology of Unmanned Aerial Vehicles/ Systems from the perspective of system and computer engineering. Issues in the mechanical design and dynamics of the vehicles are covered as a background needed for design of electronics and software for control, navigation and various applications. Design methods of avionics systems specific to small UAVs with civilian applications will be covered in a series of lectures and literature research assignments will complement the theoretical component of this course. The practical part will illustrate use of advanced methodologies (e.g. simulation with hardware in the loop) for developing avionics systems and the project will provide opportunity to check the developed design of avionics system on the flying vehicle.",
+    "prerequisites": "CSSE3010 + (ELEC3004 or METR3200) + ELEC3400",
+    "incompatible": "",
+    "restricted": ""
+}

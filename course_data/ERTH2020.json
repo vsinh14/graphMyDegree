@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH2020",
+    "course_name": "Introduction to Geophysics",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to geophysical methods used for resource exploration, engineering and environmental applications. \nIncludes basic theory, instrumentation, field techniques, data analysis and case histories. Concepts are illustrated using practical exercises and computer modelling.",
+    "prerequisites": "SCIE1000 plus either MATH1050 or Year 12 Maths C",
+    "incompatible": "ERTH3020",
+    "restricted": ""
+}

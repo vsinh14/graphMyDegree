@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS1105",
+    "course_name": "Clinical Nursing Practice 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will undertake 120 hours (B Nursing) / 160 hours (B Nursing/B Midwifery) of supervised clinical experience in an integrated placement model. There is an equal emphasis on practice elements and theoretical understanding, therefore the scheduling of learning activities enables clinical placement shifts to be interspersed with on campus classes including simulated clinical skills development; workshops and lectures. In this mode, students are exposed to increasingly complex professional practice concepts which are initially learnt in a controlled environment of the classroom and then translated under direct Registered Nurse supervision in the clinical practice setting. Students will apply a person-centred and evidence informed approach to interventions including medication administration; cardiovascular and respiratory health assessment; wound care principles and practice; documentation and legal and ethical practices in healthcare delivery. Clinical Practice 2 further develops the beginning level clinical decision making knowledge and skills introduced in previous courses. Students will extend the existing scope of practice informed by the Nursing and Midwifery Board of Australia (NMBA) Registered Nurse Standards for Practice.",
+    "prerequisites": "NURS1103",
+    "incompatible": "NURS1008",
+    "restricted": "BN and BN/BMid"
+}

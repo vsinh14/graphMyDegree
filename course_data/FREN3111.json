@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN3111",
+    "course_name": "French Language and Culture 1: Streams A and B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "FREN3111 builds on the language competencies developed in the beginners and intermediate courses. Through the detailed study of authentic written and audiovisual French-language texts, students further develop their linguistic and intercultural skills.",
+    "prerequisites": "FREN2020",
+    "incompatible": "FREN3112",
+    "restricted": ""
+}

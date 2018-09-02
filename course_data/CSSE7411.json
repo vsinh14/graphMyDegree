@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7411",
+    "course_name": "Advanced Embedded Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced topics in Embedded System, including wireless networks and wireless sensor networks.",
+    "prerequisites": "CSSE7301",
+    "incompatible": "CSSE4003 or CSSE4011 or CSSE7005",
+    "restricted": ""
+}

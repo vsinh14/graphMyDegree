@@ -1,0 +1,12 @@
+{
+    "course_code": "INDN2001",
+    "course_name": "Intermediate Indonesian B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Continuation of INDN2000. Extends students' communication skills in Indonesian, focusing equally on the four skills of reading, writing, speaking & listening.",
+    "prerequisites": "INDN2000",
+    "incompatible": "INDN2300 or INDN2400",
+    "restricted": ""
+}

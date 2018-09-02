@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC2020",
+    "course_name": "Agronomy",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Land preparation and tillage options, plant population, rotations, nutrition and water management in dryland and irrigated agriculture; aspects of seed production including different methods for hybrid and self-pollinated species.",
+    "prerequisites": "",
+    "incompatible": "AGRC1952D, AGRC3008, AGRC3014, AGRC2040",
+    "restricted": ""
+}

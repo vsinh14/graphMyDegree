@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7601",
+    "course_name": "Mathematical Background for Biostatistics",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers basic algebra and analysis; exponential functions; sets and probability; matrices; calculus; series, limits, approximations and expansions; numberical methods. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

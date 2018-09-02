@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4805",
+    "course_name": "Thesis Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "[Restricted to Final Year BE students] Thesis on subject selected or approved by Head of School. Detailed statements on requirements supplied. Students completing in one semester enrol in ENGG4805. This code is intended for special cases including CEED projects. Usually, students commencing thesis in Semester 1 enrol in ENGG4801 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in Semester 2 enrol in ENGG4802 for Sem 2 (Part A) and the following Sem 1 (Part B).",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ENGG4801 or ENGG4802",
+    "restricted": "Permission of Head of School, Restricted to Final Year BE Students."
+}

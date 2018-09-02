@@ -1,0 +1,12 @@
+{
+    "course_code": "RSSN3130",
+    "course_name": "Russian V",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Consolidates and extends Russian language skills through the systemic and practical study of advanced grammatical and communicative practices of modern Russian.",
+    "prerequisites": "RSSN2120",
+    "incompatible": "",
+    "restricted": "RSSN2130"
+}

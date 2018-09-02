@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3050",
+    "course_name": "Game Theory & Strategy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "ECON3050 is an intermediate course in Game Theory. As such, the analysis focuses on problems of strategic interaction, especially in situations where individuals face uncertainty and might have private information. Examples of such problems include auctions, decisions by committees (or a jury), analysis of recommendations, etc. Both static and dynamic games are considered, and their corresponding equilibrium notions are analyzed. The analysis is formal (mathematical) and it provides an ideal transition from undergraduate Game Theory to the level of Microeconomic Theory courses in the Honours program.",
+    "prerequisites": "ECON1050 or (MATH1050 + MATH1051) + ECON2070",
+    "incompatible": "EC234 or 337",
+    "restricted": ""
+}

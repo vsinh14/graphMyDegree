@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7003",
+    "course_name": "Probability & Statistics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Probability; random variables; probability distributions; Markov processes; statistical analysis & modelling",
+    "prerequisites": "",
+    "incompatible": "STAT2003",
+    "restricted": "Permission from Head of School is required."
+}

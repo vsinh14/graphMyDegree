@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4522",
+    "course_name": "Analytical Methods for the Design of Construction Operations",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will give students an understanding of the process by which construction field operations are designed and optimised and will provide students with hands-on knowledge in the use of various software tools needed for that purpose. Upon completion of the course students will be able to design a new operation and improve an existing one by proper measurement of current performance, and modelling and analysis using computer simulation.",
+    "prerequisites": "CIVL3510",
+    "incompatible": "CIVL4520",
+    "restricted": ""
+}

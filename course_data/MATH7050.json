@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7050",
+    "course_name": "Mathematical Foundations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Core content of Senior Mathematics C syllabus. Provides introduction to sequences & series, linear algebra (matrices, vectors), calculus (differentiation, integration), complex numbers & mathematical induction.",
+    "prerequisites": "",
+    "incompatible": "MATH1050",
+    "restricted": "BEd(Hons), GCEd, GCEdSt, GDipEdSt & MEdSt"
+}

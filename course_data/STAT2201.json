@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT2201",
+    "course_name": "Analysis of Engineering & Scientific Data",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Statistical models & analyses required for analysing engineering & scientific data, including sampling methods, exploratory data analysis, standard probability models, estimation, hypothesis tests, regression, experimental design.",
+    "prerequisites": "MATH1050 or SA in Year 12 Maths C",
+    "incompatible": "ECON1310, ENVM2000, STAT1201, STAT1301 & STAT2203.",
+    "restricted": ""
+}

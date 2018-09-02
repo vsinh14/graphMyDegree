@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7653",
+    "course_name": "Methods of Clinical Epidemiology",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course builds on PUBH7650 (Introduction to Clinical Epidemiology) by taking students from the basic concepts underpinning clinical epidemiology to more advanced consideration of topics that are important for evidence based health care. In this course, students will develop a practical understanding of the following areas of interest to clinical epidemiologists: diagnosis, prognosis and treatment, and review and meta-analysis.",
+    "prerequisites": "PUBH7630, and PUBH7600 or PUBH7650",
+    "incompatible": "STAT7605, PUBH7015",
+    "restricted": ""
+}

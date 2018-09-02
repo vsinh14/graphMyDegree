@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7816",
+    "course_name": "Advanced Clinical Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is the final clinical placement course in the Master of Speech Pathology Studies program. Students attend a 6 week block placement (168 hours) in a workplace clinic to consolidate their case-based knowledge and integration, their clinical management skills and their professional role within clinical settings.",
+    "prerequisites": "SPCH7809, SPCH7819",
+    "incompatible": "SPCH4206",
+    "restricted": "MSpPathSt Students"
+}

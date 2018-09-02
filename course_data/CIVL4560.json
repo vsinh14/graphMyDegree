@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4560",
+    "course_name": "Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Minor thesis on a topic in civil engineering. Project planning and participation; project report. Offered in Semester 1 and Semester 2.",
+    "prerequisites": "",
+    "incompatible": "CIVL4580 or CIVL4582",
+    "restricted": "Final year students only"
+}

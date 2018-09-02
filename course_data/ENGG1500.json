@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG1500",
+    "course_name": "Engineering Thermodynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mathematics & Physics School, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Basic concepts in thermodynamics, forms of energy; properties of pure substances, phase diagrams & phase transitions; first law of thermodynamics & applications - mass & energy balances in open & closed systems; entropy & second law of thermodynamics, exergy; topical engineering case studies.",
+    "prerequisites": "Maths B or MATH1040 and Yr 12 Physics",
+    "incompatible": "ENGG1050",
+    "restricted": ""
+}

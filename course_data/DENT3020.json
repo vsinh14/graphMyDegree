@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT3020",
+    "course_name": "Dental Practice II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Provides initial clinical general practice dentistry knowledge & experience which is basis of dental practice. Follows on from DENT2022 & stresses diagnosis, treatment planning & provision of clinical care to adult & adolescent patients. Introduces patient management. Application of skills & knowledge learnt in preclinical environment, including preventive oral care & intra-coronal restorative dentistry, to clinical care of patients. Develops skills in diagnosis, preventive oral health care, intra-coronal restorative dentistry, basic endodontics & pain management.",
+    "prerequisites": "DENT2022 + 2030 + 2052 + 2062",
+    "incompatible": "",
+    "restricted": ""
+}

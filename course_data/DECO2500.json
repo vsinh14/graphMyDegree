@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO2500",
+    "course_name": "Human-Computer Interaction",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Models of action, perception, cognition and interaction in human-machine systems. Methods of interaction analysis and interaction representation. Human-machine system evaluation. Practical implementation. Introduction to user and use-centred design principles. Broader topics may include: societal considerations, groupware, multimedia, media perspectives.",
+    "prerequisites": "DECO1400 or MMDS1400 or CSSE1001",
+    "incompatible": "COMP2506 or COMP3501 or COMP7904 or DECO7250",
+    "restricted": ""
+}

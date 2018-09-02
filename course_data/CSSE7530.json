@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7530",
+    "course_name": "VLSI Circuits and Systems",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.)\nThe course explores the design of CMOS integrated circuits, especially the following topics: CMOS transistor operation, CMOS digital logic design, CMOS analog circuit design, CMOS fabrication technology, VLSI design strategies, CAD tools for design and verification, memory design, processor design, system-on-chip. The course includes project work on the design and verification of a significant CMOS circuit module.",
+    "prerequisites": "(CSSE4010 or CSSE7410) + (ELEC3400 or ELEC7401)",
+    "incompatible": "",
+    "restricted": ""
+}

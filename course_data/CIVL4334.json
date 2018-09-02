@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4334",
+    "course_name": "Design of Timber Structures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A course on the design of timber structures for students looking towards a career in Structural Engineering. The course covers: understanding timber properties, timber micro structure, engineering design with wood (material strength used in design, compression, tension, bending), connection design, engineered wood products, designing for fire resistance, designing for durability.",
+    "prerequisites": "CIVL2330 and CIVL2340 and CIVL3340",
+    "incompatible": "",
+    "restricted": ""
+}

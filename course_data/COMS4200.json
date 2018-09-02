@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS4200",
+    "course_name": "Computer Networks II",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Software Defined Networking, Network Programming, Peer-to-peer Networks, Network Management, Queuing Theory, Wireless Networks",
+    "prerequisites": "COMS3200",
+    "incompatible": "COMS7200",
+    "restricted": ""
+}

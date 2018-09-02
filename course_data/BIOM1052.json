@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM1052",
+    "course_name": "Integrated Anatomy and Physiology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will be introduced to the structural features of major tissues and organs as a basis to an understanding of their physiological function. Systems to be examined include central, peripheral and sensory nervous systems, structure and function of skin, pulmonary structure and function, the circulation and lymphatics, gastrointestinal function, renal maintenance of the internal environment and reproduction.",
+    "prerequisites": "BIOL1040 or BIOM1051",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BPharm (Hons), BDentSc (Hons), and BOccHlthSafetySc (Hons) programs only."
+}

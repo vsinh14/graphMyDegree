@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3104",
+    "course_name": "Tectonics and Crustal Evolution",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Tectonics studies the operation of the solid Earth across all spatial and temporal scales. Tectonic processes are responsible for continental assembly and break up, mountain building and collapse, sea-level rise and fall, and the creation of natural resources as well as hazards, with impact on every person on this planet. The core of this course is to teach the fundamentals of Plate Tectonics, the unifying theory of the Earth. We will take you on a virtual journey around the globe to observe a selection of modern and ancient plate boundaries, and help you build a collection of knowledge about the geological processes operating in these areas. You will learn the characteristics of Earth's crust, lithosphere, and mantle, and understand not only how, but also why plate tectonics works. Additionally, you will be exposed to several key methods that are used in tectonic studies, which are also essential in a range of sub disciplines in earth and environmental sciences.",
+    "prerequisites": "ERTH2004",
+    "incompatible": "",
+    "restricted": ""
+}

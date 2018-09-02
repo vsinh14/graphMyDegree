@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5189",
+    "course_name": "Islamic Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the history and scope of Islamic law and the legal system including an examination of comparative issues relating to Islamic and western secular legal and constitutional thought. Topics include: pre-Islamic background; features of the Islamic legal system; sources, the theoretical and practical application of Islamic law; comparative issues and Islamic criminal law and procedure.",
+    "prerequisites": "All Level 1 & 2 LAWS courses",
+    "incompatible": "LAWS7189 or 7389",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

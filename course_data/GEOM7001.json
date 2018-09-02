@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM7001",
+    "course_name": "Advanced Earth Observation Sciences (EOS)",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Remote sensing or earth observation, is an important tool for monitoring and modelling the condition and dynamics of terrestrial, aquatic and atmospheric environments. The information extracted from images may be used in many ways, as image or thematic maps, directly in decision making, as estimates of biophysical variables or integrated with other spatial information systems for further analysis and display. This information can be collected from local to global scales for examining changes in the habitat of endangered fauna or monitoring continental scale deforestation and global scale oceanic and atmospheric conditions.\n \nThis course is a logical progression from the remote sensing concepts and skills introduced in GEOM2000/7000. GEOM3001/7001 emphasises digital image processing for analysis of remotely sensed imagery, including airborne and satellite multi-spectral, hyper-spectral and synthetic aperture radar data. Practical sessions will involve a progression of practicals in the computer laboratory, using the Erdas Imagine and ENVI (Environment for Visualising Images) software packages. Concepts and skills acquired in these sessions will be applied in the individual student remote sensing project that can be designed to suit your area of interest.",
+    "prerequisites": "GEOM2000 or 7000",
+    "incompatible": "GEOM3001",
+    "restricted": ""
+}

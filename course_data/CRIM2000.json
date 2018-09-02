@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2000",
+    "course_name": "Youth and Deviance",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An examination of the key issues of youth deviance, crime and justice in Australia, including representations of youth deviance and delinquency, factors influencing youth delinquency and the ways we (as a community) respond to delinquent youth.",
+    "prerequisites": "#2 of 1st level SOCY or CRIM courses",
+    "incompatible": "SOCY2010",
+    "restricted": ""
+}

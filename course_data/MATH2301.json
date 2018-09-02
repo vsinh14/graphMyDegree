@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2301",
+    "course_name": "Linear & Abstract Algebra & Number Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to the basics of linear and abstract algebra (including groups, rings & fields) & elementary number theory. Applications are included, enabling students to apply this knowledge in various fields.",
+    "prerequisites": "MATH1051 or MATH1071, MATH1061",
+    "incompatible": "MATH2300",
+    "restricted": ""
+}

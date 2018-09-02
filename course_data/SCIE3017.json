@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3017",
+    "course_name": "Further Perspectives in Science Research",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To gain further research experience & understanding of the perspectives of scientific research, this course provides a select group of students with the opportunity to be immersed in a research group & laboratory. Students apply generic skills & knowledge relevant to biological research to a specific research project, report research findings in a written report & present either as an oral or poster presentation at an authentic research conference environment. Students are also required to attend their choice of research seminars presented across campus & keep a diary of these seminars with notes on work presented.",
+    "prerequisites": "BIOL2017 or SCIE2017",
+    "incompatible": "BIOL3012 or BIOL3043, BIOL3017, SCIE3012 or SCIE3043",
+    "restricted": "Advanced Study Program in Science students"
+}

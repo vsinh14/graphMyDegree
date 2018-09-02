@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4800",
+    "course_name": "Project Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project management in high-tech electrical & information technology engineering laboratories, where dealing with risk & fast changing technologies are special factors. Good working knowledge of project management for the early career engineer. Development of interpersonal skills for team management.",
+    "prerequisites": "ENGG2800 or METR2800",
+    "incompatible": "CSSE3004 or CSSE3005 or CSSE7024 or CSSE7025 or ENGG7800 or METR4910 or MCH3600",
+    "restricted": "Third or Fourth year students only"
+}

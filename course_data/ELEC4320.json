@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4320",
+    "course_name": "Modern Asset Management and Condition Monitoring in Power System",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Probability and reliability theories to optimize maintenance process and modern asset management techniques. Cause of failure and asset management strategies for transformer, underground cable, switch gear, and transmission/distribution network.",
+    "prerequisites": "ELEC3300",
+    "incompatible": "",
+    "restricted": ""
+}

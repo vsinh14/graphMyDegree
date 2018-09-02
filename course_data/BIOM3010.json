@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3010",
+    "course_name": "Human Physiology & Pharmacology B1",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Continuing development of basis for understanding function of human body & use & effects of drugs in disease-oriented context. Integrated approach to cardiovascular & renal systems.",
+    "prerequisites": "BIOM1052",
+    "incompatible": "PCOL3041 or PK341",
+    "restricted": "BPharm students"
+}

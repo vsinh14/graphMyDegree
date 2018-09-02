@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7640",
+    "course_name": "Formal Modelling and Verification",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Formal, i.e., mathematical, modelling and verification can be used to detect errors in the requirements and high-level designs of software-based systems before implementation begins. This course introduces students to the use of formal modelling and verification techniques, including the use of automated tools. These techniques can provide software engineers with confidence when developing innovative designs that are too complex, or subtle, to otherwise verify. They are also essential to providing a high level of assurance in safety- and security-critical applications.",
+    "prerequisites": "MATH1061 or MATH7861",
+    "incompatible": "CSSE4603, CSSE7032",
+    "restricted": "Restricted to Masters students"
+}

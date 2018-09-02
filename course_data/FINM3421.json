@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3421",
+    "course_name": "Fixed Income Analytics and Treasury Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with a comprehensive understanding of the corporate treasury management function. Covers bond mathematics and the concepts of duration and convexity. Valuation of embedded options, swaps, credit default swaps, collateralised debt obligations. Treasury risk management. The credit rating process.",
+    "prerequisites": "FINM2411",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+}

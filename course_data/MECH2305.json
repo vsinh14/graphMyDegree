@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2305",
+    "course_name": "Introduction to Engineering Design and Manufacturing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In this course students will be introduced to the strong interactions between manufacturing and engineering design processes. The course builds on the engineering problem solving activities of ENGG1200 and continues to explore the roles of computational modelling in design and materials behaviour in manufacturing. Students will learn that the design process involves the creation and prescription of the shape and characteristics of a product or machine within manufacturing and material performance constraints. Common and emerging manufacturing processes will be introduced. Professional engineers working in both engineering design and manufacturing will deliver guest lectures into the course in order to locate key concepts within real world contexts. Students will engage in a number of Computer Aided Design and Manufacturing exercises including CNC machining of components. Students will also be introduced to the role of process simulation and modelling in manufacturing. The primary technical learning outcomes will be addressed through a combination of learning strategies including online resources, traditional lectures, and active learning CAD exercises.",
+    "prerequisites": "ENGG1200 or ENGG1211",
+    "incompatible": "",
+    "restricted": ""
+}

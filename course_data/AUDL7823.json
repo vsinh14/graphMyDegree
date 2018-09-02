@@ -1,0 +1,12 @@
+{
+    "course_code": "AUDL7823",
+    "course_name": "Rehabilitative Audiology I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to theory and practice in the field of aural rehabilitation, with particular emphasis on adults with acquired hearing impairment.",
+    "prerequisites": "AUDL7800, AUDL7821, AUDL7822",
+    "incompatible": "AUDL7804",
+    "restricted": "MAudSt students"
+}

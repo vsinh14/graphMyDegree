@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2011",
+    "course_name": "Integrative Cell & Tissue Biology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will develop an understanding of how cells associate & interact to fulfill their normal functions in tissues & organs of the human body. This will include the basic principles of integration & regulation that underpin normal tissue biology.",
+    "prerequisites": "BIOL1020 + BIOL1040",
+    "incompatible": "BIOM2007 or BIOM2008",
+    "restricted": ""
+}

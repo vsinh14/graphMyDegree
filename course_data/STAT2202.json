@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT2202",
+    "course_name": "Probability Models for Engineering & Science",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Probability models & applications in engineering & science, including basic probability theory, distributions & their properties, transform methods, construction of probability models, reliability, joint distributions, random processes: queues, Markov processes, Gaussian processes & weakly stationary processes.",
+    "prerequisites": "MATH1051 or MATH1071",
+    "incompatible": "STAT2003 or 2001",
+    "restricted": ""
+}

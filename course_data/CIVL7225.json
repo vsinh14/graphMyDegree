@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7225",
+    "course_name": "Dam and Embankment Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in even-numbered years (eg. 2018). Dams and embankments are important civil engineering structures that require geotechnical design, construction and maintenance to satisfy stability and sustainability. The course will cover: 1) the static and dynamic design and application of dams for water-retaining purposes; 2) the design of embankments and subgrades to support road and rail pavements; 3) the design and application of flexible and rigid pavements; 4) analysis of the safety and serviceability of dams and embankments; 5) ground improvement and compaction; 6) analysis of erosion potential within dams and embankments; and 7) selected cases studies.",
+    "prerequisites": "CIVL3210",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

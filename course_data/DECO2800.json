@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO2800",
+    "course_name": "Design Computing Studio 2 - Testing & Evaluation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Interdisciplinary teams of students undertake studio-based programming projects covering a broad understanding of software verification & validation; configuration management; project management and team work; software & project design process & documentation.",
+    "prerequisites": "(DECO1800 or ENGG1200 or ENGG1211) and (CSSE2002 or INFS2200)",
+    "incompatible": "CSSE2003 or DECO7280",
+    "restricted": ""
+}

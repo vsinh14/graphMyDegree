@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR2000",
+    "course_name": "Microbiology & Immunology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores the diversity of microorganisms, their cellular biology, growth & nutrition, metabolism, & basic genetics. The role of microorganism in disease, as well as their ecology & applications in biotechnology is also examined. Students will gain an insight into the immune response to infection by studying the innate, humoral & cellular immune systems & their functions in health & disease. The practical component of the course will include laboratory experiments to demonstrate principles learned in the lectures, where students will gain practical skills in safely handling microbial cultures for isolation & identification. The course provides the fundamental knowledge & skills needed to proceed further in microbiology, but also for all courses or disciplines involving molecular biology & biotechnology.",
+    "prerequisites": "BIOL1020",
+    "incompatible": "BIOL2012 or MICR2008",
+    "restricted": ""
+}

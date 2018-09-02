@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH2140",
+    "course_name": "Architecture in Society",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An exploration of the broader social forces & practices that form the built environment, the role of architecture amongst these forces, & its relationship to the lived experience of social & spatial settings.",
+    "prerequisites": "",
+    "incompatible": "ARCH1230",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7110",
+    "course_name": "Design Thinking",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the design process, working through the discovery, interpretation, ideation, experimentation and evolution of design solutions. Through short collaborative design projects, students develop essential design skills of seeing, imagining and communicating in order to generate, iterate, evolve and communicate design concepts. Subjects such as design processes, thinking methods, brainstorming & idea generation, user focussed thinking and aesthetics are covered during the course.",
+    "prerequisites": "",
+    "incompatible": "DECO1100 or IENV1000 or IENV1301 or IENV7911 or IENV7913",
+    "restricted": ""
+}

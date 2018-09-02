@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7120",
+    "course_name": "Administrative Law B",
+    "faculty": "",
+    "school": "",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Involves the study of merits review of administrative decisions (via the Administrative Appeals Tribunal), Freedom of Information, and the Ombudsman and parliamentary committees as ways of overseeing the executive government. The focus is on the federal legislation.",
+    "prerequisites": "LAWS7118",
+    "incompatible": "LA308 or 314 or 720 or LAWS5020 or 7320",
+    "restricted": "JD"
+}

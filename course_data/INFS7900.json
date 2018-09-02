@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7900",
+    "course_name": "Introduction to Information Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Information systems analysis, design and implementation, relational database technology, data modelling, data quering using SQL, building a small scale information system using a relational database management system.",
+    "prerequisites": "",
+    "incompatible": "INFS1200 or BISM3203 or BISM7206",
+    "restricted": ""
+}

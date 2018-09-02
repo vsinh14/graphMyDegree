@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3703",
+    "course_name": "Ethics and the Legal Profession",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with information about the history and development of the legal profession, and current structures and bodies that regulate lawyers today. The course examines in detail the law, professional rules and values applying to lawyers, and explores ethical issues that arise in professional practice.",
+    "prerequisites": "LAWS1702, LAWS2702, LAWS2701, LAWS2704",
+    "incompatible": "LAWS4017 or LAWS5217",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

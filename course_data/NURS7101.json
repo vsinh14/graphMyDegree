@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7101",
+    "course_name": "Early Lifespan Nursing",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores nursing concerns related to early lifespan covering normal development from birth to young adulthood and including issues arising from legal, ethical, social and public policy related to this phase.",
+    "prerequisites": "NURS7112, NURS7113, NURS7103, NURS7102, NURS7104",
+    "incompatible": "",
+    "restricted": "MNStudies"
+}

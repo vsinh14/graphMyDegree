@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7118",
+    "course_name": "Administrative Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7105 + 7230",
+    "incompatible": "LA308 or (313 + 314) or (719 + 720) or LAWS5018 or 7318",
+    "restricted": "JD"
+}

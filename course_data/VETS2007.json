@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2007",
+    "course_name": "Principles of Disease II",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A gross, microscopic & molecular perspective on how hosts respond to disease agents, & the outcomes of the disease process; general pathology & immunology.",
+    "prerequisites": "AGRC1041, VETS2006",
+    "incompatible": "ANIM2504",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

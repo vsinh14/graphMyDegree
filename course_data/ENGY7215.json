@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGY7215",
+    "course_name": "Mini Project in Energy",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Students are required to complete a mini project in their chosen field of study before the end of the third semester. Students will be encouraged to select a suitable project topic upon enrolling and to continuously consider their topic throughout the program, adding value from the different courses they undertake.",
+    "prerequisites": "",
+    "incompatible": "ENGY7112 or ENGY7113 or ENGY7114 or ENGY7115 or ENGY7116",
+    "restricted": "Restricted to Master of Sustainable Energy students."
+}

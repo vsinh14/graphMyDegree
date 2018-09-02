@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3320",
+    "course_name": "Vertebrate Diversity and Evolution",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will cover of all aspects of vertebrate evolution and diversity through space and time, delivered with a focus on Australian species. It will explore the main living and extinct vertebrate groups (fishes, amphibians, reptiles, birds, and mammals) with Australian examples, based on lectures and matching hands-on pracs. Subsequently, lectures and hands-on pracs will examine the basic body plan, diversity/ taxonomy/ ID, evolution, phylobiogeography, biomechanics (feeding and locomotion), and current topics of interest (such as conservation or biomedical relevance).",
+    "prerequisites": "BIOL2204, BIOL2201",
+    "incompatible": "",
+    "restricted": ""
+}

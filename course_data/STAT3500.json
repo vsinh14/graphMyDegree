@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT3500",
+    "course_name": "Problems & Applications in Modern Statistics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students investigate a number of problems and applications that have a significant role in modern statistics. The course develops skills in writing and presenting statistics for general and specialist audiences.",
+    "prerequisites": "STAT3001",
+    "incompatible": "STAT3002",
+    "restricted": ""
+}

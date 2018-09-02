@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY1200",
+    "course_name": "Introduction to Principles of Physiotherapy Assessment and Management",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Emphasis on the importance of applied anatomy, physiology, biomechanics & psychology as key factors in physiotherapy diagnosis & treatment & introduction of a number of basic therapeutic movement, diagnostic & treatment skills.",
+    "prerequisites": "PHTY1110, ANAT1020",
+    "incompatible": "",
+    "restricted": "BPhty(Hons) Students"
+}

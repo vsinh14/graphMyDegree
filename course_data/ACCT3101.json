@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT3101",
+    "course_name": "Auditing & Public Practice",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Financial information; demand & supply; audit profession; audit process; evidence, program planning, statistical sampling; examinations; analysis of organisation; internal control, testing of transactions, balances & allocations; the computer; reports; responsibility of auditor.",
+    "prerequisites": "ACCT3102",
+    "incompatible": "ACCT7103",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

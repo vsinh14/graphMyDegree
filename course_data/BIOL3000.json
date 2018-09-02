@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3000",
+    "course_name": "Conservation",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Integrative course concerned with ecosystems, communities & species at risk. Practical approaches to overcoming threatening processes, & underlying theory. Landscape ecology & regional ecosystems; spatial analysis; biological invasion and extinctions; in situ & ex situ methods. Interaction of science with social/legal context.",
+    "prerequisites": "BIOL2010",
+    "incompatible": "CONS3001",
+    "restricted": ""
+}

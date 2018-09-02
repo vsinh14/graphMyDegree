@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC2500",
+    "course_name": "Numerical Methods in Computational Science",
+    "faculty": "Science",
+    "school": "Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to basic numerical methods and computer programming for the solution of a number of classes of scientific problems. The course is interdisciplinary in nature, incorporating a number of case studies in biology, physics, chemistry, and engineering.",
+    "prerequisites": "SCIE1000 or (CSSE1001 and MATH1051 or MATH1071) or (MATH1051 or MATH1071 and MATH1052 or MATH1072)",
+    "incompatible": "MATH2200",
+    "restricted": ""
+}

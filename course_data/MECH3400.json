@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3400",
+    "course_name": "Thermodynamics & Heat Transfer",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "2nd law, entropy & availability. Power & refrigeration cycles. Mixtures, psychrometry, chemical reactions & combustion. Conduction, convection, radiation, multi-mode heat transfer applications.",
+    "prerequisites": "(ENGG1050 or ENGG1500) and MECH2410",
+    "incompatible": "",
+    "restricted": ""
+}

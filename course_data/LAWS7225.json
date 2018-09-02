@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7225",
+    "course_name": "Special Topic C",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will involve the study of a topical legal issue or field of law. Topics will vary from year to year. Refer to the Law School website for the current topic.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5225",
+    "restricted": "JD, GCAppLaw, GDipAppLaw, MAppLaw"
+}

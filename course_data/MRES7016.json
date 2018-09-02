@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7016",
+    "course_name": "Cardiac MRI - Techniques and Applications",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical background and clinical applications of cardiac MRI will be addressed. Theory covered will include, optimised cardiac pulse sequence design, patient set up and anatomical imaging planes, anatomical and functional imaging and clinical applications.",
+    "prerequisites": "Admission to the Magnetic Resonance suite of programs and (MRES7001or MRES7100) + MRES7004 + MRES7005.",
+    "incompatible": "",
+    "restricted": ""
+}

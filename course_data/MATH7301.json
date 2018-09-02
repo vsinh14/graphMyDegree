@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7301",
+    "course_name": "Advanced Algebra",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd years only)\nTopics from groups, rings, fields, algebraic number theory, category theory & homological algebra, with applications to quantum algebras.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4301",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3102",
+    "course_name": "Business and Taxation",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Develops material studied in LAWS3101 in the context of specific taxpayers. The course is based on the lifecycle of a business, in particular the taxation of business structures including partnerships, trusts and companies. Advanced areas of capital gains tax and goods & services tax plus international tax issues, tax administration and superannuation topics are also covered.",
+    "prerequisites": "COMM3206 or LAWS3101",
+    "incompatible": "COMM3207 or 7205 or LAWS5145 or 7014 or 7145",
+    "restricted": "Not to be studied by LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs"
+}

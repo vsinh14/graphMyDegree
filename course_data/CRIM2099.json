@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2099",
+    "course_name": "Crime, Race and Gender",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines connections between crime, gender and race. There are persistent differences in patterns of crime, victimisation, and criminal processing between men and women, as well as between people of different racial and ethnic backgrounds. Students will be exposed to historical and theoretical frameworks for understanding the complex intersection between race, gender and crime.",
+    "prerequisites": "#4 units criminology or sociology courses",
+    "incompatible": "",
+    "restricted": ""
+}

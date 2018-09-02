@@ -1,0 +1,12 @@
+{
+    "course_code": "NUTR3000",
+    "course_name": "Nutrition & Exercise",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To develop independence, creativity & critical thought through the evaluation of research relating nutrition & exercise to health & sports performance.",
+    "prerequisites": "NUTR1023",
+    "incompatible": "HM375 or HMST3353 orNUTR6001",
+    "restricted": ""
+}

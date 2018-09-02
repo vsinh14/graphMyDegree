@@ -1,0 +1,12 @@
+{
+    "course_code": "IBUS2301",
+    "course_name": "International Business Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Familiarise students with the core theories, frameworks and issues in international business at the level of both the country and the firm and how these influence public policy and managerial decision-making in organisations. Apply international business frameworks to solve practical real life problems confronted by global business managers and public policy makers.",
+    "prerequisites": "(MGTS1301 + 4 units courses) or IBUS2303",
+    "incompatible": "IBUS7302 or 7310 or MGTS7802",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

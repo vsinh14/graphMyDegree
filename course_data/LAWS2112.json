@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2112",
+    "course_name": "Law of Contract B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A continuation of the study of contract law, including the rules relating to discharge, vitiating factors, remedies and the doctrine of privity.",
+    "prerequisites": "LAWS1111 + LAWS2111",
+    "incompatible": "LAWS1003 or 1702 or 7103",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

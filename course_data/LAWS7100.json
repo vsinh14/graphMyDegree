@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7100",
+    "course_name": "Law of Torts A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Involves study of the nature of law and tort, initiating claims, introduction to the Australian legal system, the doctrine of precedent, client interviewing, the duty of care in negligence, the breach of the duty of care, no fault compensation systems, statutory interpretation, legal research and writing.",
+    "prerequisites": "",
+    "incompatible": "LA202 or 211 or 709 or LAWS1000 or 7300",
+    "restricted": "JD"
+}

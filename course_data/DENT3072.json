@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT3072",
+    "course_name": "Oral Surgical Sciences I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Provides detailed knowledge on those aspects of medicine & surgery that pertain to maintenance & restoration of oral health & related areas of general health. This includes recognition of diseases, radiology & radiography, management of both primary & secondary hospitalised patients.",
+    "prerequisites": "DENT2022 + 2030 + 2052 + 2062",
+    "incompatible": "",
+    "restricted": ""
+}

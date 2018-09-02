@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY1221",
+    "course_name": "Principles of Exercise in Physiotherapy Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with background knowledge relating to the place of exercise in maintaining health and well-being as well as in the prevention and management of disability. Testing procedures and models of therapeutic exercise and their relation to skill acquisition will be introduced.",
+    "prerequisites": "PHTY1110, ANAT1020",
+    "incompatible": "PHTY1220",
+    "restricted": "BPhty(Hons)"
+}

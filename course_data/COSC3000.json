@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC3000",
+    "course_name": "Visualization, Computer Graphics & Data Analysis",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Scientific visualisation is the use of images to provide insight into phenomena, and is a key tool for the analysis and understanding of biological, physical and engineering processes. It is becoming ever more important as the size of data sets continue to grow due to increasing power of computers and measurement devices. This course provides an introduction to computer graphics, data analysis and visualisation as tools to understand and interpret real world data and output from large-scale computational models.",
+    "prerequisites": "COSC2500 or CSSE2002",
+    "incompatible": "MATH3203",
+    "restricted": ""
+}

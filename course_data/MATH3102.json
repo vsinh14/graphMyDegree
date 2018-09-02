@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3102",
+    "course_name": "Methods & Models of Applied Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Elements of vector analysis. Sturm-Liouville theory. Fourier transform & Green's functions. Generalised functions. Modelling with scalar & vector fields: perfect fluid flow & potential theory; convection-diffusion equations & spread of pollutants; elastic continua and vibrations.",
+    "prerequisites": "MATH2100",
+    "incompatible": "",
+    "restricted": ""
+}

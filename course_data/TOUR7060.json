@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7060",
+    "course_name": "Research Thesis I",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "This course offers a capstone experience in which students conduct a research project and produce a thesis of 20,000-25,000 words in a field related to their area of study. With guidance from an academic mentor, the student will conduct primary and secondary research which includes an academic literature search, research design, data analysis and discussion. The course allows the student to undertake advanced level research and produce a substantial piece of writing which advances knowledge in the selected field of research.\n\nStudents commencing in semester 1 enrol in TOUR7061 in both semesters. Students commencing in semester 2 enrol in TOUR7060 in both semesters.",
+    "prerequisites": "#8 of study",
+    "incompatible": "TOUR7009, TOUR7061, TOUR7070, TOUR7071",
+    "restricted": "Master of Tourism Leadership cohort only"
+}

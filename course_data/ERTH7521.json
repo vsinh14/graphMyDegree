@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH7521",
+    "course_name": "Electrical & Electromagnetic Exploration",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Resistivity of rocks; time-domain & continuous wave methods of electromagnetic prospecting. Solutions of Laplace & Helmholz equations for a layered Earth & discrete targets; instrumentation, ground & airborne techniques.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ERTH4221",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3022",
+    "course_name": "Veterinary and Animal Enterprise Business Fundamentals",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "",
+    "prerequisites": "VETS1018, VETS1023, ANIM1024",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

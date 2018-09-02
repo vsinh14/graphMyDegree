@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7000",
+    "course_name": "Industry Research and Consultancy",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course presents both the managerial and technical perspectives of research design and data collection to support decision making in tourism, hospitality and event organisations. Students will learn about the process of conducting an industry research project including designing, bidding for, and implementing, a research project. Topics include interpreting and analysing data and information from a number of sources; market research and project evaluation; applied research methods and data gathering techniques and basic approaches to the presentation of data.",
+    "prerequisites": "8 units of MTHEM #24 or #32 courses",
+    "incompatible": "TALM6102 or 6106 or 7102 or TOUR6005",
+    "restricted": ""
+}

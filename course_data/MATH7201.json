@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7201",
+    "course_name": "Applications of Scientific Computing",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd years only)\nTopics in the application of scientific computation. For details of availability, contact head of department.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4201",
+    "restricted": ""
+}

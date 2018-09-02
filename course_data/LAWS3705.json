@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3705",
+    "course_name": "Public International Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the institutions, rules and principles of Public International Law. It explores the history, theory and efficacy of the international legal system as well as the system's sources of law and its general rules and principles. It also introduces specific areas of international legal regulation.",
+    "prerequisites": "#16 LAWS courses",
+    "incompatible": "LAWS5154",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

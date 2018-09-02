@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2058",
+    "course_name": "Translational Chemistry and Data Processing",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide skills in interpreting, presenting and generating industry relevant data. Students will develop skills in the use of large data sets and in the design of analyses performed in the chemical industries.",
+    "prerequisites": "CHEM1100 and CHEM1200",
+    "incompatible": "",
+    "restricted": ""
+}

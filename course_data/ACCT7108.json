@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7108",
+    "course_name": "Advanced Management Accounting and Control",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Managerial accounting, planning & control systems. Divisional & managerial performance evaluation. Application of underlying conceptual frameworks in analysis of case studies in business & non-profit organisations.",
+    "prerequisites": "ACCT7107",
+    "incompatible": "ACCT3105",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

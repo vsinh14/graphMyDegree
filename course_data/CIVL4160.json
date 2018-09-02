@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4160",
+    "course_name": "Advanced Fluid Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered in odd numbered years only) Irrotational flow motion of ideal fluid. Boundary layer flows. Fluid forces on structures, wave loading.",
+    "prerequisites": "",
+    "incompatible": "CIVL7160",
+    "restricted": ""
+}

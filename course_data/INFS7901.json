@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7901",
+    "course_name": "Database Principles",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Database technology is a fundamental part of information technology and plays an important role in data analytics. Database technology is used to store and manage data with reliable services such as data integrity, shareability, recoverability, and security. In this course, we will study data modelling, representation, query and maintenance of data integrity. Hands-on experiences will be provided for students to create a basic database application system. In order to provide effective and efficient data management, we will study algorithms for effective access to structured data with different data processing requirements.",
+    "prerequisites": "",
+    "incompatible": "INFS7900 or INFS7903",
+    "restricted": ""
+}

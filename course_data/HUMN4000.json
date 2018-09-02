@@ -1,0 +1,12 @@
+{
+    "course_code": "HUMN4000",
+    "course_name": "Honours Research Thesis",
+    "faculty": "",
+    "school": "",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "A thesis reporting the findings of a year-long research project in the humanities. The thesis reports an original piece of research, grounded in knowledge of the theories and previous studies in the field or fields, and presented in a manner consistent with research reporting in that field or fields. The dissertation embodies a substantial amount of research on primary sources, or on scholarly and critical studies of such sources, or on both. In this context research can be defined as directly creating new knowledge, or locating and critically evaluating existing primary and secondary textual materials, or engaging in any other appropriate scholarly project, provided that the student's original contribution can be clearly identified.",
+    "prerequisites": "HUMN3100, HUMN3200",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the Bachelor of Advanced Humanities (Honours)."
+}

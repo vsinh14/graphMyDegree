@@ -1,0 +1,12 @@
+{
+    "course_code": "OCTY3207",
+    "course_name": "Occupational Therapy Clinical Practice II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This course is no longer offered.",
+    "prerequisites": "OCTY3102, OCTY3103, HRSS3100",
+    "incompatible": "OCTY3205",
+    "restricted": "BOccThy"
+}

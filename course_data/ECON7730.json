@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7730",
+    "course_name": "Natural Resource Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applies economic theory to analyse efficient & sustainable use of natural resource stocks.",
+    "prerequisites": "ECON2010 or 7010 or 7110",
+    "incompatible": "ECON3710 or ECON6710 or EC478 or 878",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT2029",
+    "course_name": "Functional Musculoskeletal Anatomy - Human Movement",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a broad overview of human functional anatomy with focus on the muscular, skeletal & nervous systems. Topics include i) tissue organization and mechanical properties; ii) integration of the muscular, skeletal & nervous systems for movement; and iii) the influence of maturation, ageing, exercise, immobilisation and injury on components of the musculoskeletal system.",
+    "prerequisites": "ANAT1005",
+    "incompatible": "ANAT2000 or BIOM3003",
+    "restricted": "BENS, BHMS, BExSS, BExSS(Hons), BCEP(Hons), BHSPE, BExSS/BBusMan, Study Abroad, Incoming Exchange"
+}

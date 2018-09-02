@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7501",
+    "course_name": "Advanced Water Technology and Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(First offered 2013) This course covers engineering principles and practices associated with water treatment, and their application and impacts in the context of the full water cycle. Students are introduced to water recycling and purification, water supply and ground water management, wastewater treatment technologies and effluent management are introduced in the context of international best practice for sustainable use of water resources. Students will learn skills for design of sustainable technologies for liquid waste management, including conventional domestic wastewater treatment plants; advanced reuse technologies (including wastewater nutrient removal and energy recovery); and product recovery from industrial wastes, and learn to assess the designs using multiple criteria, including cost, effectiveness, energy usage, greenhouse gas emissions, eutrophication potential and water and nutrient cycle impacts.",
+    "prerequisites": "CHEE1001 and CHEE3005",
+    "incompatible": "",
+    "restricted": ""
+}

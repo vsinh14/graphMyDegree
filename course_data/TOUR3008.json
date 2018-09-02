@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR3008",
+    "course_name": "Service Management in Tourism",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores service management theory and its practical application in Tourism, Hospitality and Event management. It covers a range of management fundamentals integrating service mindedness across a range of management areas essential for effective leadership in service organisations.",
+    "prerequisites": "#16 of study",
+    "incompatible": "TALM3108 or TOUR2005 or HOSP3002",
+    "restricted": ""
+}

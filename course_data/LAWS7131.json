@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7131",
+    "course_name": "Planning Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course consists of a detailed study of the Integrated Planning Act, 1997 including the Integrated Development Assessment System (IDAS) established under the Act. Specific topics include the role and legal status of plans, the centrality of environmental concerns and the jurisdiction of the Planning and Environment Court.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA417 or 750 or LAWS5031 or 5131 or 7331",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON4390",
+    "course_name": "Financial Econometrics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course gives an introduction to various aspects of financial econometrics. Characteristics of financial data will be studied and several major econometric models used in finance will be surveyed. Students learn how to analyse financial data and are introduced to some of the major tools used in both in the literature and by practitioners.",
+    "prerequisites": "ECON3350",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in BAdvFinEcon(Hons)"
+}

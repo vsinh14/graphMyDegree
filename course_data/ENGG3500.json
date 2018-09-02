@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG3500",
+    "course_name": "Reservoir Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers the fundamentals of petroleum reservoir engineering. The tasks of the reservoir engineer are centred around answering the following questions: How much oil and gas is originally in place? What are the drive mechanisms for the reservoir? What are the trapping mechanisms for the reservoir? What will be the recovery factor for the reservoir by primary depletion? What will be the future production rates from the reservoir? How can the recovery be increased economically? What data is needed to answer these questions? This course will equip you with the knowledge and the skills to help answer these important questions.",
+    "prerequisites": "(CHEE2003 or MECH2410) and (CHEE3003 or MECH3400)",
+    "incompatible": "",
+    "restricted": ""
+}

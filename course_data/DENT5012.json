@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT5012",
+    "course_name": "General Dental Practice in the Community",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "14",
+    "duration": "Two Semesters",
+    "description": "Development of professional clinical skills in the general dental practice environment of the University regional government dental clinics. Students will be rotated through several clinics & will be expected to provide total oral health care to allocated patients.",
+    "prerequisites": "DENT4022 + 4030 + 4042 + 4052 + 4062 + 4072 + 4082",
+    "incompatible": "DENT5512",
+    "restricted": ""
+}

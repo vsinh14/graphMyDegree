@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7306",
+    "course_name": "Special Projects in Computer Systems and Software Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "A significant industry-based project (e.g. CEED project) that integrates technical, commercial and other factors. Projects must be approved prior to enrolment.",
+    "prerequisites": "Permission Head of School",
+    "incompatible": "CSSE3006",
+    "restricted": "MInfTech, MInfTech(Mgmt), MIDes students"
+}

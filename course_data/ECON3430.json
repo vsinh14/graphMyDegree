@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3430",
+    "course_name": "Managerial Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of economic analysis to business decision-making & organisation: basic economic tools, business objectives, demand analysis; pricing policies & competitive strategies, cost & production analysis, market structure, decision-making under uncertainty, capital budgeting & investment analysis.",
+    "prerequisites": "ECON2010 or 2400 or 2410",
+    "incompatible": "EC375",
+    "restricted": ""
+}

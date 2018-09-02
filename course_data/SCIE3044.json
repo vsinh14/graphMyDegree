@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3044",
+    "course_name": "Vacation Project",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Research project conducted during the Summer Semester under the direction of a UQ supervisor approved by the Director of Studies. Projects are possible in all scientific disciplines including: Anatomy, Developmental Biology, Biochemistry, Botany, Chemistry, Computer Science, Ecology, Geological Science, Geographical Science, Mathematics, Microbiology & Parasitology, Neuroscience, Physics, Physiology, Pharmacology, Zoology & Entomology.",
+    "prerequisites": "Approval of Director of Studies",
+    "incompatible": "BIOL3044",
+    "restricted": ""
+}

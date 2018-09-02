@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH2005",
+    "course_name": "Mineralogy",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Minerals are the naturally occurring elements and chemical compounds that make up rocks on Earth and elsewhere in the Solar System. They are also produced by living organisms to make hard components such as shells and skeletons. Identification of minerals is thus a vital first step in understanding geological materials, their conditions of formation and subsequent history, and interpreting them in terms of tectonic and biological processes and economic importance. This course explores how to identify minerals by measuring their basic physical properties on hand specimens, and how to obtain much more detailed and precise information, mainly using polarised light in the petrological light microscope, but also the more advanced techniques of X-ray Diffraction and analytical Scanning Electron Microscopy. The physical and optical properties of minerals are largely determined by what chemical elements are present and how their atoms are arranged to form a crystal structure with a particular symmetry, so the earlier lectures and practicals cover the basics of how abundance of elements determines the compounds that occur as minerals, chemical bonding, crystal chemistry and crystallography. We then go on to survey the major rock-forming minerals, in the context of whether they are found mainly in igneous, metamorphic or sedimentary rocks, or in ores.",
+    "prerequisites": "ERTH1000 or ERTH1501",
+    "incompatible": "ERTH2001",
+    "restricted": ""
+}

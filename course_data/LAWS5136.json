@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5136",
+    "course_name": "Commercial Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Commercial law addresses some of the issues which arise in commercial law practice such as agency, sale of goods, insurance, and business to business trade practices law.",
+    "prerequisites": "All Level 1 & 2 LAWS courses",
+    "incompatible": "LA301 or 315 or 721 or LAWS7136 or 7336",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

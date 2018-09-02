@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1050",
+    "course_name": "Mathematical Foundations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Core content of Senior Mathematics C syllabus. Provides introduction to sequences & series, linear algebra, calculus, complex numbers & mathematical induction.",
+    "prerequisites": "MATH1040 or SA in Year 12 Maths B",
+    "incompatible": "A pass in MATH1051 or MATH1052 or MATH7050.\nStudents who achieved HA or VHA in Qld Year 12 Maths C are encouraged to enrol in MATH1051.",
+    "restricted": ""
+}

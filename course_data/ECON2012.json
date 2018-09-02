@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2012",
+    "course_name": "Microeconomics for Business",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with tools of microeconomic analysis. These tools are developed from an introductory to an intermediate level using models of perfect and imperfect competition with emphasis on benefits, costs, optimisation and welfare.",
+    "prerequisites": "",
+    "incompatible": "(ECON1010 and ECON2010) or ECON2011",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7202",
+    "course_name": "Immigration and Refugee Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Immigration and Refugee Law examines the legal and regulatory framework under which persons are permitted to migrate to Australia. It examines the various migration programs (Family, Skilled, Refugee) as well as the ability of the courts to review migration decisions.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5202",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

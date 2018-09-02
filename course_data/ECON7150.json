@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7150",
+    "course_name": "Mathematical Techniques for Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will focus on the application of differential & integral calculus as well as matrix algebra to economic models. Simple unconstrained optimisation will be studied. The course will also introduce some aspects of multi-variate analysis.",
+    "prerequisites": "",
+    "incompatible": "ECON1050",
+    "restricted": ""
+}

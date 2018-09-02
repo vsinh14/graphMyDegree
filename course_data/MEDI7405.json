@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7405",
+    "course_name": "Surgical Specialties",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "",
+    "description": "The primary goal of this Surgery Specialties clinical placement is\nto allow the students to gain exposure to patients with common and serious Orthopaedic & Ophthalmologic Surgical problems; to learn how patients with these conditions present clinically, to develop history taking and physical examination skills in these particular patient populations, to learn the role of investigations for these patients and to develop an understanding of the treatment principles, both operative and non-operative, for patients with these conditions.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7242",
+    "incompatible": "",
+    "restricted": "MD Students Only"
+}

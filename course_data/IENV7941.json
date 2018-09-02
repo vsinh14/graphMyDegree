@@ -1,0 +1,12 @@
+{
+    "course_code": "IENV7941",
+    "course_name": "Masters Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "6",
+    "duration": "One Semester",
+    "description": "(No longer offered, replaced by DECO7860/7861/7862) IENV7941 is a 6 unit research-based course that offers students the opportunity to work on a comprehensive, individual project that demonstrates mastery of the design of information environments. The student is expected to undertake the development of a self-directed project that will involve research, design and implementation components. An academic staff member will advise the student throughout the course. The project will be of suitable complexity for results to be published for an expert audience.",
+    "prerequisites": "IENV7911 + 7921",
+    "incompatible": "IENV7931",
+    "restricted": ""
+}

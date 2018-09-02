@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH2106",
+    "course_name": "Phonological Disorders & Clinical Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops foundation knowledge of the assessment, differential diagnosis and management of childhood speech disorders, and phonetics for speech pathology. It aids in the development of practical skills in transcribing and analysing speech, diagnosing speech disorders, and implementing appropriate therapeutic programs. These skills will be applied in the clinical practicum component.",
+    "prerequisites": "LING1005, SPCH1100, SPCH1101, SPCH1201",
+    "incompatible": "SPCH2102",
+    "restricted": "BSpPath"
+}

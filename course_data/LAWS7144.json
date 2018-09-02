@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7144",
+    "course_name": "Introduction to Taxation Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to basic concepts of income tax legislation such as income, residence & source; timing of recognition of receipt of income; capital gains; allowable deductions & treatment of trading stock.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "CO324 or 821 or LA413 or 444 or 729 or QB238 or LAWS3101 or 5144 or 7012 or 7344",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

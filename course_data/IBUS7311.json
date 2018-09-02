@@ -1,0 +1,12 @@
+{
+    "course_code": "IBUS7311",
+    "course_name": "Managing the International Enterprise",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Management issues for business enterprises which spread across national boundaries. Topics include organisational structure, management style, cultural relations, legal aspects, trading patterns and technology. This course focuses on the firm's internal context.",
+    "prerequisites": "IBUS7302 or 7310",
+    "incompatible": "IBUS3303",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

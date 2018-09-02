@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2145",
+    "course_name": "Chamber Music Performance",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "This course provides and introduction to the principles and repertoire of chamber music, including knowledge of repertoire, score reading and interpretative development skills, critical listening and awareness of group dynamics. \nSkills are developed through weekly rehearsals, tutorials with performance staff, participation in performance seminars, mid and end of semester performance assessments and a written portfolio of professional chamber music concert reviews and personal reflection.",
+    "prerequisites": "MUSC1201",
+    "incompatible": "MUSC2150",
+    "restricted": "BMus (Hons) and associated dual programs only"
+}

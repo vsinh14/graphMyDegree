@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN2020",
+    "course_name": "Continuing German Language 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course consolidates and extends the language skills taught in GRMN2010.",
+    "prerequisites": "GRMN2010 or GRMN1110",
+    "incompatible": "GRMN1120",
+    "restricted": ""
+}

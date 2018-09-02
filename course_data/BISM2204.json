@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM2204",
+    "course_name": "R for Business Analytics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to R for the purpose of business analytics and to basic programming concepts used in R. The focus is on an introduction to R, including R infrastructure and interfaces, manipulating and exploring data, predictive models, data export and output, and optimising R code.",
+    "prerequisites": "BISM2201",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

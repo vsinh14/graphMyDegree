@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG1200",
+    "course_name": "Engineering Modelling & Problem Solving",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to a) engineering problem solving through the relationship between theoretical, mathematical and computational modelling for predicting design performance, and b) the properties, and behaviours of engineering materials in design. Students will engage in a major team based multidisciplinary design project to develop first phase virtual and second phase physical prototype solutions. Students will be able to nominate a preference for system behavioural modelling using MatLab simulation software or structural modelling and CNC machining of a system component using Creo computer aided design software. The final system prototype will be physically tested to validate predicted performance in an end of session demonstration. The primary technical learning outcomes will be addressed through a combination of online learning activities and hands-on collaborative tutorials and laboratories Students will require good project management, teamwork, information literacy, and communication skills.",
+    "prerequisites": "MATH1050 or sound achievement or better in Qld Senior Maths C, ENGG1100",
+    "incompatible": "ENGG1000 and ENGG1211",
+    "restricted": "BE(Hons) and BE(Hons) dual degree students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC6017",
+    "course_name": "Introduction to the Molecular Biology Laboratory",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course looks at modern laboratory techniques in molecular biology. There will be lectures, demonstrations & laboratory sessions including a one week laboratory intensive.",
+    "prerequisites": "Permission of Director, Postgraduate Molecular Biology Programs",
+    "incompatible": "BIOC3002",
+    "restricted": ""
+}

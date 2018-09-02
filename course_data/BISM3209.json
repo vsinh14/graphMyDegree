@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3209",
+    "course_name": "Pricing and Revenue Optimisation",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Over the past decade, optimisation methods have become increasingly important to how firms across many different industries set prices. This course focuses on pricing and revenue optimisation. The course places emphasis on topics including price differentiation, capacity allocation, and customised pricing, and introduces relevant optimisation methods in an accessible and practical way.",
+    "prerequisites": "BISM2204",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

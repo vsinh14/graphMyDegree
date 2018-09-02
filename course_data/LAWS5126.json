@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5126",
+    "course_name": "Medical Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The law as it relates to selected aspects of medicine and medical practice including medical negligence, medical battery, abortion, euthanasia, property rights in human body parts, competency determinations and product liability.",
+    "prerequisites": "All Level 1 LAWS courses + LAWS2111 + LAWS2113",
+    "incompatible": "LA449 or 773 or LAWS7126 or 7326",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

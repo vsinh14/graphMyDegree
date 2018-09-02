@@ -1,0 +1,12 @@
+{
+    "course_code": "METR4202",
+    "course_name": "Robotics & Automation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Modern control & robotic techniques for use in practical applications. Coverage of advanced control methodologies & intelligent robotic systems.",
+    "prerequisites": "ELEC3004 or METR3200 or METR4201",
+    "incompatible": "METR4200 or METR7201 or METR7202 or ELEC3700 or ELEC7700",
+    "restricted": ""
+}

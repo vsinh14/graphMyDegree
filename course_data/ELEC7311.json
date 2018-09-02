@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7311",
+    "course_name": "Power System Protection",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will focus on design of transmission and distribution protection schemes. This will include fundamentals on protection, relay design and protection schemes for transmission lines, transformers and bus. Additionally the course will focus on settings of feeder and transformer protection schemes, and selection of current and voltage instrument transformers for those protection schemes. The issues surrounding power quality and how these affect power systems will be also addressed. This will include measurement and modelling techniques to identify power quality problems and mitigating techniques. Impact of electrical overstress on the design and operation of power systems and electronic equipment will be discussed and protection systems will be built to \"eliminate\" equipment malfunction and damage due to electrical overstress.",
+    "prerequisites": "ELEC7302",
+    "incompatible": "ELEC4301 or ELEC4302 or ELEC7304",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3404",
+    "course_name": "Banking & Lending Decisions",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will consider the uniqueness of the financial institutions, assessment of credit risk and the principles of successful bank lending, as well as risk management in banks. At the end of this course, you will understand the risk assessment of various types of loans, the mechanisms for predicting financial distress, the principles of asset liability management, securitization and its impact of the Global Financial Crisis (GFC) 2007, bank regulation, bank profitability analysis and international banking system.",
+    "prerequisites": "FINM1415 or 2401 or 2411 or 2412",
+    "incompatible": "",
+    "restricted": ""
+}

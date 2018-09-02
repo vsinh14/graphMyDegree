@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM1061",
+    "course_name": "Pharmacology and Therapeutics for Nursing and Midwifery",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "BIOM1061 provides nursing and midwifery students with an opportunity to continue to develop an understanding of the human organ systems and to develop an understanding and appreciation of pharmacology and therapeutics relevant to current health care.",
+    "prerequisites": "BIOM1060",
+    "incompatible": "",
+    "restricted": "BN, BMid, BN/BMid students only"
+}

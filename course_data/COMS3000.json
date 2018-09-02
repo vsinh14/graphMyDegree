@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS3000",
+    "course_name": "Information Security",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Access control, Authentication, Security Models, Secret-key and Public-key Cryptography, Network Security and Application-layer Security.",
+    "prerequisites": "For COMS3000 prereq: CSSE2310;\nFor COMS7003 prereq: CSSE7231",
+    "incompatible": "For COMS3000 inc: COMS7003;\nFor COMS7003 inc: COMS3000",
+    "restricted": "(Summer enrolment (TP8) requires permission by Head of School)"
+}

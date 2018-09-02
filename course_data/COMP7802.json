@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7802",
+    "course_name": "Computer Science Research Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Substantial research project focusing on a particular area of computer science. Year-long project culminates with a written thesis & presention of poster. Students commencing in sem 1 enrol in COMP7801 for Sem 1 & 2; students commencing in sem 2 enrol in COMP7802 for sem 2 & the following sem 1.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "COMP6801 or COMP6802 or COMP7805 or COMP7806 or COMP7807",
+    "restricted": ""
+}

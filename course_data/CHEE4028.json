@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4028",
+    "course_name": "Metabolic Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Rational engineering, i.e. system based analysis and design, of living systems. Assumed background: (i) understanding of biochemistry & microbiology equivalent to CHEE1001, (ii) understanding of calculus & algebra equivalent to MATH2000, (iii) understanding of bioprocesses equivalent to CHEE4020, (iv) basic computer skills, preferably with Matlab.",
+    "prerequisites": "CHEE4020",
+    "incompatible": "CHEE7409",
+    "restricted": ""
+}

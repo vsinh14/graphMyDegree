@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7312",
+    "course_name": "Mental Health",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The six week clinical component of the Mental Health course is conducted in mainstream mental health services, such as community, public and private hospitals or fully integrated services. The clinical attachment sites provide a variety of experiences and access to the private sector and community-outreach services occurs in some sites. Learning in the clinical setting is central to the course, additional learning being through Clinical Case Review Discussions and interactive workshops.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7302",
+    "restricted": "MD & MD (Ochsner) students only"
+}

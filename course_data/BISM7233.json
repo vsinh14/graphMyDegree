@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7233",
+    "course_name": "Data Analytics for Business",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "BISM7233 Data analytics for business concerns the use of analytics for decision making in business focusing on descriptive, prescriptive and predictive analytic methods including data mining, visualisation, simulation and other modelling methods. These and other methods are reviewed via critical analysis of recent research, trade literature and case studies and the use of contemporary analytic tools.",
+    "prerequisites": "BISM7202 or MGTS7202 or 2 units COMP/COMS/INFS courses",
+    "incompatible": "BISM2202 or MGTS2202 or INFS7233",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

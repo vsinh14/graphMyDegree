@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT2030",
+    "course_name": "Oral Rehabilitation I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Foundation for fixed, implant & removable prosthodontics, & related dental biomaterials. Builds knowledge & skills which help link clinical & laboratory aspects from both theoretical & practical standpoints. Includes modules on biomaterials & biostatistics specific to dentistry. At the completion of this course, the student is expected to have developed a sufficient base of knowledge & skill to progress to Oral Rehabilitation II.",
+    "prerequisites": "DENT1030",
+    "incompatible": "",
+    "restricted": ""
+}

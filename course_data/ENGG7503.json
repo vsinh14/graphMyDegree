@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7503",
+    "course_name": "Well Test Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Offered in intensive mode over a 1 week period with assessment following in the Herriot-Watt Distance Learning exam period.]\nThe aim of this module is to: \nUnderstand the diffusivity equation and the derivation of analytical solutions related to reservoir features (wells, fractures, aquifers). Use the analytical solutions to describe fluid flow in a reservoir. Calculate reservoir permeability in simple and complex reservoir geometries.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to MSc (Petroleum Eng) students."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4330",
+    "course_name": "Advanced Structural Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced structural engineering. Prestressed concrete, finite element analysis, bridge design, plate & shells, membrane & retractable structures. Lectures & project work. Guest lecturers will also be invited to give presentation on different aspects of more challenging projects.",
+    "prerequisites": "",
+    "incompatible": "CIVL4310",
+    "restricted": ""
+}

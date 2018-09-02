@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC3250",
+    "course_name": "Junior Science Curriculum for HMS",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to prepare Human Movement Studies students to be effective teachers of Junior Science (Years 7-10). This course will draw on the new Australian Curriculum: Science and place it in a Queensland context. EDUC3250 will emphasise the curriculum reform, content knowledge and curriculum construction aspects of Junior Science courses. EDUC3250 will also address the foundational policy and pedagogical practices underpinning the safe delivery of learning experiences within a typical school science laboratory and make links to the Senior Science curriculums explicit.",
+    "prerequisites": "[BIOL1040 or BIOM1050] + PHYL1007",
+    "incompatible": "EDUC3003, EDUC4292, EDUC3292",
+    "restricted": "BScApp(HMS-Ed); BHMS (Educ); BHSPE; BHSPE(Hon); or with permission by HMNS Head of School"
+}

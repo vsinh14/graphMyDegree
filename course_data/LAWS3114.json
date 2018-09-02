@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3114",
+    "course_name": "Law of Trusts B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Administration of trusts and deceased estates, including consideration of duties and powers of trustees and executors, variation of trusts, trustees' right to indemnity, remedies for breach of trust. Consideration of situations in which resulting trusts arise.",
+    "prerequisites": "All Level 1 LAWS courses + LAWS2111 + LAWS2112 + LAWS3113",
+    "incompatible": "LAWS2705 or 3010 or 7110 or 7233",
+    "restricted": "LLB, LLB (Graduate Entry) and LLB dual programs."
+}

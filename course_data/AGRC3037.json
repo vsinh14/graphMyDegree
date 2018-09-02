@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC3037",
+    "course_name": "Plants for Human Health",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on drug discovery from plants (approx. 70% of medicines come from plants) and nutritional aspects (healthy food). It will also cover medicinal plants, traditional plant-based medicine and toxic plants with an emphasis on Australian natives, showcasing the value of plant and metabolic diversity. The course is highly interdisciplinary, covering all aspects from initial screening to translational research and commercialisation. Topics include the selection of plants based on their environment, screening of bioactive compounds with medical or nutritional value, compound isolation, functional characterisation, bioavailability, mode of action, and translational research, including human trials and commercialisation.",
+    "prerequisites": "BIOL1020, BIOL1030, BIOL1040",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "HMST4314",
+    "course_name": "Major Practicum (Exercise and Sports Science)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Minimum of 400 hours of field experience related to exercise science in community, corporate, fitness, health or sport setting.",
+    "prerequisites": "[HMST3372 or EXMD3372] + valid Apply First Aid (CPR) certificate and Blue Card. *Qld Health placements will also require relevant pre-placement documentation and evidence of immunisation status for Hepatitis B, Measles, Mumps and Rubella, Tuberculosis, Varicella Zoster virus, and Pertussis.",
+    "incompatible": "EXMD4700",
+    "restricted": "BExSS, BExSS(Hons)"
+}

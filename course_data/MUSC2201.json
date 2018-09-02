@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2201",
+    "course_name": "Practical Studies 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Development of instrumental or vocal technique or awareness of stylistic or interpretative characteristics of repertory studies (including study of languages for singers). Includes required ensemble participation and concert attendance.",
+    "prerequisites": "MUSC1201",
+    "incompatible": "MU292, MUSC2200, 2210, 2211, 2212",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1310",
+    "course_name": "Quantitative Economic & Business Analysis A",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Basic statistical concepts & techniques such as descriptive statistics, probability concepts, theoretical distributions, inferential statistics (confidence intervals & hypothesis testing) are applied in business & economics.",
+    "prerequisites": "Maths B or Maths C or MATH1040",
+    "incompatible": "CHEE2010 or 3010 or CIVL2530 or MINE3214 or STAT1201 or 1301 or 2201",
+    "restricted": ""
+}

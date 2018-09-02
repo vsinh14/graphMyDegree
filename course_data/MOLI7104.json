@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7104",
+    "course_name": "Cell-labelling and tracking technologies in MR and molecular imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Molecular imaging in vivo has revolutionised the field of nanomedicine. Central to this technology is the ability to label, track and target specific cells in vivo. This is achieved by utilising the various molecular imaging modalities available to the clinician. In the pre-clinical sense, this includes computed tomography (CT), magnetic resonance imaging (MRI), single photon emission tomography (SPECT), positron emission tomography (PET), optical imaging (i.e. luminescence and fluorescence) and ultrasound. All of these modalities have specific advantages that can be translated into a suitable pre-clinical analysis (e.g. MRI provides exquisite spatial resolution while PET has extremely sensitive detection limits). These techniques can then be utilised to give different information regarding cell-labelling, tracking and targeting. The development of various cell labelling/targeting technologies can involve receptor binding motifs (e.g. antibodies, antibody fragments, peptides, aptamers, small molecules) that are directly attached to the imaging modality, or can be a part of a larger construct (e.g. nanomaterials). In this way, the various requirements for cell-labelling are incorporated into the one construct (e.g. receptor binding for uptake or attachment to cells, molecular imaging agent for tracking). This course will describe the various approaches used for cell-labelling in vivo, with particular emphasis on the complementary nature of each modality for application in nanomedicine.",
+    "prerequisites": "MRES7100 and the USyd course MRTY5109",
+    "incompatible": "",
+    "restricted": ""
+}

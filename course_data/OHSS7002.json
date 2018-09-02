@@ -1,0 +1,12 @@
+{
+    "course_code": "OHSS7002",
+    "course_name": "Occupational Hygiene 1",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course presents students with the concepts and methodologies of occupational hygiene, including the anticipation, recognition, evaluation, communication and control of environmental stressors in, or arising from, the workplace that may result in injury, illness, impairment, or affect the well-being of workers and members of the community. Through a range of lectures, tutorials, practicals and field visits, students will develop a high level understanding of the techniques for measuring and monitoring exposure to hazardous chemicals in the workplace and how exposure information can be used to assess risk. As part of this learning, students will develop skills needed to present the results of atmospheric monitoring in a form useful for health risk assessment purposes. The course will present the principles of control of occupational health hazards, including chemical, biological and physical hazards, and will require students to critically appraise these strategies. There will be a focus on three major types of occupational hygiene hazards: particulates (dusts, fumes and fibres); metals; and gases and vapours. Toxicological principles relevant to developing an understanding of workplace health hazards will also be reviewed such as dose response relationships, types of toxic effects and the elimination and detoxification of chemicals and biological agents.",
+    "prerequisites": "",
+    "incompatible": "OHSS3000",
+    "restricted": ""
+}

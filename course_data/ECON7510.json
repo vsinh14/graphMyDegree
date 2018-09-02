@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7510",
+    "course_name": "Economic Development",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Competing theories of economic growth & development; assessment of alternative development strategies & policies; roles of international institutions in managing international economy; comparative experiences of Asian, African & Latin American developing countries examined.",
+    "prerequisites": "ECON2010 or 2020 or 7002 or 7010 or 7011 or 7110 or 7020 or 7021",
+    "incompatible": "ECON6500 or EC873 or 883",
+    "restricted": ""
+}

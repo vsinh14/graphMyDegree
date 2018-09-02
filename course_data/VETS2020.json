@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2020",
+    "course_name": "Animal Therapeutics and Toxicology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Defines the different classes of drugs/chemicals/physical agents & describes their actions, practical applications, side effects, contra-indications & dosage regimen. From 2016, this course will be replaced with VETS3017.",
+    "prerequisites": "",
+    "incompatible": "ANIM3022, VETS3017",
+    "restricted": ""
+}

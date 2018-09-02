@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4121",
+    "course_name": "Mine Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOTE: This course is discontinued from 2018, Students who have not completed MINE4121, need to complete ENGG4900.\nTheory & process of management, financial & management information systems, human behaviour, IR, contracts & contractors, joint ventures, international issues, professional ethics, team dynamics. Mining law. Applications in risk management. Hazards in coal & metal mines. Emergency response strategies.",
+    "prerequisites": "",
+    "incompatible": "MINE4103",
+    "restricted": ""
+}

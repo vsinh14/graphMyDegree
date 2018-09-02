@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL2110",
+    "course_name": "Formal Logic: an introduction to classical formal logic",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course in formal logic is intended as an introduction to the formal aspects of modern logic for students of philosophy, mathematics or computer science, or indeed anyone interested in logic. We assume that students have no previous background in logic. It begins with some discussion as to what logic is and what its role in philosophy might be. It will then move on to more formal aspects. Beginning with the notion of a formal language into which sentences and arguments are to be translated, we shall develop the syntax and semantics for a language of sentences or propositions \u00c2\u00bf classical propositional logic. Arguments can then be formalized and discussed with reference to the central notion of validity. The primitive language of classical propositional logic is then extended to accommodate the theory of quantifiers, which is formalisable in classical predicate logic, and the notion of validity is generalized to this extended language.",
+    "prerequisites": "",
+    "incompatible": "PHIL1020, PHIL7102",
+    "restricted": ""
+}

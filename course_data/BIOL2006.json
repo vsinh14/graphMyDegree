@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2006",
+    "course_name": "Biostatistics & Experimental Design",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces students to the process of biological research in fields ranging from ecology to genetics. In addition to lectures students will get hands-on experience including generating ideas & hypotheses, through to designing experiments, analysing real data-sets, critiquing published studies & communicating results.",
+    "prerequisites": "STAT1201 or STAT1301",
+    "incompatible": "",
+    "restricted": ""
+}

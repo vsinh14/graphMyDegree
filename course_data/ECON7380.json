@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7380",
+    "course_name": "Advanced Macroeconometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course surveys the econometric theory which underlies modern applied research on macroeconomic issues, as well as some of the literature that has applied this theory. The main objectives are to give students a background that enables them to understand and critically appraise applied work on macroeconomic issues, and to provide them with some practical experience in working with macroeconomic data. The course covers a number of applications so that the students become aware of actual problems that macroeconomists address prior to moving to the approaches taken. Topics covered includet he specification and estimation of the Phillips Curve; the specification and estimation of Reaction Functions; applications of VAR (e.g., NKPC) including identification by sign restrictions, long-run restrictions, and translating theory to the econometric specification; state space modelling including alternative approaches to estimation and inference;TVP-VARs applications and Specification and estimation of the Dynamic Stochastic Equilibrium Model (DSGE).",
+    "prerequisites": "ECON3350 or ECON7350",
+    "incompatible": "ECON6380",
+    "restricted": ""
+}

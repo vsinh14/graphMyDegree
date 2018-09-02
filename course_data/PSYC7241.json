@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC7241",
+    "course_name": "Acceptance and Commitment Therapy",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course focuses on developing knowledge, skills and competency in Acceptance and Commitment Therapy (ACT). An overview of the scientific and theoretical underpinnings of ACT is provided. Instruction, guidance, practice and experiential learning in the core ACT therapy techniques and processes are provided. Specific ACT techniques addressed include metaphors, acceptance, mindfulness, defusion, and value-guided behavioural activation strategies. There is an emphasis on acquiring experiential knowledge of ACT and the application of ACT processes and techniques to one's own living as well as clinical practice. The course must be taken concurrently with a placement course as the application of ACT to clinical practice is integrated into PSYC7241.",
+    "prerequisites": "",
+    "incompatible": "PSYC7221",
+    "restricted": "Restricted to students in MPsychClin or DPsych"
+}

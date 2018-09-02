@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7630",
+    "course_name": "Introduction to Biostatistics",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers data collection, management and presentation; sampling and sample selection; sampling variability and statistical inference including estimation, confidence-intervals, hypothesis testing and sample size calculation; statistical computing; planning and reporting statistical analyses.",
+    "prerequisites": "Nil",
+    "incompatible": "Nil",
+    "restricted": "Nil"
+}

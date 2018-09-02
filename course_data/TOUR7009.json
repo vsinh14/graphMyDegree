@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7009",
+    "course_name": "Tourism Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Students choose a research topic in a field related to their area of study. Normally the thesis will entail primary and secondary research, and therefore includes research methods, data analysis and discussion. The topic must be approved by the course co-ordinator, who will then appoint an advisor.",
+    "prerequisites": "Permission from Head of School",
+    "incompatible": "QB806 or TALM7105 or MGTS7003",
+    "restricted": "Students require a GPA of 5.75"
+}

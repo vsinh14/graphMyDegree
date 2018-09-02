@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6700",
+    "course_name": "Ecological & Environmental Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Covers selected issues such as market failures, externalities, pollution control, species preservation, natural areas, sustainable development, common property resources, global environmental & natural resources, conservation of renewable & non-renewable resources; evaluation techniques.",
+    "prerequisites": "",
+    "incompatible": "EC428 or ECON7720",
+    "restricted": "BEcon(Hons); BA(Hons)(Economics)"
+}

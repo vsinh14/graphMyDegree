@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4120",
+    "course_name": "Mine Geotechnical Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Surface Excavations - stability of slopes formed in soil & rock, stability of embankments, road design. Underground Excavations - application of rock mass classification systems & stability charts, hazard assessment, geotechnical risks, vertical development, pillar mechanics & design, excavation stability, caving geomechanics, longwall geomechanics, ground control systems & techniques, backfill design & applications, subsidence, dynamic events.",
+    "prerequisites": "",
+    "incompatible": "MINE3102",
+    "restricted": ""
+}

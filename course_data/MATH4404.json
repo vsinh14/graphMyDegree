@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4404",
+    "course_name": "Functional Analysis III/IVH",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd years only)\nMetric spaces revisited. Banach spaces: linear operators & functionals; uniform boundedness principle; Hahn-Banach, closed graph & open mapping theorems. Dual spaces, weak & strong convergence; adjoints. Hilbert spaces: orthogonality; projections; Riesz representation theorem. Complete continuity. Fredholm Alternative.",
+    "prerequisites": "MATH3402",
+    "incompatible": "MATH7404",
+    "restricted": ""
+}

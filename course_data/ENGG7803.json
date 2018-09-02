@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7803",
+    "course_name": "Engineering Postgraduate Project B",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Field based project with industry relevance that allow students to apply their previously acquired knowledge, design skills & practices to practical applications. Students who commence in Semester 1 enrol in ENGG7803 for Sem 1 (Part A) and Sem 2 (Part B); students who commence in Semester 2 enrol in ENGG7804 for Sem 2 (Part A) & the following Sem 1 (Part B). Students completing the course in a single semester enrol in ENGG7802.",
+    "prerequisites": "Admission to MEngSc suite",
+    "incompatible": "",
+    "restricted": "Admission to MEngSc suite"
+}

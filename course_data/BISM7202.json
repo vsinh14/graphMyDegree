@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7202",
+    "course_name": "Information Systems for Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Uses of information systems in organisations, management of information systems. Overview of computers & information systems; information systems development, implementation & operation. Practical experience with spreadsheets, database management and other business applications software for business problems.",
+    "prerequisites": "",
+    "incompatible": "BISM1201, MGTS1201, MGTS7202, INFS1200, INFS7900",
+    "restricted": "QUOTA: Minimum of 15 enrolments"
+}

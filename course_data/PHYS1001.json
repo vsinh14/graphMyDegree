@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS1001",
+    "course_name": "Mechanics & Thermal Physics I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Nature of physics, kinematics, dynamics, conservation laws, rigid body rotation, oscillations, fluids and elasticity, thermodynamics, arrow of time, heat engines, laboratory experiments & error analysis.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Students enrolled in Bachelor of Engineering or Bachelor of Engineering dual programs, need to seek permission from the EAIT Faculty to enrol."
+}

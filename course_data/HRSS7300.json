@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS7300",
+    "course_name": "Health Sciences Research Advanced Project II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Implementation of a scaffolded research project in the Health Sciences, including preparation of scientific article and conference presentation.",
+    "prerequisites": "HRSS7102",
+    "incompatible": "HRSS4300, HRSS7803, HRSS7805, HRSS7800 + HRSS7801 (only if completed as an individual project)",
+    "restricted": ""
+}

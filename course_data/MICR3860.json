@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR3860",
+    "course_name": "Food Microbiology II",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Explores food preservation, spoilage, fermentation microbes and processes as well as rapid microbe detection methods. Molecular (DNA) methods relevant to food microbiology including genotyping, genomics and real-time PCR are investigated. It also examines the field of probiotics, spores, biolfilms and problems and applications of bacteriophages. Practical components may include chemical preservation, yoghurt fermentation, the isolation and identification of food bacteria using PCR, DNA sequencing, bioinformatics and real-time PCR.",
+    "prerequisites": "",
+    "incompatible": "MICR7003",
+    "restricted": ""
+}

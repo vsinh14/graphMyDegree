@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT4082",
+    "course_name": "Periodontics & Dental Implantology",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Fundamentals of clinical Periodontology and implant dentistry for the undergraduate dental student.",
+    "prerequisites": "DENT3020 + 3030 + 3042 + 3062 + 3072 + 3082",
+    "incompatible": "",
+    "restricted": ""
+}

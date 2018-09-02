@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7400",
+    "course_name": "International Industry Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "International industry economics is a broad subject area. The material covered in a particular semester will include market structure and the interactions between economic agents; factors affecting the international behaviour of firms and industry; network effects and two-sided markets.",
+    "prerequisites": "ECON2010 or 7010 or 7011 or 7110",
+    "incompatible": "ECON6400",
+    "restricted": ""
+}

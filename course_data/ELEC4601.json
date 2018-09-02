@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4601",
+    "course_name": "Medical Imaging",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Modern ionizing medical imaging technology. Techniques & hardware for ionising radiation methods (X-rays, CT scans, Single Photon Emission Tomography (SPECT), Positron Emission Tomography (PET)). ELEC4601 and ELEC4602 are compatible and can be undertaken simultaneously.",
+    "prerequisites": "For ELEC4601: ELEC3004\nFor ELEC7606: ELEC3004 or ELEC7312",
+    "incompatible": "For ELEC4601: ELEC7606\nFor ELEC7606: ELEC4601",
+    "restricted": ""
+}

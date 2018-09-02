@@ -1,0 +1,12 @@
+{
+    "course_code": "ECHO7004",
+    "course_name": "Echocardiography: Care of the critically ill",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will build upon the general echocardiographic skills acquired previously and will direct the student to apply these specifically in their assessment of the critically ill patient. Cardiorespiratory interactions and mechanical ventilation will be considered along with performing haemodynamic measurements and the assessment of volume status. Scenarios commonly encountered while caring for the critically ill will be considered in detail such as the assessment of a patient with hypotension or hypoxaemia. The assessment of commonly encountered cardiac devices will be covered. The use of extracardiac ultrasound will be explored including its use to facilitate vascular access. The general issues involved in providing an echocardiology service will be explored including quality assurance.",
+    "prerequisites": "ECHO7001, ECHO7002, ECHO7003",
+    "incompatible": "",
+    "restricted": "Restricted to Graduate Certificate in Critical Care Echocardiography students only."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3219",
+    "course_name": "Coral Reefs",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course discusses the biological & non-biological processes that construct and maintain coral reef ecosystems, from past to present. Students will be introduced to classification, biogeography and biology of coral reef organisms, current threats and management strategies.",
+    "prerequisites": "MARS2014",
+    "incompatible": "MARS3001",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS1060",
+    "course_name": "Animal and Veterinary Biology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An overview of the diversity of living organisms with emphasis on relevance to the study of animal and veterinary science, leading to an introduction to the form and function of vertebrate body systems.",
+    "prerequisites": "",
+    "incompatible": "VETS1022, ANIM1060",
+    "restricted": "Any student that has completed BIOL1020, BIOL1030 or BIOL1040 will need permission from the Faculty of Science to enrol into VETS1060. Please contact the Faculty of Science."
+}

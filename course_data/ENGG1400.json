@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG1400",
+    "course_name": "Engineering Mechanics: Statics & Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Civil Engineering School, Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Statics: Resolution & resultants of forces - 2D & 3D. Moments - 2D & 3D. Equivalent systems. Equilibrium of particles & Free Body Diagrams. Equilibrium, reactions & structure types. 2D Planar Trusses. Internal forces, bending-moment, shear & axial force diagrams. Properties of Area - Centroid & Second Moment of Area. Materials - Introduction to Stress-Strain, Yield Stress, Young's Modulus, Engineers Theory of Bending. Dynamics: Motion of a point - straight line & curvilinear. Kinetics. Energy Methods. Momentum Methods. Moments of Inertia. Application of rotation inertia.",
+    "prerequisites": "MATH1040 or Senior Maths B",
+    "incompatible": "ENGG1010",
+    "restricted": ""
+}

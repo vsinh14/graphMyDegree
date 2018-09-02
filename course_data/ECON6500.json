@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6500",
+    "course_name": "Economic Development",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Major issues: role of agriculture, foreign investment, trade & industrialisation strategies, finance & development, income inequality & income redistribution policies; non-economic factors in development, comparative study of strategies in selected countries; factors contributing to success & failure of development strategies; development environment & rural poverty; lessons for the future.",
+    "prerequisites": "",
+    "incompatible": "EC416",
+    "restricted": "BEcon(Hons); BA(Hons)(Economics)"
+}

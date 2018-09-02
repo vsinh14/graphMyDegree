@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI3003",
+    "course_name": "Surgery",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "The year 3 Surgery rotation is devoted to General Surgery (Breast / Endocrine, Upper Gastrointestinal, Hepatopancreatobiliary, Colorectal, Trauma & Acute surgery) and some subspecialties including Burns & Plastics, Urology, Vascular, Neurosurgery and Cardiothoracic Surgery. \n\nThe aim of the rotation is to familiarise students with common, serious and life threatening surgical diseases and for the student to develop an understanding of how they present clinically; how to systematically evaluate these conditions; how they are investigated; principles of management; how to assess priorities for treatment; and when and how to initiate referral. The rotation is not intended to train students as technical surgeons but to develop students that are 'intern ready' who can function as part of a surgical team.\n\nStudents will be allocated to surgical units to participate in the daily activities of those units, and to participate in all that happens during their patients' episode of care. In addition, students should attend outpatients, ward rounds, operating theatre, and other unit meetings. Learning resources are provided in the form of a series of Core Lectures (available on the Surgery Blackboard site). In the individual teaching hospitals a tutorial program is conducted. Students are provided lists of recommended operations and investigations to observe and a list of Surgical skills for which they should develop competence and understanding.",
+    "prerequisites": "Satisfactory completion of Yrs 1 & 2 in the MBBS program.",
+    "incompatible": "MEDI3011",
+    "restricted": "MBBS students only."
+}

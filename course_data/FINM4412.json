@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM4412",
+    "course_name": "Financial Statement Analysis",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops the skill of using accounting information to value a company. It covers industry and strategy analysis, accounting analysis, financial analysis, forecasting, and valuation.",
+    "prerequisites": "(ACCT2111 + FINM2411) or (ACCT2112 + FINM2412)",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons) or BAdvBus(Hons)"
+}

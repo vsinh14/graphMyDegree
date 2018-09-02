@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1050",
+    "course_name": "Tools of Economic Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides essential mathematical tools for studying Economics. It includes functions of one variable, differentiation, integrals, optimisation, and matrix algebra.",
+    "prerequisites": "[Maths B or equivalent or MATH1040] and ECON1010. Pre-requisites do not apply to BAdvFin&Econ(Hons) students.",
+    "incompatible": "MATH1050, MATH1051, MATH1071",
+    "restricted": ""
+}

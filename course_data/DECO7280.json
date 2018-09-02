@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7280",
+    "course_name": "Design Computing Studio 2 - Testing & Evaluation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Interdisciplinary teams of students undertake studio-based programming projects covering a broad understanding of software verification & validation; configuration management; project management and team work; software & project design process & documentation.",
+    "prerequisites": "DECO7180 and (CSSE7023 or DECO7250 or INFS7903)",
+    "incompatible": "CSSE2003 or CSSE7036 or DECO2800",
+    "restricted": ""
+}

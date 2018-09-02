@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM4012",
+    "course_name": "Integrated Patient Centred Care 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Build and integrate the knowledge and skills from different courses in the program and apply these in the optimisation of medicine use in the individual patient. New knowledge is acquired through evaluating evidence for drug use in all aspects of pharmacy and then integrated to develop the skills to identify and resolve drug related problems in consumers in a problem-based learning format. This course commences in week 5 of semester.",
+    "prerequisites": "PHRM4011",
+    "incompatible": "PHRM4010, PHRM4030",
+    "restricted": "Restricted to Bachelor of Pharmacy students"
+}

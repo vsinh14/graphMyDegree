@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3412",
+    "course_name": "Advanced Investments and Portfolio Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with techniques for evaluating investments on an individual basis and in the context of portfolio. Techniques for analysing investments focus on maximising expected returns while minimising risk. The most powerful way to achieve this objective is by creating a portfolio of investments. Topics covered are Financial Statement Analysis, Markets and Instruments, Equity Investments, Debt Investments and Portfolio Management.",
+    "prerequisites": "FINM2411",
+    "incompatible": "FINM2416 or FINM3402 or 7403",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+}

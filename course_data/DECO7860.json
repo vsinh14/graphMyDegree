@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7860",
+    "course_name": "Masters Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "6",
+    "duration": "One Semester",
+    "description": "A research-based thesis course that offers students the opportunity to work on a comprehensive, individual project that demonstrates mastery of interaction design and/or design computing. Topic to be agreed in consultation with a supervisor. The project will be of suitable complexity for results to be published for an expert audience. Students wishing to complete thesis in a single semester enrol in DECO7860, but only after seeking academic advice. Students commencing in semester 1 enrol in DECO7861 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in semester 2 enrol in DECO7862 for Sem 2 (Part A) and Sem 1 (Part B) of the following year.",
+    "prerequisites": "At least #16 units completed towards program",
+    "incompatible": "IENV7941",
+    "restricted": "MInfTech, MInfTech(Mgmt) and MIntDes students"
+}

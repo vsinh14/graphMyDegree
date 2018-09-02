@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7420",
+    "course_name": "Obstetrics and Gynaecology",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "By the end of the Obstetrics and Gynaecology course, students will have developed their knowledge, skills, personal attributes and acquired further clinical skills in women's health. Students are assigned to an Obstetrics and Gynaecology unit in a hospital within a Clinical School for six weeks of work-integrated learning during the course. Students will be an active participant of the medical team involved in the patient's care during this period, and will be expected to discuss problems and management plans using critical reasoning. Students are instructed how to take a patient's history and perform a physical examination. Students will learn about progress in labour and technique of normal delivery. It is expected that students will achieve a solid foundation to critically evaluate issues in women's health and reproductive health care.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7401",
+    "restricted": "MD Students Only"
+}

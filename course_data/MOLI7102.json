@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7102",
+    "course_name": "Clinical Molecular Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover most aspects of Molecular Imaging including optical imaging (i.e. luminescence and fluorescence), ultrasound, single photon emission tomography (SPECT), positron emission tomography (PET), computed tomography (CT), magnetic resonance imaging (MRI), magnetic resonance spectroscopy (MRS) as well as hybrid imaging technologies (i.e. PET/CT, SPECT/CT, PET/MRI, SPECT/MRI). The course will include the development of new molecular imaging probes, contrast agents and radiopharmaceuticals for Nuclear Medicine as well as the importance of quality control involved in clinical molecular imaging. This course will give an overview of the innovative clinical imaging applications in cancer, heart diseases, neurological disorders and other human conditions.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

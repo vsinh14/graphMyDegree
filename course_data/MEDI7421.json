@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7421",
+    "course_name": "Paediatrics & Child Health",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course goals include: - preparing the student for work readiness in a paediatric clinical unit; recognition of the sick child; understanding the scope of paediatrics and having sufficient knowledge and experience to progress to post-graduate training in Paediatrics and Child Health. The course includes a six week clinical immersion underpinned by the paediatric online interactive education (POLIE) curriculum, supplemented by a specialist lecture series and other teaching sessions depending on the specific Clinical School attachment. Assessment includes work based assessment (mini-CEX) and an end of course MCQ and OSCE examinations.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7402",
+    "restricted": "MD Students Only"
+}

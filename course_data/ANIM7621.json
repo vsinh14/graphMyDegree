@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM7621",
+    "course_name": "Animal Breeding Technology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of assisted breeding technology for the reproductive management of domestic animals, exotics and Australian native species",
+    "prerequisites": "ANIM7620",
+    "incompatible": "ANIM3019",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG2961",
+    "course_name": "Agribusiness Sales",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of industrial marketing principles to marketing of agricultural inputs & products.",
+    "prerequisites": "ABUS2001 or MKTG2960 or MKTG1502",
+    "incompatible": "QM239 or ABUS3007 or MKTG3962",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7002",
+    "course_name": "Advanced Clinical Practice I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will assist students develop advanced knowledge & skills related to assessment & management of people with ongoing complex & unpredictable illnesses. The impact of issues such as life span, ageing, culture & economics on patient management will be considered.",
+    "prerequisites": "NURS7007",
+    "incompatible": "",
+    "restricted": "MNP students only"
+}

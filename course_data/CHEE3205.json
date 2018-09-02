@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3205",
+    "course_name": "Metallurgical Process Modelling",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to numerical modelling & process control that is directly applicable to the mineral processing industry. Includes use of commercial software packages.",
+    "prerequisites": "MINE2201 and CHEE3002 and CHEE3003",
+    "incompatible": "CHEE3007 or CIVL3150",
+    "restricted": ""
+}

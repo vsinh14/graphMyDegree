@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7134",
+    "course_name": "Mathematical Biology",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Mathematical modelling of biological systems, with a particular focus on neuroscience.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH3104",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS3200",
+    "course_name": "Advanced Database Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Distributed database design, query and transaction processing, data integration, data warehousing, data cleansing, management of spatial data, and data from large scale distributed devices.",
+    "prerequisites": "INFS2200",
+    "incompatible": "INFS7907",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SWSP7160",
+    "course_name": "Field Placement 1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is restricted to MSocWkSt students who have received partial credit towards first placement. Departmental consent required for enrolment. Please contact the School for permission to enrol.",
+    "prerequisites": "SWSP7177 + #4 of first year core courses",
+    "incompatible": "SWSP3077, SWSP3155, SWSP7077, SWSP7155, SWSP7288, SWSP7366",
+    "restricted": "MSocWkSt students only"
+}

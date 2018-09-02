@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT8040",
+    "course_name": "Advanced Clinical Practice IIB",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course is the fourth of the discipline-specific clinical courses for DClinDent students and continues on from DENT8030. The objectives are to progressively build competence & confidence at second year level in specialty clinical practice & knowledge.",
+    "prerequisites": "DENT8010 + DENT8020 + DENT8030",
+    "incompatible": "",
+    "restricted": ""
+}

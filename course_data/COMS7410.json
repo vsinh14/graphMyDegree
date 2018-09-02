@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7410",
+    "course_name": "Communication Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Communications receivers & transmitters, modulation & demodulation, baseband & narrowband signal characteristics, analogue & digital communication systems, information theory, source & channel coding.",
+    "prerequisites": "CSSE7301 and ELEC7312",
+    "incompatible": "COMS3100 or COMS4100 or COMS4105 or COMS7100 or COMS7105",
+    "restricted": ""
+}

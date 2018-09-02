@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7403",
+    "course_name": "Advanced Partial Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in odd years only)\nLaplace and heat equations (fundamental solutions, maximum principles). Wave equation (symmetric solutions, dimension reduction). Sobolev spaces ( regularity of solutions, energy methods, embedding theorems). Generalizations and applications.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4403",
+    "restricted": ""
+}

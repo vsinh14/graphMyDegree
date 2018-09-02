@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7000",
+    "course_name": "Foundations in Microeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with a basic knowledge of the core economic principles. These principles will be explained and developed using a variety of examples involving businesses, governments, and households. Topics include supply and demand analysis, imperfect competition, producer and consumer theory, marginal analysis, welfare analysis, benefits and costs.",
+    "prerequisites": "",
+    "incompatible": "ECON1010 or ECON7002 or ECON7010",
+    "restricted": ""
+}

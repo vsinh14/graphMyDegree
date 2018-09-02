@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1115",
+    "course_name": "Principles of Public Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introductory level consideration of the key features of the law governing public power in Australia. It acts as a foundation for later study of constitutional and administrative law. The course stresses theoretical and contextual understanding of contested topics such as constitutionalism, federalism, rights discourse, the proper roles of constitutional courts, legislature and executive, and mechanisms of executive accountability.",
+    "prerequisites": "LAWS1111",
+    "incompatible": "LAWS1703 or 7230",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

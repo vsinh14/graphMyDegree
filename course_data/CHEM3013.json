@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3013",
+    "course_name": "Nanoscience: Self-assembly",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to advanced materials & nanotechnology. The focus is on colloids & self assembled systems and covers both inorganic and organic materials. Assembly, state-of-art characterisation, chemistry, properties & novel applications. This course explores the forces that control 2D and 3D nanomaterials.",
+    "prerequisites": "(CHEM2002 or CHEM2902) or CHEM2056",
+    "incompatible": "CHEM3007",
+    "restricted": ""
+}

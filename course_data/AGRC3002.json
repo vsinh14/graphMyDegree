@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC3002",
+    "course_name": "Agronomy 2",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will examine the importance and application of physiology and agronomy in crop production systems. In both a classroom and field setting, this will include exploration of the influence of environment and management on crop growth in sustainable farming systems. This course will cover topics such as farming systems, fertiliser management, crop modelling and climate change, optimising productivity under water stress, rotations, crop selection and production sustainability. There will be a strong focus on being out in the field for practicals which will include a field trip to regional research hubs.",
+    "prerequisites": "",
+    "incompatible": "PLNT3003, AGRC3022",
+    "restricted": ""
+}

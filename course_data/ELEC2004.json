@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC2004",
+    "course_name": "Circuits, Signals & Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Mathematical models of electrical components, circuits & systems. Time & frequency response. Issues in building complex systems from subsystems, including feedback. Signal theory & filter design. Theoretical investigations, substantial case studies & laboratory experiments.",
+    "prerequisites": "ELEC1000 or ENGG1300",
+    "incompatible": "",
+    "restricted": ""
+}

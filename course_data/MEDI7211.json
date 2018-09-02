@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7211",
+    "course_name": "Clinical Science 3",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences, Medicine Faculty, Biomedical Sciences School, Chemistry & Molec Biosciences,",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This course will build on the foundation of knowledge established in MEDI7111 and MEDI7112. Students will continue their system-based application of clinically focused medical sciences; using case based learning models supported by a combination of lectures, practical classes, expert tutorials and symposia. This course will include the following modules: Eyes, Endocrinology, Male and Female Health and Development, Skin, Haematology and Mental Health.",
+    "prerequisites": "MEDI7112",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

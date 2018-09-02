@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3121",
+    "course_name": "Mining Geomechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to provide students with the basic knowledge required to undertake geomechanical investigations and design tasks. The course consists of two main modules. 1) Deformable Materials, which covers basics of materials behaviour; stress-strain, failure criteria, stress and strain tensors. 2) Rock Mechanics including rock material and rock mass behaviours, rock mass strength and deformability, strength of discontinuities, basic rock testing, rock mass classification systems, response of rock mass to underground excavation, stress measurement, time dependant and dynamic behaviour of rocks and rock slope stability.",
+    "prerequisites": "",
+    "incompatible": "MINE3101",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2300",
+    "course_name": "Comparative Criminology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Comparative criminology is concerned with the study of crime and criminal justice systems\nacross geo-political, historical and cultural contexts. The aim is to understand the similarities and\ndifferences in how societies respond to crime and explore the traditions, processes, histories and\ngeographies that influence crime and its control. Using tools and frameworks for comparative\nanalysis and a mix of methodological approaches the course will examine comparative research\nthrough a range of case studies in criminal justice policies and examine the cultural\nappropriateness of criminological theories to understanding the occurrence of crime.",
+    "prerequisites": "CRIM1000, CRIM1019",
+    "incompatible": "",
+    "restricted": ""
+}

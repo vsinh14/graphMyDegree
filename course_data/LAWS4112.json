@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS4112",
+    "course_name": "Corporate Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A study of aspects of the law concerning companies, including the nature of corporate bodies, corporate personality & limited liability, formation, management & governance, finance, & liquidation.",
+    "prerequisites": "All Level 1 & 2 LAWS courses",
+    "incompatible": "LAWS3702 or 5017 or 7117",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

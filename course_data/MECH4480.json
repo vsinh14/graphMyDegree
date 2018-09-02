@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH4480",
+    "course_name": "Computational Fluid Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Computational Fluid Dynamics (CFD) for engineering applications. Development of computational techniques for analysis of complex engineering processes by bringing together the knowledge gained in one or more of the following disciplines: fluid mechanics, thermodynamics, heat/mass transfer & numerical methods.",
+    "prerequisites": "MECH2410 and MECH3400 and (MECH2700 or MECH3750)",
+    "incompatible": "",
+    "restricted": ""
+}

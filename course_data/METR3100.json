@@ -1,0 +1,12 @@
+{
+    "course_code": "METR3100",
+    "course_name": "Control System Implementation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Industrial control technology: the role of sensors and actuators, risk-based design, industrial controllers. Actuators: simulation and modelling of loads, actuator selection, motor performance and prediction. Sensors: operation and selection of sensors. Design of industrial control/automation system.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7132",
+    "course_name": "Ethics & Professional Practice 2",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course continues to familiarise students with the ethical, professional, and social frameworks in which medicine is practised, and the agreed and debated issues within these frameworks, through topics that arise within cases and clinical learning. The course will be delivered using a combination of lectures and symposia (often involving outside experts), CBL discussion and supportive web-based materials.",
+    "prerequisites": "MEDI7131",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

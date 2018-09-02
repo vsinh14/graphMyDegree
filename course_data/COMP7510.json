@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7510",
+    "course_name": "Programming Language Theory",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) Semantics of functional, logic, imperative and concurrent programming languages. Reduction rules as a basis for semantics. Grammars as rewriting rules for syntax. Reduction rules for lambda calculus and logic programming; pattern matching and unification. Type theory. Operational semantics of imperative and concurrent programming languages. Specification constructs such as non-determinism. Fixed points for defining iteration and recursion. Algebraic laws of programming constructs.",
+    "prerequisites": "COMP4403 or COMP7402",
+    "incompatible": "",
+    "restricted": ""
+}

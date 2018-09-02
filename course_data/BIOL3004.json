@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3004",
+    "course_name": "Genomics & Bioinformatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide a practical introduction to genomics and bioinformatics. Topics include next-generation sequencing, biological databases, sequence alignment, similarity searches, genome browsers, molecular evolution, human disease genetics and proteomics. No previous computing experience is expected. Students will undertake computer-based practical modules throughout the course that provide hands-on experience with established bioinformatics tools and approaches. This course will provide students with an understanding of the key concepts that underpin bioinformatics and genomics approaches and a thorough grounding in the practical application of computational tools for biological sequence analysis.",
+    "prerequisites": "BIOL2202 or BIOL2902 or SCIE2100",
+    "incompatible": "",
+    "restricted": ""
+}

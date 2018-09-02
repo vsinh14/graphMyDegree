@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT1019",
+    "course_name": "Regional, Neuro & Applied Anatomy",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Regional & applied anatomy of the human body. An integrated approach focusing on the skeletal, muscular & nervous systems, particularly of the limbs & back.",
+    "prerequisites": "ANAT1018",
+    "incompatible": "AN109 or 119 or ID131",
+    "restricted": "BOccThy students"
+}

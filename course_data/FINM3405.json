@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3405",
+    "course_name": "Derivatives and Risk Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces forwards, futures & options as securities for risk management & speculation. Exposures to equity, currency, interest rate & commodity risk are examined. Pricing derivatives using analytical & numerical techniques.",
+    "prerequisites": "FINM2401 or 2411 or 2412 or 2416",
+    "incompatible": "",
+    "restricted": ""
+}

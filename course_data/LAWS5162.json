@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5162",
+    "course_name": "European Union Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to constitutional, administrative & economic law of the European Union. Topics include Union Treaty, political & judicial institutions & protection of social rights by European Court of Justice.",
+    "prerequisites": "All Level 1 LAWS courses",
+    "incompatible": "LAWS7162 or 7362",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

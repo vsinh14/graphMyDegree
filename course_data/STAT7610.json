@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7610",
+    "course_name": "Longitudinal & Correlated Data",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers methods to analyse data from longitudinal (repeated measures) epidemiological or clinical studies; paired data; the effect of non-independence on comparisons within and between clusters of observations; methods for continuous outcomes: normal mixed effects. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7607 + STAT7608",
+    "incompatible": "",
+    "restricted": ""
+}

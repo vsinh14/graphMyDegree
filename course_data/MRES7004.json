@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7004",
+    "course_name": "Standard Imaging Sequences, Image Reconstruction, Applications",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamentals of standard clinical magnetic resonance imaging sequences (gradient echo & multiecho). Basics of image reconstruction, sources of artifact & types of contrast. Selection of the most appropriate sequence for specific application is reviewed.",
+    "prerequisites": "MRES7001 or MRES7100",
+    "incompatible": "",
+    "restricted": ""
+}

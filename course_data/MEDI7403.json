@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7403",
+    "course_name": "Critical Care",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "",
+    "description": "The Critical Care rotation is conducted in the major teaching hospitals in each Clinical School. The CCC aims to teach the student the skills, knowledge and attitudes involved in managing patients with critical illness. The majority of students' time in each of the three disciplines of Anaesthetics, Emergency Medicine and Intensive Care will be as direct one-on-one clinical contact and/or ward rounds in the Intensive Care Unit with some small group tutorial teaching.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7242",
+    "incompatible": "",
+    "restricted": "MD Students Only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7001",
+    "course_name": "Science of Water",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the first of four foundation courses and is an introduction to key ideologies and philosophies of integrated water management. Key issues include: concepts and practice of integrated water resource management; principles of water science; and, whole-of-water-cycle approaches.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "MIWM, GDIWM, GCIWM"
+}

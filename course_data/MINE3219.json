@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3219",
+    "course_name": "Process Mineralogy and Comminution",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course integrates geology, mineral liberation and comminution (crushing and grinding) circuit design prior to mineral separation. It provides an iimportant foundation to the study of mineral extraction techniques.",
+    "prerequisites": "MINE2201 and (CHEE2010 or CHEE3010 or MINE3214)",
+    "incompatible": "MINE3209 or ERTH3502",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO3800",
+    "course_name": "Design Computing Studio 3 - Proposal",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A studio-based course in which interdisciplinary teams of students develop a proposal for a significant software-based system. The course aims to consolidate and expand on students previous experience with designing information systems, user interfaces, and computer software and systems. Subjects such as requirements elicitation, business cases, design specifications, and identifying and dealing with professional and ethical issues associated with software projects and products are covered during the course.",
+    "prerequisites": "(DECO1800 or ENGG1100) and (CSSE2002 or DECO2300 or INFS2200)",
+    "incompatible": "CSSE3004 or CSSE3005 or CSSE7024 or CSSE7025",
+    "restricted": "Final year BInfTech, BMultMedDes, BCompSc and 3rd year + BE(Hons) Software Engineering"
+}

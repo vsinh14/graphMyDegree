@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7024",
+    "course_name": "Marine Conservation",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is an intensive course delivered both at St Lucia campus and with a seven day field trip to Heron Island Research Station on the Great Barrier Reef. The course will give you an appreciation of the conservation issues and practices that affect marine habitats, with a particular emphasis on coral reefs. We will cover the main ecological principles relevant to marine conservation including marine landscape interpretation, dispersal, development and population connectivity, regulating processes, key biota, resource use, pollution and the diverse challenges of marine conservation and planning in Australasia. You will learn practical strategies for addressing conservation needs arising from human exploitation and climate change and will develop skills in the conduct of marine surveying, experimental design, coral health assessments, biodiversity measures and fish surveying.",
+    "prerequisites": "CONS6009 and CONS7008",
+    "incompatible": "",
+    "restricted": "MConsBiol, MConsSc"
+}

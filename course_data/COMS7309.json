@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7309",
+    "course_name": "Computational Techniques in Electromagnetics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) This course covers the modelling of electromagnetic phenomena, in particular, the Method of Moments (MoM), the finite difference Time domain (FDTD) and ray based high frequency methods. At the conclusion of the course, students should be able to understand the concepts and models used in Computational Electromagnetics and also be able to apply these to advanced engineering problems.",
+    "prerequisites": "ELEC3100 or ELEC7101",
+    "incompatible": "",
+    "restricted": ""
+}

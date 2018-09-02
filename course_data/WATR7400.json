@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7400",
+    "course_name": "WASH: water supply, sanitation and hygiene",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The Water Supply and Sanitation course provides students with engineering principles and tools for designing and operating water and sanitation systems in developing country contexts. Key topics include water quality parameters; groundwater and surface water treatment; water treatment process technologies; nutrient removal; key principles of Ecological Sanitation; simplified sewerage; decentralised water and sanitation systems; biosolids management; and operation and maintenance of water supply and sanitation infrastructure. Due attention is also given to non-engineering aspects of water and sanitation systems, including tools for demand creation and management and cost-benefit analysis of options. A parallel Integrated Water Management project will run through the semester which will develop skills that complement the content delivered in the 2 co-requisite course (WATR7100 and WATR7300) and the co-electives offered in semester 2 -WATR7600, WATR7700, WATR7900 and in the summer semester WATR7200 or WATR7800..",
+    "prerequisites": "WATR7000 and WATR7001 and WATR7002 and WATR7003",
+    "incompatible": "",
+    "restricted": "MIWM, GDipIWM or GCertIWM"
+}

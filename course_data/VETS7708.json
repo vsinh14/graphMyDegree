@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS7708",
+    "course_name": "Tropical Veterinary Medicine II",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Solution of disease problems of tropical livestock on individual, herd & regional basis; evaluation of threats to human health from keeping or consuming livestock in tropical environments; analysis of systems for the delivery of veterinary services to livestock producers internationally.",
+    "prerequisites": "VETS7703",
+    "incompatible": "",
+    "restricted": ""
+}

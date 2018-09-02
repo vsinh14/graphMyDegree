@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7108",
+    "course_name": "Advanced Unit Operations in Water Management",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "There is a diverse range of process equipment and a diverse range of process configurations used in the management of water and wastewater. \u00c2\u00bfUnit Operations in Urban Water Engineering\u00c2\u00bf deals with the design, selection and operation of process equipment or process plants used in urban water. In water management, equipment can be combined to make a \"unit\" in a process with a clearly defined function. For example: material transport, preliminary treatment (screening, grit and oil removal, flow equalization), primary treatment (settling and primary sludge production), biological treatment for the removal of organic substrates (activated sludge systems: concepts and design, attached growth processes, membrane bioreactors), biological nutrients removal (nitrification/denitrification, phosphorus removal, secondary settling), sludge stabilization (biological digestion and biogas production, dewatering), odour control, disinfection. The most important and basic Unit Operations within these processes are governed by the fundamental laws of mathematics, physics, chemistry, thermodynamics and mechanics, which provide an approximate description of the real processes. The 'Unit Operations' concept allows for the analysis of unit operations in terms of fundamental principles such as mass and energy balances, phase equilibria, biology; and transport of momentum, energy and mass. This course examines a systematic way for selection and detailed design of process equipment",
+    "prerequisites": "CHEE3002 and CHEE3003",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7605",
+    "course_name": "Computer Vision & Pattern Recognition",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Not offered in 2008) Computer vision, pattern recognition, classification, image & signal processing, hidden Markov models, principal components analysis, statistical classifiers, biomedical applications, medical diagnostics, expert systems, multimedia applications.",
+    "prerequisites": "Admission to ME suite",
+    "incompatible": "",
+    "restricted": ""
+}

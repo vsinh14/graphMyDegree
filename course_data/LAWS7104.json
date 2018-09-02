@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7104",
+    "course_name": "Criminal Law and Procedure A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Involves the study of the elements and aims of criminal law, classification of offences, general doctrines, general defences, homicide and defences, non-fatal offences against the person and defences, offences against property.",
+    "prerequisites": "",
+    "incompatible": "LA102 or 105 or 700 or LAWS2004 or 7304",
+    "restricted": "JD"
+}

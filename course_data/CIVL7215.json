@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7215",
+    "course_name": "Ground Improvement & Remediation Technologies",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in odd-numbered years (eg. 2019). The geotechnical engineer is frequently faced with the problem that the foundation does not possess the mechanical or hydraulic requirements to support a building or infrastructure. The course will cover the identification, design and implementation of various ground improvement methods, including: 1) characterisation of poor ground conditions requiring improvement; 2) methods for in situ compaction of the ground; 3) types of displacement piles, 4) soil injection techniques; 5) soil additives; and 6) the application of geotextiles.",
+    "prerequisites": "CIVL3210",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

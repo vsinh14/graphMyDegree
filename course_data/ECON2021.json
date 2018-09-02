@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2021",
+    "course_name": "Principles of Macroeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with tools of macroeconomic analysis. These tools are developed from an introductory to an intermediate level and covers determinants of national expenditure, income & employment in closed & open economies, role of monetary & fiscal policy, factors influencing interest rates, and causes of inflation & unemployment.",
+    "prerequisites": "",
+    "incompatible": "(ECON1020 and ECON2020) or ECON2022",
+    "restricted": "Restricted to students enrolled in BAdvFinEcon(Hons)"
+}

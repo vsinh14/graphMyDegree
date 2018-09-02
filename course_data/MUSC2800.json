@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2800",
+    "course_name": "World Music",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introduction to the diversity and common elements of musical expression, both traditional and contemporary, around the world. The course focusses on musical structures, concepts and meanings: no previous background in music theory or notation is required.\n\nPlease note that this course offering may be cancelled if fewer than 10 students enrol.",
+    "prerequisites": "",
+    "incompatible": "MUSC1800",
+    "restricted": "course offering may be cancelled if fewer than 10 students enrol"
+}

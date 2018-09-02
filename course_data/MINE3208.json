@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3208",
+    "course_name": "Mineral and Coal Beneficiation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamentals of mineral separation. Design, engineering, operation & control of mineral separation processes. Material storage & transport systems including conveyor belts & pumps. Tailings disposal systems.",
+    "prerequisites": "CHEE2003 and MINE3219",
+    "incompatible": "",
+    "restricted": ""
+}

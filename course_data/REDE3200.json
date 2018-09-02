@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE3200",
+    "course_name": "Real Estate Development Planning",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Philosophies of planning & development. Industrial planning, feasibility, development & environmental impacts. Economics of real estate investment & development, including risk and efficiency.",
+    "prerequisites": "",
+    "incompatible": "REDE2502 or 7202",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7502",
+    "course_name": "Sustainable Bioresource Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course deals with the limited size of the resource pool and the impact humans are currently having on these pools. Students will develop the fundamental skills to analyse and engineer biological processes to produce desired commodities such as transport fuels, proteins, plastics and concentrate metals for harvesting and re-use. In order to analyse these bio processes, an understanding of metabolic pathways for bacteria, archaea and photosynthetic organisms are required. Mass and energy balances are applied to analyse various applications of biotechnology that move us towards the goal of sustainability.",
+    "prerequisites": "CHEE4002",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7112",
+    "course_name": "Clinical Science 2",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences, Medicine Faculty, Biomedical Sciences School, Chemistry & Molec Biosciences,",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This course will build on the foundation of knowledge established in MEDI7111. Students will continue their system based application of clinically focused medical sciences, using case based learning models supported by a combination of lectures, practical classes, expert tutorials and symposia. The course will include the following modules: Musculoskeletal, Nervous System and Gastrointestinal/Metabolism.",
+    "prerequisites": "MEDI7111 and MEDI7121",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC3002",
+    "course_name": "DNA & Protein Technology",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT AVAILABLE AFTER 2009. DNA & RNA technology including cloning, fingerprinting, cDNA & gDNA libraries, Southern & Northern blotting, RT-PCR. Protein purification & expression, mutagenesis, proteomics & mass spectrometry. Advanced technologies including transgenic animals & plants, RNA interference & array technologies, and molecular systems biology. Strong emphasis on research & laboratory work.",
+    "prerequisites": "",
+    "incompatible": "BIOC6017",
+    "restricted": ""
+}

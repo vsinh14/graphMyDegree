@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG1501",
+    "course_name": "Foundations of Marketing",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines theories of markets & marketing, consumer behaviour, applications of behavioural science & basic marketing principles.",
+    "prerequisites": "",
+    "incompatible": "MEBS7107 or MGTS7806 or MKTG7040 or 7501 or 7708",
+    "restricted": ""
+}

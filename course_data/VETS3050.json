@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3050",
+    "course_name": "Veterinary Pharmacology, Therapeutics and Toxicology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "This course provides training in veterinary pharmacology and toxicology on a body systems basis, i.e. how exogenously derived chemical agents affect various organ systems and animals as a whole. It develops students understanding of pathophysiological and pharmacological principles involved in actions of these chemicals, before moving on to developing skills in the applied and/or therapeutic aspects of this information, including routes of delivery and practical application. This will include therapeutics and introductory anaesthesia training as a prelude to clinical medicine, and dose calculations, fluid therapy and acid-base therapeutics.",
+    "prerequisites": "VETS2007; VETS2008; ANIM2503",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

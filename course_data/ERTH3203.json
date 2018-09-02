@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3203",
+    "course_name": "Energy Resources",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 1 in even years only)\nSedimentary environments of formation of coal, oil shale, petroleum & uranium, geochemistry & petrology of fossil fuels, geothermal energy, exploration for fossil fuel resources, resource assessment, mining/production of coal/oil and gas.",
+    "prerequisites": "ERTH1501 or 2003",
+    "incompatible": "",
+    "restricted": ""
+}

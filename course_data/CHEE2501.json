@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE2501",
+    "course_name": "Environmental Systems Engineering I: Processes",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to environmental engineering, including an overview of the Earth's carbon, nutrient and water cycles and how these cycles interact to support ecosystems and the biosphere. Energy and mass balances and basic chemical engineering skills are applied in analysis of major environmental issues worldwide (including population and urbanisation issues; resource depletion; climate change, air and water pollution; biodiversity and sustainable development) and the connections between these environmental problems and the core cycles which sustain life are investigated.",
+    "prerequisites": "CHEM1020 and MATH1052",
+    "incompatible": "",
+    "restricted": ""
+}

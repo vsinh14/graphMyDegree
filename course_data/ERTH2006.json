@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH2006",
+    "course_name": "Igneous & Metamorphic Petrology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Origin & properties of magmas; magmatic differentiation, igneous structures & modes of emplacement; geochemistry of igneous rocks; magmatism at different tectonic environments; agents & types metamorphism; metamorphic textures & their origins; metamorphic facies; metamorphic reaction equilibria & pressure-temperature-time paths.",
+    "prerequisites": "ERTH2005, ERTH1000 or ERTH1501",
+    "incompatible": "ERTH2001",
+    "restricted": ""
+}

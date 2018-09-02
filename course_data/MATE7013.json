@@ -1,0 +1,12 @@
+{
+    "course_code": "MATE7013",
+    "course_name": "Advanced Manufacturing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Current global problems are requiring increasingly sophisticated materials and appropriate advanced methods for their manufacture. This course will look at design for manufacture, manufacturing techniques and manufacturing systems that are used to deliver materials, products and devices from the laboratory to commercial production. Several key manufacturing techniques, such as additive manufacturing, will be covered in the light of how manufacturing affects the end performance of the product, the economics of production and the impact on society and the environment. Projects in specific areas of manufacturing will be completed by students to give greater insight into the manufacturing cycle.",
+    "prerequisites": "MECH2300 or MECH2310",
+    "incompatible": "",
+    "restricted": ""
+}

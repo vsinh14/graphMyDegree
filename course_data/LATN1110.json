@@ -1,0 +1,12 @@
+{
+    "course_code": "LATN1110",
+    "course_name": "Introductory Latin",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "For students with little or no previous experience of Latin. The course teaches Latin grammar and basic syntax, and gives an introduction to the reading of Latin. \nNOTE: The course is sectioned to ensure a maximum class size of no more than 30.",
+    "prerequisites": "",
+    "incompatible": "Snr Latin, CL110",
+    "restricted": ""
+}

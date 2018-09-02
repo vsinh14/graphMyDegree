@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT3306",
+    "course_name": "Statistical Analysis of Genetic Data",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course teaches the why and how of statistical methods and their computer applications to analyse genome-wide genetic data and phenotypes on large numbers of individuals. Genetic data sets are usually large comprising thousands of individuals. Examples of typical genetic data sets include phenotypic records with a recorded pedigree structure of relationships between individuals or disease cases and controls with DNA polymorphisms measured at millions of locations in the genome. Major topics include: linear mixed models for estimation and prediction, genome-wide association studies, multiple trait analyses. The course focusses on applications in human and livestock genetics and genomics. There is a strong element of hands-on analyses of real-world datasets using R and GCTA.",
+    "prerequisites": "STAT2004 or STAT2203 or equivalent.",
+    "incompatible": "",
+    "restricted": ""
+}

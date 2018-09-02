@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM3011",
+    "course_name": "Quality Use of Medicines B1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Optimal use of medication for cardiovascular and renal systems, apnoea and childhood obesity, including \naspects of practice, dispensing & patient consultation.",
+    "prerequisites": "",
+    "incompatible": "PHRM3010",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3104",
+    "course_name": "Mathematical Biology",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Mathematical modelling of biological systems, with a particular focus on neuroscience and cell biology.",
+    "prerequisites": "(MATH1051 or MATH1071) and (MATH1052 or MATH1072)",
+    "incompatible": "MA478 or MATH7134",
+    "restricted": ""
+}

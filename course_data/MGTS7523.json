@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS7523",
+    "course_name": "System Dynamics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Systems are everywhere, in society, in business and in the environment. They are made up of interacting components and these interactions make them complex and difficult to manage. Despite the need to manage systems, very few managers are equipped with the skills to do so, which means that today's solutions often become tomorrow's problems. This course introduces the principles and tools of Systems Thinking and System Dynamics and their application to problem solving and management.",
+    "prerequisites": "",
+    "incompatible": "ENVM3526; ENVM7523",
+    "restricted": ""
+}

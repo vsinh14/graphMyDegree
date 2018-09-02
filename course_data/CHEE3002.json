@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3002",
+    "course_name": "Heat & Mass Transfer",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamentals of heat & mass transfer. Concepts of heat exchange & heat exchanger selection. Differential & stage-wise mass transfer processes. Case studies of equipment for heat & mass transfer unit operations.",
+    "prerequisites": "CHEE2001 and CHEE2003",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "AUDL7812",
+    "course_name": "Clinical Practice in Audiology IV",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Practice of clinical audiology skills under professional supervision in an audiology practice. Students gain ability to perform audiological tasks at a standard necessary for entry level into the profession.",
+    "prerequisites": "AUDL7808, AUDL7824, AUDL7825",
+    "incompatible": "",
+    "restricted": "MAudSt"
+}

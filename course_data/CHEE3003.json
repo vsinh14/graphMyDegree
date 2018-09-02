@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3003",
+    "course_name": "Chemical Thermodynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "1st and 2nd laws of thermodynamics for steady & unsteady systems. Exergy analysis. Equations of state. Gibbs free energy, fugacity & activity. Phase equilibria, electrochemical equilibria. Pure components & solutions. Chemical reaction equilibria.",
+    "prerequisites": "ENGG1500 and CHEE2001",
+    "incompatible": "CHEE3201",
+    "restricted": ""
+}

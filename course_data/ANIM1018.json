@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM1018",
+    "course_name": "Livestock Industries",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the major animal industries of economic significance in Australia including terminology, genotypes, distribution and production systems utilised. The relevance of each livestock industry in a global context including production and market aspects.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "ANIM2041"
+}

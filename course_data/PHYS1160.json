@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS1160",
+    "course_name": "Physics for Physiotherapy",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School, Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Physical and electrophysical principles that relate to mechanical and electrophysical agents in physiotherapy. Introduction to a selection of such agents, with the opportunity to experience and apply different forms of energies used by physiotherapists.",
+    "prerequisites": "Admission to BPhty",
+    "incompatible": "",
+    "restricted": ""
+}

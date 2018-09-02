@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS1005",
+    "course_name": "Cardiovascular Health",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NURS1005 introduces students to: anatomy, physiology & pathophysiology of the cardiovascular system and lymphatic systems; Nursing care of an adult with coronary artery disease who has developed acute myocardial infarct, and congestive heart failure, including associated pharmacological management; Legal and ethical issues associated with informed consent for adults and the legal and safe administration of pharmacological medications in relation to the case scenario; Prevalence and risk factors for cardiovascular related health issues, including cultural and socio-demographic factors, and the health education and promotional strategies that target risk factors.",
+    "prerequisites": "NURS1001, NURS1002, NURS1003, NURS1004",
+    "incompatible": "",
+    "restricted": "BN Students"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE2007",
+    "course_name": "Modelling of Physiological Systems",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis & modelling of physiological systems. System identification approaches. Use of modelling to understand normal function, impact of disease & effect of various treatment procedures.",
+    "prerequisites": "",
+    "incompatible": "CHEE4023 or CHEE7323",
+    "restricted": ""
+}

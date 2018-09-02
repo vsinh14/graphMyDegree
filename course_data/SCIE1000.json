@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE1000",
+    "course_name": "Theory & Practice in Science",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences, Historical & Philosophical Inq, Info Tech & Elec Engineering, Mathematics & Physics School, Biological Sciences School, Chemistry & Molec Biosciences, Historical & Philosophical Inq, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This foundation course in science introduces students to the broad range of mathematical, analytical, conceptual and computational tools employed by scientists to develop, analyse and interpret models of scientific processes. To emphasize the importance and generality of these tools, a number of key contemporary topics in science will be studied, including climate change, population dynamics, drugs and pharmacokinetics, and epidemics.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

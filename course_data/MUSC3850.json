@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3850",
+    "course_name": "Multi-Instrumental Pedagogy B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further development of resources & skills for Music Education, including woodwind and brass skills.",
+    "prerequisites": "MUSC3840",
+    "incompatible": "MU318",
+    "restricted": ""
+}

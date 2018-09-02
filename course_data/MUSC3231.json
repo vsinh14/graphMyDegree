@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3231",
+    "course_name": "Composition 3",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Development of advanced composition technique, focussing on analytical as well as creative activities and involving an ongoing study of selected repertoire.",
+    "prerequisites": "MUSC2610 and MUSC2611\nEnrolment in BMus Composition major",
+    "incompatible": "",
+    "restricted": "Bachelor of Music and associated duals, including honours"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM3041",
+    "course_name": "Drug Discovery B1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Design strategies & structure activity relationships of drugs involving the cardiovascular and renal systems. Pharmaceutical aspects of biotechnology.",
+    "prerequisites": "",
+    "incompatible": "PHRM3040",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy"
+}

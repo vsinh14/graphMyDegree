@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2215",
+    "course_name": "Practical Studies 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Development of advanced instrumental or vocal technique & of high level stylistic & interpretative skills. Includes required ensemble participation & concert attendance.",
+    "prerequisites": "MUSC1201 and permission of Head of School",
+    "incompatible": "MUSC2201",
+    "restricted": "BMus (Hons) and associated dual degrees, BMus (Hons) students who have returned from exchange, incoming exchange students"
+}

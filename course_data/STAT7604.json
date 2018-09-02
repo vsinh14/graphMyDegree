@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7604",
+    "course_name": "Principles of Statistical Inference",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers sampling variation, central limit theorem; normal-theory confidence intervals; probability models and likelihood; hypothesis tests: p-values, type 1 and 11 errors, statistical and practical significance; frequentist theory of estimation; likelihood ratio, Wald & score tests; Bayesian approach. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7601 and STAT7614",
+    "incompatible": "",
+    "restricted": ""
+}

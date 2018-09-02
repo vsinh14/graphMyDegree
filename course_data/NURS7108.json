@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7108",
+    "course_name": "Clinical Nursing Practice 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the second of four clinical courses with the overall aim of developing the Australian National Nursing Competency Standards for Registered Nurses in students, in addition to students displaying UQ graduate attributes in their practice. During the preceptored clinical experiences in this course students will have an opportunity to apply the theoretical concepts learned in the theoretical courses being studied in this and the previous semester, and the interpersonal, clinical assessment and clinical intervention skills learned in the weekly clinical skills sessions planned in this course. The focus of the clinical practice is to develop basic nursing care skills in community, mental health and acute settings.",
+    "prerequisites": "NURS7112, NURS7113, NURS7103, NURS7102, NURS7104",
+    "incompatible": "",
+    "restricted": "MNStudies"
+}

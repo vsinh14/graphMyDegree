@@ -1,0 +1,12 @@
+{
+    "course_code": "RBUS6903",
+    "course_name": "Quantitative Business Research Methods II",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Research in business is characterised by an increasing sophistication in methods and models. Recent advances in probability and statistics have paved the way for analytical methods that are effective in explaining business behaviour, and are also easy to implement. This course provides students with an in-depth introduction to such modelling approaches, and examines several different types of data that are not easily approximated using the normal distribution. These models will be examined side by side with formal theory building, being useful to building modelling applications in diverse areas of business (eg. finance, marketing, etc). The course will involve a considerable amount of experience based learning. Students will take a hands-on approach to learn the concepts at a fundamental level, and be applying them to real problems. By building models from scratch students will get \"under the bonnet\" in understanding advanced data analysis. This will prepare students to handle customised applications for dealing with many different types of data, and give students a deeper insight into how statistical analysis works together with theoretical modelling.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BAdvBus(Hons), BBusMan(Hons), GCBusRMeth, GDipBRM, PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

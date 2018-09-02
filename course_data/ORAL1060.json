@@ -1,0 +1,12 @@
+{
+    "course_code": "ORAL1060",
+    "course_name": "Introduction to Clinical Practice II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To provide introductory knowledge & experience in core clinical practices in the areas of prevention of dental disease.",
+    "prerequisites": "ORAL1010 + 1020 + 1030",
+    "incompatible": "For BOralH students only",
+    "restricted": ""
+}

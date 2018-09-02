@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7850",
+    "course_name": "Research Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Thesis (approx 30,000 words) on topic approved by Head of School.\n(If enrolling in this course across 2 semesters: Students commencing in sem 1 must enrol in ECON7851 for both semesters. Students commencing in sem 2 must enrol in ECON7852 for both semesters. Students enrolling in a single sem must enrol in ECON7850).",
+    "prerequisites": "ECON7830",
+    "incompatible": "ECON7851 or 7852",
+    "restricted": ""
+}

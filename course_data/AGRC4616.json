@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC4616",
+    "course_name": "Research Project",
+    "faculty": "",
+    "school": "",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Design, implement, complete and report on an independent research project in an agricultural science specialization. Communicate the research in oral and written formats. Students completing the course in one semester must enrol in AGRC4613. Students enrolling in the year-long course enrol in AGRC4614 if commencing in semester 1 and finishing in semester 2 or AGRC4615 if commencing in semester 2 and finishing in semester 1 or AGRC4616 if commencing in semester 2 and finishing in summer semester or AGRC4617 if commencing in summer semester and finishing in semester 1. Students completing the year-long course must enrol in the same course code in 2 semesters.",
+    "prerequisites": "STAT1201 or STAT2701, AGRC3032, STAT3702",
+    "incompatible": "",
+    "restricted": ""
+}

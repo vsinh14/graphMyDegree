@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3402",
+    "course_name": "Functional Analysis",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Metric spaces: elements of topology; compactness; completeness; contraction mapping principle; theorems on continuity & compactness. Normed, Banach & Hilbert spaces: strong & weak convergence; orthogonal systems; orthogonal complements; projection theorem, linear functionals, Riesz representation theorem. General topological spaces.",
+    "prerequisites": "(MATH2400 or MATH2401) + (MATH2301 or MATH2000 or MATH2001)",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2302",
+    "course_name": "Discrete Mathematics II",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on an introductory discrete mathematics course to further develop students\u00c2\u00bf understanding of topics including enumeration, geometric topology, graph theory, design theory and other combinatorial ideas.",
+    "prerequisites": "MATH1061",
+    "incompatible": "MATH2300",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7315",
+    "course_name": "Advanced Concrete Structures and Concrete Technology",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to provide students with advanced analysis and design of reinforced concrete (RC) structures, as well as state-of-the-art knowledge and understanding of concrete material technology. For RC structures, students will be exposed to advanced analytical theory and design principles of non-conventional RC design such as non-flexural and torsional members, moment redistribution, confinement, design of high-strength concrete structural components. For concrete technology, the microstructures of hardened concrete/cementitious paste, their significance in performance of concrete structures and influencing factors will be explained. The course also covers practical aspects such as the use of fillers and chemical admixtures in high-performance concrete mix design, crack control and investigation, creep and shrinkage and various long-term durability issues. Real life case studies will be used to explain the problems that can occur, how these problems could be avoided and how these problems could be resolved.",
+    "prerequisites": "CIVL4331 or CIVL4333",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in BE(Hons)/ME (Civil) or (Civil & Fire Safety Eng), ME(Civil), MEngSc(Civil) and \u00c2\u00a0MEngScMan(Civil)."
+}

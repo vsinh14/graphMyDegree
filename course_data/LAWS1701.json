@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1701",
+    "course_name": "Law of Contract I: Principles of Contractual Agreement",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines the nature of, and elements giving rise to, contractual agreement, that is, how parties may assume enforceable contractual obligations towards each other and how to ascertain the content and meaning of those obligations.",
+    "prerequisites": "",
+    "incompatible": "LAWS1001 or LAWS2111",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

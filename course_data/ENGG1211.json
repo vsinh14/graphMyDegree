@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG1211",
+    "course_name": "Engineering Design, Modelling & Problem Solving",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Eng, Archi & Info Tech Fac",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Introduction to a) engineering design through a disciplinespecific\nteam project b) engineering problem solving through the relationship between theoretical,\nmathematical and computational modelling for predicting design performance, and c) the properties, and\nbehaviours of engineering materials in design. Students will learn and apply professional engineering\nconcepts and issues including: sustainability, safety, estimation, materials selection, decision making, project\nmanagement, information literacy, communication (graphics, written, oral), ethics, and prototyping\n(building). \nStudents will also engage in a major team based multidisciplinary design project to develop first phase virtual\nand second phase physical prototype solutions. Students will be able to nominate a preference for system\nbehavioural modelling using MatLab simulation software or structural modelling and CNC machining of a\nsystem component using Creo computer aided design software. The final system prototype will be physically\ntested to validate predicted performance in an end of session demonstration. The primary technical learning\noutcomes will be addressed through a combination of online learning activities and hands on collaborative\ntutorials and laboratories Students will require good project management, teamwork, information literacy,\nand communication skills. The course provides an introduction to engineering as a profession.\n\n(This course is intended for students who commence the BE(Hons) in semester two. This course spans two semesters and students must enrol in ENGG1211 in both semester two and the following summer semester to receive a final grade for the course. Students who commence in semester one should undertake ENGG1100 in semester one and ENGG1200 in semester two.)",
+    "prerequisites": "",
+    "incompatible": "ENGG1000 or ENGG1100 or ENGG1200",
+    "restricted": "BE(Hons) and BE(Hons) Dual degree\nstudents only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3020",
+    "course_name": "Sound Recording Practice",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops advanced skills in creative music making music using music technologies and digital audio workstations. Topics include audio and MIDI recording, editing and mixing techniques, sound design, mix automation and critical listening. This course also focuses on microphone techniques for recording classical musicians. \n\nPlease note that this course offering may be cancelled if fewer than 10 students enrol.",
+    "prerequisites": "MUSC1010 or MUSC2010",
+    "incompatible": "MU374",
+    "restricted": "course offering may be cancelled if fewer than 10 students enrol"
+}

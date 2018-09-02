@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI3020",
+    "course_name": "Scholarship of Research 1",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course will build upon the foundation course MEDI1042 and will emphasise how medical students, as future practitioners, can incorporate an evidence-based approach in their clinical practice. The course will focus on developing the skills medical professionals require to locate evidence and to make clinical decisions about the relevance, validity and trustworthiness of the published literature. Students will develop the ability to identify and locate evidence, critically review existing evidence about effects of interventions and evidence about diagnosis and prognosis and ultimately make clinical decisions based upon that evidence.\n\nStudents will be re-introduced to clinical research methods, understand the way these studies are analysed and how evidence is reported in the medical literature. Students will be guided though all stages of the course using formative learning activities. The first summative assignment will focus on the critical appraisal of published clinical evidence. Students will be required to undertake a review of current research using a published critical appraisal checklist. This will be assessed using a MCQ assessment. In the final assessment students will be presented with a number of different clinical case studies, be required to analyse the data presented and make a clinical decision. This will be assessed using a MCQ assessment.",
+    "prerequisites": "Successful completion of year 2 MBBS courses",
+    "incompatible": "MEDI3008, MEDI3021, MEDI4022",
+    "restricted": "Restricted to MBBS students ONLY"
+}

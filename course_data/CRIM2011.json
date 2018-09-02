@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2011",
+    "course_name": "Crime, Victims and Justice",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines a range of issues related to victims of crime. It covers theories of criminal victimisation, data on victimisation trends and rates, the impact of crime, victim's interaction with the criminal justice system and the victimisation of particular groups. Programs aimed at alleviating and recognising victims rights and needs will be evaluated e.g. restorative justice, victim and offender mediation and government support initiatives.",
+    "prerequisites": "CRIM1000, CRIM1019",
+    "incompatible": "BEST3053, CRIM3002, CRIM3010",
+    "restricted": ""
+}

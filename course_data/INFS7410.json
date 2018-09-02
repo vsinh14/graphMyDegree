@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7410",
+    "course_name": "Information Retrieval and Web Search",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course studies the theory, design, and implementation of Information Retrieval (IR) techniques in text-based information systems. The theoretical component of the course focuses on IR methods for the processing, indexing, querying, organisation, and classification of textual documents, including hypertext documents available on the world-wide-web. A variety of current research topics are also covered, including social media, recommendation systems, and ranking. The practical component of the course addresses the design and implementation of high-capacity text retrieval and filtering systems such as web search engines.",
+    "prerequisites": "INFS2200 or INFS7903",
+    "incompatible": "",
+    "restricted": ""
+}

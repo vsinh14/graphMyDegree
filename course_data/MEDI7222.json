@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7222",
+    "course_name": "Clinical Practice 4",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course completes the Clinical Practice Program of Phase 1 of the MD program and consolidates the skills learned in MEDI7121, MEDI7122 and MEDI7221. Development of the skills from the previous courses is facilitated by exposure of the students to real patients both under supervision and in their own time. The course learning activities are Clinical Coaching, Clinical Communication Skills, Procedural Skills Workshop and Master Classes. Clinical Coaching sessions allow students to continue to practise the skills of history taking, physical examination and clinical reasoning at the bedside of real patients and to utilize these experiences to guide their learning. This form of learning enables the students to progress their skills under supervision, so that they are competently performing both systemic and focused histories, systemic and focused physical examinations and as well as developing the complex clinical reasoning skills necessary to progress into Year 3. Clinical Communication Skills tutorials are dedicated skills development sessions based on difficult and challenging communication scenarios faced by medical professionals on a regular basis. The Procedural Skills Workshop is designed to teach students a more advanced procedural skill necessary for working as a junior doctor. Master Classes are interactive teaching sessions dedicated to a variety of specialty areas including Women's and Men's Health, Clinical Ophthalmology, Endocrine Examination, Advanced Life Support and Suturing.",
+    "prerequisites": "MEDI7221",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

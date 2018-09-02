@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM2203",
+    "course_name": "Business Process Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Improving organisational efficiency and effectiveness is a top priority for senior management. To enable such improvements it is crucial that the organisation be viewed from a process perspective. This course provides students with an introduction to Business Process Management and enables them to develop skills in business process modelling using the international BPMN modelling standard. The course also introduces students to concepts of Lean Thinking and facilitates the development of process improvement skills using several process improvement techniques.",
+    "prerequisites": "8 units of BBusMan / BCom / BInfTech / BAdvBus(Hons) courses",
+    "incompatible": "MGTS2203 or BISM7216 or MGTS7216",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

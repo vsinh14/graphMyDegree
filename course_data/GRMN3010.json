@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN3010",
+    "course_name": "Advanced German Language 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course extends the four macroskills (reading, writing, speaking and understanding German) developed in the four preceding semesters of German study.",
+    "prerequisites": "GRMN2020",
+    "incompatible": "GRMN2110",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "INDN6501",
+    "course_name": "Thesis (Honours)",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Honours thesis of approx. 15,000-20,000 words in an area of Indonesian Studies. Only available for full-time students.",
+    "prerequisites": "LTCS6000 + [SLAT7706 and INDN6350] or INDN6364",
+    "incompatible": "INDN6120, INDN6501",
+    "restricted": ""
+}

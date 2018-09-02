@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGY7109",
+    "course_name": "Advanced Carbon Storage Technology",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on ENGY7102 CCS Principles to further develop knowledge and skills related to carbon transport and storage. The potential for geological, terrestrial and biological carbon storage solutions will be contrasted, with a focus on geological storage in gas reservoirs and saline aquifers, ocean storage and mineral storage. The inherent risks in transport and leakage will be discussed. Local and regional approaches to carbon storage and requirements in developing long distance pipeline networks for carbon transport.",
+    "prerequisites": "ENGY7102",
+    "incompatible": "",
+    "restricted": "MEngSt students only."
+}

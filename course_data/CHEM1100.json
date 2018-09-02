@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1100",
+    "course_name": "Chemistry 1",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides the foundation in concepts underpinning inorganic, physical and organic\nchemistry necessary for advancement to the higher levels of study in chemistry and engineering courses. Core topics include: atomic structure, bonding and hybridisation, molecular shape, an introduction to organic chemistry, states of matter and intermolecular forces, chemical equilibrium, aqueous solution equilibria, thermodynamics, and redox chemistry. This course is a prerequisite to CHEM1200 Chemistry 2 for all students in the following programs: BSc, B Biomedical Science, B Biotechnology, B Engineering and B Occupational Health & Safety Science.",
+    "prerequisites": "Senior Chemistry or CHEM1090",
+    "incompatible": "CHEM1020, CHEM1010, CHEM1021, CHEM1022",
+    "restricted": ""
+}

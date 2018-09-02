@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH2007",
+    "course_name": "Health Research Methods",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will introduce the main statistical methods used in health care research.",
+    "prerequisites": "",
+    "incompatible": "STAT1201",
+    "restricted": ""
+}

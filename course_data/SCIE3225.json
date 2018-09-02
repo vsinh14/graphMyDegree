@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3225",
+    "course_name": "Advanced Biomedical Science Research Project",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "This course will present students with the opportunity to undertake a 4 unit undergraduate research project in the field of biomedical science, under the supervision of a researcher.",
+    "prerequisites": "Completion of #24 units",
+    "incompatible": "",
+    "restricted": "Permission from Head of School"
+}

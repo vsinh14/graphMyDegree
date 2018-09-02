@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR2001",
+    "course_name": "Food Microbiology I",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to food microbiology; microbial ecology of foods (effects of water activity, pH, temperature, etc); significance, characteristics and control of important foodborne pathogens; (bacteria, viruses, fungi, seafood toxins, parasites, prions); food borne illness; indicator organisms; methods for examination of foods, regulatory standards; food borne illness; practical culture-based microbiological examination of foods; outbreak investigations.",
+    "prerequisites": "",
+    "incompatible": "MICR7003",
+    "restricted": ""
+}

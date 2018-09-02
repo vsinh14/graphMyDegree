@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4022",
+    "course_name": "Equine Clinical Studies",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "In this course, students develop skills in all branches of equine medicine, surgery and reproduction. This includes competence in the normal clinical procedures used in equine practice and an understanding of the scientific basis and case-based diagnostic approach for such procedures. Topics include: management and diseases of broodmares, stallions, and neonates, wound healing, colic and gastroenterology, opthalmology, respiratory syndromes, urological syndromes, orthapaedics, lameness and laminitis, neurology, dermatology and dentistry.",
+    "prerequisites": "(VETS3010, VETS3011, VETS3012) or (VETS3050, VETS3060, VETS3070)",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

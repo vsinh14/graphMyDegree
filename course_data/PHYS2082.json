@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2082",
+    "course_name": "Space Science & Stellar Astrophysics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops a broad understanding of the physical processes taking place in stars and solar systems. Topics include the orbits of planets and binary stars, the classification of stars, stellar atmospheres, star formation, supernovae, white dwarf stars and neutron stars. There is particular emphasis on the scientific techniques used to explore solar systems.",
+    "prerequisites": "PHYS1001 or PHYS1171",
+    "incompatible": "PHYS2080 or PHYS3180",
+    "restricted": ""
+}

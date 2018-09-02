@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4333",
+    "course_name": "Advanced Concrete Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Prestressed concrete structures - analysis and design of prestressed concrete beams, design of simple prestressed concrete bridges and portal frames. Analysis and design of corbels and anchorage detailing using strut and tie models. Design for Torsion in reinforced concrete beams.",
+    "prerequisites": "CIVL3350",
+    "incompatible": "CIVL4330 or CIVL4331",
+    "restricted": ""
+}

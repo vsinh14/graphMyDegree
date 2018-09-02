@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2700",
+    "course_name": "Criminal Law: Principles, Offences and Defences",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course involves the study of the general principles of criminal responsibility in the context of specific offences and defences under Queensland's criminal law. The course also introduces students to the criminal justice process and Australian criminal justice institutions.",
+    "prerequisites": "LAWS1700",
+    "incompatible": "LAWS2004 or LAWS2113",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

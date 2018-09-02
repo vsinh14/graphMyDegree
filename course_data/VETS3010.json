@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3010",
+    "course_name": "Infectious Diseases",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Applied veterinary aspects of infectious disease (parasitology, virology & bacteriology), including the pharmacology of anti-microbial & anti-parasitic drugs. Students must enrol in VETS3010 for both semesters.",
+    "prerequisites": "ANIM1024, VETS2006, VETS2007",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "EXMD4741",
+    "course_name": "Exercise Prescription & Programming for Ageing, Metabolic Disease & Cancer",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will develop a strong understanding of the principles of chronic disease management and acquire the professional and technical skills required to prescribe, program and deliver exercise for individuals with diabetes, cancer, renal disease, obesity, dementia, osteoporosis, arthritis, poor mental health and older adults. Supervised clinic work will be required.",
+    "prerequisites": "EXMD3372 + valid Apply First Aid incl. CPR",
+    "incompatible": "EXMD7741",
+    "restricted": "BExSS(CEP); BExSS(Hons)(CEP); BClinExP(Hons)"
+}

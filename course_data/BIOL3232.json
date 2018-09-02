@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3232",
+    "course_name": "Insect Identification and Taxonomy",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A remote delivery (distance education) course that addresses the identification and classification of insects, the most species-rich component of terrestrial ecosystems. The course will cover the recognition of insects orders and the identification of specimens to family level using different types of keys and resources. A number of specific topics will be explored including: morphological and biological characteristics of the major insect orders; life histories of selected pest and beneficial species, sociality, sound production methods and functions, feeding mechanisms, adaptations and biology of vertebrate ectoparasites, insects as disease vectors of plants and animals, mimicry and defensive adaptations and parasitism.\nThe practical component will examine collecting techniques, identification of adult insects to family level, identification of immature stages and feeding damage. A requirement of the course is the presentation of a well-curated insect collection and attendance at a compulsory residential course.",
+    "prerequisites": "",
+    "incompatible": "ENTM3001",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4340",
+    "course_name": "Wind Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Wind is ubiquitous in our daily lives. It loads the structures we live and work in, it transports pollutants through the atmosphere, and increasingly is becoming a dependable source of renewable energy. This course details the multi-faceted nature of wind in modern society and provides students with the tools to assess wind and its interactions with the built environment. The course will broadly cover, wind climate and resource assessment, environmental wind engineering, and structural wind engineering. Specifically it will cover topics including; wind measurement techniques, statistical analysis of wind records, atmospheric boundary layer meteorology and models, turbulence, wind flow around and through buildings, wind loads on structures, wind-induced vibration and experimental and numerical wind modelling techniques.",
+    "prerequisites": "CIVL2340 and (CIVL2530 or STAT2201)",
+    "incompatible": "",
+    "restricted": ""
+}

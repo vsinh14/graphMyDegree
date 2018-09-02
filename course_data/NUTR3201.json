@@ -1,0 +1,12 @@
+{
+    "course_code": "NUTR3201",
+    "course_name": "Advanced Nutrition Sciences",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NUTR3201 aims to develop knowledge and scientific critical thinking in contemporary nutrition topics and emerging issues. This course builds on prior studies in nutrition science, and the understanding of human physiology, biochemistry and molecular principles. The course examines the scientific basis for nutrition reference standards and guidelines, nutraceuticals and functional foods; the strengths and limitations of nutrition research methodology; the nutritional outcomes of food processing and exposure to related metabolites; the emerging paradigm of personalised nutrition through the understanding of nutritional genomics, and nutritional epigenetic marks; the role of the gut microbiota in health and disease, and interactions with dietary constituents with related outcomes; the concept of energy balance with processes involved in the regulation and dysregulation of appetite, and association with eating disorders. Finally, it explores the scientific evidence of the role of dietary patterns and food constituents in regulating the metabolic drivers of lifestyle and ageing-related chronic disease.",
+    "prerequisites": "BIOC2000 + physiology at year 2 level (either PHYL2730 or BIOM2011 or BIOM2015) + NUTR2101",
+    "incompatible": "NUTR2201",
+    "restricted": ""
+}

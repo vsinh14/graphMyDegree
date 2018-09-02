@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT1301",
+    "course_name": "Advanced Analysis of Scientific Data",
+    "faculty": "Science",
+    "school": "Historical & Philosophical Inq, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the mathematical and computational aspects of statistical modeling. Emphasis is placed on a precise understanding of randomness and probability distributions, and statistical methods such as estimation, hypothesis testing, analysis of variance, regression and linear models, logistic regression, categorical data analysis and non-parametric methods. The course also covers exploratory data analysis, the design of experiments and ethical research, as well as the importance of critical thinking and communication in the interpretation of results.",
+    "prerequisites": "Year 12 Maths B or MATH1040",
+    "incompatible": "ECON1310, ENVM2000, STAT1201, STAT2201, STAT2203, STAT2701, PUBH2007 or HRSS3100.",
+    "restricted": "Not available to BE, BE/Biotech, BE/BSc students"
+}

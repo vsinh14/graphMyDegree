@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC1015",
+    "course_name": "Knowledge Management in Natural and Agrifood Systems",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Foundation course on accessing, organizing, using and presenting scientific information for knowledge creation and problem solving in natural and agrifood systems.",
+    "prerequisites": "",
+    "incompatible": "CS193 or QM124 or 125 or NR104 or COMP1001 or CERD1001 or COMU1960",
+    "restricted": ""
+}

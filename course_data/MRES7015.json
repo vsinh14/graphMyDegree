@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7015",
+    "course_name": "Independent Clinical MRI Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Analysis of clinical MRI data obtained by the student and preparation of a report describing the advantages or problems of the methodology used.",
+    "prerequisites": "Admission to the Magnetic Resonance suite of programs + (MRES7001 or MRES7100) + MRES7002 + MRES7003 + MRES7004.",
+    "incompatible": "MRES7018, MRES7019, MRES7020, MRES7021 & MRES7022",
+    "restricted": ""
+}

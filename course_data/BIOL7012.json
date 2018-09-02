@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL7012",
+    "course_name": "Plant-Microbe & Insect Interactions",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Topics include molecular & biochemical interactions of plants with microbes & insects, cell signalling pathways, molecular & structural defence responses, disease diagnostics, applications in agriculture & biotech, as well as some interesting evolutionary & ecological aspects.",
+    "prerequisites": "",
+    "incompatible": "BIOL3011",
+    "restricted": ""
+}

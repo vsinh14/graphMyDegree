@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2702",
+    "course_name": "Law of Torts I",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course considers the nature of the law of tort. It examines intentional torts against the person, and torts in relation to land and the enjoyment of land. The course also includes an introduction to the tort of negligence (including modification by the Civil Liability Act 2003 (Qld)).",
+    "prerequisites": "LAWS1700",
+    "incompatible": "LAWS1000 or LAWS1113",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

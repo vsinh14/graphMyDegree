@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7303",
+    "course_name": "Advanced Combinatorics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only) Topics from computational combinatorics & algorithms, cryptography, advanced graph theory.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4303",
+    "restricted": ""
+}

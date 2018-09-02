@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3825",
+    "course_name": "Advanced Experimental Skills",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The lecture component of this course deals with the design of instruments and experiments and includes an exercise in designing an instrument to solve a particular problem. The laboratory component develops several important experimental techniques with a range of classical and modern experiments. In the laboratory students will: gain experience in advanced laboratory physics by carrying out a variety of experiments including an open-ended project style experiment; learn special techniques of experimental physics, including analogue feedback control; and further develop skills in writing scientific reports and maintaining laboratory notebooks.",
+    "prerequisites": "Minimum #4 from units of PHYS2020, PHYS2041, PHYS2055, PHYS2810",
+    "incompatible": "",
+    "restricted": ""
+}

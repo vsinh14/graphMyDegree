@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH4121",
+    "course_name": "Gravity & Magnetic Exploration",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Potential & field theory, magnetic properties & densities of earth materials, instrumentation, field procedures, reduction & interpretation of magnetic & gravity data.",
+    "prerequisites": "",
+    "incompatible": "ERTH7511",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

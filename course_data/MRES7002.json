@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7002",
+    "course_name": "Magnetic Resonance Instrumentation",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Magnetic Resonance Instruments for clinical applications. Function & performance concepts for superconducting MRI magnets, RF & gradient coils. Spectrometer architectures. Technology implications of modern fast/advanced imaging sequences. Instrumental & patient induced artifacts & their amelioration.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite",
+    "incompatible": "",
+    "restricted": ""
+}

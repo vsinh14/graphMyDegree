@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO2300",
+    "course_name": "Digital Prototyping",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to a range of digital prototyping techniques for generating proof-of-concept solutions for design computing projects. Students will design and rapidly prototype interactive solutions, following up with critique and reflection on the success and/or failure of artefacts presented.",
+    "prerequisites": "DECO1100 and (CSSE1001 or DECO1400)",
+    "incompatible": "DECO7230 or IENV1302 or IENV7964 or MMDS1301 or MMDS1311 or MMDS7923 or MMDS7964",
+    "restricted": ""
+}

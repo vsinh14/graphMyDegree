@@ -1,0 +1,12 @@
+{
+    "course_code": "METR2800",
+    "course_name": "Mechatronic System Design Project I",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering, Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to mechatronic engineering. Technical: mechatronic technology exemplars; mechanical & electrical drawing; small mechatronic product designed & tested for potential client. Organisational: project team must follow standard procedures - milestones, reporting, project meetings, interacting with client.",
+    "prerequisites": "",
+    "incompatible": "ELEC2800 or COMP2800 or ENGG2800",
+    "restricted": ""
+}

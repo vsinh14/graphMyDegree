@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2210",
+    "course_name": "Fundamentals of Soil Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Soil Mechanics investigates the behaviour of soil under mechanic stress and deformation interacting with flow of water. This introductory course gives a first insight into the interesting world of soils. The course deals with: fundamental description of soils on the REV scale, the characterisation and the classification of soils; fundamental principles in the description of flow of water in porous media introducing the hydraulic head based on the equation of Bernoulli, determination of hydraulic conductivity and flow nets; fundamental mechanical concepts including the effective stress concept, strength of soils, consolidation, settlement and testing procedures.",
+    "prerequisites": "ENGG1400 and (MATH1052 or MATH1072)",
+    "incompatible": "",
+    "restricted": ""
+}

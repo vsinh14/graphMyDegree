@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7810",
+    "course_name": "Economic Evaluation and Health",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will introduce students to economic evaluation of health care interventions. In particular students will learn the advantages and disadvantages associated with cost-effectiveness, cost-utility and cost-benefit analysis. The course will be taught using a combination of lecture presentations, interactive tutorials and journal article discussions.",
+    "prerequisites": "ECON7010 or 7110 + 7300",
+    "incompatible": "",
+    "restricted": ""
+}

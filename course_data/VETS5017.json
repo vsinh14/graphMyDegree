@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5017",
+    "course_name": "Research Veterinary Elective",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Implementation and presentation of a research project in an area of veterinary science, with emphasis on defining the research issue, undertaking research techniques, undertaking appropriate analysis of data and drawing defensible conclusions, writing up results in a format suitable for submission for publication, and presentation as an oral abstract.",
+    "prerequisites": "VETS4010, VETS4022, VETS4035, VETS4034, VETS4012, VETS4021",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

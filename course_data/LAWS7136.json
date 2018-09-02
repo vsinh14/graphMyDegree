@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7136",
+    "course_name": "Commercial Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Commercial law addresses some of the issues which arise in commercial law practice such as agency, sale of goods, bailment, insurance, and business to business trade practices law.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA301 or 315 or 721 or LAWS5136 or 7336",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

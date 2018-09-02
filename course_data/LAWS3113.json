@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3113",
+    "course_name": "Law of Trusts A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the nature & history of the equitable jurisdiction & to the law of trusts, focusing upon the creation of trusts, both testamentary & inter vivos. Classification of trusts & consideration of commercial & other applications of trusts.",
+    "prerequisites": "All level 1 LAWS courses (LLB(Grad Entry) & LLB(Hons)(#48) students excepted) + LAWS2111 + LAWS2112",
+    "incompatible": "LAWS2704 or 3012 or 7112",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

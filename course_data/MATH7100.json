@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7100",
+    "course_name": "Applied Mathematical Analysis",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "ODE's - Systems: variation of constants, fundamental matrix. Laplace transform, transform for systems, transfer function. Stability, asymptotic stability; phase-lane analysis. PDE's - Fourier series. Wave, heat, Laplace's equations. Simple maximum & uniqueness principles. Separation of variables in rectangular & polar coordinates.",
+    "prerequisites": "",
+    "incompatible": "MATH2100; (MATH2010+MATH2011)",
+    "restricted": "Permission of Head of School"
+}

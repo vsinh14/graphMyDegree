@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC7611",
+    "course_name": "Graduate Research Project I",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Design, implementation & presentation of a research project with emphasis on defining the research issue, establishing methodology, undertaking appropriate analysis of data & drawing defensible conclusion.",
+    "prerequisites": "AGRC7045",
+    "incompatible": "AGRC7618 and AGRC7619",
+    "restricted": ""
+}

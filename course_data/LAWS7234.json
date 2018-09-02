@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7234",
+    "course_name": "Corporate Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A study of aspects of the law concerning companies, including the nature of corporate bodies, corporate personality & limited liability, formation, management & governance, finance, & liquidation.",
+    "prerequisites": "#16 of LAWS courses",
+    "incompatible": "",
+    "restricted": "JD"
+}

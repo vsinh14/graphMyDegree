@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE7660",
+    "course_name": "Structural Fire Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to provide students with skills and knowledge to evaluate the explicit performance of structures in fire.",
+    "prerequisites": "FIRE7600 or FIRE3700 or ENGG3700",
+    "incompatible": "",
+    "restricted": ""
+}

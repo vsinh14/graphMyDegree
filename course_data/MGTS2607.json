@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS2607",
+    "course_name": "Employment Relations",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The nature of the employment relationship and the role of conflict at work. Changing context of employment relations - political, legal and economic. Overview of key parties involved in employment relations: employers, governments, tribunals and unions. Main methods for determining conditions of employment: arbitration, enterprise bargaining, individual contracts and managerial prerogative. Legal regulation: occupational health and safety; workplace discrimination.",
+    "prerequisites": "(MGTS1601 + 4 units courses) or MGTS2604",
+    "incompatible": "ECON2810 or IREL1000 or MGTS7609 or POLS1401",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

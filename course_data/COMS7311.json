@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7311",
+    "course_name": "Microwave Remote Sensing",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) Physical fundamentals, energy sources for remote sensing, review of physical properties of EM waves, polarisation, coherence, radiation laws, beamwidth resolution, propagation media characteristics. Polarimetry: Poincare sphere, Stokes vectors, partial polarization, scattering matrix, covariance matrix, optimal polarisations, polarimetric decompositions and their physical meanings. Real world Sensing: scattering, reflection and emission mechanisms from real surfaces, roughness, speckle, SAR principle, parameters, resolution, imaging, correcting and calibrating radar imagery. Infometric and Topographic SAR. Radar image interpretation. Radar hardware: antennas, receivers, noise and sensitivity, system performance, calibration.",
+    "prerequisites": "(ELEC3100 or ELEC7101) + (ELEC3004 or ELEC7312)",
+    "incompatible": "",
+    "restricted": "Minimum quota: 15"
+}

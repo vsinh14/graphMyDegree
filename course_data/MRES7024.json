@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7024",
+    "course_name": "Advanced Techniques in Magnetic Resonance Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced Techniques in MRI aims to provide students with knowledge and expertise in emerging magnetic resonance imaging methods. Topics are selected from instrumentation to image processing to data acquisition approaches. Specifically, the four Study Modules comprising the course are in the areas of image acquisition, spectroscopy, image reconstruction and new contrast mechanisms. Assignments align with modules and they will require students to engage with selected problems from real magnetic resonance imaging applications.",
+    "prerequisites": "MRES7001 or MRES7100",
+    "incompatible": "",
+    "restricted": ""
+}

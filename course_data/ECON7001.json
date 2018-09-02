@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7001",
+    "course_name": "Foundations in Macroeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is an introductory course in Macroeconomics. This course covers important macroeconomic issues such as growth, inflation, unemployment, interest rates, exchange rates, technological progress, and budget deficits. The course will provide a unified framework to address these issues and to study the impact of different policies, such as monetary and fiscal policies, on the aggregate behavior of individuals.",
+    "prerequisites": "",
+    "incompatible": "ECON1020 and ECON7020",
+    "restricted": ""
+}

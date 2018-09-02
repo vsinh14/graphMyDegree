@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2070",
+    "course_name": "Natural Resource Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "From Semester 2 2018, MATH2070 will be replaced by MATH3070.",
+    "prerequisites": "(STAT1201 or STAT1301), (MATH1052 or MATH1072)",
+    "incompatible": "",
+    "restricted": ""
+}

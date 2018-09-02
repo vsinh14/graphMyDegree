@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4120",
+    "course_name": "Advanced Open Channel Flow & Hydraulic Structures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in even-numbered years (eg. 2018). Stream hydraulics & in-stream structures: introduction, modelling & environmental issues.",
+    "prerequisites": "CIVL3140",
+    "incompatible": "",
+    "restricted": ""
+}

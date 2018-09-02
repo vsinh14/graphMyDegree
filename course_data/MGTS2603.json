@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS2603",
+    "course_name": "Leading & Managing People",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory, application and skills development in leading and managing people. Differentiating between management and leadership, organisational and team leadership, change, diversity and strategic leadership, leadership cases in Australia and global context.",
+    "prerequisites": "(MGTS1601 + 4 units courses) or MGTS2604",
+    "incompatible": "MGTS7619",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

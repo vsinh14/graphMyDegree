@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOT7008",
+    "course_name": "Emerging Biotechnologies I",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced study of the basic science underpinning new biotechnologies. Modules will include fermentation technology, environmental biotechnology, tissue engineering, plant biotechnology and aquaculture, molecular diagnostics.",
+    "prerequisites": "",
+    "incompatible": "BIOT6008",
+    "restricted": ""
+}

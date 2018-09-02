@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2052",
+    "course_name": "Integrated Physiology & Pharmacology for Dentistry",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will continue from BIOM1052 to a more advanced level of physiology of the major body systems and include the study of pharmacology of drugs of relevance to the practice of dentistry.",
+    "prerequisites": "BIOM1052",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BDSc (Hons) program only"
+}

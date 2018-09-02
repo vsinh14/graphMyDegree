@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL2063",
+    "course_name": "Physiology I",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course includes the study of cell biology and neurophysiology and the physiology of muscle, cardiovascular, pulmonary and renal function.",
+    "prerequisites": "",
+    "incompatible": "PL263",
+    "restricted": "BOccThy, BSpPath, MOccThySt or MSpPathSt students only."
+}

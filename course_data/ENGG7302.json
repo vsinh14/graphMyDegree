@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7302",
+    "course_name": "Advanced Computational Techniques in Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An advanced course designed to deepen student knowledge and capability in computational techniques in areas of particular importance to engineering. Topics are drawn from linear algebra, stochastic systems and optimisation theory with emphasis on applications and examples in various fields of engineering including but not limited to biomedical engineering, electricity market, embedded systems and microwave & telecommunications. Practical skills in MATLAB programming are developed.",
+    "prerequisites": "MATH2000 and MATH2010 and STAT2202",
+    "incompatible": "",
+    "restricted": "Engineering Postgraduate suite."
+}

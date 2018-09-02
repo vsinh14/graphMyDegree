@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2001",
+    "course_name": "Advanced Calculus and Linear Algebra II",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Second order differential equations; undetermined coefficients, variation of parameters. Multi-dimensional calculus; surface & volume integrals, cylindrical, spherical and general coordinate transformations. Stoke's & Green's theorems, applications (flux, heat equations). Linear algebra, diagonalization, quadratic forms, elementary numerical linear algebra. Taylor series, maxima, minima and saddle points in N-dimensions. Method of least squares for functions. Vector spaces, norms and inner products (for square-integrable functions). Gram-Schmidt orthogonalisation and orthogonal matrices.",
+    "prerequisites": "(MATH1051 or MATH1071) and (MATH1052 or MATH1072)",
+    "incompatible": "MATH2000 and MATH7000",
+    "restricted": ""
+}

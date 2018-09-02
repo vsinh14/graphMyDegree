@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2202",
+    "course_name": "Genetics",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The discipline of Genetics has pioneered the core concepts underlying many diverse fields of biology - ranging from medicine, biochemistry and microbiology to ecology, evolution and environmental sciences. BIOL2202 Genetics is therefore a recommended second level subject for all students pursuing a biology-focused major. Employing a strong experimental component, BIOL2202 integrates classical concepts of inheritance, development and variation with modern molecular advances arising from the post-genomic era.",
+    "prerequisites": "BIOL1020 or CHEE1001",
+    "incompatible": "BIOL2007 or BIOL2009",
+    "restricted": ""
+}

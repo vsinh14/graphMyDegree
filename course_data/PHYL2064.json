@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL2064",
+    "course_name": "Physiology II",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on function of human gastrointestinal, endocrine, sensory &motor nervous systems in health & altered function in disease. The relevant pharmacology will also be addressed.",
+    "prerequisites": "PHYL2062",
+    "incompatible": "PL262",
+    "restricted": "BPhty students only."
+}

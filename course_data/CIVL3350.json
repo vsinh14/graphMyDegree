@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3350",
+    "course_name": "Structural Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Design projects involving design, analysis & drawing of practical structures in steel & reinforced concrete.",
+    "prerequisites": "",
+    "incompatible": "CIVL3310 or CIVL3330",
+    "restricted": ""
+}

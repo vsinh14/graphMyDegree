@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3401",
+    "course_name": "Corporate Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth analysis of financial issues confronting most companies. Strong focus on application & practical relevance. Topics include valuation & project analysis, real option valuation, capital raising, financing & dividend policy, risk management & corporate strategy.",
+    "prerequisites": "FINM2401 or 2412",
+    "incompatible": "FINM3411 or 7402",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

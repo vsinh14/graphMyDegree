@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH4221",
+    "course_name": "Electrical & Electromagnetic Exploration",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "ERTH4221 provides a rigorous overview of the theory and practical application of electrical and electromagnetic techniques used in applied geophysics, including resistivity, induced polarisation, and electromagnetics (frequency-domain and time-domain). Includes practical computational components.",
+    "prerequisites": "Permission of HOS",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

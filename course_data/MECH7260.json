@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH7260",
+    "course_name": "Gas & Plant Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered odd years only). Operation and maintenance of gas systems; transportation, detection and safety; combined cycle gas turbine power plant; comparative advantages and disadvantages of gas systems over conventional open cycle gas turbine alternatives.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "ME (Power), GCEng (Power) - minimum quota 15"
+}

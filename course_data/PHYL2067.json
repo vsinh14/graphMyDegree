@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL2067",
+    "course_name": "Human Function in Health & Disease B",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "PHYL2067 will provide an overview of human diseases in relation to physiological systems. Students will examine: 1) movement and its associated problems, 2) the role of hormones in physical disease and stress, 3) burns and pain, and 4) the absorption of nutrients and excretion of waste.",
+    "prerequisites": "ANAT1019 and PHYL2066",
+    "incompatible": "PHYL2062, PHYL2063, PHYL2064 and PHYL2065",
+    "restricted": "Restricted to BOccThy, MOccThySt students only"
+}

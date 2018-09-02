@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4331",
+    "course_name": "Advanced Structural Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course was replaced by CIVL4332 and CIVL4333\n\nPrestressed concrete structures, analysis of prestressed concrete beams, design of simple prestressed concrete bridges and portal frames, Design of FRP plated reinforced concrete members, Design of FRP plated steel-concrete composite members.",
+    "prerequisites": "CIVL2360 + CIVL2340 +CIVL3340 + CIVL3350",
+    "incompatible": "CIVL4330",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL1007",
+    "course_name": "Physiology for Human Movement Studies",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course extends students' basic understanding of cells & organisms to the level of systems physiology & pharmacology with an emphasis on the integrated regulation of the human body.",
+    "prerequisites": "BIOL1040 or BIOM1050",
+    "incompatible": "PHYL2007",
+    "restricted": "Restricted to students enrolled in the BClinExP (Hons), BENS, BExSS (Hons) and BHSPE (Hons) programs only."
+}

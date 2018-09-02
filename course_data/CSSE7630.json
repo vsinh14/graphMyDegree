@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7630",
+    "course_name": "Principles of Program Analysis",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Program analysis is used for: code optimisation in compilers, finding programs errors and potential security flaws. This course examines techniques for performing static analysis of computer code and the implementation of software tools for performing such analyses. Topics include: data flow analysis; constraint- based analysis; abstract interpretation; and type and effect systems.",
+    "prerequisites": "COMP4403 or COMP7402",
+    "incompatible": "",
+    "restricted": "Restricted to Masters students"
+}

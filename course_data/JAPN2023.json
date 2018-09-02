@@ -1,0 +1,12 @@
+{
+    "course_code": "JAPN2023",
+    "course_name": "Japanese 2B standard",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is for A stream students who have done approximately 150 hours of beginner level Japanese and completed JAPN2013 in the Standard progression. Students build on the knowledge and skills acquired in JAPN2013 and use the language in specific contexts.",
+    "prerequisites": "JAPN2013",
+    "incompatible": "JAPN2010, JAPN2021, JAPN2022",
+    "restricted": ""
+}

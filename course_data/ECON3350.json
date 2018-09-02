@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3350",
+    "course_name": "Applied Econometrics for Macroeconomics and Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The purpose of the course is to offer advanced students in finance and economics an understanding of the econometric tools that apply to financial and macroeconomics data. The approach is from an applied perspective. Lectures will introduce specific financial and macroeconomic models and the techniques required to estimate/predict/forecast with the model. \nThe course will make use of a suitable econometric package for purposes of analysing of the data.\nCore content includes: statistical characteristics of time series data; capital asset pricing models; cointegrated models; volatility and volatility models; models of price changes. \nSkills and Perspective provided by applications to: stock prices, derivatives, exchange rates, interest rates, high-frequency data analysis, market microstructure.",
+    "prerequisites": "ECON2300 + (ECON2020 or ECON2021 or FINM2401 or FINM2411)",
+    "incompatible": "ECON3300",
+    "restricted": ""
+}

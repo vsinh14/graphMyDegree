@@ -1,0 +1,12 @@
+{
+    "course_code": "LING7100",
+    "course_name": "Topics in Semantics",
+    "faculty": "",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth introduction of study of meaning in language. Focus on formal & analytical approaches to lexical & sentence level semantics.",
+    "prerequisites": "LING6100",
+    "incompatible": "LING2000",
+    "restricted": ""
+}

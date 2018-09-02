@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH1501",
+    "course_name": "Earth Processes & Geological Materials for Engineers",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to earth structure & systems; occurrence & properties of minerals & rocks; geological structures & maps; geological time; weathering & soils; groundwater, minerals & energy resources.",
+    "prerequisites": "",
+    "incompatible": "(for BE: Inc ERTH1001)",
+    "restricted": ""
+}

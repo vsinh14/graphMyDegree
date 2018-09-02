@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2023",
+    "course_name": "Animal Nutrition & Feeding",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Nutrients and nutrient use, classification and evaluation of feedstuffs, feed nutritive value, feeding standards, feeding systems for selected animal types.",
+    "prerequisites": "",
+    "incompatible": "VGD03, ANIM1953D",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM6402",
+    "course_name": "Empirical Finance Honours",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This subject examines empirical methods commonly-employed in finance and capital markets research. Students undertake in-depth study of key articles in the field. Students will also develop a strong working knowledge of various methodologies, as well as the requisite statistics and econometrics. As such, the dual focus is to understand the research methodologies that are employed in finance, and to develop skills in conducting independent research.",
+    "prerequisites": "(FINM2416 or 3402 or 3412) + permission from Head of School",
+    "incompatible": "FINM7404",
+    "restricted": "BAdvBus(Hons), BCom(Hons), BAdvFinEcon(Hons), GCBusRMeth, GDipBRM, MCom(#32), MCom(Adv), PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

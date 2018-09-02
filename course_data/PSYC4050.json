@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC4050",
+    "course_name": "Psychological Research Methodology IV",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This advanced methodology course builds on skills and knowledge developed in undergraduate psychology courses. We will first focus on preliminary data analyses, including missing data analysis; exploratory factor analysis; and confirmatory factor analysis. The next part of the course will focus on hypothesis-testing using advanced analytic techniques, including logistic regression; mediation analyses using bootstrapping; moderation analyses in regression and ANOVA; structural equation modeling; multi-level modeling; and multivariate analyses. Emphasis will be placed on conceptual understanding of analytic techniques; statistical decision-making; conducting and interpreting analyses using SPSS software; and critical evaluation of published empirical research reports.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BPsySc(Hons), BSc(Hons) in Psychology, BArts(Hons) in Psychology"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "INDN1001",
+    "course_name": "Introductory Indonesian B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Pre: INDN1000 Inc: Snr Indonesian or INDN1200\nContinuation of INDN1000. Consolidation of Indonesian language skills with an emphasis on communication in everyday situations.",
+    "prerequisites": "INDN1000",
+    "incompatible": "Snr Indonesian or INDN1200",
+    "restricted": ""
+}

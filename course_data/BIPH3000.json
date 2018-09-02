@@ -1,0 +1,12 @@
+{
+    "course_code": "BIPH3000",
+    "course_name": "Molecular & Membrane Biophysics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Structure and function of biological macromolecules as building blocks of living cells. Physical properties of cellular membranes. Introduction to methods and techniques biophysicists use for their research.",
+    "prerequisites": "BIPH2000",
+    "incompatible": "PHYS3900",
+    "restricted": ""
+}

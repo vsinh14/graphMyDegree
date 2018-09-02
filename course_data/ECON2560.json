@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2560",
+    "course_name": "Economics of Globalisation and Development",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces students to issues related to globalisation and economic development in less developed countries.",
+    "prerequisites": "ECON1010 and ECON1020",
+    "incompatible": "ECON2510",
+    "restricted": ""
+}

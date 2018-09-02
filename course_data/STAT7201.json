@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7201",
+    "course_name": "Analysis of Scientific Data",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Statistical models & analyses required for analysing scientific data, including sampling methods, exploratory data analysis, standard probability models, estimation, hypothesis tests, regression, experimental design.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ECON1310 or 1320 or STAT1201 or 2002",
+    "restricted": ""
+}

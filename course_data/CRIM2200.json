@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2200",
+    "course_name": "Policing and Society",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is organised around key emerging issues in the study of policing, such as police legitimacy, police roles and functions, police behaviour, misconduct and accountability, police use of force, gender issues in policing, police-minority relations, measuring police performance and organisational change and the emergence of new forms of police practices (e.g. third-party, community policing and problem oriented policing). It examines factors that shape the development, organisation and operational practice of modern policing such as police legitimacy and public confidence in the police.",
+    "prerequisites": "#2 first level CRIM courses",
+    "incompatible": "",
+    "restricted": ""
+}

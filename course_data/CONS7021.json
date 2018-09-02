@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7021",
+    "course_name": "Conservation Decision-Making",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the real decisions that face managers and policy-makers where you will explore how conservation planners identify efficient systems of conservation sites that include a suite of biodiversity targets at a minimal cost. The basic tools of conservation decision making will be introduced: systematic conservation planning, multi-criteria decision-analysis and risk assessment, and you will apply those tools to real and complex conservation problem, bringing together all the elements of the Masters program.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "MConsBiol, MConsSc"
+}

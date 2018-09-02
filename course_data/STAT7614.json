@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7614",
+    "course_name": "Probability & Distributional Theory",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course involves the study of basic probability and calculus-based methods underpinning probability distributions, and parameter estimation. This course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7601",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3201",
+    "course_name": "Catchment Processes & Management",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Catchments form the natural landscape divides that partition water and nutrients, and therefore determining their availability for ecosystems, agriculture, and societies. This course focuses on the key physical, biological and chemical processes underpinning catchment functions, and how this is altered by human impact and climate change. Appropriate tools for biophysical and socioeconomic management and remediation of catchments are then discussed.",
+    "prerequisites": "",
+    "incompatible": "ENVM7201",
+    "restricted": ""
+}

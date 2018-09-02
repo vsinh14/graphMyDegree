@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4403",
+    "course_name": "Medical & Industrial Instrumentation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Measurement of biological signals from transducers, signal conditioning, display & analysis. Practical work based on design, construction & validation of simple clinical measurement devices. Field trips to clinical measurement laboratories.",
+    "prerequisites": "ELEC3400",
+    "incompatible": "ELEC3401 or ELEC4401 or ELEC7403",
+    "restricted": ""
+}

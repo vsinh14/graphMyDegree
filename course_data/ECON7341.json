@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7341",
+    "course_name": "Productivity and Efficiency Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a comprehensive coverage of modern methods for analysing the productivity and efficiency of different types of decision-making units (e.g., individuals, firms, industries, regions, economies). Students learn how different assumptions concerning technologies, markets and firm behaviour can be used to guide the construction of proper productivity indexes. They then learn how these indexes can be exhaustively decomposed into measures of technical change, environmental change, and various types of efficiency change. Students learn how to estimate these components using data envelopment analysis (DEA), deterministic frontier analysis (DFA) and stochastic frontier analysis (SFA) methods. Students gain an understanding of why the estimation of these components is critically important for public policy-making. The course has a strong applied focus. Students analyse different types of datasets using software packages such as DPIN, DEAP, FRONTIER, EViews and LIMDEP.",
+    "prerequisites": "ECON2300 or ECON7310",
+    "incompatible": "ECON3340",
+    "restricted": ""
+}

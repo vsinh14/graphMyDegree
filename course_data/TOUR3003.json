@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR3003",
+    "course_name": "Tourism Field Studies",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an opportunity to apply knowledge and skills learned in your studies in a practical situation. It involves a field trip to a tourism destination to conduct a project with tourism managers and operators. Enrolment in this course requires prior approval by the Head of School.",
+    "prerequisites": "#16 units completed",
+    "incompatible": "",
+    "restricted": "BIHTM and BIHTM dual programs only\nQuota: Maximum of 25 students"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7219",
+    "course_name": "International Organisations",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an in-depth examination of specialised areas of international or comparative law. The course seeks to develop students\u00c2\u00bf knowledge of legal issues and problems confronting the nation, the region and/or the international community generally. The specific focus of the course may vary from year to year, and students must consult the current course profile for more information.",
+    "prerequisites": "#18 LAWS courses",
+    "incompatible": "LAWS5219",
+    "restricted": "JD, GCAppLaw, GDipAppLaw, MAppLaw"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4103",
+    "course_name": "Engineering Asset Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamentals of Reliability Engineering: failure intensity functions; system reliability; exploratory data analysis; the Weibull function; design for reliability; HAZOP; FMECA. Maintenance Management; preventive, predictive, proactive and corrective methods and their place in maintenance strategy; maintenance performance indices; workforce estimation and organisational structure; spare parts administration; maintenance contracts and contract administration; reliability centred maintenance; total productive maintenance. Preventive component replacement and capital equipment replacement decisions.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3205",
+    "course_name": "Physiological and Integrative Zoology",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will examine modern approaches in animal ecophysiology, detailing examples from both the laboratory and field, and highlighting the integration of molecular, physiological and ecological techniques. In particular, it will focus on how animals have evolved strategies to overcome the physiological challenges associated with changing and/or extreme environmental conditions. It will pay special attention to the Australian fauna & habitats, including case studies on: freshwater fish and turtles, euryhaline sharks, desert frogs, crocodiles, birds and insects. Students will be introduced to the emerging and exciting field of \"Conservation Physiology\" that attempts to demonstrate cause and effect of human-induced environmental disturbance on organisms.",
+    "prerequisites": "BIOL2204 (from 2018)",
+    "incompatible": "ZOOL3005",
+    "restricted": ""
+}

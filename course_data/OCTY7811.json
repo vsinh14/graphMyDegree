@@ -1,0 +1,12 @@
+{
+    "course_code": "OCTY7811",
+    "course_name": "Human Anatomy & Occupation",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides graduate students with opportunities to consolidate acquired learning in anatomy & neuroanatomy in order to apply this to occupational analysis & the occupational therapy context.",
+    "prerequisites": "",
+    "incompatible": "ANAT1018 or 1019 or OCTY1104",
+    "restricted": "MOccThySt students"
+}

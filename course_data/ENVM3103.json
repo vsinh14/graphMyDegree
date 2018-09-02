@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3103",
+    "course_name": "Regulatory Frameworks for Environmental Management & Planning",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the fundamentals of environmental and planning regulation in Australia and Queensland aimed at teaching essential knowledge and practical skills to environmental managers and planners. Topics covered include regulation of: planning & development; mining & petroleum; coal seam gas; vegetation management; nature conservation & protected areas; water management; environmental harm & pollution; contaminated land; climate change; and ethical obligations in professional practice. Professional skills taught include writing and assessing a development application.",
+    "prerequisites": "",
+    "incompatible": "ENVM2504, ENVM7101, ENVM7123, LAWS2960, LAWS3000, LAWS4101, LAWS7016, LAWS7018, PLAN3004",
+    "restricted": ""
+}

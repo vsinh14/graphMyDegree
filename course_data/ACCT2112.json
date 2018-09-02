@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT2112",
+    "course_name": "Financial Accounting for Business",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Develops the framework for the preparation and interpretation of financial statements through the provision of information on a range of common business transactions for companies, and on a regulatory framework for financial reporting.",
+    "prerequisites": "",
+    "incompatible": "(ACCT1101 and ACCT2101) or 2111 or 7101 or 7700 or 7804",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

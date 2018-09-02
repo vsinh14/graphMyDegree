@@ -1,0 +1,12 @@
+{
+    "course_code": "WRIT9500",
+    "course_name": "Creative Writing Seminar",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The Writing Seminar supports MPhilCW and PhDCW students approaching research by creative practice. It introduces creative practice as a form of research, investigates its variations, and supports students as they apply it within their own work.",
+    "prerequisites": "",
+    "incompatible": "WRIT9100",
+    "restricted": ""
+}

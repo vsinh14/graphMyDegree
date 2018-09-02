@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM7002",
+    "course_name": "Advanced Geographical Information Systems",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops skills and a deeper understanding to conduct detailed analysis in geographical information systems (GIS) using basic statistical methods and spatial analysis. Students learn to analyse spatial patterns and relate these to processes in the natural environment and human spatial behaviour. Students also gain knowledge and skills to develop geoprocessing models and for making decisions related to planning and management.",
+    "prerequisites": "GEOM7005 or 7006",
+    "incompatible": "GEOM3002 or GEOS3300 or 7301",
+    "restricted": ""
+}

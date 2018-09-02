@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3201",
+    "course_name": "Fungi & Plant Diseases",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is all about identifying, examining & controlling the various microbes that cause plant diseases & which threaten Australian agriculture & native flora & also an understanding of the causes of abiotic disorders. The aim of this course it to provide students with: knowledge in the life cycles of the major groups of plant pathogens; this includes plant pathogens that are fungi, nematodes, viruses & nematodes; Knowledge of abiotic factors that can cause disorders in plant growth; skills in plant disease diagnoses (describing symptoms & identifying the causal agent); knowledge on how to control plant diseases whether through genetic, chemical or by biological control methods; knowledge of the major plant diseases affecting Australian crops & native flora; the ability to recognise the relevance of quarantine regulations in attempts to control incursions of plant diseases.",
+    "prerequisites": "",
+    "incompatible": "BOTN2004 or BOTN6017",
+    "restricted": ""
+}

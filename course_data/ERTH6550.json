@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH6550",
+    "course_name": "Industrial Applications of Exploration Geophysics",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course is designed to build advanced practical skills in geophysical software development and data processing. It is built around linked practical projects mentored by experienced and well-qualified industry geophysicists. Representative projects include forward modelling of geophysical exploration; signal processing and data analysis of a range of geophysical data; Algorithms for optimum separation of components of multifield datasets; Non-linear inversion and parameter estimation. The course will include focussed literature reviews, design and development of geophysical software, geophysical modelling, and data processing and interpretation.",
+    "prerequisites": "Approval of Head of School",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

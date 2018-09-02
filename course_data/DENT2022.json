@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT2022",
+    "course_name": "Dental Practice I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "This course establishes the foundation for general practice which is the major clinical stream of the BDSc program. Students undertake simulation exercises & the development of skills in the pre-clinical laboratory setting. The course introduces students to the disciplines of Preventive and Conservative Dentistry, Pain Control, Dental Materials, Periodontology and Radiography.",
+    "prerequisites": "ORAL1030 + DENT1011",
+    "incompatible": "",
+    "restricted": ""
+}

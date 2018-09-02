@@ -1,0 +1,12 @@
+{
+    "course_code": "JAPN1023",
+    "course_name": "Japanese 1B standard",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is for students in the standard progression who wish to take one course per semester. Students taking this course must have done approximately 50 hours of beginner-level Japanese (e.g. JAPN1013 or equivalent). This course consolidates basics in both written and oral skills in Japanese and builds on language skills and cultural knowledge acquired in JAPN1013.",
+    "prerequisites": "JAPN1013",
+    "incompatible": "JAPN1010, JAPN1011, JAPN1012, JAPN2011",
+    "restricted": ""
+}

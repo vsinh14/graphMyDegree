@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2902",
+    "course_name": "Advanced Genetics",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is specifically designed for students enrolled in the BAdvSc(Hons) majoring in any of the biology streams.",
+    "prerequisites": "BIOL1020",
+    "incompatible": "BIOL2202, BIOL2007 or BIOL2009",
+    "restricted": "BAdvSc(Hons) students completing a Biology major."
+}

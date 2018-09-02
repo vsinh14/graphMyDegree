@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2032",
+    "course_name": "Animal Pathogens and Immunity",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the major pathogens of livestock, companion animals and wildlife. It describes the features of the broad classes of pathogens (parasites, bacteria, viruses, etc.) and explains classification structures within these classes as related to morphometric and phylogenetic characteristics of the organisms. Students will also be introduced to animal immunology and other aspects of host response as they pertain to infectious disease. Basic concepts relating to epidemiology will also be explored and applied to measuring population dynamics of host and agent interactions with respect to disease. Examples of key or topical pathogens are used to illustrate and deepen students understanding of pathogen-host interaction, and laboratory skills pertaining to pathogen identification, handling and characterisation will be developed. NOTE: External enrolment restricted to Vet Tech students only.",
+    "prerequisites": "VETS1060 or AGRC1020",
+    "incompatible": "VETS2006",
+    "restricted": ""
+}

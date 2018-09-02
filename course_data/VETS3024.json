@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3024",
+    "course_name": "Veterinary Professional Contexts",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "This course aims to develop an understanding of the basic fundamentals of business management, so that students can appreciate how these principles impact upon the way veterinarians operate in private practice. In addition, students will explore the application of business fundamentals to enhance the delivery of veterinary services to animal enterprise clients. Completion of preclinical extramural placements on animal enterprises is an important component of the course.",
+    "prerequisites": "VETS1018, VETS1023, VETS1024",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4012",
+    "course_name": "Principles of Clinical Practice",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to clinical veterinary practice; principles of surgery, anaesthesia and radiography/imaging techniques and pharocology. Clinical epidemiology, including diagnostic theory and the principles of evidence-based medicine.",
+    "prerequisites": "VETS3010, VETS3011, VETS3012",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

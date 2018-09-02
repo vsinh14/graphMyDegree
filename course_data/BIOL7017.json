@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL7017",
+    "course_name": "Plant Pathology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To introduce the field of plant pathology; the major plant pathogen groups (fungi, oomycetes, bacteria, viruses, nematodes & phytoplasmas) & their identification (optional practical classes); methods of control (chemical, cultural, genetic & biological) & impact on society (historically, environment, quarantine & GM).",
+    "prerequisites": "",
+    "incompatible": "BOTN2004 or 6005, BOTN6017",
+    "restricted": ""
+}

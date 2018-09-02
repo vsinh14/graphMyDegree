@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3422",
+    "course_name": "Financial Modelling",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with a comprehensive set of financial modelling skills. Covers corporate and project valuation, sensitivity and scenario analysis, optimisation, Monte Carlo simulation, value-at-risk.",
+    "prerequisites": "FINM2411",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+}

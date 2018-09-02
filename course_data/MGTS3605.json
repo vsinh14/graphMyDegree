@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3605",
+    "course_name": "Negotiating Employment Agreements",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory and practice of negotiation of employment agreements. Course develops essential student skills in employment negotiations, with the major assessment item involving in-class negotiation of an enterprise agreement.",
+    "prerequisites": "MGTS2604 or 2607 or ECON2810 or IREL1000 or POLS1401",
+    "incompatible": "MGTS7609",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

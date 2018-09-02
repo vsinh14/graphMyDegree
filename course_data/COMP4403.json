@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP4403",
+    "course_name": "Compilers and Interpreters",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Compiler modules; programming language specifications; lexical analysis, parsing - recursive descent & table driven; static semantics - symbol tables & type checking; error handling; introduction to code generation & optimisation; compiler generators; interpreters.",
+    "prerequisites": "COMP2502 or COMP3506",
+    "incompatible": "COMP3401 or COMP7402",
+    "restricted": ""
+}

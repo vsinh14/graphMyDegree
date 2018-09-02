@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI4022",
+    "course_name": "Scholarship of Research for the Medical Professional",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "The emphasis of this course will be on how medical students, as future practitioners, can incorporate an evidence-based approach into their clinical practice. The ability to critically appraise the literature on the development and evaluation of clinical treatments, health interventions and the wider policy issues in health care is an essential skill for clinicians. The fundamentals associated with developing an understanding of critical scientific enquiry will be applied in a two-stage assignment. \n\nThe first stage requires the student to identify a medical dilemma or issue and search the scientific literature relevant to the question or issue. The second stage requires the student to present and argue their evidence-based opinion on the issue or dilemma in 1000 words structured as a commentary for possible peer review in an appropriate scientific journal. Students will develop skills in written communication in research and science because dissemination of information through scholarly work is the cornerstone of the research process. It is increasingly vital for graduates to be able to provide evidence of effective communication (through peer reviewed publications) for future career progression.",
+    "prerequisites": "Successful completion of Year 3 MBBS courses",
+    "incompatible": "MEDI3020, MEDI4021",
+    "restricted": "Restricted to MBBS students ONLY"
+}

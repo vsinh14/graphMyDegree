@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH2100",
+    "course_name": "Architectural Design 3",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Site and Surface: This course expands the scope of architectural design to include site and architectural surface. Techniques of mapping past and present occupation, topography and environmental qualities are used to derive the planning and placement of buildings. Processes of visual composition and techniques for mediating external conditions are employed to achieve responsive and considered facades.\nDescriptive and interpretive representations using physical and digital models are used",
+    "prerequisites": "ARCH1100 and ARCH1160 and ARCH1201 and BLDG1220",
+    "incompatible": "",
+    "restricted": "BArchDes students only. Study abroad students must seek Head of School's permission to enrol."
+}

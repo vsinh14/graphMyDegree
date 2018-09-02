@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7106",
+    "course_name": "Advanced Mathematical Methods & Models A",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered in even years only)",
+    "prerequisites": "Permission of Head of School + MATH3401",
+    "incompatible": "MATH4106",
+    "restricted": ""
+}

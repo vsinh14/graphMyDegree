@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7331",
+    "course_name": "Econometric Theory",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory of general linear model-topics include: least squares, generalised method of moments & maximum likelihood estimators under iid, auto-correlated & heteroskedastic error specifications.",
+    "prerequisites": "ECON7321 or ECON3320",
+    "incompatible": "ECON3310+3330",
+    "restricted": ""
+}

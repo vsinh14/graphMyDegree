@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS7808",
+    "course_name": "Advanced Research Processes in Health Sciences",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Mathematics & Physics School, Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "",
+    "prerequisites": "",
+    "incompatible": "HRSS3201, HRSS6001, HRSS7802",
+    "restricted": "MAudSt, MOccThySt, MPhtySt, MSpPathSt"
+}

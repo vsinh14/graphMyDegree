@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI4012",
+    "course_name": "Paediatrics & Child Health",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This core clinical rotation is in Paediatrics and Child Health. The course goals include: - preparing the student for work readiness in a paediatric clinical unit; recognition of the sick child; understanding the scope of paediatrics and having sufficient knowledge and experience to progress to post-graduate training in Paediatrics and Child Health. The eight week rotation is a clinical immersion underpinned by the paediatric online interactive education (POLIE) curriculum, supplemented by a specialist lecture series and other teaching sessions depending on the specific Clinical School attachment. Assessment includes work based assessment (mini-CEX) and an end of rotation MCQ and OSCE examination.",
+    "prerequisites": "Satisfactory completion of Yrs 1 & 2 in the MBBS program.",
+    "incompatible": "MEDI4013",
+    "restricted": "MBBS students only."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3215",
+    "course_name": "Marine Ecology and Conservation",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Ecology & conservation of marine and estuarine plants and animals. Emphasis on the dynamics & interactions of populations, assemblages & communities in marine environments, including an examination of theory, methods & approaches used to study these systems (including field activities). Appreciation of the threats that impact marine ecosystems and how this can affect people. Understanding the degree to which evolutionary adaptation can build resilience to the effects of climate change. Detailed exploration of cutting-edge conservation issues and practices including marine reserve design and the importance of blue carbon.",
+    "prerequisites": "BIOL2010 + MARS2014",
+    "incompatible": "MARS3011 or MARS3002",
+    "restricted": ""
+}

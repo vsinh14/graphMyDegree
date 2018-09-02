@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7305",
+    "course_name": "Advanced Microwave Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course introduces EM field principles followed by the network theory to obtain efficient means for analyzing and designing of microwave circuits. It puts a special emphasis on planar guiding structures that enable either hybrid and/or monolithic integration of passive and active mircrowave devices. Next, it introduces the concept of noise and nonlinearities followed by equivalent circuit models of diodes and transitors that are used to generate, switch, phase shift, detect, mix or amplify microwave signals. By applying modern CAD software packages it demonstrates how passive and active microwave sub-systems can be designed, simulated and optimized.",
+    "prerequisites": "ELEC3100 or ELEC7101",
+    "incompatible": "COMS7302 or COMS7303",
+    "restricted": ""
+}

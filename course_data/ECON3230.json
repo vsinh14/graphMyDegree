@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3230",
+    "course_name": "Trading Floor and Economic Institutions",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The purpose of the course is to offer advanced students in business/finance and or economics an understanding of the financial markets from a very hands on applied viewpoint. The course will be applied to the real world financial markets using an online real time trading room allowing the student to trade in Stocks, Bonds, Options and Futures and short or long sell derivatives. The online real time trading floor will enable the student to build a portfolio using historical and real time company information with graphs, charts and company announcements to guide them in their choice. The course will examine yields, duration and convexity and will also discuss and apply modern portfolio theory using the real time trading floor. The focus will be on institutional details/technical analysis/market efficiency and of course trading strategies designed to exploit market, limit and stop orders and others exploiting the single index model support and valuation issues. A pod cast of lectures will be available.",
+    "prerequisites": "ECON1010 or ECON1020 or FINM2401",
+    "incompatible": "ECON7230",
+    "restricted": "Quota: maximum of 60 students"
+}

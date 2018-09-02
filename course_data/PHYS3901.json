@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3901",
+    "course_name": "Advanced Physics Research",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will include elements of scientific communication, ethics in research and research experience. It serves as an introduction to research based activities at an advanced level.",
+    "prerequisites": "PHYS2020 + PHYS2041 + PHYS2055",
+    "incompatible": "PHYS3900",
+    "restricted": "BAdvSc(Hons) students or by approval of the course coordinator"
+}

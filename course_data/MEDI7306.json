@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7306",
+    "course_name": "Preparation for Practice 1",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course aims to revisit the core concepts of ethics and law, professionalism and communication first encountered in Phase 1 of the MD program and situate them within the clinical environment of Year 3. It is delivered concurrently with clinical rotations in Semester 2 of year 3, with horizontal integration between clinical courses and the curriculum content in Preparation for Practice 1.",
+    "prerequisites": "Successful completion of Years 1 and 2 of the MD program.",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

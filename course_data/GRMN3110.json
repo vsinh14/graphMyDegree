@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN3110",
+    "course_name": "Advanced German Language 3",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced language course which consolidates and extends spoken and written fluency.",
+    "prerequisites": "GRMN3020 or GRMN2120",
+    "incompatible": "",
+    "restricted": ""
+}

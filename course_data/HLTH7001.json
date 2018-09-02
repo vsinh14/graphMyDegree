@@ -1,0 +1,12 @@
+{
+    "course_code": "HLTH7001",
+    "course_name": "Introduction to Digital Health",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the utility of information and communication technologies (ICT) within modern healthcare practice. Students will learn about a range of digital technologies and applications in the areas of clinical practice, education and administration that are fast becoming commonplace. The course fosters awareness of digital health at national and international levels; it examines the characteristics of digital health innovation, strategic vision and deployment in various countries such as Australia, US, Canada, Europe and the developing world. While evaluating the technological advances relative to patient-centered care, students will also study the potential pitfalls of the use of technology in healthcare. The course draws attention to the associated social, ethical, legal issues and workflow issues that must be considered when integrating digital health into clinical practice.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

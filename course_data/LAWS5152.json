@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5152",
+    "course_name": "Financial Services Regulation",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An overview of the law of financial services including: theories of regulation; financial services regulatory history, instruments and agencies; banking law; negotiable instruments; letters of credit; industry codes of conduct; financial reporting; and the regulation of financial advisers, planners and dealers in financial products.",
+    "prerequisites": "All Level 1 LAWS courses + LAWS2111 + LAWS2112",
+    "incompatible": "LAWS5188 or 7152 or 7188 or 7352",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

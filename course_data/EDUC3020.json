@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC3020",
+    "course_name": "Directed Study in Education",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Education School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Course of study to be designed in consultation with staff. Only available in exceptional circumstances.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ED322",
+    "restricted": ""
+}

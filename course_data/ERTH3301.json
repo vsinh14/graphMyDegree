@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3301",
+    "course_name": "Ore Body Modelling",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Ore Body Modelling introduces advanced students from Geology, Geophysics, Mining Engineering, Metallurgical Engineering, and Environmental Sciences to 3-D geological modelling and mineral resources reporting. It covers the concepts of mineral resources and reserve, cut-off grade, nugget effect; the application of statistical and numerical methods as they relate to resource estimation and the use of basic computational tools and 3-D modelling packages (Surpac) applied in the Australian and global mining industries. It also addresses the basic codes on reporting mineral resources (VALMIN and JORC codes).",
+    "prerequisites": "ERTH3001",
+    "incompatible": "",
+    "restricted": ""
+}

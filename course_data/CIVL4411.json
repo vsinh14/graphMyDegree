@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4411",
+    "course_name": "Advanced Transport Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on previous traffic and transport engineering subjects and covers more advanced topics in transport engineering. Modules focus on transport data, demand forecasting, impact assessment, freight transport, externalities and energy. Students will learn about public transport, airport planning, seaport operations and the fundamentals of the geometric design of roads.",
+    "prerequisites": "CIVL3420",
+    "incompatible": "",
+    "restricted": ""
+}

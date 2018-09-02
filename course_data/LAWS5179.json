@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5179",
+    "course_name": "Advanced Legal Drafting",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Techniques of drafting and their practice in documents.",
+    "prerequisites": "LAWS2111 + 2112 + 3111 + 3112 + 3113 + 3114 + 4112",
+    "incompatible": "LAWS7179",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

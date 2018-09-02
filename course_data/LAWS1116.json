@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1116",
+    "course_name": "Constitutional Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course continues the study of state & federal constitutional law introduced in LAWS1115 Principles of Public Law. The course will examine the constitutional relationship between the States & the Commonwealth, the subjects of Commonwealth legislative power, constitutional rights & freedoms, government finance, free trade & the amendment of the State and Commonwealth Constitutions.",
+    "prerequisites": "LAWS1111 + LAWS1115",
+    "incompatible": "LAWS2005 or 3700 or 7105",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

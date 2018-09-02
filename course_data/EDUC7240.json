@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC7240",
+    "course_name": "Assessment, Planning and Instruction",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Education School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course aims to provide students with awareness of students' difficulties in learning, how these might be assessed, to plan instruction and to have the knowledge to design effective instruction to address learning in particular content areas. This course examines the relationship among assessment, planning and instruction and allows students to develop an understanding of how instruction is used to support students with learning difficulties in particular content areas. This course focuses on assessment, planning and instruction in the following content areas: Oral language, Early reading, Reading comprehension, Written language, Cognitive and metacognitive strategies and Numeracy/mathematics in relationship to students with learning difficulties. This course may not be offered internally if enrolment is less than 10 students.",
+    "prerequisites": "EDUC7019 or co-requisite",
+    "incompatible": "EDUC7035",
+    "restricted": "Quota: Minimum 10 student enrolments for internal offering"
+}

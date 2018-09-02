@@ -1,0 +1,12 @@
+{
+    "course_code": "MMDS1400",
+    "course_name": "Introduction to Web Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by DECO1400] This course introduces the student to design and development practices for multimedia content, focusing particularly on web sites. Modern design practices for the web are taught, framed by an introduction to human-centred design techniques, particularly heuristic based interface design guidelines for web interfaces and web accessibility from a global perspective. Today's web sites need to be both well designed and dynamic, thus the course also introduces some basic scripting techniques for going beyond static content. The focus of learning is activity based and incorporates both individual and team based exercises.",
+    "prerequisites": "",
+    "incompatible": "IENV7961 or MMDS7961",
+    "restricted": ""
+}

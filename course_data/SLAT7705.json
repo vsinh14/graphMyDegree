@@ -1,0 +1,12 @@
+{
+    "course_code": "SLAT7705",
+    "course_name": "Structure of Language",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to linguistics for applied linguists. Basic concepts in phonetics, phonology, morphology, and syntax, plus language acquisition, processing, and use, with emphasis on real-world data from a wide variety of world languages.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "",
+    "incompatible": "LING6100, LING6105, SLAT6705",
+    "restricted": ""
+}

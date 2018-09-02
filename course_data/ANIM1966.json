@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM1966",
+    "course_name": "Equine Husbandry and Equitation II",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory & practice of: Training & riding of horses from novice to intermediate levels in the disciplines of dressage, saddle horse / hacking, show jumping & cross country. Stable management & husbandry of the performance horse including, welfare & safety, equipment, grooming & presentation, foot care & shoeing, basic feeding health & conditioning as well as transportation.",
+    "prerequisites": "ANIM1006",
+    "incompatible": "ANIM1011",
+    "restricted": ""
+}

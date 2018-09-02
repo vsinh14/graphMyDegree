@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4010",
+    "course_name": "Companion Animal Clinical Studies",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "6",
+    "duration": "Two Semesters",
+    "description": "Principles of clinical practice for companion animals (ie, dogs, cats, birds, exotic animals, and urban wildlife), including the problem-orientated diagnostic apprach, evidence-based medicine, principles of surgery, anaesthesia, diagnostic imaging, & therapeutics (fluids, corticosteroids, NSAIDS, antibiotics, etc). Following this introductory section, the course will cover species-specific medicine and surgery using a clinical presentation approach, and will incorporate medicine, therapeutics, diagnostic imaging, surgery, obstetrics, behavioural problems and applied nutrition on a species basis.",
+    "prerequisites": "(VETS3010, VETS3011, VETS3012) or (VETS3050, VETS3060, VETS3070)",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

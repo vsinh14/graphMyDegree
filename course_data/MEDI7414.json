@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7414",
+    "course_name": "Medical Specialties",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The Medical Specialties course includes a six week clinical placement that will offer students the opportunity for exposure in two Medical Specialty Areas (MSAs) based in a hospital within a Clinical School. In addition, this course provides students with experience and learning opportunities in tertiary medical practice and offers intensive attachment to medical practitioners in a medical specialty. Students are expected to obtain an overview of the common and important problems that a Medical Specialties Area (MSA) usually encounters. Students are expected to learn how to utilise the appropriate resources in the diagnosis, management, health maintenance and prevention of these problems. Students should be made aware of the strengths and weaknesses of various service delivery models and specialty services. The use of evidence based medicine in accomplishing these goals is essential. The primary aim of this course is to build on the knowledge and experience learnt during the Medicine Rotation in Year 3. It is essential that students use clinical placement component as an opportunity to enhance their skills in history taking, clinical examination and in synthesis of their findings. The setting to facilitate such learning will be different from Year 3, namely subspecialty medicine.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7404",
+    "restricted": "MD & MD (Ochsner) Students only"
+}

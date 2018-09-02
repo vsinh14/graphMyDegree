@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3080",
+    "course_name": "Extragalactic Astrophysics & Cosmology",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines galactic, extra-galactic, and cosmological astrophysics in detail. Topics to be covered include: the structure of the Milky Way, observational and theoretical aspects of galaxy formation and evolution, star formation rates, active galaxies and quasars, the cosmic microwave background, and the standard model of cosmology, including treatments of dark matter and dark energy.",
+    "prerequisites": "PHYS2082 + (MATH2001 or MATH2400 or MATH2401)",
+    "incompatible": "",
+    "restricted": ""
+}

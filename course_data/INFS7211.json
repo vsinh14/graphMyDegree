@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7211",
+    "course_name": "Developing Electronic Commerce Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Approaches to analysing, designing and developing information systems to support online business. Developing web based applications to support online business.",
+    "prerequisites": "INFS7210",
+    "incompatible": "INFS2244",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP3320",
+    "course_name": "Ethical Hacking",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course provides an introduction to the methodology and tools of ethical hacking and related defense mechanisms. It covers key concepts in penetration testing and computer and network forensics.",
+    "prerequisites": "CSSE2310 and COMS3000 and COMS3200",
+    "incompatible": "",
+    "restricted": ""
+}

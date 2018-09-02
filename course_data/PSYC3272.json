@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC3272",
+    "course_name": "The Neuroscience of Social Behaviour",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to give students a working knowledge of current findings in the emerging field of social neuroscience, the study of brain systems underlying social behaviour. Students will cover basic neuroanatomy and will review research on brain systems underlying face recognition, emotion recognition, attachment, theory of mind, sexual attraction, love and neuroeconomics. Through this process students will learn about a variety of neuroscience methods involving social psychology paradigm: lesion studies, patient research, single-cell recording, and neuroimaging.",
+    "prerequisites": "PSYC2020 or equivalent",
+    "incompatible": "",
+    "restricted": ""
+}

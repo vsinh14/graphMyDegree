@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2800",
+    "course_name": "Labour Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of labour markets & its application to contemporary labour market issues, including labour demand & supply issues, unemployment, employment, wage determination & human capital development.",
+    "prerequisites": "ECON1010",
+    "incompatible": "EC280",
+    "restricted": ""
+}

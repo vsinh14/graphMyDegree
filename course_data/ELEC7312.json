@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7312",
+    "course_name": "Signals, Systems & Control",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Discrete-time signals & systems, system properties (linearity, time-invariance, memory, causality, stability), sampling & reconstruction, A/D and D/A converters, DFT/FFT, z transform, stochastic processes, frequency-selective filters, effect of feedback, introduction to control.",
+    "prerequisites": "ELEC2004",
+    "incompatible": "COMS3100 or COMS7100 or ELEC3004 or ELEC3600 or ELEC7601",
+    "restricted": ""
+}

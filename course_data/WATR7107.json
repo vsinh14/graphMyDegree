@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7107",
+    "course_name": "Wastewater Modelling and Control",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Process models and systems analysis are now widely used across industry to understand, engineer and control water and wastewater treatment. It is not possible to optimise wastewater treatment without process control, and models have become enabling tools. This influences traditional aspects such as sanitation and underpins emerging innovations such as resource recovery (energy, nutrients and water). Modelling and control is able to capture complex interconnectivity between technologies and local systems in an integrated manner, which provides a holistic understanding and better solutions. The importance of this course is emphasized by the fact that most people in water and wastewater industries frequently use models or model outputs for decision making, and hence need to understand models and their application.",
+    "prerequisites": "CHEE3002 and CHEE3003 and CHEE3020",
+    "incompatible": "",
+    "restricted": ""
+}

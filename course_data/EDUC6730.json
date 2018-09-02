@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC6730",
+    "course_name": "Music: Curriculum Foundation",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Education School, Music School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "This course is designed to equip students with the knowledge and skills necessary for confident and successful teaching within the classroom music education context. Principles and strategies of teaching primary and secondary school music curriculum. Development of improvisational skills. School-based assessment.",
+    "prerequisites": "#16 MUSC",
+    "incompatible": "MUSC4790 or MUSC6790",
+    "restricted": "Bachelor of Education (Secondary) final year and Graduate Diploma in Education (Secondary) students only."
+}

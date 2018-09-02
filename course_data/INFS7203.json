@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7203",
+    "course_name": "Data Mining",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Techniques used for data cleaning, finding patterns in structured, text and web data; with application to areas such as customer relationship management, fraud detection & homeland security.",
+    "prerequisites": "INFS7903",
+    "incompatible": "INFS4203",
+    "restricted": ""
+}

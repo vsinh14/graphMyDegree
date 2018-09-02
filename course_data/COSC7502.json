@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC7502",
+    "course_name": "High-Performance Computing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course teaches the methods and technology of high-performance computing and its usage in solving scientific problems. Major topics include: grid and cluster computing, parallel computing, agent-based modelling and simulation. The course is interdisciplinary in nature, incorporating a number of case studies in biology, physics, chemistry, and engineering.",
+    "prerequisites": "COSC2500 or CSSE2002 or CSSE7023",
+    "incompatible": "COSC3500",
+    "restricted": ""
+}

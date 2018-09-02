@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3208",
+    "course_name": "Information Systems Strategy",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is concerned with managing and leading the information systems function within organizations. The focus is fully on management issues and problems, and issues such as the strategic alignment of IT services and infrastructure where the organisation's objectives are emphasised rather than details of the computing and communications technology that underlie information systems.",
+    "prerequisites": "BISM2202 or BISM3222 or MGTS2202 or INFS2244 or INFS3222",
+    "incompatible": "BISM7208 or MGTS3208 or MGTS7208",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

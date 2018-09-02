@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7510",
+    "course_name": "Reconfigurable Embedded Systems - Concepts and Practice",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.)\nThis course explores advanced concepts and technologies in design of embedded systems based on reconfigurable hardware platforms. The focus is on design methods for System on Reconfigurable Chip composed of embedded processors and reconfigurable digital and analog hardware. Topics covered include interfacing embedded processors to custom on chip hardware, methods to optimise system performance, advantages of extending instruction set or building custom coprocessor, methods of design for testability and methods of power optimisation. Two projects will provide practical experience illustrating the above issues on examples from control of mechatronic devices and vision processing for vehicle navigation. Students will gain understanding and skills in both hardware and software design for high performance embedded systems.",
+    "prerequisites": "(CSSE4010 or CSSE7410) + ELEC3004 + ELEC3400",
+    "incompatible": "",
+    "restricted": ""
+}

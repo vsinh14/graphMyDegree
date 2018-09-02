@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3101",
+    "course_name": "Bifurcation and Chaos",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Modelling with nonlinear systems of ODE's. Stability and bifurcation theory including the Hopf bifurcation and limit cycles. Homoclinic & heteroclinic orbits and Mel'nikov theory. Stability, bifurcation theory and chaos in I-dimensional Maps. Period doubling. Feigenbaum's approach to chaos. Properties of chaos. The Lorenz Equations",
+    "prerequisites": "(MATH1052 or MATH1072) + (MATH2010 or MATH2100)",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3611",
+    "course_name": "Working in Teams",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines group theory and practice in-depth within the formation and development of high performing teams.",
+    "prerequisites": "(BSOC1601 or MGMT1200 or MGTS1601) + (BSOC1602 or MGMT1300 or MGTS1602) + (BSOC2601 or MGMT2106 or ORGC2601)",
+    "incompatible": "BF323 or BSOC3611 or MGMT3303",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

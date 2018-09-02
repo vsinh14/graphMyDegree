@@ -1,0 +1,12 @@
+{
+    "course_code": "INDN2000",
+    "course_name": "Intermediate Indonesian A",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An intermediate level course in Indonesian language that aims to improve students' communication skills in Indonesian focusing equally on the four skills of reading, writing, speaking & listening.",
+    "prerequisites": "INDN1001 or Senior Indonesian",
+    "incompatible": "INDN2100 or INDN2200",
+    "restricted": ""
+}

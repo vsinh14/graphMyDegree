@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4021",
+    "course_name": "Particle Design & Processing",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Not offered in 2009) Mathematical description of particle property distributions, surface science of particles, particle design processes including crystallisation, granulation, grinding, nanoparticle technology.",
+    "prerequisites": "1E203 or CHEE2003",
+    "incompatible": "CHEE7304 or E1485",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7201",
+    "course_name": "Advanced Research Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "6",
+    "duration": "Two Semesters",
+    "description": "Research project. Students completing the course in a single semester must enrol in MOLI7200. Students completing the course over 2 semesters must enrol in MOLI7201 (start semester 1, finish semester 2) or MOLI7202 (start semester 2, finish semester 1) or MOLI7203 (start semester 2, finish summer semester) or MOLI7204 (start summer semester, finish semester 1).",
+    "prerequisites": "",
+    "incompatible": "MOLI7105 and MOLI7106",
+    "restricted": "Permission required from Centre for Advanced Imaging."
+}

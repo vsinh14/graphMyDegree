@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE2010",
+    "course_name": "Engineering Investigation & Statistical Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project based investigation of engineering operations. Effective quantitative sampling & statistical analysis including hypothesis testing, standard probability models, estimation, regression & experimental design. Technical reporting & project management skills",
+    "prerequisites": "CHEE2001",
+    "incompatible": "CHEE3010 or MINE3214 or MINE3204",
+    "restricted": ""
+}

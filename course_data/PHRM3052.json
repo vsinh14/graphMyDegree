@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM3052",
+    "course_name": "Biological Fate of Drugs B",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Optimal drug dosage regimen design & mechanisms of toxicology. Disposition of drugs & factors affecting pharmacokinetic & pharmacodynamic variability.",
+    "prerequisites": "",
+    "incompatible": "PHRM3050",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy"
+}

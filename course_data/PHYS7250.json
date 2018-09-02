@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7250",
+    "course_name": "Fields in Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course consists of a survey of advanced electromagnetic theory, with detailed coverage of some important applications. Topics cover the mathematical structure of electromagnetic theory, including the mathematical basis of computational electromagnetics, radiation and scattering, photonics, and relativistic electrodynamics. Students will gain a sound understanding of the theory of electromagnetism and topics relevant to research and practical application.",
+    "prerequisites": "Permission of Head of School + PHYS2055 or PHYS3050",
+    "incompatible": "PHYS3051 or PHYS6050 or PHYS7050",
+    "restricted": ""
+}

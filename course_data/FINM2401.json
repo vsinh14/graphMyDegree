@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM2401",
+    "course_name": "Financial Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides a comprehensive introduction to financial management & financial analysis. Focus is on creating shareholder value. Topics include financial modelling, the time value of money, stock & bond valuation, capital budgeting & net present value, risk & diversification, & the Capital Asset Pricing Model.",
+    "prerequisites": "ACCT1101",
+    "incompatible": "FINM2411 or 2412 or 7401 or 7805",
+    "restricted": ""
+}

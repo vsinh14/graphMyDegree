@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7210",
+    "course_name": "Introduction to Computational Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applications of combinatorics to bioinformatics, computational programs & genomes, mathematical modelling, data mining techniques, visualisation & network dynamics in computational biology.",
+    "prerequisites": "",
+    "incompatible": "MATH2210",
+    "restricted": ""
+}

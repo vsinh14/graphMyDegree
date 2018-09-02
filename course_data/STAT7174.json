@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7174",
+    "course_name": "Applications of Computational Statistics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces computational statistics with applications to bioinformatics. It provides an accelerated introduction to statistics and statistical programming in R. The course then builds on these by using R to explore applications of statistics in science and molecular biology in particular.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "STAT7174 restricted to students in Master of Bioinformatics, other students require permission of Head of School."
+}

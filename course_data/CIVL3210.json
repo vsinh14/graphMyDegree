@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3210",
+    "course_name": "Geotechnical Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of soil mechanics knowledge to geotechnical engineering analysis & design. Earth pressure; retaining walls; basement excavations; bearing capacity; shallow footings; domestic footings; piled footings; settlement; slope stability; dynamic pile testing.",
+    "prerequisites": "CIVL2210",
+    "incompatible": "",
+    "restricted": ""
+}

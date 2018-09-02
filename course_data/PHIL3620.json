@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL3620",
+    "course_name": "Contemporary European Philosophy",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An exploration of contemporary themes and debates in recent European philosophy.",
+    "prerequisites": "#2 from PHIL2220, PHIL2300, PHIL2310, PHIL2190, PHIL2340, PHIL2400, PHIL2500",
+    "incompatible": "PD362, PHIL7362",
+    "restricted": ""
+}

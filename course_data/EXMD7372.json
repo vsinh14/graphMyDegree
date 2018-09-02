@@ -1,0 +1,12 @@
+{
+    "course_code": "EXMD7372",
+    "course_name": "Clinical Exercise Physiology Professional Skills",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The aim of this course is to assist students who have already completed a minimum of 20 hours of supervised professional experience with the opportunity to consolidate and develop professional and technical skills in exercise science/exercise physiology. Content includes using research skills to evaluate of aspects of current practice, reflective practice, clinical note-taking, communication (inter-professional, peer to peer and practitioner/client), ethics and legal frameworks. Learning activities include: lectures; a research-based seminar series; supervised teaching of technical skills to new students (approximately 8 hours); and a minimum of 120 hours of supervised practical experience with apparently healthy clientele. Orientation to the structure of the exercise science/exercise physiology industry occurs through presentations from industry experts profiling their professional pathways.",
+    "prerequisites": "[EXMD7382 or HMST6383 or EXMD6383] + [HMST7362 or EXMD7362]",
+    "incompatible": "HMST7372; HMST3372; EXMD3372",
+    "restricted": "MCEP"
+}

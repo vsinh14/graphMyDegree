@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT2012",
+    "course_name": "Functional Anatomy (Physiotherapy)",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to provide continued study of the musculoskeletal and nervous systems in relation to their function and dysfunction in human movement.",
+    "prerequisites": "ANAT1020, ANAT1012",
+    "incompatible": "",
+    "restricted": "BPhty students"
+}

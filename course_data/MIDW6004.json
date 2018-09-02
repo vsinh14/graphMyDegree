@@ -1,0 +1,12 @@
+{
+    "course_code": "MIDW6004",
+    "course_name": "Thesis (part time)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "This course provides students with opportunity to implement a research proposal by conducting a research investigation & presenting the completed research findings in an academic thesis. Students should also be able to prepare & submit a paper for publication in a relevant academic journal based on their research. A thesis can be completed in traditional format or by publication.",
+    "prerequisites": "MIDW6001 + 6002",
+    "incompatible": "MIDW6003",
+    "restricted": "Bachelor of Midwifery (Honours)"
+}

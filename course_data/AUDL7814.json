@@ -1,0 +1,12 @@
+{
+    "course_code": "AUDL7814",
+    "course_name": "Rehabilitative Audiology II",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Development of audiological skills necessary for the rehabilitation of adults with hearing impairment. The implications of hearing impairment & appropriate rehabilitation strategies are discussed.",
+    "prerequisites": "AUDL7808, AUDL7824, AUDL7825",
+    "incompatible": "",
+    "restricted": "MAudSt"
+}

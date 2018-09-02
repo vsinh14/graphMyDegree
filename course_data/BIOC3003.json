@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC3003",
+    "course_name": "Human Molecular Genetics & Disease",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "BIOC3003 is an advanced research-informed course on the molecular genetics of human disease. Topics include: single gene disorders, multifactorial disorders; cancer genetics; birth defects; epigenetics; identification and analysis of human disease genes.\u00c2\u00a0The course content is designed to provide students with a contemporary overview of human genetic disorders, genetic variation and on how mutations are identified and assessed for their contribution to phenotype.\u00c2\u00a0 In addition, the course covers some aspects of clinical management of genetic diseases and information on the genetic tools used for their diagnosis, prognosis and treatment.",
+    "prerequisites": "BIOL2202 or BIOL2902",
+    "incompatible": "",
+    "restricted": ""
+}

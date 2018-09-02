@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT3102",
+    "course_name": "External Reporting Issues",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Role of accounting information in financial contracts, accounting for shareholders' equity, revenue, expense, assets & liabilities, with applications to leases, extractive industries, income tax.",
+    "prerequisites": "ACCT1110 or 2101 or 2112",
+    "incompatible": "ACCT7102",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

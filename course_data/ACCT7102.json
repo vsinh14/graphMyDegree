@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7102",
+    "course_name": "Financial Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "External reporting by companies, in particular, annual reports of public companies & reasons for alternative accounting & techniques used in such reports.",
+    "prerequisites": "ACCT7101",
+    "incompatible": "ACCT3102",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

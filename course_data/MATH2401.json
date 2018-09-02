@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2401",
+    "course_name": "Mathematical Analysis and Advanced Topics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Sequences & series of real functions. Mean value theorem, iterative procedures. Taylor's Theorem & error estimates. Criteria for integrability. Vector functions, continuity & differentials. Implicit & Inverse Function Theorems & applications. Selected advanced topics in modern mathematics from: Theory and applications of fixed points, introduction to geometry and topology.",
+    "prerequisites": "MATH1071",
+    "incompatible": "MATH2400",
+    "restricted": ""
+}

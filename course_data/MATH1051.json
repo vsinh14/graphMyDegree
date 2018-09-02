@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1051",
+    "course_name": "Calculus & Linear Algebra I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(MATH1051 can be studied concurrently with MATH1052) Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Equation of straight line & plane. Extreme value theorem, maxima & minima. Sequences, series, Taylor series, L'Hopital's rules. Techniques of integration, numerical methods, volumes of revolution.",
+    "prerequisites": "MATH1050 or SA in Year 12 Maths C",
+    "incompatible": "",
+    "restricted": "Semester 1 External offering restricted to students enrolled in Enhanced Studies program (program code 1014)."
+}

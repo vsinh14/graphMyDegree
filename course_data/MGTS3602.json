@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3602",
+    "course_name": "Managing Workplace Conflict",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover interpersonal conflict in the workplace. Specifically, the course will cover triggers of conflict, classic and contemporary theories of conflict, conflict environments and strategies of managing workplace conflict including third party intervention.",
+    "prerequisites": "MGTS2604",
+    "incompatible": "LAWS7842 or MGTS7310 or 7606 or 7703",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL2066",
+    "course_name": "Human Function in Health & Disease A",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Students will examine some basic properties of cells,the electrical and chemical communication between cells, the nature of pain and the role of respiration and the circulation in the delivery of nutrients to tissues. Each topic will include a brief introduction into common medicines used in the treatment of malfunction.",
+    "prerequisites": "ANAT1018",
+    "incompatible": "PHYL2063, PHYL2065",
+    "restricted": "Restricted to BOccThy, MOccThySt students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7381",
+    "course_name": "Design Computing Studio 3 - Build",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A studio-based course in which interdisciplinary teams of students build a significant software-based system according to client requirements and project deadlines. The course aims to consolidate and expand on students\u00c2\u00bf previous experience with implementing information systems, user interfaces, and computer software and systems. Subjects such as project planning, risk management and software quality assurance are covered during the course.",
+    "prerequisites": "CSSE7030 and DECO7140 and (DECO7250 or COMP7904 or INFS7900)",
+    "incompatible": "CSSE3004 or CSSE3005 or CSSE7024 or CSSE7025",
+    "restricted": "MInfTech or MIDes students"
+}

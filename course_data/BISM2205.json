@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM2205",
+    "course_name": "Predictive Analytics in R",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Using R, this course introduces students to the family of models that define the field of predictive analytics. Specific model forms introduced in the course include linear and logistic regression, neural networks, and recommendation systems. The focus is on developing an intuition for predictive modelling and knowledge of the essential concepts.",
+    "prerequisites": "BISM2204",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

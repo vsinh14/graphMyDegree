@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS6500",
+    "course_name": "Advanced Research Literature Review",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced literature review of an area of experimental or theoretical physics or another field recommended by supervisor/s and approved by Head of Discipline. You will explore in-depth the cutting-edge literature of the area and write a review style article. The review article topic should be close to, but can be different from your thesis topic that is taken concurrently, and should ideally be on a topic where no such review article exists.",
+    "prerequisites": "",
+    "incompatible": "PHYS6501, PHYS6502, PHYS6503, PHYS6504",
+    "restricted": "BAdvSci (Honours) students only, must be taken concurrently with PHYS6487 or PHYS6488 (in either of their two semesters)"
+}

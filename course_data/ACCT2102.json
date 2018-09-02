@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT2102",
+    "course_name": "Principles of Management Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to cost accounting concepts: relevant to planning, controlling & decision-making activities within organisations. Focusing on the accounting systems that managers use in their decisions about resource allocation & performance evaluation; especially within the manufacturing environment.",
+    "prerequisites": "ACCT1110 or 2101 or 2111",
+    "incompatible": "ACCT2113",
+    "restricted": ""
+}

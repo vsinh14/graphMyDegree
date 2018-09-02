@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3414",
+    "course_name": "Financial Institutions Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will consider the financial management of financial institutions and the assessment of credit risk as applied to bank lending. Considerable industry involvement through guest lecturers and presenters will result in a practical understanding of risks assessment, financial distress prediction, asset/liability management, securitization, bank regulation, bank profitability and the international banking system.",
+    "prerequisites": "FINM2401 or 2411",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvFin&Econ(Hons) program"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE7680",
+    "course_name": "Fire Engineering Design: Explicit Quantification of Safety",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to provide students with the skills and knowledge to develop an explicit fire safety strategy.",
+    "prerequisites": "FIRE7600 or FIRE3700 or ENGG3700",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7941",
+    "course_name": "Masters Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "6",
+    "duration": "Two Semesters",
+    "description": "(If enrolling in this course across 2 semesters: Students commencing in semester 1 must enrol in ECON7941 for both semesters. Students commencing in semester 2 must enrol in ECON7942 for both semesters. Students enrolling in a single semester must enrol in ECON7940).",
+    "prerequisites": "ECON7910",
+    "incompatible": "ECON7940",
+    "restricted": "Permission from Head of School"
+}

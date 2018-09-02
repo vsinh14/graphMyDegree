@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE2003",
+    "course_name": "Fluid & Particle Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of conservation laws, continuity, momentum & energy balances. Fluids statics, Bernoulli equation, pipe flow. Experimental techniques, viscosity, flow measurement, pumps. Non-Newtonian behaviour. Solids characterisation, drag, settling & flow. Packed bed & fluidisation.",
+    "prerequisites": "CHEE2001 and MATH1052",
+    "incompatible": "",
+    "restricted": ""
+}

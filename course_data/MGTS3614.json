@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3614",
+    "course_name": "Knowledge, Innovation and Creativity",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2013.",
+    "prerequisites": "BF121 or BSOC1602 or MGMT1300 or ORGC1603 or BSOC1603 or MGMT1400",
+    "incompatible": "BF306 or BSOC3614 or MGMT3200",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

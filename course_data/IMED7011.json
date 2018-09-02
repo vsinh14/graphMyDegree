@@ -1,0 +1,12 @@
+{
+    "course_code": "IMED7011",
+    "course_name": "Advanced Therapeutics",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on the knowledge and skills gained in IMED7010. Students will gain a sound knowledge of advanced medical and surgical treatments (including photodynamic therapy, radiotherapy, excision of skin lesions with repair by split or full thickness skin grafts and random flaps).",
+    "prerequisites": "IMED7001, IMED7002, IMED7003 and IMED7010",
+    "incompatible": "",
+    "restricted": ""
+}

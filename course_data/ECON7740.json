@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7740",
+    "course_name": "Benefit-Cost Analysis & Project Evaluation",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Use of techniques of applied welfare economics & investment appraisal to undertake benefit/cost analysis of public & private sector projects, using spreadsheets.",
+    "prerequisites": "ECON2010 or 7002 or 7010 or 7000 or 7011",
+    "incompatible": "ECON3220",
+    "restricted": ""
+}

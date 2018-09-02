@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL7210",
+    "course_name": "Worlds, Possible & Impossible: An Introduction to Non-Classical Logic",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Extensions & rivals to (classical) logic of PHIL7102. Modal logic & some of: intuitionism, conditional, paraconsistent, relevant, deontic, dynamic & fuzzy logics. Formal details & philosophical adequacies of constructions.",
+    "prerequisites": "",
+    "incompatible": "PD210, PHIL2100",
+    "restricted": ""
+}

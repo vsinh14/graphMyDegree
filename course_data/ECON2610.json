@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2610",
+    "course_name": "International Economy in the Twentieth Century",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Breakdown of international economy between wars. Bretton Woods & operation of international economy after World War II. Its subsequent breakdown in 1970s.",
+    "prerequisites": "ECON1010 + ECON1020",
+    "incompatible": "EC264",
+    "restricted": ""
+}

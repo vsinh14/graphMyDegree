@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL6000",
+    "course_name": "Sport Science (Anatomy, Biomechanics, Physiology)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Knowledge and understanding of the anatomy, biomechanics and physiology as it applies to the human body and its application to sports performance, training and injury. Application of principles and skills in understanding and assessing human performance in sports settings.",
+    "prerequisites": "",
+    "incompatible": "ANAT1005, ANAT2029, BIOL2630, HMST2730, HMST7386, NEUR3733, PHYL2730, PHYL7009, SPCG7009",
+    "restricted": ""
+}

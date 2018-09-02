@@ -1,0 +1,12 @@
+{
+    "course_code": "GREK3002",
+    "course_name": "Advanced Greek 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A detailed study of Greek literary and historical texts chosen by the Course Coordinator.",
+    "prerequisites": "GREK3001",
+    "incompatible": "",
+    "restricted": ""
+}

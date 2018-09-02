@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3141",
+    "course_name": "Catchment Hydrology",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Catchment processes including precipitation, evapotranspiration, infiltration & runoff; generation of flows from catchments; statistical analysis of hydrological data; behaviour of flows in channels. Introduction to watershed, groundwater & hydraulic modelling.",
+    "prerequisites": "",
+    "incompatible": "CIVL3120 or CIVL2140",
+    "restricted": ""
+}

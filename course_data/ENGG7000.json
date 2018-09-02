@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7000",
+    "course_name": "Systems Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will not be offered after 2017. Systems engineering overview. System development life cycle; phases & reviews. Requirements analysis. Functional analysis. System architecture & design. Engineering management. Verification and validation. Systems engineering tools. Industry standards. Trends in systems engineering.",
+    "prerequisites": "Admission in ME or MInfTechSt or MSc (Computer Science) suites",
+    "incompatible": "ENGG4000",
+    "restricted": ""
+}

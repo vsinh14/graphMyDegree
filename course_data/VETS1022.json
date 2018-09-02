@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS1022",
+    "course_name": "Veterinary Biology & Histology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An overview of the diversity of living organisms with emphasis on its relevance to the study of veterinary science; an introduction to the study of genetics, & mammalian gross anatomy & histology.",
+    "prerequisites": "",
+    "incompatible": "ANIM1060",
+    "restricted": "BVSc"
+}

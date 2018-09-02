@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG2800",
+    "course_name": "Team Project I",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Small teams of students undertake design, implementation, testing, evaluation & presentation of specific project of a size & complexity suitable for novice students.",
+    "prerequisites": "(CSSE1000 or CSSE2010) and (ELEC1000 or ENGG1300) and CSSE1001",
+    "incompatible": "METR2800",
+    "restricted": ""
+}

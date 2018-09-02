@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7212",
+    "course_name": "Clinical Science 4",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences, Medicine Faculty, Biomedical Sciences School, Chemistry & Molec Biosciences,",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This is the capstone semester for the clinical science courses in which a multisystems/integrated approach will be used to revisit all systems previously covered in MEDI7111, MEDI7112 and MEDI7211. The course will revolve around case presentations adapted from the Australian Curriculum Framework for Junior Doctors. Clinician-guided case-based learning (CBL) will be a feature of this course.",
+    "prerequisites": "MEDI7211",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

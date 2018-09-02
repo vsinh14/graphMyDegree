@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5050",
+    "course_name": "Veterinary Diagnostic Pathology and State Medicine",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops and enhances students' knowledge and applied skills in performing thorough gross necropsies, selecting appropriate specimens for diagnostic testing, and investigating and understanding pathological processes, such that a diagnostic plan and appropriate testing to achieve a diagnostic outcome are achieved. Advanced concepts and skills in clinical pathology will also be developed. All training is case-based, as students work through materials and cases submitted through the Veterinary Laboratory Services as well as scenario-based modules. Students will also complete capstone training in the regulatory environment in which veterinarians must practice, as well as abattoir placement as part of their clinical extramural studies program.",
+    "prerequisites": "VETS3010; VETS3060; VETS3070; VETS4040",
+    "incompatible": "VETS5012",
+    "restricted": "Enrolment restricted to Bachelor of Veterinary Science (Honours) students only."
+}

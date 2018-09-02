@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7168",
+    "course_name": "Comparative Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Comparative law as an object of enquiry. Concept of legal systems and major legal systems. Construction of the civil law tradition and substantive areas of enquiry.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA431 or 740 or 763 or LAWS5168 or 7368",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

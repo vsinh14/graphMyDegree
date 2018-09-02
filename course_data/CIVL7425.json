@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7425",
+    "course_name": "Advanced Transport Models for Strategic Transport Planning",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in odd-numbered years (eg. 2019). Forecasting of transport demand and traffic flows in the future is key to provide mobility solutions in cities and regions. This course provides knowledge and practice in advanced models for forecasting demand and traffic, in line with recent advancements in transport modelling. On the demand side, the focus will be on models able to represent multiple (at times simultaneous) decisions in order to provide policy suggestions. On the traffic side, the focus will be on models able to capture heterogeneous behaviour and adaptation to changes in the network. Emphasis will be given to the theory as well as the practice of advanced transport modelling.",
+    "prerequisites": "CIVL3420",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

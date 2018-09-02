@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7609",
+    "course_name": "Survival Analysis",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers Kaplan-Meier life tables; log rank test; Cox's proportional hazards regression model; time-dependent covariates; multiple or recurrent events; sample size calculations for survival studies. This course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7607",
+    "incompatible": "",
+    "restricted": ""
+}

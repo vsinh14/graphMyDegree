@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7902",
+    "course_name": "Data Science Capstone Project 2",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Business, Economics & Law Fac, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "(First offered from Semester 1, 2018) The capstone project will focus on tackling a data science problem sourced from science, government or industry. Capstone projects can be research oriented or development oriented.",
+    "prerequisites": "DATA7901",
+    "incompatible": "",
+    "restricted": ""
+}

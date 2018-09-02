@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7105",
+    "course_name": "Constitutional Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical foundations of state & federal constitutions in Australia; the constitution and operation of legislature, executive and judiciary, the relationship between the different institutions of government and the separation of powers, parliamentary process and the reserve powers, constitutional alteration and constitutional rights.",
+    "prerequisites": "LAWS7230",
+    "incompatible": "LA204 or 213 or 711 or LAWS2005 or 7305",
+    "restricted": "JD"
+}

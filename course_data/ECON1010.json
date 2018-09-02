@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1010",
+    "course_name": "Introductory Microeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with a practical understanding of the core economic principles that explain why individuals, companies and governments make the decisions they do, and how their decision-making might be improved to make best use of available resources.",
+    "prerequisites": "",
+    "incompatible": "EC101 or 110 or 121",
+    "restricted": ""
+}

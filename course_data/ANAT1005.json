@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT1005",
+    "course_name": "Anatomical Basis of Human Movement",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Integrated course in systematic gross anatomy basic to further study in field of human movement. Introduction to musculoskeletal system, neuroanatomy & all visceral systems.",
+    "prerequisites": "",
+    "incompatible": "BIOM2019, BIOM2020",
+    "restricted": "Restricted to students enrolled in the BClinExP (Hons), BENS, BExSS (Hons), BHSPE (Hons), BHlthSc and BOccHlth&SafeSc (Hons) programs only."
+}

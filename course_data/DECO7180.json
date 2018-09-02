@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7180",
+    "course_name": "Design Computing Studio 1 - Interactive Technology",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the Design Computing Studio stream. Students work in multidisciplinary teams to design, iterate & implement design computing projects. Students will move from concept and proposal through to the design and technical resolution of proposed designs.\nThe projects will also enable students to develop important skills such as problem solving, reflection in action, communication and presentation.",
+    "prerequisites": "DECO7140",
+    "incompatible": "DECO1800 or IENV1000 or IENV1801 or IENV7911 or MMDS1801",
+    "restricted": ""
+}

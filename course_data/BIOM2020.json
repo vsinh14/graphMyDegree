@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2020",
+    "course_name": "Human Anatomy",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to human gross anatomy and anatomical data analysis. Using prosected cadavers, students will learn macroscopic structure of human organ systems including the musculoskeletal, nervous and visceral systems. Students will collect and evaluate anatomical data gaining insights on human variation, measurement uncertainty, effect size and meaning of statistical significance. This course is pertinent to higher level studies in the biological sciences, and is a prerequisite for 3rd year dissection and research courses in human anatomy.",
+    "prerequisites": "BIOL1040",
+    "incompatible": "BIOM2019, ANAT1005, ANAT1018, ANAT1020, ANAT1000, ANAT1100",
+    "restricted": ""
+}

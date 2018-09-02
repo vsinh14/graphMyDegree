@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2010",
+    "course_name": "Ecology",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Ecology of individuals, populations, communities & ecosystems. Australian case studies & critical analyses of conceptual controversies in ecology, to illustrate ecological debate & the way in which ecological knowledge is advanced.",
+    "prerequisites": "BIOL1030",
+    "incompatible": "AGRC2019",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7151",
+    "course_name": "Law and Technology",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Legal and commercial rules and issues underpinning electronic commerce, including electronic banking, transnational electronic business transactions, electronic sale of goods and verification, cybercrime, jurisdictional issues and privacy.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA460 or 883 or LAWS5151 or 7351 or 7855",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

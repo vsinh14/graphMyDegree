@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3211",
+    "course_name": "Special Topics in Minerals Processing II",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Special topics delivered by lecturers or by individual reading. For details, consult course coordinator.",
+    "prerequisites": "",
+    "incompatible": "MMME3211",
+    "restricted": "Permission of Head of School required."
+}

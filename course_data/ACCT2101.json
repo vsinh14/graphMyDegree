@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT2101",
+    "course_name": "Financial Reporting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Develops the framework for the preparation and interpretation of financial statements through the provision of information on a range of common business transactions for companies, and on regulatory framework for financial reporting.",
+    "prerequisites": "ACCT1101",
+    "incompatible": "ACCT2111 or 2112 or 7101 or 7700 or 7804",
+    "restricted": ""
+}

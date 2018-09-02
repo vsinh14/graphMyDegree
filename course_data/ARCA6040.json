@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCA6040",
+    "course_name": "Archaeology Honours Research Seminar 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course provides an advanced level of professional development for archaeology and archaeological science honours students with a focus on writing for publication, grants, conferences and job applications. The ability to present research findings and the ability to defend the research findings, is an essential part of advanced archaeological training.",
+    "prerequisites": "ARCA6030",
+    "incompatible": "SOSC6020, SOSC6021",
+    "restricted": "Bachelor of Arts (Honours) Archaeology; Bachelor of Science (Honours) Archaeological Science"
+}

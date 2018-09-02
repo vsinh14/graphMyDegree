@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6080",
+    "course_name": "Computational Methods in Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers numerical methods and computational tools that are relevant in solving and quantifying implications of economic models and estimating econometric models. The course also covers how to write computer codes to implement these methods and tools.",
+    "prerequisites": "ECON6020",
+    "incompatible": "",
+    "restricted": "BA(Hons)(Economics) BEcon(Hons)"
+}

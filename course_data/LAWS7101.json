@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7101",
+    "course_name": "Law of Contract A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the concept of contractual obligation, including the rules relating to formation of contract, terms and exemption clauses.",
+    "prerequisites": "",
+    "incompatible": "LA103 or 107 or 705 or LAWS1001 or 7301",
+    "restricted": "JD"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3204",
+    "course_name": "Process Experimentation & Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Introduction to experimentation including the design & execution of experiments; analysis, presentation & reporting of experimental results. Use of statistical techniques in sampling, experimental design, analysis & interpretation of data. Additional fee payable.",
+    "prerequisites": "CHEE2001 or MMME2202 or 1E201 or 5E207",
+    "incompatible": "MMME3203 or 3204 or 5E302",
+    "restricted": ""
+}

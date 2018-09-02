@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7304",
+    "course_name": "Probability Models & Stochastic Processes I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Description of probability models. Generating functions & transforms. Limit laws. Markov chains in discrete & continuous time. Stochastic models in epidemics, finance, population biology, genetics, reliability & telecommunications. Simulation methods. Markov chain Monte Carlo. Inference for stochastic processes. Stationary processes. Time series.",
+    "prerequisites": "Permission of Head of School + Head of School + MATH2000 + STAT2003",
+    "incompatible": "STAT3004",
+    "restricted": ""
+}

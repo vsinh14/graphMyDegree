@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3202",
+    "course_name": "Plant Biology II",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Recent developments in plant developmental & cell biology with emphasis on functional genetics & signalling; important role of meristems as pluripotent stem cells controlling plant morphogenesis, plant energetics and the process of different photosynthesis systems.",
+    "prerequisites": "",
+    "incompatible": "BOTN3002 or PLNT3802",
+    "restricted": ""
+}

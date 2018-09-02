@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7113",
+    "course_name": "Whole of Process Optimisation and Control",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(First offered 2013) This course considers how existing processes are optimised with particular emphasis on how advanced control structures (e.g. equation based control etc) Can be used to deliver better outcomes. Students will be able to model the benefits (through Aspen or similar) of proposed control structures to justify their use in complex unit operations. Part of the justification will involve consideration of hardware and cost factors in implementing various control structures.",
+    "prerequisites": "CHEE3007 and (CHEE4060 or CHEE3006)",
+    "incompatible": "",
+    "restricted": ""
+}

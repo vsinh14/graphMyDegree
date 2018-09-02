@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3560",
+    "course_name": "Historical Performance Practice",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Musicological and practice-driven study of performance practice of Western Music from the late Renaissance to the present, with emphasis on the Baroque period.",
+    "prerequisites": "At least #2 from MUSC2050, MUSC2500, MUSC2502 or MUSC2510",
+    "incompatible": "MU358",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7167",
+    "course_name": "Asian Legal Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to introduce students to the characteristics of the legal systems of Asian nations. Focus is on three components: structural, substantive and cultural. The nations to be covered include: China, Taiwan, Korea, Vietnam, Malaysia, Brunei Darussalam, Indonesia, and Japan.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA446 or 735 or LAWS5167 or 7367",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

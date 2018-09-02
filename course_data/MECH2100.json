@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2100",
+    "course_name": "Machine Element Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Mechanical design principles. Design, manufacture & assembly of basic machine elements. Machine frames, welded, adhesive & bolted joints, fasteners. Stepped shafts & features, rolling element bearings; gear mechanics & manufacture. Design for strength, design for other mechanical failure modes including fatigue, stress concentration. Safety, ergonomics & standards.",
+    "prerequisites": "MECH2300 and (MECH2305 or METR2800)",
+    "incompatible": "",
+    "restricted": ""
+}

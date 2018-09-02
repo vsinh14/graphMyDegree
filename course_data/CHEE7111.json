@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7111",
+    "course_name": "Advanced Process and System Modelling",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(First offered 2013) This course builds on CHEE3007 Process Modelling and Dynamics and considers a range of techniques required to model complex and unfamiliar processes. It uses advanced features of commercial modelling software. Large scale experimental data from processes or experiments are used to build 'data driven' models for a range of applications. Following this, discrete and hybrid system modelling is undertaken to model industrial or experimental processes that combine time-continuous and discrete event systems. The projects are derived from current industry applications.",
+    "prerequisites": "CHEE3007 and CHEE4009",
+    "incompatible": "",
+    "restricted": ""
+}

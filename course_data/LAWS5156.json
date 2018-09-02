@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5156",
+    "course_name": "International Humanitarian & Criminal Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course begins by considering the key rules and principles of international law regulating the conduct of armed conflict, focusing on the four Geneva Conventions of 1949 and their two Additional Protocols of 1977. It then examines the central principles and procedures of international criminal law, as developed and applied by bodies such as the International Criminal Court.",
+    "prerequisites": "All Level 1 LAWS courses",
+    "incompatible": "LAWS5155 or 7155 or 7156",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

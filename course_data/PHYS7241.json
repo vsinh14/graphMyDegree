@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7241",
+    "course_name": "Advanced Quantum Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers advanced topics from single-particle quantum mechanics, such as advanced quantum dynamics, path-integrals, and quantum decoherence. It will also cover introductory non-relativistic many-body quantum theory, relativistic quantum mechanics, and relativistic quantum field theory. We will look at selected applications from atom optics, condensed matter physics, and particle physics.",
+    "prerequisites": "Permission of Head of School + PHYS3040",
+    "incompatible": "PHYS6041 or PHYS7041",
+    "restricted": ""
+}

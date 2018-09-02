@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3380",
+    "course_name": "Laboratory Skills in Genetic Research",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In this intensive practical course, core genetic skills will be taught initially, followed by an opportunity for\nstudents to perform semi-independent projects in an area of specialisation that they choose. The course will be taught at a high level with students expected to take responsibility for all aspects of their practical work, much as would be required in a research or commercial lab. The core skills will be based around DNA extraction from a variety of sources, amplification and sequence analysis. Students will be required to make their stock solutions, calculate all dilutions, and conduct detailed trouble-shooting of results. Knowledge and experience gained at these core laboratory genetics skills will set students up well either for molecular laboratory-based employment or continuing study at honours level. Students will be mentored in the appropriate use of a laboratory notebook, as well as in lab safety and risk assessment. Students will be expected to present their results in descriptive, detailed and accurate reports. The advanced practicals will be designed around ongoing genetics research in the School of Biological Sciences.",
+    "prerequisites": "BIOL2202 or BIOL2902",
+    "incompatible": "",
+    "restricted": "Maximum quota of 48"
+}

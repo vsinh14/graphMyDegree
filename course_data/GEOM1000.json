@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM1000",
+    "course_name": "Geographical Information and Data Analysis",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops fundamental quantitative, statistical and spatial thinking skills for geographers, planners, and environmental scientists and managers to underpin understanding and management of our natural and built environments and human activities. It draws from practical examples to enable students to appreciate the nature of spatial data collected from primary and secondary sources and to make informed decisions through scientific analysis of data and information. Emphases are on when and why the various data analysis techniques should be applied, how analytical procedures are conducted and the interpretation of results. Computers and data analysis software will be used.",
+    "prerequisites": "",
+    "incompatible": "ENVM1504 or GEOM1960",
+    "restricted": ""
+}

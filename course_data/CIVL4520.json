@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4520",
+    "course_name": "Civil Engineering Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project Management; Work planning & control; Scheduling, including critical path methods; Internal and external costs (understanding, estimating and controlling); Contracts and contract law; Dispute resolution methods; Teams and team leadership; Safety culture; Innovation; Ethics",
+    "prerequisites": "",
+    "incompatible": "CIVL3510",
+    "restricted": ""
+}

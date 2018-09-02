@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3530",
+    "course_name": "Environment and Community",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Role of communities in managing environmental resources, including environmental governance, environmental activism, promoting corporate responsibility, Indigenous co-management and citizen science.\n\n* There is an optional field trip in this course.",
+    "prerequisites": "",
+    "incompatible": "ENVM2503 or ENVM7513",
+    "restricted": ""
+}

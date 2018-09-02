@@ -1,0 +1,12 @@
+{
+    "course_code": "NUTR2101",
+    "course_name": "Nutrition Science",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides the basis for an in-depth understanding of nutrition biochemistry, what the human body requires in food to maintain homeostasis, and how the nutritional status of individuals and populations is determined. Topics covered include energy metabolism; components and role of the human gastro-intestinal tract; macronutrients and micronutrients absorption, metabolism and their role in health; signs, symptoms and causes of nutrient deficiency; the diet-disease relationship and significance in the context of the life-cycle and of chronic disease. The course also provides the understanding of how nutrition science is translated into dietary guidelines, and equips students with the tools to discern objectively between sound nutrition information and unfounded nutrition commercially-oriented claims.",
+    "prerequisites": "(CHEM1090 or CHEM1100) + (CHEM1200 or CHEM1221)",
+    "incompatible": "",
+    "restricted": ""
+}

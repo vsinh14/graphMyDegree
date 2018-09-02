@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2201",
+    "course_name": "Evolution",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "\"Evolution\" provides an overview of the most significant evolutionary transitions in relation to the environmental changes associated with them, details the processes that contributed to these changes & thus develops an understanding of the principles of evolutionary biology. Human evolution is explored in relation to this background & in relation to the evolution of language & disease.",
+    "prerequisites": "BIOL1020",
+    "incompatible": "",
+    "restricted": ""
+}

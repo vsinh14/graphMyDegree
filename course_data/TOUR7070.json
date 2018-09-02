@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7070",
+    "course_name": "Professional Consultancy Project I",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "",
+    "prerequisites": "#8 of study",
+    "incompatible": "TOUR7060, TOUR7061, TOUR7071, TOUR7009",
+    "restricted": "Master of Tourism Leadership cohort only"
+}

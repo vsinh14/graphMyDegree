@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3010",
+    "course_name": "Advanced Microeconomics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Developments & implications of microeconomic theory.",
+    "prerequisites": "ECON1050 + ECON2030",
+    "incompatible": "EC313",
+    "restricted": ""
+}

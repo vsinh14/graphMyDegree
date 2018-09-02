@@ -1,0 +1,12 @@
+{
+    "course_code": "SWSP4283",
+    "course_name": "Advanced Research and Evaluation in Mental Health",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "This is a #4 unit research course that builds on content covered in SWSP3303 Advanced Research in Social Work and Human Services. There is a strong emphasis on the application of research methods in practice and program evaluation. A working knowledge of social research methods, including the capacity to choose the most appropriate methods to investigate particular research questions, to critically review social research, and to apply research findings to specific practice and policy contexts, is an essential component of social work practice. This course comprises two interrelated components: developing skills in critically reviewing existing research, and building a repertoire of research and evaluation knowledge and skills. The latter include single system design, focus groups, analysing secondary data, qualitative analysis, and evaluation planning.",
+    "prerequisites": "SWSP3303",
+    "incompatible": "SWSP4034",
+    "restricted": "BSocWk(Hons)"
+}

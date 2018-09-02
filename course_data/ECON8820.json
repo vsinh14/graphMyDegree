@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8820",
+    "course_name": "Advanced Studies in Econometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will cover a selection of topics from the following fields: a) Microeconometric Theory; b) Macroeconometric Theory; c) Applied Macroeconometric; d) Applied Microeconometric; e) Treatment effects; f) Simulation methods; g) Productivity and Efficiency Analysis; h) Operations research; i) Financial Econometrics; j) Spatial Econometrics; k) Time Series Econometrics",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "This course is restricted to students enrolled in the PhD"
+}

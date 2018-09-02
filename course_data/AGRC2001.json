@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC2001",
+    "course_name": "Agricultural Biochemistry",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The role of animals, plants & microbes in agriculture & the environment from a knowledge of metabolism & biochemical pathways.",
+    "prerequisites": "CHEM1100 or CHEM1004; AGRC1020; AGRC1021",
+    "incompatible": "BIOC2000",
+    "restricted": ""
+}

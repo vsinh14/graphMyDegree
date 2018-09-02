@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN2030",
+    "course_name": "Advanced Conversational German",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "GRMN2030 is designed for students seeking to develop theoretical understanding and practical experience of spoken communication in German. Tutorials focus on the interactive use of German in a variety of contexts. Companion course to GRMN2010 or GRMN2020.",
+    "prerequisites": "GRMN1020",
+    "incompatible": "GRMN1130",
+    "restricted": ""
+}

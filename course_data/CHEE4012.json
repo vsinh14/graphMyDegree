@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4012",
+    "course_name": "Industrial Wastewater & Solid Waste Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Design of sustainable technologies for liquid & solid waste management: conventional domestic wastewater treatment plants, sanitary landfills & destruction processes for hazardous wasters; advanced reuse technologies, including wastewater nutrient removal, energy recovery from liquid & solid wastes; product recovery from oily wastes, solvents & abattoir wastes.",
+    "prerequisites": "CHEM1020 and (CHEE2003 or CIVL3130 or CIVL2131 or MINE2101)",
+    "incompatible": "",
+    "restricted": ""
+}

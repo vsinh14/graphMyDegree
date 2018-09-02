@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7306",
+    "course_name": "Network & Operating Systems Principles",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by CSSE7231] Operating systems principles: memory management, basics of machine organization, file systems, processes & threads, interprocess communication. Computer networks principles: topologies & models of computer networks, protocols, network programming, network applications. Systems Programming in C.",
+    "prerequisites": "CSSE7030 + CSSE7035",
+    "incompatible": "COMP2303 or COMP3300 or COMP7303",
+    "restricted": "Eng, InfTech, InfTechSt, Sci postgraduate suites"
+}

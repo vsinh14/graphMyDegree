@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2106",
+    "course_name": "Advanced Biostatistics",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces students to the modern processes of biological research ranging from ecology to genetics and molecular biology. In additional to lectures, students will get hands-on experience including generating ideas and hypotheses, through to designing experiments, analysing real data-sets, critiquing published studies and communicating results.",
+    "prerequisites": "STAT1201 or STAT1301",
+    "incompatible": "BIOL2006",
+    "restricted": "BAdvSc(Hons) or by approval of the course coordinator"
+}

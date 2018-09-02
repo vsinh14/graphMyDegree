@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3051",
+    "course_name": "Fields in Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course consists of a survey of classical field theory in physics. The focus is on advanced electromagnetic theory, with detailed coverage of some important applications. Topics cover the mathematical structure of electromagnetic theory, including the mathematical basis of computational electromagnetics, radiation and scattering, photonics, and relativistic electrodynamics. Students will gain a sound understanding of classical field theory and electromagnetism, and topics relevant to research and practical application.",
+    "prerequisites": "PHYS2055 or PHYS3050",
+    "incompatible": "PHYS7250",
+    "restricted": ""
+}

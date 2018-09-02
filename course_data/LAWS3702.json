@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3702",
+    "course_name": "Corporate Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course considers the law concerning companies, including the nature of corporate bodies, corporate personality and limited liability, formation, management and governance, finance, and liquidation.",
+    "prerequisites": "LAWS1702, LAWS2705",
+    "incompatible": "LAWS4112 or LAWS5017",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

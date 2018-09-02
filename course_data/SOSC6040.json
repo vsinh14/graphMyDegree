@@ -1,0 +1,12 @@
+{
+    "course_code": "SOSC6040",
+    "course_name": "Social Science Honours Research Seminar 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course provides an advanced level of professional development for social science honours students with a focus writing for publication, grants, conferences and job applications. The ability to present research findings and the ability to defend the research findings, is an essential part of advanced social science training.",
+    "prerequisites": "SOSC6030",
+    "incompatible": "SOSC6020, SOSC6021",
+    "restricted": "BA (Hons) Criminology/Sociology/Anthropology, or BSocSc (Hons), BIntSt (Hons) International Inequality & Development"
+}

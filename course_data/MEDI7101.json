@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7101",
+    "course_name": "Health, Society & Research 1",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty, Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the first in a sequence of four courses, which develop core concepts in public health, health systems and research, as required for evidence-based clinical practice.",
+    "prerequisites": "",
+    "incompatible": "MEDI7141",
+    "restricted": "Restricted to MD students ONLY"
+}

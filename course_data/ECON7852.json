@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7852",
+    "course_name": "Research Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "(If enrolling in this course across 2 semesters: Students commencing in semester 1 must enrol in ECON7851 for both semesters. Students commencing in semester 2 must enrol in ECON7852 for both semesters. Students enrolling in a single semester must enrol in ECON7850).",
+    "prerequisites": "ECON7830",
+    "incompatible": "ECON7850",
+    "restricted": ""
+}

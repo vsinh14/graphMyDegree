@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR3003",
+    "course_name": "Molecular Microbiology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In Molecular Microbiology the fascinating array of intricate microbial components and genetic pathways, principally from of bacteria and fungi, will be revealed with particular emphasis on how these relate to their cellular biology, environmental survival strategies, human infection and treatment of disease. Students will learn how these molecular processes are not only important to the microorganisms but also how they can be exploited through advanced molecular techniques for human benefit (societal, environmental and industrial) and for the advancement of medicine. This course has an emphasis on research and as such consists of current-knowledge lecture material and advanced, comprehensive practicals. Lecture topics include: modern methods of genetic manipulation, environmental sensing and subsequent information management (signal transduction), regulation of gene expression, bacterial operons and regulons, fungal genetics, bacterial physiology and stress responses, bacterial organelles and their function and mechanisms of bacterial persistence. Two extended practical classes include; 1. Advanced methods of gene cloning/protein expression and, 2. High throughput compound screening for antibiotic discovery for the treatment of emerging superbugs.",
+    "prerequisites": "MICR2000",
+    "incompatible": "",
+    "restricted": ""
+}

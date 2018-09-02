@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOT6121",
+    "course_name": "Research Project in Biotechnology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "14",
+    "duration": "Two Semesters",
+    "description": "Individual laboratory-based research project in the broad area of biotechnology guided by an academic &/or industry supervisor.",
+    "prerequisites": "Completion of Part A of BBiotech",
+    "incompatible": "BSc(Hons)",
+    "restricted": "Available to BBiotech students only"
+}

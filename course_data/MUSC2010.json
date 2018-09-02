@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2010",
+    "course_name": "Music Technology for Live Performance",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops creative technical skills in performance and composition through practical activities. It focuses on using technology to realize live music and sound through techniques such as DJing, live looping, live mixing, interactive sound design, as well as creating performances with new instruments. The learning content develops technical knowledge of digital audio workstations, mobile devices, music controllers and PA equipment. Students work with Ableton Live, Push and Link technologies in practical laboratory classes and participate in the UQ iPad Ensemble. Theoretical knowledge is supported by a series of online learning and lecture modules. No prior experience in music performance is required. Students who already play an instrument will be provided with opportunities to incorporate it into course learning activities.",
+    "prerequisites": "MUSC1010",
+    "incompatible": "",
+    "restricted": ""
+}

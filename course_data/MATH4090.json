@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4090",
+    "course_name": "Computation in Financial Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to computational methods in finance & applications. Topics from binomial trees, numerical solution of stochastic differential equations, and numerical solution of Black-Scholes like partial differential equations.",
+    "prerequisites": "MATH3090 or MN391",
+    "incompatible": "MATH7049",
+    "restricted": ""
+}

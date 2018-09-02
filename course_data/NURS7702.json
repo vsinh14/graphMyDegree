@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7702",
+    "course_name": "Advanced Gastroenterology Nursing",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on NURS7700 Foundations of Gastroenterological Nursing and NURS7701 Gastroenterology Nursing Specialist Practice, expanding on concepts with greater depth and complexity. The course focuses on nursing management and education of patients with common gastroenterological disorders including the liver and pancreas.",
+    "prerequisites": "NURS7700",
+    "incompatible": "",
+    "restricted": "Registered Nurses"
+}

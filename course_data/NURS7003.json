@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7003",
+    "course_name": "Advanced Nursing Practice 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will assist students develop a comprehensive knowledge of pharmacology, pharmacy & therapeutic interventions. This knowledge will underpin critical analysis of the safety & accountability in the use & evaluation of pharmacological & non-pharmacological management plans for selected clients.",
+    "prerequisites": "PHRM7001+ NURS7001+ NURS7002",
+    "incompatible": "",
+    "restricted": "MNP students only"
+}

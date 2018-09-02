@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4009",
+    "course_name": "Transport Phenomena",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Various first principles encountered in various engineering areas. Examples cover momentum, heat & mass transfer demonstrating utility of first principles.",
+    "prerequisites": "CHEE3002 and CHEE3005",
+    "incompatible": "",
+    "restricted": ""
+}

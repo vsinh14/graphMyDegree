@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN1020",
+    "course_name": "Introductory French 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Extension of basic skills of communication in French language.",
+    "prerequisites": "FREN1010 or placement test",
+    "incompatible": "Senior French",
+    "restricted": ""
+}

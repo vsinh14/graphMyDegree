@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5013",
+    "course_name": "Small Animal Clinics",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Intra-mural clinical practical work in small animal medicine and surgery, and extra-mural clinical practical work.",
+    "prerequisites": "VETS4010, VETS4012",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

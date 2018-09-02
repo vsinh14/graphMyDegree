@@ -1,0 +1,12 @@
+{
+    "course_code": "LATN2120",
+    "course_name": "Intermediate Latin",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An intermediate course in the ancient Latin language, following on from LATN1110. The course teaches further Latin grammar and gives an introduction to the reading of several Latin authors.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "LATN1110, CL110",
+    "incompatible": "CL121, LATN1120",
+    "restricted": ""
+}

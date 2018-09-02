@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4302",
+    "course_name": "Combinatorial Designs",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 1 in odd years only)\nSelected topics from design theory, latin squares, finite geometries.",
+    "prerequisites": "MATH2301 + MATH2302",
+    "incompatible": "MATH7302",
+    "restricted": ""
+}

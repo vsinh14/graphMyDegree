@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7039",
+    "course_name": "Financial Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to financial mathematics and its applications. Mathematical models of annuities, equity and fixed-income products, futures and forward contracts, the term structure of interest rates and investment returns.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH3090 or MN391",
+    "restricted": ""
+}

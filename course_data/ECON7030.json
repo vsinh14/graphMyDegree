@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7030",
+    "course_name": "Microeconomic Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Recent developments in, & links between, microeconomic theory & economic policy at micro level.",
+    "prerequisites": "ECON2010 or 7010 or 7110",
+    "incompatible": "ECON3010 or EC313",
+    "restricted": ""
+}

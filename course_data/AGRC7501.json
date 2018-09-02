@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC7501",
+    "course_name": "Design and Analysis of Experiments",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover the principles of design of controlled experiments, including replication, randomisation, reduction of experimental error in agricultural related disciplines. Methods for analysis of variance with one and two levels of randomisation, regression and model fitting. Other topics include ANOVAs with blocking, factorial designs, Latin Square, Split plot, Split-Split-Plot, unbalanced designs. Repeated measures, introductory longitudinal analysis, response surface models and multivariate regression methods may be covered. Practical issues such as missing values and imputation will be covered. Introduction to statistical packages and computer exercises will be given in mostly R and RStudio (2015, The R Foundation for Statistical Computing). Students will be expected to develop code for particular designs and interpret output. They will be required to start with design and layout through to analysis and interpretation. Use of their own datasets will be encouraged for a special topics. Other statistical software packages may be used on occasions for demonstration purposes such as SPSS (IBM SPSS) or SAS (SAS Institute, Cary, NC).",
+    "prerequisites": "STAT1201 or equivalent",
+    "incompatible": "",
+    "restricted": ""
+}

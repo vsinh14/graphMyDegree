@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS1023",
+    "course_name": "Animal Handling, Behaviour and Welfare for Veterinary Students",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The welfare and behaviour of animals, with a focus on the theory and practice of animal handling. Practical skills required by veterinary graduates are taught, using a range of species commonly encountered by veterinarians . The animal behaviour/welfare component will integrate the basic and applied principles and provide for their application to the management of companion, farm, recreational and wild animals.",
+    "prerequisites": "ANIM1024",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7210",
+    "course_name": "Foundations of eBusiness",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces students to the nature of electronic commerce/online business, business decision making involving electronic commerce/online business. Management issues of technological infrastructure security, privacy and website development for electronic commerce/online business.",
+    "prerequisites": "BISM7202 or MGTS7202",
+    "incompatible": "BISM2233 or INFS2233 or 7210 or 7214",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

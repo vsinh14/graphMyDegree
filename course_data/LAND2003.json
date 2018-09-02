@@ -1,0 +1,12 @@
+{
+    "course_code": "LAND2003",
+    "course_name": "The Soil Environment",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Soil fertility & management. Elementary biology, physics & chemistry of soils. Plant nutrients & their cycling. Land capability assessment, soil physical factors & plant growth. Soils as environmental buffers.",
+    "prerequisites": "",
+    "incompatible": "LAND2002 or LAND2001",
+    "restricted": ""
+}

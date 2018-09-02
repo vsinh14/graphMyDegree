@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7202",
+    "course_name": "Health, Society & Research 4",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the last in a sequence of four which develop core concepts in public health, health systems and research, as required for evidence-based clinical practice. It will examine health in a world which is undergoing global change: a world facing gains in development but growing inequity; reduction in hunger and poverty, but at the same time food insecurity and the challenges of increasing global obesity; the threat of climate change, compounded by natural disaster. The key concepts and frameworks used in examining global health issues will be discussed, as will the key stakeholders and their roles. This will include WHO, UNICEF, the World Bank, the World Trade Organisation, as well as private and philanthropic organisations and public-private partnerships. Global health policy and governance, health interventions and development initiatives such as the Sustainable Development Goals will be discussed in the context of developing an understanding of the issues related to translation and implementation at country level, leaving no-one behind. The engagement of Indigenous peoples in global change will be explored, with particular attention to shared challenges of Indigenous populations and lessons learned in health and development.",
+    "prerequisites": "MEDI7201",
+    "incompatible": "MEDI7242",
+    "restricted": "Restricted to students in the second year of the MD program."
+}

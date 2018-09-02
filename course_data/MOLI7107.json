@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7107",
+    "course_name": "MR-PET Hardware and Software Integration",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will cover MR-PET instruments used for clinical applications. Consideration will be given to the physical structure of magnet, gradients and RF coils, as well as PET ring construction and integration into a combined MR-PET system.\n \nCalibration and general workflow considerations will be introduced to enable simultaneous acquisition of MRI and PET images.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to GCMRPET and MMIT students."
+}

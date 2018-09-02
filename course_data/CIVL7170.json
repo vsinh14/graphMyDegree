@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7170",
+    "course_name": "Advanced Sustainable Built Environment",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Engineering a sustainable built environment (e.g., buildings, precincts, cities) requires the ability to quantify a wide range of physical, chemical and biological processes governing sustainable performance. This course develops appropriate skills to model transport of energy and mass in the built environment. Specifically students will learn how to dynamically model flows in the context of: (1) urban air and water quality, (2) heat and mass exchanges between a building and the surrounding environment (including ground heat exchange), and (3) waste management. Students will be introduced to the critical assessment of sustainable performance from a `cradle-to-grave\u00c2\u00bf perspective, including the role of quantitative methods. Approaches to assessing sustainable performance of a range of existing and emerging construction materials are also critically reviewed and applied.",
+    "prerequisites": "CIVL4180",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

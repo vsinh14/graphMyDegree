@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3023",
+    "course_name": "Tropical Marine Ecosystems",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Tropical Coastal Ecosystems include mangrove, seagrass, and coral reefs ecosystems. The complex physical benthic structure of these ecosystems facilitates enormous trophic and ecological partitioning such that a huge number of species from almost all animal phyla are found in these habitats. In addition, they provide essential coastal protection by absorbing a large proportion of the energy stores in waves and stabilising sediment. These ecosystems are, however, under acute risk from decay due directly to human activities. This course will provide knowledge pertinent to 1) the geological history, structure and distribution of the ecosystems, 2) building and sustaining coral reefs in an oligotrophic ocean, and 3) ecological functions of mangroves and seagrass ecosystems.",
+    "prerequisites": "MARS2014 and BIOL2204",
+    "incompatible": "",
+    "restricted": "Approval of School of Biological Sciences at biologyadmin@uq.edu.au"
+}

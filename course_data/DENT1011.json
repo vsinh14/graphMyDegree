@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT1011",
+    "course_name": "Foundations of Dental Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to pre-clinical skills required in dental practice. Preclinical exercises to develop basic skills. Introduction to range of dental materials & techniques & their use in dental practice. Appreciation & application of safe working practices in the clinical setting.",
+    "prerequisites": "ORAL1010 + ORAL1020 + ORAL1030",
+    "incompatible": "",
+    "restricted": ""
+}

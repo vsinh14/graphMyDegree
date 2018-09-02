@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8010",
+    "course_name": "Microeconomics A",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A course in advanced microeconomic theory. The emphasis is on microeconomics without uncertainty.",
+    "prerequisites": "",
+    "incompatible": "EC413, ECON6010",
+    "restricted": ""
+}

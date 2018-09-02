@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4170",
+    "course_name": "Environmental Risk Assessment and Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Within the civil and environmental engineering field many projects are managed within a risk assessment framework. This course is a simulation of the planning phase of a development, taking into account safety to workers and the surrounding community; and the environmental and social impact of the plant. Students will apply risk assessment principles to reduce impacts from potential accidents and chronic emissions to acceptable levels, for those in the development and to the broader community and environment. Students will develop the capacity to formulate strategies that demonstrate a given development scenario will be compliant with relevant safety and environmental legislation and implement best practice principles.",
+    "prerequisites": "(CIVL2130 or CIVL2135) and CIVL3140 and CIVL3141 and CIVL3210 and CIVL3420",
+    "incompatible": "CHEE4002",
+    "restricted": ""
+}

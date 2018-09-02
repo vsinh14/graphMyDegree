@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7004",
+    "course_name": "Advanced Clinical Practice 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will assist students develop their own framework for advanced practice, clinical decision making & leadership in multidisciplinary teams. This framework development will assist students critically analyse their nursing practice in specialist settings. Students will learn the role & conduct of the quality audit in the practice setting.",
+    "prerequisites": "NURS7003 + NURS7007",
+    "incompatible": "",
+    "restricted": "MNP students only"
+}

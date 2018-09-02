@@ -1,0 +1,12 @@
+{
+    "course_code": "JOUR7888",
+    "course_name": "Thesis",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Journalism & Communication Sch",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "This course involves the writing/production of extended pieces of journalism on a single theme under editorial supervision. The journalism can be for print, broadcast or online publication.",
+    "prerequisites": "JOUR7511, JOUR7500, JOUR7201, JOUR7292 and JOUR7222",
+    "incompatible": "JOUR7889",
+    "restricted": "Only to be completed in the last semester of study."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7930",
+    "course_name": "Thesis",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "(If enrolling in this course across 2 semesters: Students commencing in semester 1 must enrol in ECON7931 for both semesters. Students commencing in semester 2 must enrol in ECON7932 for both semesters. Students enrolling in a single semester must enrol in ECON7930).",
+    "prerequisites": "(ECON7310 or 7350 or 7360 and 7920 or 7950) or (ECON2300 or 3300 or 3350 or 3360 + 7920 or 7950)",
+    "incompatible": "EC899",
+    "restricted": "Permission from Head of School (Summer only)"
+}

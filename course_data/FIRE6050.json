@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE6050",
+    "course_name": "Fire Dynamics Laboratory",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "(course runs for one week intensive - total 20 hours)\nThis course aims to enable students to collect and analyse data to establish the origin, validity and limitations of fire safety calculations.",
+    "prerequisites": "FIRE6000",
+    "incompatible": "",
+    "restricted": ""
+}

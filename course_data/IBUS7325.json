@@ -1,0 +1,12 @@
+{
+    "course_code": "IBUS7325",
+    "course_name": "Global Management Thesis B",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "6",
+    "duration": "One Semester",
+    "description": "Students are required to complete a research thesis on topic of their interest within the global environment. Topics are to be approved by Head of the Business School.",
+    "prerequisites": "#16 from the MGMan List",
+    "incompatible": "",
+    "restricted": "MGMan inbound students"
+}

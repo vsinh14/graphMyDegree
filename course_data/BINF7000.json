@@ -1,0 +1,12 @@
+{
+    "course_code": "BINF7000",
+    "course_name": "Advanced Bioinformatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced Bioinformatics will equip the student with the interdisciplinary knowledge and skills necessary to meet the data-centred challenges and demands of modern-day biology. Effective methods and algorithms for discovering patterns in genomic data of different types are discussed, and in several cases developed and applied to representative problems with appropriate consideration for scientific rigour. The course aims to instil an understanding of the scope of computational and statistical approaches for the integration and analysis of biological data; the discovery of structural and functional features from a range of relevant data sources; and the design of models of biological processes at different scales and levels of abstraction.",
+    "prerequisites": "BINF6000",
+    "incompatible": "BIOL3014",
+    "restricted": ""
+}

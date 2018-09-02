@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI4010",
+    "course_name": "Obstetrics & Gynaecology",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "This Core Clinical Rotation is in Obstetrics and Gynaecology. By the end of this rotation, you will have built on your current knowledge, skills and personal attributes from previous years and acquired further clinical skills in women's health. Students are attached for 8 weeks to an Obstetrics and Gynaecology unit in a hospital within a Clinical School. It is expected that students will achieve a solid foundation to critically evaluate issues in women's health and reproductive health care.",
+    "prerequisites": "Satisfactory completion of Yrs 1 & 2 in the MBBS program.",
+    "incompatible": "MEDI4011",
+    "restricted": "MBBS students only."
+}

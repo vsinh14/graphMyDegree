@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT2701",
+    "course_name": "Biometrics I",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to basic statistical techniques & application of those techniques for experimental design, collection, summarising & analysing of biological data & communication of results of those analyses.",
+    "prerequisites": "Students without Year 12 Maths B (or equivalent) must complete MATH1040 prior to commencing STAT2701",
+    "incompatible": "STAT1201 & ECON1310",
+    "restricted": ""
+}

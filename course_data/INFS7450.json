@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7450",
+    "course_name": "Social Media Analytics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The growth of various social media platforms over the last decade has revolutionized the way individuals interact and industries conduct business. Individuals produce data at an unprecedented rate by interacting, sharing, and consuming content through social media. Understanding and processing this new type of data to glean actionable patterns presents challenges and opportunities for interdisciplinary research, novel algorithms, and tool development. This course integrates social media, network analysis and data mining to provide a convenient and coherent platform for students to understand the basics and potentials of social media analytics. It introduces basic concepts in social media analytics, metrics to characterize networks, models to explain the generation of networks, and methods to analyse networks. The students learn to use software tools to visualize and analyse real-world social network data. The course also introduces a wide variety of advanced topics in social media analytics such as information diffusion, community detection, behaviour analytics, social recommendations and privacy preserving in social media. If you want to share a piece of information or a site on social media, you would like to grab precious attention from other equally eager users of social media; if you are curious to know what is hidden or who is influential in the complex world of social media, you might wonder how one can find this information in big and messy social media; if you hope to serve your customers better in social media, you certainly want to employ effective means to understand them better. These are just some scenarios in which this course can help.",
+    "prerequisites": "COMP7505 and STAT7003 and INFS7203",
+    "incompatible": "",
+    "restricted": ""
+}

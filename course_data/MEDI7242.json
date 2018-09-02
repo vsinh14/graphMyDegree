@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7242",
+    "course_name": "Health, Society and Research 4: Global Health and Scholarship of Research",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the fourth in a sequence of four courses, which develop core concepts in public health, health systems and research, as required for evidence-based clinical practice.",
+    "prerequisites": "MEDI7241",
+    "incompatible": "MEDI7202, PUBH7645",
+    "restricted": "MD students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL7102",
+    "course_name": "Introduction to Logic (Graduate)",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the formal aspects of the modern science and art of logic for students of philosophy, mathematics or computer science, or indeed anyone interested in logic. No technical or mathematical background assumed.",
+    "prerequisites": "",
+    "incompatible": "PD102, PHIL1020",
+    "restricted": ""
+}

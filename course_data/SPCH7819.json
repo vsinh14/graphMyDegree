@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7819",
+    "course_name": "Practice Education",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A clinical placement course which consolidates students' skills in assessing and managing a range of speech pathology cases.",
+    "prerequisites": "Completed all of Year one of the MSpPathSt",
+    "incompatible": "SPCH4105",
+    "restricted": ""
+}

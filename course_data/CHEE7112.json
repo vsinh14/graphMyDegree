@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7112",
+    "course_name": "Integrated Safety Design and Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(First offered 2013) Extension of CHEE4002 and themes integrated through the course. It will address issues of how to manage safety from two stand-points: Inherent safety in design and safety management of operations (safety indicators, human factors, reward systems etc). This will look at different tools (currently) used in industry as well emerging trends. Numerous case studies abound in this area and students will be asked to link these with current literature in the area.",
+    "prerequisites": "(CHEE4060 or CHEE3006) and CHEE4002",
+    "incompatible": "",
+    "restricted": ""
+}

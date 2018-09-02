@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE2123",
+    "course_name": "Structural Mechanics for Mining",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "NOTE: This course is discontinued from 2018, Students who have not completed MINE2123, need to complete MINE2107.\nBasic concepts of deformations, deflections and internal stresses within structures; fundamental theory of loads and their effects on structural materials and elements in terms of stress and strain; and design methods of structural members with applications in mining engineering problems.",
+    "prerequisites": "ENGG1010 or ENGG1400",
+    "incompatible": "MECH2301; MECH2300; CIVL2330",
+    "restricted": ""
+}

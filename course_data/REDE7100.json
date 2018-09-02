@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE7100",
+    "course_name": "Valuation of Industrial and Commercial Property",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the valuation of industrial and commercial property. Valuation methods, principles and their application. The roles and responsibilities of a professional valuer. Application of valuation methodology to industrial and commercial real estate. Applied computer modelling for income producing properties.",
+    "prerequisites": "",
+    "incompatible": "REDE1100 or 1500 or 2501 or 3100",
+    "restricted": ""
+}

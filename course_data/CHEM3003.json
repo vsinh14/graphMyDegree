@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3003",
+    "course_name": "Reactivity & Properties of Molecular Systems",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT AVAILABLE AFTER 2009. Chemical energetics; entropy; work & reversibility; phase equilibria; solution properties. A statistical approach to chemical energetics & equilibria. An introduction to quantum chemistry. Applications to the bonding and structure of molecules. Overview of electronic structure calculations, molecular properties & spectroscopy.",
+    "prerequisites": "CHEM2038 or 2056 or 2002",
+    "incompatible": "",
+    "restricted": ""
+}

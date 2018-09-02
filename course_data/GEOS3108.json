@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOS3108",
+    "course_name": "Meteorology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the meteorology of the tropical & sub-tropical regions of Australia. Building on knowledge gained in GEOS2100 and GEOS2101 students will learn about land & water surface - atmosphere interactions over a wide range of different environments from the desert regions of central Australia to the Great Barrier Reef. Students will develop understanding of how exchanges of heat, moisture and momentum between the earth's surface and atmosphere effect the meteorology of the tropics and sub-tropics including sea breezes, thunderstorms, tropical cyclones & the monsoon. The influence of El Nino and La Nina on the meteorology of tropical & sub-tropical Australia will be explored in this course along with potential impacts of global warming.",
+    "prerequisites": "",
+    "incompatible": "GEOS3101",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

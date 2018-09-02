@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7122",
+    "course_name": "Labour Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is focused on the federal law regulating employment. The course seeks to develop student awareness of this practical and important area, covering both individual and collective aspects, and common law, constitutional and statutory issues. It also places the black-letter law in its political context, including the balance between employee protection and economic efficiency.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA406 or 743 or LAWS5122 or 7322",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

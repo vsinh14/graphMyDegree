@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2420",
+    "course_name": "The Macroeconomy & Business Conditions",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of the macroeconomy as a complex system. How macroeconomic factors & domestic macroeconomic policies affect the business conditions faced by large & small firms. Introduction to macroeconomic modelling, forecasting & scenario planning.",
+    "prerequisites": "ECON1020 or EC122",
+    "incompatible": "ECON2020 or EC212",
+    "restricted": ""
+}

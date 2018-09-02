@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3360",
+    "course_name": "Analysis and Communication of Biological Data",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Communication and Analysis of Biological Data is a practical, skills based course, useful for a variety of science related career paths. The course integrates the analysis and modelling of common types of biological data with effective ways of communicating the results to a range of different audiences. The course builds upon and extends students' knowledge of statistical techniques learned in BIOL2006 and when and how to apply them to biological data. It introduces students to some common mathematical models used in biology to predict complex biological outcomes and uses a hands-on approach to learning the use of R programming for data analysis. Without the ability to communicate results, the effort involved in obtaining them is rendered useless, hence the course has a strong emphasis on learning to clearly articulate statistical methods and results in writing and speaking so they are readily understood by other scientists and non-scientists, such as in industry or government. As well as specifically addressing the challenge of how to write and speak about complex topics\nsuch as uncertainty and sampling, this course will equip students with a variety of fundamental writing and speaking skills which will lead to improved performance in communication tasks in other courses and the workplace.",
+    "prerequisites": "BIOL2006 or BIOL2106",
+    "incompatible": "",
+    "restricted": ""
+}

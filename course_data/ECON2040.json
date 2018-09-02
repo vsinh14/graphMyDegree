@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2040",
+    "course_name": "Macroeconomic Policy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory and practice of fiscal and monetary policy over the short/medium term. Conventional and unconventional monetary policy. Business cycles and stabilization policy. Exchange rate regimes. Labour markets and unemployment. Microfounded macroeconomic models. Macroecomic data analysis.",
+    "prerequisites": "ECON1050 + (ECON2020 or ECON2021)",
+    "incompatible": "EC221",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3701",
+    "course_name": "Administrative Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is concerned with the legal accountability of bodies wielding public power or discharging public functions to ensure that people's rights and interests are respected in their dealings with governments and their delegates or agents. Public power encompasses administrative, judicial and legislative power, and this course is primarily concerned with accountability for the exercise of administrative (executive) power in a range of settings.",
+    "prerequisites": "LAWS1703",
+    "incompatible": "LAWS2115 or LAWS5018",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

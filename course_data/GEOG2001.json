@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOG2001",
+    "course_name": "Human Mobility and Migration",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course looks at geographical theories & models of human spatial behaviour. It will examine human activities in time & space, including case studies relating to health, residential location and journey to work, crime and anti-social behaviour, travel & transport, consumer behaviour & retailing. The course will explore both empirical material of spatial behaviour in these contexts and GIS and modelling approaches to effect better planning solutions (especially in relation to facility location).",
+    "prerequisites": "GEOG1000 or GEOM1000",
+    "incompatible": "GEOS2201",
+    "restricted": "Minimum enrolment quota of 15 students"
+}

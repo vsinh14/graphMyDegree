@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1114",
+    "course_name": "Law of Torts B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an intermediate level analysis of the law and policy of Australian tort law, comprising study of particular applications of the tort of negligence, breach of statutory duty, defamation, invasion of privacy, vicarious liability, actions on death and alternative methods of providing compensation for accidental injury. The course seeks to develop students' knowledge and understanding of the field as well as their ability to solve complex legal problems through appropriate research.",
+    "prerequisites": "LAWS1111 + 1113",
+    "incompatible": "LAWS1002 or 2703 or 7102",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

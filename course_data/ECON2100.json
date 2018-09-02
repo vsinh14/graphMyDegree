@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2100",
+    "course_name": "Philosophy of Economic Thought",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Aims to identify philosophical foundations of modern economics. Reference made to Hobbes, Locke, Smith & Bentham. Rival socio-economic philosophies introduced & compared. Discusses question of whether mainstream economics is a value-free science. Examines changing conceptions of meaning of science & relationships between economics, politics & culture.",
+    "prerequisites": "ECON1010 + ECON1020",
+    "incompatible": "EC214",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR3009",
+    "course_name": "Professional Development",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course prepares students for entry into the workforce by allowing students to gain insights into careers within the Tourism, Hospitality and Event industries with an opportunity to compare theory with practice.",
+    "prerequisites": "#28 of study",
+    "incompatible": "MGTS3004 or TALM3111 or 3112 or MGTS3000",
+    "restricted": "Final year BIHTM students only"
+}

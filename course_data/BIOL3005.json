@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3005",
+    "course_name": "Biological Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT AVAILABLE AFTER 2009. Chemistry of biologically important molecules & cellular processes. Topics include enzymes mechanisms; mechanism of action of antibiotics & other bioactive molecules; DNA-ligand interactions; & metal ions in biology.",
+    "prerequisites": "CHEM1013 or 1030",
+    "incompatible": "",
+    "restricted": ""
+}

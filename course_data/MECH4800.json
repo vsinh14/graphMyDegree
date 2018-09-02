@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH4800",
+    "course_name": "Space Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course draws upon and extends many of the methods used by mechanical and space engineers in their professional practices. You will learn how to perform advanced trajectory design and launch vehicle sizing; analyse issues related to thermal loading and control of space systems, perform reliability estimates for complex systems, analyse complicated tasks by reducing them to their individual components, and communicate your ideas and concepts through engineering drawings and written and oral reports. For students who need to complete MECH4800, you will now enrol in AERO4800. This is a Course Code change only.",
+    "prerequisites": "MECH2210 + MECH3400 + MECH2700",
+    "incompatible": "AERO4800",
+    "restricted": ""
+}

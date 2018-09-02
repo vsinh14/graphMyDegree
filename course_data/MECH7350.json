@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH7350",
+    "course_name": "Rotating Machinery",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(No longer offered). This course provides the theoretical and practical background knowledge required to understand the design, construction, maintenance, testing, applicable standards, protection, failure mechanisms and failure causes of motors, turbines and generators used in the power generation industry.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "ME (Power), GCEng (Power) - minimum quota 15"
+}

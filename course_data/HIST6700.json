@@ -1,0 +1,12 @@
+{
+    "course_code": "HIST6700",
+    "course_name": "Honours Research Thesis",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Students commencing in Semester 1 enrol in HIST6700; Students commencing in Semester 2 enrol in HIST6701.",
+    "prerequisites": "",
+    "incompatible": "HIST6701, HIST6702",
+    "restricted": ""
+}

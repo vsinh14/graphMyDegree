@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7103",
+    "course_name": "Auditing",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Conceptual framework of field of auditing. Problem-solving skills to carry out effective & efficient audits.",
+    "prerequisites": "(ACCT7101 + ACCT7102)",
+    "incompatible": "ACCT3101",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

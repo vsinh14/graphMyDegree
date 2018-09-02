@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4002",
+    "course_name": "Impact and Risk in the Process Industries",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will help you to understand, articulate and apply contemporary risk management tools and approaches for managing risks in the process industries. Specific topics covered include: Fundamentals of risk management; Engineering professional practice; People and risk; Identifying, assessing and treating risks; Monitoring and reviewing risks; Environmental and social risk; Process safety; Project risk; Supply chain risk.",
+    "prerequisites": "CHEE2010 or CHEE3010",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE6060",
+    "course_name": "Design Project: Code Based",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "This course provides the student with the opportunity to develop a prescriptive solution to a building design.",
+    "prerequisites": "FIRE6000 and FIRE6020 and FIRE6030",
+    "incompatible": "",
+    "restricted": ""
+}

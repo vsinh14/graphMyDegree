@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4180",
+    "course_name": "Sustainable Built Environment",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops the scientific and engineering skills necessary to design energy-efficient and sustainable buildings and built environments. The course covers fundamentals of heat and mass transfer within and through the building envelope, active and passive modifiers (including green roofs and walls) and exchanges with the surrounding environment. Sustainable approaches to supporting transport and water and waste infrastructure in the context of the building set within a precinct will also be studied. Current sustainability certification schemes are presented and discussed critically (e.g., Green Star, LEED, BREEAM).",
+    "prerequisites": "CIVL3140 and CIVL3141 and CIVL3210 and CIVL3350 and CIVL3420",
+    "incompatible": "",
+    "restricted": ""
+}

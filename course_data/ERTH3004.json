@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3004",
+    "course_name": "Geostatistics",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Geostatistics is a collection of mathematical tools, widely used in every branch of geosciences. It is used to understand the spatial correlation of data, and interpolate where data is missing. Its applications can be as diverse as mining geology, petroleum geology, geochemistry, hydrogeology, hydrology, soil pollution characterisation, meteorology, oceanography, and agriculture. This course will introduce students to the core theoretical knowledge of geostatistics. Hands-on case studies will provide an understanding of its applications and highlight the necessity of translating geo-knowledge into a mathematical/numerical model. Tools such as basic statistics, variography and estimation methods will be covered during the course.",
+    "prerequisites": "STAT1201",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7101",
+    "course_name": "Molecular Targets and Imaging Probes",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This unit of study explores the characteristics of molecular targets and imaging probes that are required for successful molecular imaging experiments. A molecular target should: (i) detect a fundamental feature of a pathophysiological process, (ii) be validated by neuropathology, (iii) allow detection of disease early in its time course and (vi) lend itself to measurement with a biomarker that is reliable and minimally invasive. Once a molecular target for a particular disease is identified the methodology and requirements of a molecular probe suitable for imaging that target will be described. For example, in brain studies these include: (i) the imaging probe enters the brain in sufficient quantities, (ii) is stable in vivo, (iii) has moderate lipophilicity, (vi) exhibits low uptake of metabolites in brain, (v) is retained in the brain, (vi) displays high specificity and (vii) displays low non-specific binding.On completion of this unit of study, students should be able to identify molecular targets that may be useful in studying disease processes and have a clear understanding of the properties an imaging probe should possess to enable in vivo imaging of the molecular target of interest. In addition, this unit will provide the rationale for determining whether a drug is suitable for development into an imaging probe and the isotopes and radiolabelling methodologies associated with that process.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

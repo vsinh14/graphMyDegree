@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3019",
+    "course_name": "Animal Reproduction",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A comprehensive understanding of animal reproductive anatomy, physiology and behaviour.",
+    "prerequisites": "AGRC1020; ANIM2051; ANIM2052",
+    "incompatible": "ANIM7219",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC1019",
+    "course_name": "Plant and Animal Biology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The diversity of animals and plants and how they function in agricultural production systems and in nature from a knowledge of their anatomy, morphology, organ system function and ecology.",
+    "prerequisites": "",
+    "incompatible": "AGRC2010, BIOL2660",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT4401",
+    "course_name": "Advanced Statistics I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only). \nState of the art in advanced statistics. \nThe selection of topics will depend on the (research) interests of the lecturer, and will lie in the areas of multivariate analysis, non-linear models and computational methods.",
+    "prerequisites": "STAT3001",
+    "incompatible": "STAT7502",
+    "restricted": ""
+}

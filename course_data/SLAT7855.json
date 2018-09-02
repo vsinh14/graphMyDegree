@@ -1,0 +1,12 @@
+{
+    "course_code": "SLAT7855",
+    "course_name": "Quantitative Research Methods in Applied Linguistics",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces basic statistical techniques used in quantitative research in applied linguistics and linguistics. The rationale and assumptions for various techniques will be presented and practice given in applying them to data using SPSS.",
+    "prerequisites": "SLAT7806",
+    "incompatible": "",
+    "restricted": ""
+}

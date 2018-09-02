@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY2101",
+    "course_name": "Foundations of Physiotherapy Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides fundamental knowledge and understanding to assess and manage patient conditions involving musculoskeletal pathology, injury and pain. The course is based on a client-centred framework, uses an interprofessional teamwork approach and includes management of occupational health and safety. As foundation for comprehensive and informed patient assessment and management, over three blocks the course covers: 1) Introduction to mobility aids, orthoses and amputee management; 2) Neuromusculoskeletal Physiotherapy: Tissue pathology repair processes, patient assessment and pain perception; 3) Medical and physiotherapy management of orthopaedic, vascular, burns and rheumatologic disorders; within a biopsychosocial framework.",
+    "prerequisites": "All Year One courses for the BPhty (Hons)",
+    "incompatible": "",
+    "restricted": "BPhty students"
+}

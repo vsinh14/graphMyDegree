@@ -1,0 +1,12 @@
+{
+    "course_code": "ECHO7002",
+    "course_name": "Echocardiography: Basic Clinical Applications",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide the student with the skills and knowledge to perform a detailed assessment of the valves and will introduce them to pathology involving the great vessels. Assessment of pulmonary hypertension will be covered. The principles of artefact generation and recognition will be covered.",
+    "prerequisites": "ECHO7001",
+    "incompatible": "",
+    "restricted": "Restricted to Graduate Certificate in Critical Care Echocardiography students only."
+}

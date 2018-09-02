@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC3034",
+    "course_name": "Topics in Applied Psychology",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides coverage of advanced topics in the application of psychological theory to real-world settings. Emphasis is on the application of theories in social, organisational, and clinical psychology to practical issues of everyday life.",
+    "prerequisites": "",
+    "incompatible": "PSYC3033",
+    "restricted": "Restricted to students enrolled in the Bachelor of Psychological Science(Honours)"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3001",
+    "course_name": "Ore Deposits & Exploration Geology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Geological processes leading to ore genesis; geological controls & tectonic settings of ore deposits. Ore petrography. Exploration methods. Field trip, additional fee payable.",
+    "prerequisites": "ERTH2004 and ERTH2006 (ERTH2005 prior to 2015)",
+    "incompatible": "ERTH7111",
+    "restricted": ""
+}

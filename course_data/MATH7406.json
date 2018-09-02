@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7406",
+    "course_name": "Control Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even-numbered years only)\nTopics from: state space control; linear systems; calculus of variations & Pontryagin principle; optimal control, quadratic optimisation, Riccati equations; stability; LQG, Kalman filtering; frequency domain theory; Matrix transfer functions, realisations; coprime factorisation; robust control & H theory.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4406",
+    "restricted": ""
+}

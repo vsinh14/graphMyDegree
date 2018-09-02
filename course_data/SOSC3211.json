@@ -1,0 +1,12 @@
+{
+    "course_code": "SOSC3211",
+    "course_name": "Project",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "SOSC3201 and SOSC3211 should be completed in consecutive semesters. Recommended to be completed in final year of program. Integrates and applies skills and knowledge developed in core courses, and majors, through applied research projects requiring students to identify research problems related to their major, and to plan, implement and evaluate a research project to address the problem.",
+    "prerequisites": "SS320 or SOSC3201",
+    "incompatible": "SS321",
+    "restricted": "Only available to BSocSc students"
+}

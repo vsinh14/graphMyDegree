@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7009",
+    "course_name": "MagneticResonance Spectroscopy & Applications",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory of single voxel spectroscopy & chemical shift imaging pulse sequences. Discussion of sources of artefact & their effect on interpretation. Methods for quantifying & interpreting in the clinical setting.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite",
+    "incompatible": "",
+    "restricted": ""
+}

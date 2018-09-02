@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4270",
+    "course_name": "Geotechnical Investigation & Testing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Purpose of geotechnical investigation and testing; geotechnical site investigation methods, including test pitting, drilling, soil sampling, rock coring, in situ testing, cone penetration testing of soil profiles, and geophysical testing; planning a geotechnical investigation and testing program; laboratory testing methods for soils and rocks, their applications and limitations, and their interpretation; geotechnical parameter assessment. [An optional field exercise will be offered during the mid-semester break.]",
+    "prerequisites": "CIVL3210",
+    "incompatible": "",
+    "restricted": ""
+}

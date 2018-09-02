@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3222",
+    "course_name": "Model Organism Genetics",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will investigate the full breadth of experimental paradigms for genetic analysis in four multicellular model genetic organisms (Arabidopsis, Drosophila, C. elegans and mouse) through a structured series of lectures with a focus on the primary research literature. A series of research paper discussions will be integrated with the lectures. In the latter portion of the course, students will select an academic mentor who will assign a research problem to them. The academic mentor will then guide students in the development of a research proposal designed to address the assigned problem.",
+    "prerequisites": "BIOL2202 or BIOL2902",
+    "incompatible": "",
+    "restricted": ""
+}

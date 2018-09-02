@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7825",
+    "course_name": "Experimental Design",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The lecture component covers experimental techniques, data analysis, and the design of experiments and instruments. In the laboratory students gain experience in advanced laboratory physics by carrying out a variety of experiments including an open-ended project style experiment. They learn special techniques of experimental physics, including analogue feedback control, and further develop skills in writing scientific reports and maintaining laboratory notebooks.",
+    "prerequisites": "",
+    "incompatible": "PHYS3825",
+    "restricted": "Permission of Head of School"
+}

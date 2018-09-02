@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM1000",
+    "course_name": "Introduction to Criminology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An overview of the nature of crime in Australia and the different approaches to understanding criminal behaviour. The course seeks to ground students with an understanding of the causes of crime, the major methods for measuring crime, as well as the dominant theoretical perspectives in the field of Criminology.",
+    "prerequisites": "",
+    "incompatible": "SOCY1040",
+    "restricted": ""
+}

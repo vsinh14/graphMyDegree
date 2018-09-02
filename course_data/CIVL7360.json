@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7360",
+    "course_name": "Computational Design and Structural Geometry",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A range of advanced computational methods exist to enable engineers to solve complex analysis and design challenges. The first half of this course introduces students to topics related to computational methods for design problems, including: parametric design, generative design, optimisation & form-finding, and digital fabrication. The second half of this course introduces students to topics related to computational methods for design and analysis of performance-driven structural geometries, including: cable-net & membrane structures (tension), shell structures (compression), tensegrity structures (tension & compression), and bending-active structures (bending).",
+    "prerequisites": "CIVL4332 or MECH3300",
+    "incompatible": "CIVL4250",
+    "restricted": "ME in Civil and Structural Engineering or ME in Civil and Fire Safety Engineering"
+}

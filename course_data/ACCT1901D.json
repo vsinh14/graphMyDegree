@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT1901D",
+    "course_name": "Financial Accounting",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This is an introductory course that provides a conceptual foundation for understanding the purpose of accounting, what an accounting system is and how this system provides information about business activities. The course also provides insight into how persons external to a business can use the financial statements produced by the business' accounting system to form opinions about its performance.",
+    "prerequisites": "MATH1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

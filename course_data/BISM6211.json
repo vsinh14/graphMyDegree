@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM6211",
+    "course_name": "Information Systems Honours",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Critical analysis of current research in information systems. Review of principle perspectives in the current IS literature. Development of analytical capabilities in regard to modern IS research.",
+    "prerequisites": "2 units of BISM/MGTS course + permission from Head of School",
+    "incompatible": "INFS6211",
+    "restricted": "BAdvBus(Hons), BCom(Hons), BAdvFinEcon(Hons), BInfTech(Hons), GCBusRMeth, GDipBRM, MCom, PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

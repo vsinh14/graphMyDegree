@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC7830",
+    "course_name": "Music Performance B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course delivers an extension to Performance A - consolidation of professional equivalent level solo instrumental skills with a greater emphasis on collaborative music-making and instrument specific set element examination.",
+    "prerequisites": "MUSC7820",
+    "incompatible": "",
+    "restricted": ""
+}

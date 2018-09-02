@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3526",
+    "course_name": "Systems Thinking",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Decision making in any discipline requires an understanding of how complex systems work and how decisions and policies can influence system behaviour. This course introduces the principles and tools of Systems Thinking and their application to problem solving and management.",
+    "prerequisites": "",
+    "incompatible": "ENVM2523; ENVM3526",
+    "restricted": ""
+}

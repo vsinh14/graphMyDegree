@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC2000",
+    "course_name": "Introduction to Computational Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course has been replaced by SCIE2100.",
+    "prerequisites": "SCIE1000 or CSSE1001 + (MATH1051 or MATH1061)",
+    "incompatible": "MATH2210",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LATN2230",
+    "course_name": "Latin Language & Literature 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course teaches further Latin grammar and syntax, and studies selections from Latin authors. It involves both a literary and linguistic study of the writers concerned, together with their social and historical significance.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "LATN1120, LATN2120 or Senior Latin",
+    "incompatible": "CL111",
+    "restricted": ""
+}

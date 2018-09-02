@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2705",
+    "course_name": "Trusts and Equity II",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the administration of trusts. Resulting and constructive trusts are also dealt with, but the main focus of the course is on the powers and duties of trustees and remedies in respect of breaches of trust. Related areas of law, in particular the law of fiduciary obligations and remedies in respect of breaches of such obligations are also considered in detail.",
+    "prerequisites": "LAWS1702, LAWS2702, LAWS2704",
+    "incompatible": "LAWS3010 or LAWS3114",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

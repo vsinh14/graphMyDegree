@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5014",
+    "course_name": "Rural Veterinary Practice",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "",
+    "description": "Intra-mural and extra-mural clinical practical working all aspects of a veterinary service to rural clients (emphasis on diagnosis and management of livestock diseases).",
+    "prerequisites": "VETS4011, VETS4012, VETS4021",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7501",
+    "course_name": "Mathematics for Data Science 1",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with the mathematical foundations needed for analytical and statistical data science. The course will introduce logic, proofs and the elementary properties of graphs which are used for modelling networks. Limits, sequences and series which form the basis of calculus are introduced. Derivatives, maxima/minima, integration and Taylor series. Extension to multi-dimensional problems. Partial derivatives, maxima and minima. Data fitting using least squares. Numerical integration and solution of non-linear equations. Linear Algebra. Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Use of mathematical software for linear algebra applications.",
+    "prerequisites": "Qld Year 12 Maths B (or equivalent)",
+    "incompatible": "MATH1050, MATH1061, MATH1051, MATH1052, MATH7861",
+    "restricted": ""
+}

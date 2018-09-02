@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE3101",
+    "course_name": "Statutory Valuation",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of valuation methodology within a framework of legal precedents & statutory law. Role of an expert witness with respect to valuation & assessment of compensation for compulsory purchase of land.",
+    "prerequisites": "REDE1100",
+    "incompatible": "REDE3501 or 7101",
+    "restricted": ""
+}

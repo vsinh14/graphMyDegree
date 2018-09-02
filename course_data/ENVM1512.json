@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM1512",
+    "course_name": "Ecological Economics",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to economic concepts, models and decision tools for use in managing the economy-environment system. Application to issues such as common pool resource management, pollution control, biodiversity conservation, and climate change.",
+    "prerequisites": "",
+    "incompatible": "ECON2960 or AREC2001",
+    "restricted": ""
+}

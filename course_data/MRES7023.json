@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7023",
+    "course_name": "Medical Image Processing and Analysis",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will cover the fundamental components of medical image analysis and visualisation. It will start with an introduction to the underlying concepts and mathematics of biomedical image processing including data storage types and co-ordinate systems. This will be followed by the low level image processing techniques of Quality Control, Intensity Correction, Registration and Segmentation.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Minimum 5 students (including 1 internal student)"
+}

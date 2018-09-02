@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL1007",
+    "course_name": "Molecular & Cellular Biology for Physiotherapists",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to biochemistry & cell biology emphasising aspects of particular relevance to physiotherapy; including structure of animal cells, bacteria & viruses, biological chemistry especially protein structure & function; introductory metabolism & nutrition; molecular genetics; infection & immunity.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BPhty"
+}

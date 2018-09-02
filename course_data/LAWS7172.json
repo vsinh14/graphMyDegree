@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7172",
+    "course_name": "Advanced Jurisprudence",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An advanced analysis of selected issues in legal philosophy, including the ethical dimensions of law, and sociological, economic and epistemological theories of law and society.",
+    "prerequisites": "LAWS7108",
+    "incompatible": "LA426 or 758 or LAWS5172 or 7372",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

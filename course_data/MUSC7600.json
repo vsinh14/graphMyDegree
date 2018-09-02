@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC7600",
+    "course_name": "Advanced Instrumental Conducting",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "A master class performance & short conducting session. Systematic development of fundamental pedagogical concepts; critical evaluation of teaching; exploration of current literature relating to the practice of teaching a particular instrument.\nPlease note that this course offering may be cancelled if fewer than 10 students enrol.",
+    "prerequisites": "MUSC3170 or permission of Head of School",
+    "incompatible": "MUSC6700",
+    "restricted": "course offering may be cancelled if fewer than 10 students enrol"
+}

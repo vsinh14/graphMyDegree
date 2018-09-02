@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC8181",
+    "course_name": "Cognitive Neuroscience of Clinical Neuropsychology",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Building upon PSYC8161 Neuroanatomy for Neuropsychologists and PSYC8171 Diagnosis and Management of Neuropsychological Disorders, this course pursues a theoretical perspective for the manifestation of neuropsychological disorders such as attention, memory, language and movement. The teaching material will focus on the findings of recent paradigms which combine neuroscience techniques (imaging, behavioural and physiological recordings) with cognitive psychology and neuropsychology. The aim of this course is to provide a sound understanding of the cognitive mechanisms underlying neuropsychological disorders.",
+    "prerequisites": "",
+    "incompatible": "PSYC8233, PSYC8243",
+    "restricted": "Restricted to students in DPsych"
+}

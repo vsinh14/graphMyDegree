@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7051",
+    "course_name": "Transformer Technology Design and Operation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered in odd years only.)\nTransformers are an essential component in any electrical system. Correct specification, installation and maintenance determine the viability of the system in which the transformers are installed. This course explores the construction, operation and maintenance of power transformers, including the best practice of condition monitoring techniques.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

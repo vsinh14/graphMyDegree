@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5151",
+    "course_name": "Law and Technology",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Legal and commercial rules and issues underpinning electronic commerce, including electronic banking, transnational electronic business transactions, electronic sale of goods and verification, cybercrime, jurisdictional issues and privacy.",
+    "prerequisites": "All Level 1 LAWS courses",
+    "incompatible": "LAWS7151 or 7855",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

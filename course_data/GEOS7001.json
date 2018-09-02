@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOS7001",
+    "course_name": "Research Philosophy, Design & Implementation",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory, philosophy & application of research in geography, planning and environmental management with an emphasis on building up the research proposal required for Masters or Doctoral theses.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "GEOS6001",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3600",
+    "course_name": "Counterpoint",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Study of techniques of Renaissance and Baroque polyphony. Associated analytical & writing exercises.\n\nPlease note that this course offering may be cancelled if fewer than 10 students enrol.",
+    "prerequisites": "MUSC2060 or permission of Head of School of Music",
+    "incompatible": "MU337",
+    "restricted": "course offering may be cancelled if fewer than 10 students enrol"
+}

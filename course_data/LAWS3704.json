@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3704",
+    "course_name": "Jurisprudence",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course offers an overview of some of the main historical, doctrinal and philosophical perspectives that have influenced the understanding of law as an institution, together with an introduction to key theoretical positions and interdisciplinary movements that provide critique and commentary on the role of law.",
+    "prerequisites": "#16 LAWS courses",
+    "incompatible": "LAWS2008 or LAWS4111",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

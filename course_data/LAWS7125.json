@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7125",
+    "course_name": "Unjust Enrichment",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines selective unjust enrichment claims. Topics include mistaken transactions; misdirected payments; claims arising out of ineffective, incomplete or failed contracts; benefits obtained by improper coercion; disgorgement of the profits of wrongdoing; defences and proprietary remedies for unjust enrichment.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA429 or 761 or LAWS5125 or 7325",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2700",
+    "course_name": "Engineering Analysis I",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Modelling & analysis in mechanical engineering. Computer-assisted problem solving: calculation, simulation & numerical methods.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

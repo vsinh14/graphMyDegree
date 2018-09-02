@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2510",
+    "course_name": "Music in Society 3",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Study of Western Music from circa 1890-present in social context; study of selected representative works.",
+    "prerequisites": "MUSC1050, MUSC2051",
+    "incompatible": "MU299",
+    "restricted": ""
+}

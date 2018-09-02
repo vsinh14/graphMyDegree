@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCH1140",
+    "course_name": "Buildings in History & Culture",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Architecture School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to architecture through a global, cross-cultural, historical analysis of significant buildings and their place in culture.",
+    "prerequisites": "",
+    "incompatible": "ARCH1110",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL1020",
+    "course_name": "Genes, Cells & Evolution",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students undertaking this course will examine the fundamental building blocks of life: cells and genes. We will explore the connections between physical processes at the molecular level and whole organism phenotype and identify how cellular, genetic and evolutionary processes affect everyday life.",
+    "prerequisites": "",
+    "incompatible": "CHEE1001",
+    "restricted": "Any student who has completed AGRC1020, AGRC1021, ANIM1060, or AGRC1041 will need permission from the Faculty of Science to enrol into BIOL1020. Please contact the Faculty of Science."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2210",
+    "course_name": "Intermediate Mechanical & Space Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Machinery dynamics; energy methods; Lagrange's equations; vibration of single degrees of freedom systems; vibration isolation; balancing of rotating & reciprocating masses. Orbital mechanics & 3D rigid body dynamics with mechanical and space applications.",
+    "prerequisites": "ENGG1010 OR ENGG1400",
+    "incompatible": "",
+    "restricted": ""
+}

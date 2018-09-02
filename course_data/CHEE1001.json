@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE1001",
+    "course_name": "Principles of Biological Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to biochemical & microbiological principles of relevance to engineers: cell biology, metabolism, molecular aspects of gene expression, structure & functions of biological molecules. Applications to industrial processes.",
+    "prerequisites": "Year 12 Chemistry",
+    "incompatible": "BIOL1014 or BIOL1020 or CHEE2004",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT1902D",
+    "course_name": "Managerial Accounting",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "Managerial Accounting is the study of the use of financial information to understand the operation and performance of the business and to make business decisions. The emphasis in this course is on accounting for decision making. This course will help students understand the language of business and develop a basic understanding of the information needed to make decisions about how to operate a business and evaluate its worth.",
+    "prerequisites": "ACCT1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

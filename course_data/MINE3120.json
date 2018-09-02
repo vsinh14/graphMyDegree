@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3120",
+    "course_name": "Resource Estimation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the concepts of resource and reserve estimation in both coal and metalliferous deposits. This represents a critical component in the life cycle of a mine and provides a link between the processes of exploration geology and mine planning. Specific topics include an introduction to mine planning and feasibility studies, resource and reserve reporting using Joint Ore Reserves Committee (JORC) code, data sampling and compositing, traditional estimation techniques, geostatistics and kriging, orebody and block modelling, financial evaluation, mineral economics and cost estimation.",
+    "prerequisites": "",
+    "incompatible": "MINE3117 or MINE4101",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7101",
+    "course_name": "Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introductory course that equips students with an integrated base of theoretical and technical knowledge and skills in financial accounting. Financial accounting is a system used to prepare reports that disseminate information about the performance and financial status of a business to external parties. For example, the system used by the directors of a public company to prepare financial statements in the annual report issued to shareholders of that company. This course commences with an introduction to accounting terminology, the basic financial statements required for most businesses in the context of the Australian regulatory environment and the latest Australian Accounting Standards after harmonisation with the International Accounting Standards. The body of the course focuses on the skills necessary for the preparation and analysis of information contained in external financial statements, these being - the Income Statement, the Balance Sheet, the Statement of Changes in Equity and the Cash Flow Statement. Specific accounting issues relating to revenues, expenses, assets, liabilities and equity are addressed within the context of the financial statements. Interpretation and evaluation of information presented in financial statements are also undertaken using ratio analysis techniques.",
+    "prerequisites": "",
+    "incompatible": "ACCT2101",
+    "restricted": ""
+}

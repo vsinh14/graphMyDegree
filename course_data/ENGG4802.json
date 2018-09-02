@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4802",
+    "course_name": "Thesis Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "[Restricted to Final Year BE students] Thesis on subject selected or approved by Head of School. Detailed statements on requirements supplied. Students commencing thesis in Semester 1 enrol in ENGG4801 for Sem 1 (Part A) and Sem 2 (Part B); students commencing in Semester 2 enrol in ENGG4802 for Sem 2 (Part A) and the following Sem 1 (Part B).",
+    "prerequisites": "",
+    "incompatible": "COMP4801 or COMP4802 or COMP4807 or COMP4808 or ELEC4801 or ELEC4802 or 3E400 or 3E401 or 3E491 or 3E492",
+    "restricted": "Restricted to Final Year BE Students."
+}

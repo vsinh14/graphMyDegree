@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7160",
+    "course_name": "Maritime Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Aspects of admiralty & maritime jurisdiction, including liens & arrest of ships, bills of lading, charter parties, marine insurance, securities, collisions & groundings, salvage, pilotage, towage, wreck, bounty & ransom.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA432 or 766 or LAWS5160 or 7360",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

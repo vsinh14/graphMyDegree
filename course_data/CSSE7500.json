@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7500",
+    "course_name": "Modelling and Simulation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.)\nThe course explores use of computer models to simulate the behaviour of real world systems, particularly engineering systems. Topics covered include models and model building, model accuracy, continuous-time models, discrete-time models, probabilistic models, simulation techniques, simulation correctness, simulation frameworks and systems, data presentation. Case studies will be drawn from domains such as aerospace and avionics, digital logic, and computer networks. Students will build a significant computer-based simulator for a specific application.",
+    "prerequisites": "CSSE2310 and MATH1052 and (STAT2202 or STAT2203)",
+    "incompatible": "",
+    "restricted": ""
+}

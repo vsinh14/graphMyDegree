@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7101",
+    "course_name": "Fundamentals of Electromagnetic Fields & Waves",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamentals of electromagnetics including transmission lines, time varying fields, plane waves, radiation, wave guides & basic antennas, radar fundamentals Applications in the area of satellite communications, radar sensors.",
+    "prerequisites": "ELEC2003 and MATH2000",
+    "incompatible": "ELEC3100",
+    "restricted": ""
+}

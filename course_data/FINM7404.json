@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7404",
+    "course_name": "Empirical Finance",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines the range of empirical techniques used in finance & capital markets research. Topics are introduced via a series of applied exercises. Topics include maximum likelihood estimation, discrete choice models, regression, event studies, stochastic volatility and data envelopment analysis.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

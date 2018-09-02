@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7631",
+    "course_name": "Practical Regression Analyses",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers Normal-theory regression (for continuous and categorical predictor variables), Poisson regression, logistic regression and survival analysis. Goodness-of-fit issues are discussed, as are model-building strategies. Developing a structured plan of analysis, to incorporate specific analytical tools around a set of research objectives, with an appropriate report structure is emphasised. This course may not be offered if the enrolment is less than 10 students.",
+    "prerequisites": "PUBH7600 and PUBH7630",
+    "incompatible": "",
+    "restricted": ""
+}

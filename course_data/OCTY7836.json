@@ -1,0 +1,12 @@
+{
+    "course_code": "OCTY7836",
+    "course_name": "Occupational Therapy Clinical Skills",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides supervised professional practice experience for students in occupational therapy. Students attend a professional practice placement in an area of occupational therapy and undertake graded learning experiences to develop professional practice competencies.",
+    "prerequisites": "Must have completed all MOccThySt courses set in previous semesters of the program",
+    "incompatible": "OCTY7815, OCTY7832, OCTY7833",
+    "restricted": "MOccThySt students only"
+}

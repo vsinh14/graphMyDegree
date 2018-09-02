@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7139",
+    "course_name": "Insurance Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course focuses on the statutes and common law principles regulating insurance law. The aim of the course is to familiarise students with legislation such as the Insurance Contracts Act 1984 (Cth) and compulsory third party motor vehicle workers compensation legislation as well as the common law principles applicable to insurance contracts.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5139 or 7339",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

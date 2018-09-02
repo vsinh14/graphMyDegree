@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2101",
+    "course_name": "Advanced Dynamics and Special Relativity",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to Lagrangian & Hamiltonian mechanics including elementary treatment of chaos in Hamiltonian systems. Calculus of variations, constraints, generalised coordinates, geometrical methods. Introduction to Special Relativity including relativistic particle mechanics. Advanced topics.",
+    "prerequisites": "PHYS1001 + PHYS1002 + (MATH1052 or MATH1072)",
+    "incompatible": "PHYS2100",
+    "restricted": "BAdvSc(Hons) students or by approval of the course coordinator"
+}

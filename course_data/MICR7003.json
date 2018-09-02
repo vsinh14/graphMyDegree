@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR7003",
+    "course_name": "Principles of Food Microbiology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to microbiology and food microbiology including microbial ecology of food; important foodborne pathogens (bacteria, viruses, fungi, seafood toxins, parasites, prions); food borne illness; indicator organisms; culture-based microbe detection; epidemiological and DNA fingerprinting methods used in outbreak investigations, antibiotic resistance in foodborne bacteria, foodborne pathogen pathogenesis mechanisms and emerging foodborne pathogens and evolution; practical culture-based microbiological examination of foods.",
+    "prerequisites": "",
+    "incompatible": "MICR2001",
+    "restricted": ""
+}

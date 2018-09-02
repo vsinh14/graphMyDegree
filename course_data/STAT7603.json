@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7603",
+    "course_name": "Data Management & Statistical Computing",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers concepts and tools for the management and analysis of data. Data management principles and concepts are developed using relational database software (Microsoft Access). Data manipulation; descriptive analyses and interpretation are introduced using SAS and Stata. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4332",
+    "course_name": "Advanced Structural Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced structural analysis. Dynamic analysis. Finite element analysis. Lectures & project work. Guest lecturers will also be invited to give presentations on different aspects of more challenging projects.",
+    "prerequisites": "CIVL3350",
+    "incompatible": "CIVL4330",
+    "restricted": ""
+}

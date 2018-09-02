@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7502",
+    "course_name": "Mathematics for Data Science 2",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with the mathematical foundations important for advanced statistics methods, data modelling and analysing large data sets. Ordinary differential equations, multi-dimensional integration and change of variables. Orthogonal matrices, eigenvalues, eigenvectors, diagonalization, method of least squares, singular value decomposition. Multivariate Gaussian & related techniques including principal component analysis. Taylor series, maxima, minima and saddle points in N-dimensions. Lagrange multipliers for constrained optimization. Examples from statistical methods will be used to illustrate application of the methods. Computational software will be used throughout this course.",
+    "prerequisites": "MATH7501 or (MATH1051 & MATH1052)",
+    "incompatible": "MATH2000, MATH7000, MATH2001",
+    "restricted": ""
+}

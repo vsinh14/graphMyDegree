@@ -1,0 +1,12 @@
+{
+    "course_code": "CHIN2200",
+    "course_name": "Written Chinese IB",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Continuation of CHIN1200.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "CHIN1200",
+    "incompatible": "",
+    "restricted": ""
+}

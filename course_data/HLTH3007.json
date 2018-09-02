@@ -1,0 +1,12 @@
+{
+    "course_code": "HLTH3007",
+    "course_name": "Research Project",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course allows students to undertake a one-semester research project on a topic of interest. Students must have completed at least #32 of the Bachelor of Health Sciences program before undertaking a project. Enrolment is subject to the approval of the Program Director.",
+    "prerequisites": "Approval of Program Director",
+    "incompatible": "",
+    "restricted": "BHlthSc and BSc (Public Health major) students. Subject to the approval of the Program Director"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MSTU2006",
+    "course_name": "Australian Cinema",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces students to Australian cinema from the 1900s to the present day.",
+    "prerequisites": "4 units of BA list courses",
+    "incompatible": "CCST2310",
+    "restricted": "Course offering may be cancelled unless a minimum of 20 students enrol."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG3504",
+    "course_name": "Applied Market Research",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Within an applied, managerial focus, the course provides the student with a set of skills in designing & undertaking marketing research, an understanding of the role of marketing research in MIS & in conceiving & implementing successful marketing programs.",
+    "prerequisites": "MKTG2501",
+    "incompatible": "MKTG7510",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

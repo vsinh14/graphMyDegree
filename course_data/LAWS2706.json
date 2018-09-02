@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2706",
+    "course_name": "Foundations of Property Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the basic conceptual building blocks of the modern law of property in Australia (and, where necessary, in Queensland in particular). It explores the conceptual core of \"property\" in general, before systematically examining foundational concepts, rules, principles and operations (legal, equitable and statutory) relating to the two primary forms of property: personal property and real property.",
+    "prerequisites": "LAWS1700, LAWS1702",
+    "incompatible": "LAWS3009 or LAWS3112",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4201",
+    "course_name": "Applications of Scientific Computing",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course discusses advanced concepts in scientific computing. Topics include high performance systems, performance evaluation, numerical modelling, with an emphasis on advanced numerical techniques and applications from mainly science and engineering. Students will expand on a topic of their choice by completing an individual project. This course is suitable for students in computer science, applied mathematics, science, engineering. (Offered in odd years only)",
+    "prerequisites": "MATH3201 or MATH3203",
+    "incompatible": "MATH7201",
+    "restricted": ""
+}

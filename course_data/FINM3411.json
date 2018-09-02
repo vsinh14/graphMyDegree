@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3411",
+    "course_name": "Applied Corporate Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth analysis of financial issues confronting most companies. Strong focus on application and practical relevance. Topics include valuation and project analysis, real option valuation, capital raising, financing and dividend policy, risk management and corporate strategy.",
+    "prerequisites": "FINM2411",
+    "incompatible": "FINM2415 or FINM3401 or 7402",
+    "restricted": "Restricted to students enrolled in the BAdvFin&Econ(Hons)"
+}

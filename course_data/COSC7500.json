@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC7500",
+    "course_name": "Numerical Methods in Computational Science",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to basic numerical methods and computer programming for the solution of a number of classes of scientific problems. The course is interdisciplinary in nature, incorporating a number of case studies in biology, physics, chemistry, and engineering.",
+    "prerequisites": "",
+    "incompatible": "COSC2500",
+    "restricted": "Permission of Head of School"
+}

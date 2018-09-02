@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7204",
+    "course_name": "Service-Oriented Architectures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth knowledge for SOA and the practical experience in designing and implementing large-scale and composite business web applications. This course covers a wide range of SOA-related technologies, including .Net, web service, composition techniques, and related technologies such as workflow, semantic web, ontology.",
+    "prerequisites": "CSSE7030 and INFS7900",
+    "incompatible": "INFS3204",
+    "restricted": ""
+}

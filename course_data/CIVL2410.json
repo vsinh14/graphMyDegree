@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2410",
+    "course_name": "Traffic Flow Theory & Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the field of traffic engineering, with a focus on road traffic flow theory and analysis. The course emphasises the need for good planning, design, and operation of transport facilities in order to improve safety, mobility, reliability, and efficiency and explains how the knowledge of the fundamental characteristics of traffic flow is used in various design and operations problems. The course covers basic traffic flow theory and queueing theory; shockwave analysis and congestion management strategies; traffic surveys and data collection; highway capacity and level-of-service analysis; design of intersections, traffic signals, and roundabouts.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3014",
+    "course_name": "Molecular & Cellular Physiology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will examine core systems in molecular & cellular physiology & develop an understanding of how they maintain homestasis & how the failure of these systems translate into disease.",
+    "prerequisites": "BIOM2012",
+    "incompatible": "",
+    "restricted": ""
+}

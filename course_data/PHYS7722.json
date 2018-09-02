@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7722",
+    "course_name": "Research Project A",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course provides a short introduction to research in physics. Students choose a topic and a supervisor, and submit a written report by the end of semester.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "PHYS6720 or 6721",
+    "restricted": ""
+}

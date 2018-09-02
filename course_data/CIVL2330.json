@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2330",
+    "course_name": "Structural Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of statically determinate structures. Section properties, principal axes & Mohr's circle, unsymmetrical bending, torsion of circular shafts. Shear stresses in solid & thin-walled sections. Stress-strain in 2D. Deflection in beams, double integration, moment-area & unit-load methods. Deflection in truss & frame structures. Influence lines. Column & beam buckling.",
+    "prerequisites": "ENGG1400 and (MATH1051 or MATH1071) and (MATH1052 or MATH1072)",
+    "incompatible": "",
+    "restricted": ""
+}

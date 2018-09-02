@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7314",
+    "course_name": "Medicine",
+    "faculty": "",
+    "school": "",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "The year 3 Medicine course provides an introduction to clinical medicine and therapeutics. The placement component takes place in (mainly) general medicine units located in each Clinical Unit as a framework for clinical learning in medicine, coupled with clinical discussion sessions for each of the nine weeks of the placement. The clinical discussion sessions will be coordinated by a consultant physician. In some cases a sub-specialist with a clinical interest in the topic of the week will be involved. The plan is for Year 3 students to continue to use their self-directed learning techniques and knowledge acquired during Years 1 and 2 of the MD to focus their learning within a hospital ward environment.",
+    "prerequisites": "MEDI7212, MEDI7222, MEDI7232 and MEDI7202",
+    "incompatible": "MEDI7304",
+    "restricted": "MD & MD (Ochsner) students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3220",
+    "course_name": "Benefit-Cost Analysis for Business",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course develops a framework for analysis of the economy-wide effects of proposed public & private projects. A case study is undertaken in which basic concepts of microeconomic theory are applied within a spreadsheet framework to produce a benefit-cost analysis of a professional standard. A knowledge of basic spreadsheet skills are required.",
+    "prerequisites": "ECON1010 or ECON2011",
+    "incompatible": "",
+    "restricted": ""
+}

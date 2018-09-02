@@ -1,0 +1,12 @@
+{
+    "course_code": "LATN2240",
+    "course_name": "Latin Language & Literature 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further in-depth study of the Latin language, including new grammar, syntax, vocabulary and research skills for Latinists.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "LATN1120, LATN2120",
+    "incompatible": "CL123",
+    "restricted": ""
+}

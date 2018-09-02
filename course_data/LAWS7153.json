@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7153",
+    "course_name": "Private International Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Problems associated with intrusion of a \"foreign\" system of law including topics of jurisdiction, recognition of foreign judgments, domicile, family law, property law, contracts, torts, succession & administration of deceased estates.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA404 or 741 or LAWS5153 or 7353",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

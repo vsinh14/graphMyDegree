@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1703",
+    "course_name": "Principles of Public Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to the key features of the law governing public power in Australia and is the foundation for later study of constitutional and administrative law.",
+    "prerequisites": "LAWS1700",
+    "incompatible": "LAWS1115",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

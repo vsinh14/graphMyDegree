@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2031",
+    "course_name": "Comparative Structure and Function for Animal Biosciences",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course offers an introduction to fundamental concepts and foundational knowledge and skills relating to the structure (anatomy) and function (physiology) of animals. It will provide practical skills and knowledge in anatomical and physiological methodology. Although organ systems\u00c2\u00bf structure and function will not be covered in depth, students will be introduced to these systems from an integrative, evolutionary and comparative perspective. Whole of organism physiological concepts (e.g. homeostasis) will be introduced and extrapolated from earlier cell biology training. Mechanisms of functional integration and control will be described, particularly those relating to the nervous and endocrine systems, as well as immunological aspects of the normal animal. Elements of comparative body plans, topographical anatomy and developmental biology will also be introduced.",
+    "prerequisites": "ANIM1060 & AGRC1041",
+    "incompatible": "ANIM2051 & ANIM2052",
+    "restricted": ""
+}

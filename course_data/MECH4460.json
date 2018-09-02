@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH4460",
+    "course_name": "Energy & Environment",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(No longer offered) Fossil energy, nuclear energy, hydrogen energy, renewable energy, energy conservation, global warming, CO2 control, feasibility analysis of renewable energy technologies.",
+    "prerequisites": "MECH3400",
+    "incompatible": "",
+    "restricted": ""
+}

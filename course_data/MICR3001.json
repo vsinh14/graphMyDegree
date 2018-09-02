@@ -1,0 +1,12 @@
+{
+    "course_code": "MICR3001",
+    "course_name": "Microbes & Human Health",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course describes the importance of infectious diseases in individuals, populations and communities. It covers the way microbes cause disease (pathogenesis), how they are transmitted, their spread within the population and mechanisms of control. Core topics include the epidemiology and pathogenesis of viral, bacterial and fungal infections, clinical microbiology and emerging infectious diseases. Each facet of the content will be presented in contemporary science contexts by experts in the field. The course requires the completion of a second year microbiology course (MICR2000 or equivalent) and is a prerequisite for those students wishing to obtain a major in microbiology.",
+    "prerequisites": "MICR2000",
+    "incompatible": "",
+    "restricted": ""
+}

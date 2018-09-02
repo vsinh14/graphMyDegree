@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7109",
+    "course_name": "Law of Property A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an intermediate level analysis of the law and policy of Australian property law which introduces students to fundamental principles and concepts. The course comprises a study of possession and title to land, the doctrines of tenure and estates, concurrent ownership, leasehold interests, strata title and additionally introduces students to native title. The course seeks to develop students\u00c2\u00bf knowledge and understanding in these areas, and their ability to solve complex legal problems.",
+    "prerequisites": "LAWS7100 + 7102",
+    "incompatible": "LA208 or 217 or 715 or LAWS3009 or 7309",
+    "restricted": "JD"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LING6095",
+    "course_name": "Honours Research Thesis",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "This course may be taken as part of the Linguistics Honours program.",
+    "prerequisites": "#16 Linguistics major incl LING2010 or LING2040 or LING2045 + [LING2000 or LING2030] & a GPA of at least 5 in #8 Advanced LING courses",
+    "incompatible": "LING6090, LING6091",
+    "restricted": ""
+}

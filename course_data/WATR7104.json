@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7104",
+    "course_name": "Sewer Networks - Design, Operation and Maintenance",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The focus of this course is the design, operation and management related aspects of a sewer system. The course includes different sewer structures, sewer flows and related hydraulics, design of various components of a sewer system, in-sewer biological, physical and chemical processes and critical issues related to sewer operation and management. The major components of wastewater collection system (pump stations, manholes, drop structures, pipes, sewer overflows etc.) are introduced and their hydraulic principles are discussed. Students will obtain working knowledge of the design of various components of the sewer system and in-depth understanding of hydraulic modelling of sewer pipes. Course material, exercises and assignments aim to train the student in design principles commonly used in real world engineering practice. The biotransformation processes in a sewer pipe are discussed along with the physical and chemical processes. The key concepts of modelling of these processes are also introduced. The course further includes major operational issues of sewer system including inflow and infiltration; sewer overflows; gaseous emissions and related odour and corrosion problems, and their management. The students will develop the capacity to formulate strategies for effective operation and management of a sewer system through an in-depth understanding of the causes of the problem and available options for their mitigation. After successful completion of the course, students will be equipped with the understanding of the sewer system design and the key operational and management issues providing support to the engineering management of an urban water system.",
+    "prerequisites": "CHEM1200 and CHEE3002",
+    "incompatible": "",
+    "restricted": ""
+}

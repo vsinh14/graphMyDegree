@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7828",
+    "course_name": "Cultural Heritage Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an advanced level description and examination of the legal issues and associated social context raised by cultural heritage in Australia and internationally. The course seeks to develop students' knowledge of cultural heritage law, raise awareness of the role law plays in the protection of cultural heritage and develop an ability to solve complex legal problems associated with the protection of cultural heritage.",
+    "prerequisites": "",
+    "incompatible": "LA849",
+    "restricted": "GCAppLaw; GDipAppLaw; MAppLaw; LLM; LLM(Adv); GCMusmSt; GDipMusmSt; MMusmSt; GCHM; MHM(16); MHM(24), MIL and MIR/MIL."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS4100",
+    "course_name": "Research Project",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "",
+    "prerequisites": "",
+    "incompatible": "HRSS4300, HRSS7300",
+    "restricted": "BOccThy (Hons), BPhty (Hons), BSpPath (Hons)"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LATN3002",
+    "course_name": "Advanced Latin 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A detailed study of Latin literary and historical texts chosen by the Course Coordinator.",
+    "prerequisites": "LATN1110 and LATN2120 and LATN2230 or equivalent",
+    "incompatible": "LATN2250, LATN2270",
+    "restricted": ""
+}

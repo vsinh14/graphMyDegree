@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY7887",
+    "course_name": "Clinical Practice & Professional Issues 4",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "The course aims to provide students with core competencies in the physiotherapy clinical management of patients presenting in a range of settings and services.",
+    "prerequisites": "PHTY7813, PHTY7814, PHTY7881",
+    "incompatible": "",
+    "restricted": "MPhtySt students"
+}

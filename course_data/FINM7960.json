@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7960",
+    "course_name": "Agribusiness Project Appraisal",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principles of Financial appraisal of capital projects and applications to agriculture/agribusiness investments. Areas covered include principles of interest and finance, cash flow calculations and investment criteria, allowing for risk, and portfolio selection.",
+    "prerequisites": "ACCT7101",
+    "incompatible": "FINM3960",
+    "restricted": ""
+}

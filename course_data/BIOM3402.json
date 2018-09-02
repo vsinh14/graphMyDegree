@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3402",
+    "course_name": "Experimental Pharmacology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Experimental Pharmacology introduces final year students to current advances in pharmacological research and drug development. The course focuses on modern approaches to understanding novel therapeutics under investigation for unmet medical needs such as cancer, chronic inflammation and neurodegenerative diseases. Students will be exposed to specific areas of pharmacology not covered, or only briefly touched on, in other pharmacology courses.",
+    "prerequisites": "BIOM2402",
+    "incompatible": "",
+    "restricted": ""
+}

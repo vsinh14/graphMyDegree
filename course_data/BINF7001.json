@@ -1,0 +1,12 @@
+{
+    "course_code": "BINF7001",
+    "course_name": "Advanced Genome Informatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced Genome Informatics will equip students with the knowledge and practical computing skills necessary to undertake a wide range of genome scale analyses using data produced by next generation sequencing (NGS) technologies. The background lectures will introduce current approaches for analyzing genome and transcriptome data including read mapping, de novo assembly, visualization, and phylogenomics. There will be an emphasis in developing good practice in experimental design and understanding the principles that underpin the commonly used analysis tools. The course consists of four parts: i) Read mapping and NGS data types, ii) metagenomic analysis, iii) de novo assembly and phylogenomics and iv) Human genomics and functional annotation. Throughout the course students will learn practical genome informatics in a series of computer-based practicals using real NGS data, unix command-line tools and high performance computing resources.",
+    "prerequisites": "BINF6000",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH3021",
+    "course_name": "Exploration & Mining Geophysics",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Geophysical exploration methods used for resource exploration & engineering applications. Emphasises seismic techniques, with additional practical investigations of non-seismic methods including potential field and electrical methods. Extends concepts introduced in ERTH2020. Includes significant exposure to practical computational exercises.",
+    "prerequisites": "ERTH2020 or ERTH3020",
+    "incompatible": "",
+    "restricted": "Permission from the School of Earth & Environmental Sciences (sees@enquire.uq.edu.au) is required for students to enroll in this course.\nMinimum enrolment quota of 15 students."
+}

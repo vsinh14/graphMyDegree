@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7612",
+    "course_name": "Advanced Clinical Trials",
+    "faculty": "Science",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course extends the concepts developed in STAT7606. Topics include: methods of stopping rules for interim analyses; spending functions, stochastic curtailment, analysis for cross-over designs; preference outcomes; N-of-1 studies; equivalence and non-inferiority trials; statistical aspects of regulatory and reporting guidelines. \nThis course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

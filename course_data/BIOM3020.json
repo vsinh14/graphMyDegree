@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3020",
+    "course_name": "Integrated Endocrinology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An advanced course providing an integrated approach to the biochemistry, molecular biology, physiology, pathology and pharmacology of the endocrine system. Secretion & physiological roles of blood-borne & local hormonal mediators. Molecular signalling systems and other mechanisms used by hormones to regulate cell growth, metabolism, reproduction and other functions. Consequences of and treatments for defects in the endocrine system illustrated with clinical disorders that affect many people world-wide, such as those arising from obesity.",
+    "prerequisites": "BIOM2012",
+    "incompatible": "BIOL3230",
+    "restricted": ""
+}

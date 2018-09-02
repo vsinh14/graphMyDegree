@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO3850",
+    "course_name": "Physical Computing & Interaction Design Studio",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course introduces students to the interaction design challenges of building physical computing environments. Physical computing tehnology mediates people's embodied interactions in order to gather input and present output through a combination of various sensor and display technologies. Following a studio process, students engage in collaborative design activities to understand a problem space; explore alternative solutions, leading to a cogent technology proposal; and deliver an interactive proof of concept prototype tool or environment combining appropriate digital and physical components.",
+    "prerequisites": "DECO2300 and DECO2800",
+    "incompatible": "DECO7385 or IENV3000 or IENV2802 or IENV3800 or IENV7944 or MMDS2802",
+    "restricted": ""
+}

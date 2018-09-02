@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC4005",
+    "course_name": "Major Practicum (Health & Physical Education)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "This course requires pre-service teachers to undertake 60 days of full time professional experience teaching in Queensland secondary schools in health and physical education & science. Students are required to undertake a placement course in order to meet the program requirements and must obtain a \"blue card\" before they begin their placement in order to work with children and young people.",
+    "prerequisites": "EDUC3293, EDUC2009, EDUC3006",
+    "incompatible": "EDUC4003, HMST4204, HM430",
+    "restricted": "BScApp(HMS-Ed); BHMS (Educ); BHSPE; BHSPE(Hon) students"
+}

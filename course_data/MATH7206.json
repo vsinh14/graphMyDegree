@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7206",
+    "course_name": "Issues in Computational Biology & Bioinformatics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered in even years only) Description:Introduction to issues in computational biology and bioinformatics including genetic regulatory models, complex systems analysis, molecular dynamics, analysis of biological data. Offered in even years only.",
+    "prerequisites": "Permission of Head of School + MATH2210",
+    "incompatible": "MATH4206",
+    "restricted": ""
+}

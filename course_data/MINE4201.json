@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4201",
+    "course_name": "Metallurgical Plant Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Integration of technical, economic, environmental, safety and social considerations into the detailed design of metallurgical production plants.",
+    "prerequisites": "CHEE4060 (or CHEE3006) and MINE3208",
+    "incompatible": "CHEE4001 or CHEE7103 or MINE7204",
+    "restricted": ""
+}

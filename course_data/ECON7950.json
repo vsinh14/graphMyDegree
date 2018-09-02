@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7950",
+    "course_name": "Research Methods in Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explains how to conduct basic research in economics. It covers the main steps involved in the research process: development of the research proposal, finding and critically evaluating relevant literature, model development, methods for locating and collecting economic data, analytical methods, and writing mechanics. The course has a strong practical focus.",
+    "prerequisites": "",
+    "incompatible": "ECON7920, 7921 and 7922",
+    "restricted": ""
+}

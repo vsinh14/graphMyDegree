@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3200",
+    "course_name": "Current Topics in Plant Science",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced topics in plant science spanning plant biotechnology through to plant ecology including an integration of these sub-disciplines. Cutting edge advancements on plant disease, plant molecular biology, plant development, plant improvement, plant ecophysiology & sustainability, including the Australian & international context of global warming, water shortage & nitrogen fertilizer & fossil fuel limitation.",
+    "prerequisites": "BIOL2203",
+    "incompatible": "",
+    "restricted": ""
+}

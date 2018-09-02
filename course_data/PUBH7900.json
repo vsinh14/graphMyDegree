@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7900",
+    "course_name": "Project",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Students engage in a guided research activity in a selected area of population health. The project is designed to be flexible, with the specific setting, activities and outcomes which include a comprehensive written report, negotiated between the student and advisor(s). Students can enrol in this course in Semester 1, 2 or Summer Semester. Before enrolling students must obtain permission from the program coordinator and have achieved a minimum GPA of 5.5 across at least 8 units of coursework, including at least 4 units from Part A.",
+    "prerequisites": "Before enrolling students must obtain permission from the program coordinator and have achieved a minimum GPA of 5.5 across at least 8 units of coursework, including at least 4 units from Part A.",
+    "incompatible": "PUBH7950, PUBH7955, PUBH7957",
+    "restricted": ""
+}

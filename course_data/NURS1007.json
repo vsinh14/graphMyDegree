@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS1007",
+    "course_name": "Musculo-skeletal Health",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NURS1007 introduces students to: anatomy, physiology & pathophysiology of the musculo-skeletal and integumentary systems; Nursing care of a minor who has sustained a musculo-skeletal injury, including associated pharmacological management, wound management and family centred care; Legal and ethical issues associated with informed consent of minors, and the legal and safe administration of pharmacological medications in relation to the case scenario; Prevalence and risk factors for musculoskeletal related health issues including cultural and socio-demographic factors, and the health education and promotional strategies that target risk factors.",
+    "prerequisites": "NURS1001, NURS1002, NURS1003, NURS1004",
+    "incompatible": "",
+    "restricted": "BN Students"
+}

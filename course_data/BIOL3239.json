@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3239",
+    "course_name": "Brain to Behaviour: Invertebrate Neuroethology",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The science of neuroethology links brain function to natural behaviour. This course will explore the neural and molecular mechanisms that drive animal behaviour, elucidating how the nervous system translates biologically relevant stimuli into behavioural activity. Thought-provoking examples from the animal world will demonstrate how these mechanisms have evolved and adapted to specific challenges of their environment. The course will provide students with an in-depth understanding of neuroscientific approaches to behavioural research in invertebrate model organisms. They will gain an understanding of how quite complex behaviours can in some cases be reduced to relatively simple \"detect and respond\" reflexes. Topics include odour-guided navigation and pheromone communication, visual processing of colours and shapes, marine neuroethology, neuroscience of circadian rhythms, the molecular basis of learning and memory, and the genetic basis of animal cognition. We touch on the emerging field of bio-robotics, where principles of insect sensory integration and locomotion are incorporated into robot design. The course is designed for students with a background in biology, neuroscience or psychology.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

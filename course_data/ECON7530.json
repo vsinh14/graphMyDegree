@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7530",
+    "course_name": "International Trade & Investment",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Survey of recent advances in foreign trade and investment. Topics include trade theory and policy, international factor movement, theories of international investment and contemporary trade and investment issues.",
+    "prerequisites": "ECON2010 or 7002 or 7010 or 7011 or 7110 or EC211 or 865",
+    "incompatible": "EC871 or 884",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7110",
+    "course_name": "Consumer and Firm Behaviour",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on the economic theory developed in ECON7000 introducing a more advanced level of analysis of consumer and producer behaviour with additional tools and models. Topics may include partial and general equilibrium theory, producer and consumer theory, imperfect competition including monopoly and oligopoly, as well various aspects of externalities, risk and uncertainty.",
+    "prerequisites": "ECON1010 or ECON7000",
+    "incompatible": "ECON7010, ECON2010 or 7012",
+    "restricted": ""
+}

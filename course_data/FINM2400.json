@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM2400",
+    "course_name": "Managerial Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "FINM2400 provides an introduction to the fundamental principles of finance that are at the core of financial management decisions. After completing this course, students will be familiar with the financial markets available in Australia and be able to: analyse and interpret financial statement data; value financial instruments using time value of money; evaluate financing and investment (capital budgeting) alternatives; and understand the relationship between risk, return and diversification.",
+    "prerequisites": "ACCT1101",
+    "incompatible": "FINM2401 or 2411 or 2412 or FINM7401 or 7409 or 7805",
+    "restricted": "Not to be studied by BCom or BCom dual students"
+}

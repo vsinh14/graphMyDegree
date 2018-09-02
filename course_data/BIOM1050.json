@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM1050",
+    "course_name": "Biology for Health Sciences",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers the fundamental concepts that allow the human body to function, with an approach that is appropriate for students who did not study Senior Chemistry at school. Key areas of study include fundamental biochemistry & molecular biology, basic cell function, neuronal structure & function, motor mechanisms, locomotion & development, circulation & gas exchange, and the endocrine system. Homeostasis and the integration of concepts as they apply to the structure and function of different regions of the entire human body are of key importance.",
+    "prerequisites": "",
+    "incompatible": "BIOL1040, BIOM1051",
+    "restricted": "Restricted to students enrolled in the BENS, BExSS (Hons), BHSPE (Hons), B Clin Ex Physiol (Hons) and BHlthSc programs only."
+}

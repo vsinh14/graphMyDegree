@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2041",
+    "course_name": "Quantum Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Quantum mechanics is a cornerstone of modern physics, describing physical phenomena on microscopic scales. This course provides an introduction to the basic theoretical concepts and formalism of quantum physics and covers laboratory experiments crucial to its development. It is the foundation for further studies of advanced quantum physics and quantum field theory, quantum statistical mechanics and solid-state physics.",
+    "prerequisites": "(MATH1051 or MATH1071), (MATH1052 or MATH1072) + PHYS1001 + PHYS1002",
+    "incompatible": "PHYS2040, PHYS2042",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7012",
+    "course_name": "Business Taxation",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introductory level examination of the basic principles of taxation law in Australia, with particular emphasis on the topics required by professional accounting bodies for accreditation purposes.",
+    "prerequisites": "LAWS7000 or 7010 or 7023 or LAWS7936",
+    "incompatible": "LAWS3101 or 5144 or 7144",
+    "restricted": "Course is not recommended for students with legal qualifications"
+}

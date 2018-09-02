@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC3036",
+    "course_name": "Precision Agriculture",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover the basic principles of spatial variability in the managed landscape and applications of precision agriculture technologies such as global positioning systems, geographic information systems, remote sensing, proximal crop and soil sensors, control tracking and variable rate technology to look at precision measurement, monitoring and management in broadacre, horticulture and rangeland farming.",
+    "prerequisites": "",
+    "incompatible": "AGRC7008",
+    "restricted": ""
+}

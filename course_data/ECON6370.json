@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6370",
+    "course_name": "Special Topics in Econometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In consultation with prospective students, two topics will be selected from the following: Bayesian econometrics; time series analysis and state space models; efficiency and productivity analysis; index number theory and applications; and income distributions and inequality measurement. Other topics may be considered from time to time. The course has a strong practical focus and involves the extensive use of computers.",
+    "prerequisites": "ECON3300 or 3310 or 3350 or 3360",
+    "incompatible": "",
+    "restricted": "Maximum of 20 enrolments\nBEcon (Hons), BA (Hons)(Economics)"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGY7108",
+    "course_name": "Advanced Carbon Capture Technology",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on ENGY7102 CCS Principles to explore decisions required in developing or selecting Carbon Capture technologies for low carbon power generation. The course will investigate the status of technology development and demonstration in Australia and in a global context, with case studies and guest speakers from industry. Three key carbon capture technologies \u00c2\u00bf Integrated Gasification Combined Cycle (IGCC), Oxy-Fuel Combustion, Post-combustion Carbon Capture (PCC) will be compared and students will undertake a project to make recommendations to a company or industrial facility on potential investment.",
+    "prerequisites": "ENGY7102",
+    "incompatible": "",
+    "restricted": "MEngSt students only."
+}

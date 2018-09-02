@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3420",
+    "course_name": "Transportation Systems Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Covers the fundamentals of road safety, the process of urban transport planning, travel-demand forecasting and basic road design variables which are vital to the successful design and operation of the transport system.",
+    "prerequisites": "CIVL2410 and (STAT2201 or CIVL2530)",
+    "incompatible": "CIVL4410",
+    "restricted": ""
+}

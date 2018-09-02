@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7310",
+    "course_name": "Radar and Electronic Warfare Fundamentals",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) Based on RF & Communication technologies, this course covers radar fundamentals including probability of detection and false alarm, radar range equation, RCS, pulse Doppler radar, hardware - antennas, transmitters and receivers, coherence, information from radar signals, radar signal processing , detection, matched filter and radar ambiguity function, pulse compression, tracking radars.\nEW: radar in EW, antennas and receivers, EW processing, search procedures, Low probability of Intercept (LPI) signals, emitter location, models for jamming (ECM), decoys, Electronic Counter-Counter measures (ECCM).",
+    "prerequisites": "(ELEC3100 or ELEC7101) + (ELEC3004 or ELEC7312)",
+    "incompatible": "",
+    "restricted": ""
+}

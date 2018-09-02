@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3100",
+    "course_name": "Corporations Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Law relating to commercial companies; in particular, legal personality, directors' duties, shareholders' rights, liquidations, takeovers, & comparison with partnership structure.",
+    "prerequisites": "COMM1201 or 1202 or LAWS1001 or 1100 or 1101",
+    "incompatible": "COMM3205 or 7202 or LAWS7011 or 5017 or 7117 or 7317",
+    "restricted": "Not for students enrolled in LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Grad Entry), LLB(Hons) duals and LLB dual programs"
+}

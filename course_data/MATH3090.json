@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3090",
+    "course_name": "Financial Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to financial mathematics and its applications. Mathematical models of annuities, equity and fixed-income products, futures and forward contracts, the term structure of interest rates and investment returns.",
+    "prerequisites": "(MATH1051 or MATH1071) + (MATH1052 or MATH1072) + (STAT2003 or STAT2004)",
+    "incompatible": "MATH7039",
+    "restricted": ""
+}

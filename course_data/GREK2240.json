@@ -1,0 +1,12 @@
+{
+    "course_code": "GREK2240",
+    "course_name": "Greek Language & Literature 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Intensive study of a Greek author. This is not a course in modern Greek language.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "GREK2230",
+    "incompatible": "GREK1240",
+    "restricted": ""
+}

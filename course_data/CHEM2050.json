@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2050",
+    "course_name": "Intermediate Chemistry 1",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course contains theory for both inorganic, organic chemistry as well as chemical kinetics that a student will need to advance to third level chemistry. Topics covered will include: Synthesis & mechanism in organic chemistry; Transition Metal Chemistry; Bonding and Molecular Orbital Theory; Chemical Kinetics; Molecular Modelling; Stereochemistry; Strategies for complex syntheses.",
+    "prerequisites": "(CHEM1100 or CHEM1020) + (CHEM1200, CHEM1030 or CHEM1010)",
+    "incompatible": "CHEM2041 or CHEM2001",
+    "restricted": ""
+}

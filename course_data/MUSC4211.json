@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC4211",
+    "course_name": "Practical Studies 4",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Development of advanced instrumental or vocal technique & of high level stylistic & interpretative skills. Includes required ensemble participation & concert attendance.",
+    "prerequisites": "MUSC3211",
+    "incompatible": "MUSC4201",
+    "restricted": "enrolment in Performance Major or Extended Major in BMus (Honours) or BMus(Honours) dual degree"
+}

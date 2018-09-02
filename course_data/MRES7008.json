@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7008",
+    "course_name": "Functional Magnetic Resonance Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Interrogating sensory, motor & cognitive processes with functional magnetic resonance imaging (fMRI). Neural & vascular mechanisms contributing to the fMRI signal. Procedures involved in conducting fMRI investigations. Issues in experimental design & analysis. Relevance to clinical diagnosis. Current research status.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite + (MRES7001 or MRES7100) + MRES7004",
+    "incompatible": "",
+    "restricted": ""
+}

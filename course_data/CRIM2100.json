@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM2100",
+    "course_name": "Punishment and Society",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course provides students with a critical understanding of the theoretical and policy issues associated with the punishment and treatment of offenders. In doing so, the course examines the broader context of social control within modern societies, and the impact of institutions on social interaction.",
+    "prerequisites": "#4 first level CRIM courses",
+    "incompatible": "",
+    "restricted": ""
+}

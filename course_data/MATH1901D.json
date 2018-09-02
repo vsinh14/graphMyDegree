@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1901D",
+    "course_name": "Mathematics for Business",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "MATH1901D introduces students to basic elements of mathematics that are required to work in the business world. Topics relate to the knowledge required for the application and solution of basic business related problems. Students will learn basic mathematical techniques in algebra and geometry and will be equipped for further studies in commerce areas.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

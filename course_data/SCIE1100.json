@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE1100",
+    "course_name": "Advanced Theory and Practice in Science",
+    "faculty": "Science",
+    "school": "Biological Sciences School, Chemistry & Molec Biosciences, Historical & Philosophical Inq, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an in-depth introduction to the broad range of mathematical, analytical, conceptual and computational tools employed by scientists to develop, analyse and interpret a range of models that are useful in modern science. To emphasize the importance and generality of these tools, a number of key contemporary topics in science will be studied, including climate, population dynamics, pharmacokinetics, epidemics, energy, kinematics and life. The course will demonstrate how and why mathematical models underpin modern science, and students will learn how to develop and analyse such models using a variety of mathematical techniques. The course also makes extensive use of computer programming (using the language Python) as a vital tool in modern scientific modelling. Students will be introduced to some fundamental philosophical issues in science and gain an appreciation of some of the assumptions that underlie science and the supposed scientific method. Students will explore the importance of critical thinking, creativity, communication, problem-solving and quantitative scientific skills in great depth.",
+    "prerequisites": "",
+    "incompatible": "SCIE1000",
+    "restricted": "Restricted to BAdvSc(Hons) students"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7200",
+    "course_name": "Economics of Financial Markets",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Economic behaviour of financial markets: volatility, bubbles, efficiency; economic theories of financial markets; price determination; role of market makers & institutional factors. Non-Walrasian theories of price determination in financial market, auction markets in theory & practice.",
+    "prerequisites": "(ECON1010 + 1020) or ((7002 or 7010 or 7000) + 7020 or 7001))",
+    "incompatible": "EC802 and ECON3210",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3207",
+    "course_name": "Managing Work in Virtual Environments",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Indepth understanding of the processes, practices, features and issues arising from operating in a virtual corporate environment. Managerial perspective on organisation structures, managing technology and communication procedures in a virtual organisation. Hands-on experience with virtual teams software. Legal implications & associated policy & strategy issues.",
+    "prerequisites": "BISM1201 or MGTS1201 or MGTS2202 or INFS2244",
+    "incompatible": "BISM7215 or MGTS3207 or MGTS7215",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

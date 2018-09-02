@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH4202",
+    "course_name": "Transition to Professional Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Equips students with knowledge of professional issues such as legal & ethical issues, professional associations & private practice. Emphasis on preparing students for the workplace including seminars on applying for jobs & working in rural & remote areas.",
+    "prerequisites": "SPCH4106, SPCH4107",
+    "incompatible": "SL401 or 406",
+    "restricted": "BSpPath students"
+}

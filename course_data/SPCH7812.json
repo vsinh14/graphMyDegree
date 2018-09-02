@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7812",
+    "course_name": "Adult Language Disorders",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Interdisciplinary treatment of topics in the perception, comprehension & production of language as a foundation against which to understand the effects of brain damage upon language processing & how these issues speak to key assessment & treatment principles.",
+    "prerequisites": "SPCH7825",
+    "incompatible": "SL306 or SPCH3106",
+    "restricted": "MSpPathSt Students"
+}

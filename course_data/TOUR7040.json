@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7040",
+    "course_name": "Professional Experience",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed as a capstone learning experience for students studying postgraduate tourism, hospitality and event management. Students get an invaluable opportunity to work on a real project for an industry client. The course incorporates Work Integrated Learning activities to increase students' understanding of the tourism, hospitality and event industries, as well as increase their employability. In this course, students will be able to apply their academic knowledge, contribute to a workplace, and gain new and valuable transferable skills.",
+    "prerequisites": "TOUR7000 + TOUR7031 and #4 from the MTHEM list",
+    "incompatible": "TOUR7011",
+    "restricted": "GCTHEM, MTHEM (#24), MTHEM (#32)"
+}

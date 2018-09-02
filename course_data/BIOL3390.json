@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3390",
+    "course_name": "Genome Evolution",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will be first offered in Semester 1, 2017.In this course we will investigate how core features of genomes seen across the tree of life can be\nexplained in the light of evolution and population genetics. Topics that will be covered include the causes of molecular genetic variation, the evolution of chromosome architecture, gene structure, selfish genetic elements, sex chromosomes, and evolvability. The first half of the course will consist of traditional lectures paired with group discussion sessions. During the second half the students will work in groups conducting various research projects using techniques from molecular population genetics and bioinformatics.\nSkills: population genetics thinking, critical reading of scientific articles, scientific discussions, conducting research projects in a team, bioinformatics, working with R, molecular population genetics techniques.",
+    "prerequisites": "BIOL2006 or BIOL2106 and (BIOL2202 or BIOL2902 or BIOL2201)",
+    "incompatible": "",
+    "restricted": ""
+}

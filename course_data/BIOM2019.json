@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2019",
+    "course_name": "Human Anatomy",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Macrostructure of organs; microstructure & development of selected tissues. Musculoskeletal, nervous, cardiovascular, respiratory, digestive, urinary, & reproductive systems. Emphasis on gross structure & topographical relationships. Functional & surface anatomy.",
+    "prerequisites": "",
+    "incompatible": "AN105 or 219 or 227 or 228 or ANAT1005 or 1018 or 1020 or 6001",
+    "restricted": ""
+}

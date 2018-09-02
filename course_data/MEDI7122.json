@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7122",
+    "course_name": "Clinical Practice 2",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will build on the foundation of knowledge and skills established in MEDI7121 to further develop and demonstrate knowledge and skills in history-taking, patient examination, communication, clinical reasoning and procedural skills. It consists of five areas: Clinical Coaching, Clinical Communication, Procedural Skills, Masterclasses and Professional behaviour. In Clinical Coaching students are taught the history taking and examination skills integral to medical consultations. Students cover the five major body systems over the year in Clinical Practice 1 & 2. Clinical Communication Skills concentrates on the process of communicating with patients using history taking as the context. A biopsychosocial model underpins the theory that the students learn and then demonstrate. Procedural Skills Workshops provide the opportunity for students to learn and then practise a range of basic procedures. The Nutrition Masterclass will introduce principles of nutrition in practice and further develop history-taking skills. Professional behaviour is expected at all times.",
+    "prerequisites": "MEDI7111 and MEDI7121",
+    "incompatible": "",
+    "restricted": "MD students only"
+}

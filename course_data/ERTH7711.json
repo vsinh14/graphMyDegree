@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH7711",
+    "course_name": "Advanced Structural Geology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in even numbered years only) Geometric, kinematic and microstructural analysis of complexly deformed rocks, regions and shear zones. Field, mine and digial map techniques applied to real geological problems.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ERTH3060",
+    "restricted": ""
+}

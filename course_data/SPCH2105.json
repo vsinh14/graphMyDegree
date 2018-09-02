@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH2105",
+    "course_name": "Disorders of Early Language Development",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will develop professional and clinical competencies in the diagnosis and treatment of developmental language delays and disorders in children aged 0 to 5 years. By completion of the course students will gain: knowledge of typical language development; skills in differential diagnosis between typical language development and language delay/disorders; be able to identify a range of assessment procedures; and have knowledge of appropriate interventions for young children with language delays/disorders",
+    "prerequisites": "LING1000, SPCH1100, SPCH1101, SPCH1201",
+    "incompatible": "SPCH2202",
+    "restricted": "BSpPath"
+}

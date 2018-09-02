@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7005",
+    "course_name": "Fast Imaging Techniques",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is intended to provide an understanding of the theoretical background and clinical applications of fast imaging, especially relating to the study of dynamic processes in the human body. Several sequences will be discussed in detail, going into the theoretical principles, advantages and disadvantages, artefacts and image optimisation. K-space undersampling, phase sharing, constrained reconstruction and parallel imaging will be discussed.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite + (MRES7001 + MRES7004) or MRES7100",
+    "incompatible": "",
+    "restricted": ""
+}

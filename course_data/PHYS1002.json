@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS1002",
+    "course_name": "Electromagnetism and Modern Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Electricity, magnetism, optics, quantum physics, relativity. Laboratory experiments.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

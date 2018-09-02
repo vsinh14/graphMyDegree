@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC3172",
+    "course_name": "Basic Processes in Cognition",
+    "faculty": "",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Cognitive psychologists seek to understand basic mental processes that enable us to interact with our environment and perform everyday tasks. The focus of this course is on attention, recognition of familiar stimuli, and the function of working memory. These topics will be discussed in terms of fundamental issues in cognitive psychology, including serial versus parallel processing, preconscious processing, automaticity and the nature of mental representations. The laboratory program will train students in typical paradigms involving accuracy and latency measures of performance.",
+    "prerequisites": "PSYC2050 or COGS2000",
+    "incompatible": "PY357",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SOSC3201",
+    "course_name": "Research, Planning and Design",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Only available to BSocSc students. Recommended to be completed in final year of program. Harnesses basic skills and knowledge gained in second year core courses and extends them to an intermediate level of applied research methods and their application in a variety of contexts. Develops skills in proposal writing, project planning and reporting to various audiences.",
+    "prerequisites": "SOCY2019 or POLS2703 (or BESC2000 for continuing BSocSc Ipswich students)",
+    "incompatible": "SS320",
+    "restricted": "Only available to BSocSc students"
+}

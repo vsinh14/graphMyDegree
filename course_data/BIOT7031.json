@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOT7031",
+    "course_name": "Quality Management Systems in Biotechnology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences, Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide advanced teaching on Quality Management Systems (QMS) used within biotechnology, including GLP, GMP and GCP, as well as ISO17025 (General requirements for the competence of testing and calibration laboratories). Knowledge of these disciplines is essential for potential employees of the biotechnology sector. The course will be taught by persons who actively work within the sector and have helped pioneer the introduction of some of these standards in Australia.",
+    "prerequisites": "",
+    "incompatible": "BIOT3009",
+    "restricted": ""
+}

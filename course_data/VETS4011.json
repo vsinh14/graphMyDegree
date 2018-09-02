@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4011",
+    "course_name": "Ruminant Clinical Studies",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Students will apply prior knowledge of animal husbandry and management, nutrition, microbiology, physiology, pathology, toxicology and basic economics to typical problems in ruminant health and production. Students will develop basic practical skills required for clinical examination and clinical practice.",
+    "prerequisites": "VETS3010, VETS3011, VETS3012",
+    "incompatible": "",
+    "restricted": ""
+}

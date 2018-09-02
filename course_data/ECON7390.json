@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7390",
+    "course_name": "Financial Econometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course gives an introduction to various aspects of financial econometrics. Characteristics of financial data will be studied and several major econometric models used in finance will be surveyed. Students learn how to analyse financial data and are introduced to some of the major tools used in both in the literature and by practitioners.\n\nThe topics covered will include descriptive statistics for financial data: Data exploration, Density estimation, Heavy tails; review of Time Series: ARMA, GARCH; state-Space models; risk: VaR, Extreme Value Theory; Factor Models and PCA; Copula Models and High Frequency Models. Examples covering Asset Pricing, Portfolio allocation and Term Structure will be provided.",
+    "prerequisites": "ECON3350 or ECON7350",
+    "incompatible": "ECON4390 and ECON6390",
+    "restricted": ""
+}

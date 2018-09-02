@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM4413",
+    "course_name": "Advanced Corporate Finance",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An advanced course in corporate finance, covering a range of topical corporate finance issues including cost of capital, corporate valuation, and corporate restructuring.",
+    "prerequisites": "FINM3401 or 3411",
+    "incompatible": "",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons) or BAdvBus(Hons)"
+}

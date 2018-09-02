@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS4700",
+    "course_name": "Law of Evidence",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is a critical examination of the law and practice relating to evidence in civil and criminal proceedings in Queensland and under the uniform legislation operating in some other parts of Australia. The course involves an analysis of the underlying principles of the law of evidence, and involves an examination of contentious evidentiary issues through a comparative and international perspective.",
+    "prerequisites": "#24 LAWS courses",
+    "incompatible": "LAWS4014 or LAWS5216",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

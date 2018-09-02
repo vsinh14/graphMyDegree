@@ -1,0 +1,12 @@
+{
+    "course_code": "AUDL7807",
+    "course_name": "Advanced Audiological Management",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course intergrates the advanced theoretical and practical aspects of audiology in relation to the management of special populations.",
+    "prerequisites": "AUDL7808, AUDL7824, AUDL7825",
+    "incompatible": "",
+    "restricted": "MAudSt"
+}

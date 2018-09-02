@@ -1,0 +1,12 @@
+{
+    "course_code": "IMED7003",
+    "course_name": "Assessment & Diagnosis",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers the skin cancer consultation in primary care. The basis of this is targeted history taking and a thorough skin cancer examination. This will include on-line training in dermoscopy and expose students to modern imaging techniques (including digital photography) and interpretation of pathology reports.",
+    "prerequisites": "IMED7001",
+    "incompatible": "",
+    "restricted": "Master of Medicine (Skin Cancer). Maximum enrolment = 100"
+}

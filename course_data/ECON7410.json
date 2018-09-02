@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7410",
+    "course_name": "Advanced Managerial Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces problems of economic optimisation primarily in relation to microeconomic decision-making & policy formulation, but with some consideration of macroeconomic issues. Relevant to business management as well as to industrial policy & macroeconomic policy formulation.",
+    "prerequisites": "(ECON1320 + 2010 + 2020) or ((7002 or 7010 or 7011 or 7110) + 7300 + 7020 or 7021))",
+    "incompatible": "EC876 or 890",
+    "restricted": ""
+}

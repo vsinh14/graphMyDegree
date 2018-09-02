@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3200",
+    "course_name": "Monetary Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces and examines a number of advanced topics in monetary economics. Topics include: existence of money and currency regimes, the short-run and long-run effect of money in the economy, optimal monetary policy in a closed and open economy, and the time-inconsistency problem in monetary policy.",
+    "prerequisites": "ECON2040",
+    "incompatible": "EC301",
+    "restricted": ""
+}

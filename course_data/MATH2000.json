@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH2000",
+    "course_name": "Calculus & Linear Algebra II",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please note that the contact hours for summer semester is 5L2T. \nMatrices, solution to linear systems, vector & matrix norms. Numerical algorithms for eigensystems, optimisation. First & linear second order differential equations, variation of parameters, applications, numerical methods. Surface & volume integrals, Stoke's & Green's Theorems, applications (flux, heat equations).",
+    "prerequisites": "(MATH1051 or MATH1071) + (MATH1052 or MATH1072)",
+    "incompatible": "MATH2001",
+    "restricted": ""
+}

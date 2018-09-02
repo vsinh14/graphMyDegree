@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3001",
+    "course_name": "Advanced Organic Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Molecular conformations, effective sizes of groups. Types of organic transformations & their mechanisms: stereochemical outcomes, structural effects on reactivity, role of intermediates. Analytical approaches to organic synthesis: reagents, methodologies, specificities & stereochemistry, illustrated by synthesis of natural & non-natural compounds. Functional group & whole molecule retrosynthesis.",
+    "prerequisites": "CHEM2050 or CHEM2901 or CHEM2054",
+    "incompatible": "",
+    "restricted": ""
+}

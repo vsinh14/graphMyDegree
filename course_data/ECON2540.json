@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2540",
+    "course_name": "Economics of Innovation and Entrepreneurship",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the economics of entrepreneurship and innovation in terms of evolutionary economics and information economics. A basis will be provided for analysing public policy and for anticipating the patterns of economy change associated with entrepreneurship and innovation.",
+    "prerequisites": "ECON1010 or 1120",
+    "incompatible": "",
+    "restricted": ""
+}

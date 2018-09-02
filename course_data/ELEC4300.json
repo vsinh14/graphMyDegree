@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC4300",
+    "course_name": "Power Systems Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Overview of power system modelling, load flow analysis, symmetrical & unsymmetrical fault calculation, economic operation, power system stability, basic methods of power system reliability. Loss of load & energy indices.",
+    "prerequisites": "For ELEC4300: prereq ELEC3300\nFor ELEC7303: prereq ELEC7302",
+    "incompatible": "For ELEC4300: inc ELEC7303\nFor ELEC7303: inc ELEC4300",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1032E",
+    "course_name": "Pre-University Mathematics B",
+    "faculty": "UQ College",
+    "school": "UQ College",
+    "units": "3.2",
+    "duration": "Two Trimesters",
+    "description": "This core-subject aims to develop understanding of basic mathematical ideas and the manipulative skills required for solving mathematical problems. These skills are applied with technological tools to solve problems related to real-life situations. Topics covered include computation, sequences and series, logarithmic functions, geometry, trigonometry, differential and integral calculus, vectors and matrices, statistics and probability, set theory and the application of mathematics in society.\n\nStudents commencing in trimester 1 enrol in MATH1002E for 2 consecutive trimesters.\nStudents commencing in trimester 2 enrol in MATH1022E for 2 consecutive trimesters.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4582",
+    "course_name": "Research Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Substantial research thesis on a topic in civil engineering. Research planning and participation; seminar; thesis. Students commencing in sem 1 enrol in CIVL4580 for sem 1 and 2; students commencing in sem 2 enrol in CIVL4582 for sem 2 & the following sem 1.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "CIVL4560",
+    "restricted": "Final year students only"
+}

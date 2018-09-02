@@ -1,0 +1,12 @@
+{
+    "course_code": "RBUS6601",
+    "course_name": "Readings in Business",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In-depth critical review of literature in the field of business.",
+    "prerequisites": "",
+    "incompatible": "BSOC6601 or MGMT6710",
+    "restricted": "PhD students only"
+}

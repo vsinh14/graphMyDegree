@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4035",
+    "course_name": "Ruminant Medicine and Surgery",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "This course aims to provide core competences in medicine and surgery of cattle, sheep, goats and camelids. By building on previous knowledge in animal husbandry, infectious disease, biosecurity, reproduction, and surgical techniques, students will become competent in core principles of veterinary treatment of large and small ruminant species. This course will also incorporate advanced animal management and herd medicine concepts that are critical for treatment of large groups of animals in a farm setting.",
+    "prerequisites": "(VETS3010, VETS3011, VETS3012) or (VETS3050, VETS3060, VETS3070)",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

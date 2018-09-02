@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM1012",
+    "course_name": "Introductory Pharmacy 2",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to give you the foundation knowledge and skills in community pharmacy and over-the-counter (OTC) medicines. Pharmacy retail management; pain, inflammation and fever; smoking cessation; dermatology and wound care; complementary medicines; coughs and colds; allergies; ear care; pregnancy & maternal health; baby care; gastrointestinal conditions.",
+    "prerequisites": "",
+    "incompatible": "PHRM1010",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy."
+}

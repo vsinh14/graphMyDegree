@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS4205",
+    "course_name": "Advanced Techniques for High Dimensional Data",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Selected advanced topics from spatial & multimedia databases: multidimensional data management concepts, theories and technologies, focusing on data access methods and similarity query processing for spatial, multimedia and Web-based databases, with particular emphasis on video indexing and search.",
+    "prerequisites": "INFS2200",
+    "incompatible": "INFS4200 or INFS7200 or INFS7205",
+    "restricted": ""
+}

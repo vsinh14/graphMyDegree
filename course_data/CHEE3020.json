@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3020",
+    "course_name": "Process Systems Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course introduces a systems approach to understanding and analysing the structure and behaviour of industrial processes. The context and needs that give rise to process systems are examined along with the concepts of unit operations & unit processes. Understanding the nature of individual units and complex flowsheets is done through analysis of degrees of freedom & solvability issues. Techniques for the decomposition of large, complex systems to smaller problems are developed. Application of computer-aided flowsheeting tools facilitate process analysis, which includes economic & environmental impacts.",
+    "prerequisites": "CHEE2001",
+    "incompatible": "CHEE2002",
+    "restricted": ""
+}

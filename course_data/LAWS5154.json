@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5154",
+    "course_name": "Public International Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to international law (including institutional structures, pacific settlement of disputes, history and theoretical assessments); sources of international law (with particular attention to treaties); international and municipal law; international personality (including States and international organisations); State jurisdiction and responsibility; international human rights law; international criminal law; international economic law; international environmental law; law of the sea; use of force and the law of armed conflict.",
+    "prerequisites": "All Level 1 LAWS courses",
+    "incompatible": "LAWS3705 or 7154",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

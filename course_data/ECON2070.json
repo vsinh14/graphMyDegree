@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2070",
+    "course_name": "Introduction to Strategic Thinking",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The way that economists think about strategic situations is through the application of game theory. One aim of the course is to teach you some strategic considerations to take into account when making your own choices. A second aim is to predict how other people or organizations behave when they are in strategic settings. We will see that these aims are closely related. We will learn new concepts, methods and terminology. A third aim is to apply these tools to settings from economics and other disciplines. The course will emphasize examples. We will also play several games in class.",
+    "prerequisites": "ECON1010",
+    "incompatible": "",
+    "restricted": ""
+}

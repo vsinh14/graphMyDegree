@@ -1,0 +1,12 @@
+{
+    "course_code": "HMST3392",
+    "course_name": "Musculoskeletal Rehabilitation in Exercise Science",
+    "faculty": "",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to introduce exercise science students to the area of musculoskeletal rehabilitation. Theoretical and practical skills in applied anatomy and musculoskeletal rehabilitation will be assessed. Learning tasks in lectures and practicals encourage professionalism and critical reasoning skills.",
+    "prerequisites": "ANAT1005 + ANAT2029 + HMST3362",
+    "incompatible": "HMST3740",
+    "restricted": "BScApp(HMS-ExSc)"
+}

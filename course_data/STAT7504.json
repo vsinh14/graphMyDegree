@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7504",
+    "course_name": "Advanced Probability & Stochastic Processes I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only)\nState of the art in advanced probability and stochastic processes. The selection of topics will depend on the (research) interest of the lecturer, and will lie in the areas of Markov processes, renewal theory, point processes, martingales and stochastic integration. Offered in even-numbered years only.",
+    "prerequisites": "STAT3001or 3004",
+    "incompatible": "STAT4403",
+    "restricted": "Permission of Head of School"
+}

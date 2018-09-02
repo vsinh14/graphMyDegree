@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM1011",
+    "course_name": "Introductory Pharmacy 1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the pharmacy profession, roles and professional organisations; cultures and theories of learning; contemporary issues in pharmacy practice; professional ethics; pharmacy information sources; verbal communication; medicines regulation and scheduling; sale of non-prescription medicines; introduction to prescription medicines; the Australian health care system and health care teams; Medicare; PBS; principles of drug therapy and dosing; drug delivery; compounding.",
+    "prerequisites": "",
+    "incompatible": "PHRM1010",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy or Bachelor of Pharmacy (Honours)"
+}

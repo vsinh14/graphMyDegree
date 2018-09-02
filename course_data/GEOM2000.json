@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM2000",
+    "course_name": "Introduction to Earth Observation Sciences (EOS)",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Remote sensing or earth observation, is one of the most important and widely applied methods for measuring, monitoring and understanding the atmospheric, terrestrial and aquatic environments of the earth (and other planets). Information extracted from images may be used in many ways, e.g., as a basis for mapping and monitoring changes to features (vegetation communities, land use type, soil types, mineral outcrops), biophysical properties (biomass of forest, crop yields, ozone concentration, soil moisture, building height) and for integration in geographic information systems (GIS) with other spatial data to support monitoring and management of natural and built environments.\n\nRemote sensing is taught in a number of courses at the University of Queensland and GEOM2000/7000 is the fundamental course. GEOM3001/7001 provides more advanced image processing skills, while GEOS3400 presents a project based study in Biophysical Remote Sensing of a specific environment and GEOS3102 explains how remote sensing is used to measure global scale environmental changes. The skills learnt in remote sensing also form essential tools for use in higher level physical geography, ecology, human and physical geography, archaeology and earth science courses, including geomorphology, hydrology, climatology, oceanography and geophysics.\n\nThe content objective of the course is to understand: (1) how remotely sensed images are acquired; and (2) the biological, physical and chemical factors determining the appearance of natural and built environmental features in images. The process objective develops skills enabling you to solve an environmental science, monitoring, planning or management problem by selecting an appropriate remotely sensed data set and applying the relevant image processing, interpretation and analysis techniques to detect and measure the composition of the environment and its biophysical properties.",
+    "prerequisites": "",
+    "incompatible": "ENVM1504 or GEOM7000 or GEOS2301 or GEOS7302",
+    "restricted": ""
+}

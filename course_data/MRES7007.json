@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7007",
+    "course_name": "Diffusion & Perfusion Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical background & clinical applications of diffusion weighted (DWI) and perfusion imaging (PI). Theory includes pulse sequence design, isotropic & anisotropic diffusion processes, diffusion tensor imaging, bolus tracking of contrast agents, arterial spin tagging methods & DWI & PI image processing.",
+    "prerequisites": "(MRES7001 or MRES7100) + MRES7004",
+    "incompatible": "",
+    "restricted": "A minimum quota of 5 students across the internal and external offerings per semester required for course to run."
+}

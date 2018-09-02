@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7021",
+    "course_name": "The Macroeconomy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is an intermediate course in Macroeconomics. This course covers important macroeconomic issues such as the determinants of national expenditure and income, economic growth, inflation and exchange rates. The course integrates macroeconomic theory and policy with applications to recent international and Australian economic episodes.",
+    "prerequisites": "ECON1020 or ECON7001",
+    "incompatible": "ECON7020 and ECON2020",
+    "restricted": ""
+}

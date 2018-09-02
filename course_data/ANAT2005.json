@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT2005",
+    "course_name": "Neuroanatomy (Speech Pathology)",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Specialised neuroanatomy of functional systems relevant to speech therapy. Emphasis on brain stem, cranial nerves, cerebellum, thalamus, motor systems & blood circulation.",
+    "prerequisites": "",
+    "incompatible": "AN305",
+    "restricted": "BSpPath"
+}

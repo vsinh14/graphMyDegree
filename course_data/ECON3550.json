@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3550",
+    "course_name": "Economic Institutions and Global Banking",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is written to provide a straightforward applied approach to the understanding international and global banking in a wider economic framework. It covers all the traditional course topics: credit analysis, electronic banking, the Eurobond market, debt crisis, international supervision, commercial banking and investment banking while also providing a solid grounding in the history of banking and its influences on modern practices.",
+    "prerequisites": "ECON1010 and 1020",
+    "incompatible": "ECON7550",
+    "restricted": ""
+}

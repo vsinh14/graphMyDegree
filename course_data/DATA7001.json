@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7001",
+    "course_name": "Introduction to Data Science",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Communication & Arts School, Info Tech & Elec Engineering, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the fundamental process of data science and provides the necessary computational and statistical foundations for further courses in the master of data science. Design thinking methodology will be utilised to approach complex data science problems as a design problem. The data science process will be practiced through case studies in a number of data-intensive domains.",
+    "prerequisites": "Program entry requirements",
+    "incompatible": "",
+    "restricted": "Restricted to MDataSc students only."
+}

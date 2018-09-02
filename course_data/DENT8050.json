@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT8050",
+    "course_name": "Advanced Clinical Practice IIIA",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course is the fifth of the discipline-specific clinical courses for DClinDent students. The objectives are to progressively build competence & confidence at final year level in specialty clinical practice & knowledge, which will enable independent practice as a discipline specialist.",
+    "prerequisites": "DENT8010 + DENT8020 + DENT8030 + DENT8040",
+    "incompatible": "",
+    "restricted": ""
+}

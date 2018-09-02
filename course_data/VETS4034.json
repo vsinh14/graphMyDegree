@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS4034",
+    "course_name": "Theriogenology: Clinical Reproduction, Obstetrics and Neonatology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Theriogenology is the study of clinical practice of veterinary obstetrics, gynecology, and andrology and neonatal medicine in animal species. This course will build on basic reproduction and teach applied concepts used in veterinary practice. Students will learn breeding management of the male and female, pregnancy diagnosis in all species, care of pregnant animals as well as management of parturition and dystocia, and aspects of neonatal medicine. Students will also learn how to diagnose sub-fertility in male and female animal species. Advanced reproductive techniques such as preservation of semen, IVF, synchronization, embryo transfer and stem cell technologies will also be introduced.",
+    "prerequisites": "(VETS3010, VETS3011, VETS3012, VETS3022) or (VETS3050, VETS3060, VETS3070)",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

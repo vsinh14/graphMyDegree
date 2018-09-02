@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGL6100",
+    "course_name": "Honours Research Thesis",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Part of an English Literature Honours program.",
+    "prerequisites": "",
+    "incompatible": "ENGL6110",
+    "restricted": ""
+}

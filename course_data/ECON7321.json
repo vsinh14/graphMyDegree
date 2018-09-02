@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7321",
+    "course_name": "Statistical Theory for Economists",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Recommended material for all advanced courses in Econometrics, Mathematical Economics & operations research. Topics include probability theory, sampling distribution, introduction to classical & Bayesian decision theory.",
+    "prerequisites": "(ECON2300 or ECON7310) and (ECON2050 or ECON7250)",
+    "incompatible": "ECON3320",
+    "restricted": ""
+}

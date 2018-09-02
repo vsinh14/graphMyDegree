@@ -1,0 +1,12 @@
+{
+    "course_code": "GREK1110",
+    "course_name": "Introductory Greek",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A course designed to teach basic grammar and reading skills in the ancient Greek language. This is not a course in modern Greek language.\nNOTE: Instruction by small group teaching.",
+    "prerequisites": "",
+    "incompatible": "RELN1501 OR RELA1001 & CL115",
+    "restricted": ""
+}

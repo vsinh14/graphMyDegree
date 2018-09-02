@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2208",
+    "course_name": "Differentiation & Development",
+    "faculty": "Medicine",
+    "school": "Biological Sciences School, Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course seeks to develop a solid foundation in the basic concepts of differentiation and\ndevelopmental biology.",
+    "prerequisites": "BIOL2200",
+    "incompatible": "",
+    "restricted": ""
+}

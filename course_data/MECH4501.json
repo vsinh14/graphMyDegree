@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH4501",
+    "course_name": "Engineering Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "(This course has a quota - MECH4500 - 130 students/MECH4501 - 35 students) Thesis project on an approved topic that integrates engineering skills acquired through the engineering program Detailed description available from the Mechanical Engineering office. Students commencing course in sem 1 enrol in MECH4500 for sem 1 and sem 2; students commencing in sem 2 enrol in MECH4501 for sem 2 and the following sem 1.",
+    "prerequisites": "Permission of Head of School required.",
+    "incompatible": "ENGG4011",
+    "restricted": ""
+}

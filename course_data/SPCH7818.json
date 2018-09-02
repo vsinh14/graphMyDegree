@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH7818",
+    "course_name": "Clinical Management of Dysphagia & Laryngectomy",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course involves (a) development of students' competencies in the assessment, diagnosis, treatment & management of paediatric, adult and complex dysphagic cases, (b) development of the swallowing and communication management of patients who have undergone head and neck surgery.",
+    "prerequisites": "ANAT7000, SPCH7801",
+    "incompatible": "SPCH3201 or 7807",
+    "restricted": "MSpPathSt Students"
+}

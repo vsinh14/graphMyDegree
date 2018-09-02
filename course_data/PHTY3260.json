@@ -1,0 +1,12 @@
+{
+    "course_code": "PHTY3260",
+    "course_name": "Physiotherapy Specialties: Musculoskeletal IIB (Cervical and Thoracic Spine)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with knowledge & understanding of the musculoskeletal pathologies of the cervical & thoracic spines & craniomandibular region, the physical manifestations of cervical, thoracic & upper quadrant disorders, differentiation of cervical versus other origins of condition such as headache, dizziness & face pain, the clinical reasoning process in clinical assessment & diagnosis, physiotherapy treatment options, rationales & treatment selection.",
+    "prerequisites": "All Year One and Year Two courses for the BPhty (Hons) program plus PHTY3110, PHTY3130, PHTY3140, HRSS3100",
+    "incompatible": "PHTY3210, PHTY4110",
+    "restricted": "BPhty"
+}

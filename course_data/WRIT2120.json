@@ -1,0 +1,12 @@
+{
+    "course_code": "WRIT2120",
+    "course_name": "Creative Writing: Screenwriting",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will introduce students to the basic skills of feature film screenwriting.",
+    "prerequisites": "4 units of BA list courses",
+    "incompatible": "WRIT6120",
+    "restricted": "Course offering may be cancelled unless a minimum of 20 students enrol."
+}

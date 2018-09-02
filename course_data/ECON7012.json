@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7012",
+    "course_name": "Business Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Economics focuses on choices between alternative ways of using resources and the consequences of these choices, which often have to be made in the face of problems associated with the availability of information and limitations to knowledge. These choices concern issues such as what to consume, what to produce, how to produce it, how to organize production between different economic entities, and what prices to charge. Choices taken by individuals need to be coordinated to avoid wasted opportunities, the more so the more that specialization is taking place at the level of the individual, firm or national economy. A major coordinating role is played by price mechanisms, i.e. adjustments in relative prices and the incentives provided by profits and losses. However, much coordination is achieved via the use of planning and institutions. Even with coordination assisted by these devices coordination failures can still occur, such as major slumps in employment and international trade. Economic theory can help to assess when these problems are likely and how they may be dealt with.",
+    "prerequisites": "",
+    "incompatible": "ECON2010, or 2400 or 7003 or 7010 or 7011 or 7110 or MEBS7103",
+    "restricted": "GCBA, GDipBA, MBA"
+}

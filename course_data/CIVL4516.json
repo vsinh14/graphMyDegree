@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4516",
+    "course_name": "Civil Design III",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced civil engineering design projects; philosophy of design & selection of systems; risk assessment; integrated design primarily focussing on hydraulics, coastal, environmental, geomechanics and transport engineering.\n[Note: students will be required to meet costs associated with copying of design reports prior to submission.]",
+    "prerequisites": "CIVL3210 and CIVL3140 and CIVL3420",
+    "incompatible": "CIVL4510 or CIVL4530 or CIVL4513 or CIVL4511 or CIVL4512",
+    "restricted": ""
+}

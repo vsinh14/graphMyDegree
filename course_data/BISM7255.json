@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7255",
+    "course_name": "Business Information Systems Analysis and Design",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Structured & object-oriented analysis & design of business systems; testing & quality assurance; practical group experience with CASE tools integrated with a relational database for business systems. Critical analysis & discussion of recent research.",
+    "prerequisites": "BISM7202 or MGTS7202 or 2 units COMP/COMS/INFS courses",
+    "incompatible": "BISM3222 or INFS3222 or INFS7211 or 7255",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

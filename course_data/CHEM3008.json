@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3008",
+    "course_name": "Medicinal & Biological Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Medicinal chemistry is a multidisciplinary science involving molecular design, chemical synthesis and bioassays followed by modifying compound properties for pharmaceutical applications. Medicinal chemistry thus combines organic chemistry with biochemistry, physical chemistry, microbiology, pharmacology, structural biology, computer modelling and molecular biology.",
+    "prerequisites": "CHEM2050 or CHEM2901 or CHEM2052",
+    "incompatible": "",
+    "restricted": ""
+}

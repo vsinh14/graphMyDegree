@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7002",
+    "course_name": "Responsible Data Science",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq, Info Tech & Elec Engineering, Law School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Gathering, understanding, interpreting and making decisions based on collected data is an invaluable tool for science, business and governments. Concerns about privacy, consent, confidentiality, discrimination, ownership, commercialisation, intellectual property and the importance of fair benefit sharing are known. Being aware of conflicts of interest and the need to ensure equity, reciprocity and respect for cultural diversity are increasingly seen as important. What is less recognised is the nature of the roles of those who access and make decisions about collected linked personal information. The emerging global banked data that has become a key part of contemporary decision-making raises questions about the role of the data scientist. In this course students will critically analyse the ethical and legal foundations of data science governance that are relevant to the technical processes of data collection, storage, exchange and access. Issues covered will include the ethical dimensions of data management, legal and regulatory frameworks in Australia and in relevant jurisdictions, data policy, data privacy, data ownership, legal liabilities regarding analytical decisions, and discrimination. The course will equip students to identify the ethical and legislative requirements that underpin the technical processes of data science and to apply ethical and legal considerations to the core processes of data analytics. It will also introduce algorithms and technical approaches to minimise the risk of data identifiability and disclosure. A range of case studies will be used to explore these issues in applications of data science, including the use of government administrative data for informing social policy, to integrate ethical, legal and technical considerations.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to MDataSc students only"
+}

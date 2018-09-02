@@ -1,0 +1,12 @@
+{
+    "course_code": "SPAN2310",
+    "course_name": "Reading & Writing in Spanish",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Aims to develop reading comprehension and writing strategies to improve language proficiency. Designed for non-native speakers completing their third semester of Spanish or equivalent.",
+    "prerequisites": "SPAN2010 or placement test",
+    "incompatible": "SPAN3330",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SOCY2019",
+    "course_name": "Introduction to social research",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with an introduction to social research. It emphasises the common standards for both qualitative and quantitative research approaches, and their varied roles in social research. Students will cover some introductory or foundational issues (e.g. epistemology, the purposes of research, research ethics and politics), and be introduced to research design and the logic of research. Other topics to be covered include conceptualisation and measurement, causal inference, experimental methods, observational and quasi-experimental methods, sampling, different approaches to data collection (interviews, surveys, ethnography). A key objective of the course is to equip students to become more critical and discerning consumers of social research, to be able to evaluate projects in terms of research design, and to choose appropriate methods of data collection and analysis for the purposes of conducting their own research projects.",
+    "prerequisites": "",
+    "incompatible": "SOCY2049",
+    "restricted": ""
+}

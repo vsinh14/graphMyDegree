@@ -1,0 +1,12 @@
+{
+    "course_code": "LING2045",
+    "course_name": "Generative Syntax",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to generative grammar; main focus will be on theories of Noam Chomsky & their application to English.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "EL101 or LING1000",
+    "incompatible": "EL210",
+    "restricted": ""
+}

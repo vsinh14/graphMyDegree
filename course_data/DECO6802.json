@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO6802",
+    "course_name": "Design Computing Thesis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Research dissertation on issues in multimedia design or design computing. Specific topics decided in consultation with a supervisor. Topics may cover historical & prospective design & use of design computing technologies, as well as functional, social, aesthetic, & technical issues. Students commencing in semester 1 enrol in DECO6801 in both semesters 1 and 2, students commencing in semester 2 enrol in DECO6802 in semester 2 and the following semester 1.",
+    "prerequisites": "",
+    "incompatible": "MMDS6801, MMDS6802",
+    "restricted": "BMultMedDes (Hons)"
+}

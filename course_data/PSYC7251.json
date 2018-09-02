@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC7251",
+    "course_name": "Evidence-based Psychotherapies",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Theoretical and practical training for clinical psychologists in the application of evidence-based therapeutic techniques and interventions for a broad array of clinical populations.",
+    "prerequisites": "",
+    "incompatible": "PSYC7072",
+    "restricted": "Restricted to students in the MPsychClin or DPsych"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS1171",
+    "course_name": "Physical Basis of Biological Systems",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An algebra-based introduction to Physics in a biological context. Topics include forces, motion, thermodynamics, waves, fluids, electricity and biomedical sensing.",
+    "prerequisites": "",
+    "incompatible": "PHYS1170 or (a pass in PHYS1001 or PHYS1002)",
+    "restricted": "Bachelor of Engineering (Hons) (including BE and duals) students who have successfully completed High School Yr12 Physics (or equivalent) are not permitted to enrol in this course."
+}

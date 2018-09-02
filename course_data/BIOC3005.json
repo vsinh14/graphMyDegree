@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC3005",
+    "course_name": "Molecular Systems Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course describes contemporary approaches to biological research, particularly the utility of large scale high-throughput technologies that are used in conjunction with cross-disciplinary & integrative methodologies in determining biological networks. Molecular systems biology is an integrative discipline that seeks to explain the properties & behaviour of complex biological systems in terms of their molecular components & their interactions.",
+    "prerequisites": "BIOC2000 + (BIOL2202 or BIOL2902)",
+    "incompatible": "",
+    "restricted": ""
+}

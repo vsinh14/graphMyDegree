@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH4120",
+    "course_name": "Geophysical Signal Processing",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Concepts of digital signal analysis with emphasis on applications in seismic exploration. Minimum delay concept Z-transform, convolutional model, inverse & Wiener filtering, deconvolution, propagation in layered systems.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

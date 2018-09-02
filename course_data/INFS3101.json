@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS3101",
+    "course_name": "Ontology and the Semantic Web",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(not offered in 2008) Role of ontology in the inter-operation of information systems in the semantic web. Structure, organisation & quality of ontology. Ontology servers.",
+    "prerequisites": "INFS1200",
+    "incompatible": "INFS7100",
+    "restricted": ""
+}

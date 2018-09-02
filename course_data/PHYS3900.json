@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3900",
+    "course_name": "Perspectives in Physics Research",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Perspectives in Physics Research is the Capstone course to be taken by all students completing a Major in Physics or Biophysics. This course will include elements of scientific communication, ethics in research and research experience.",
+    "prerequisites": "(PHYS2020 + PHYS2041 + PHYS2055) or BIPH2000",
+    "incompatible": "BIPH3000",
+    "restricted": ""
+}

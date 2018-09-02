@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3510",
+    "course_name": "Introduction to Project Management with Building Information Modelling",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will deliver the principles of project management in the context of civil engineering. This will include: work planning & control; scheduling, including critical path methods; internal and external costs (understanding, estimating and controlling); teams communication and team leadership; quality and safety culture; resources; professional ethics and Building Information Modelling for project management.",
+    "prerequisites": "1st and 2nd year Civil Engineering compulsory courses",
+    "incompatible": "CIVL4520",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7409",
+    "course_name": "Metabolic Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "",
+    "description": "",
+    "prerequisites": "CHEE4020 + (BIOL2202 or BIOL2902)",
+    "incompatible": "CHEE4028",
+    "restricted": ""
+}

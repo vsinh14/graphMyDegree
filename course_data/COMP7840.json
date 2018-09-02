@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7840",
+    "course_name": "Computer Science Research Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Substantial research project focusing on a particular area of computer science. Topic to be agreed in consultation with a supervisor. The project will be of suitable complexity for results to be published for an expert audience. Students commencing in semester 1 enrol in COMP7801 for Sem 1 & 2, students commencing in semester 2 enrol in COMP7802 for sem 2 and the following sem 1. Students completing in a single semester enrol in COMP7840.",
+    "prerequisites": "Permission Head of School",
+    "incompatible": "",
+    "restricted": "MCompSc, MCompSc(Mgmt)"
+}

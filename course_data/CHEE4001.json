@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4001",
+    "course_name": "Process Engineering Design Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Integration of major aspects of chemical & environmental engineering into the design of a production facility. Process & control system synthesis, detailed engineering design, capital & operating cost estimation, hazard & risk analysis, operating procedures & environmental impact. Team work.",
+    "prerequisites": "(CHEE4060 or CHEE3006) and CHEE3004",
+    "incompatible": "MINE4201 or CHEE7103 or MINE7204",
+    "restricted": ""
+}

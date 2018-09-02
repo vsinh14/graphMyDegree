@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1020",
+    "course_name": "Chemistry for Science and Engineering",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to chemistry as a quantitative science to enable further studies in higher level chemistry and biochemistry for science, biomedical science and engineering students. Core topics include: kinetic theory, thermodynamics, chemical equilibrium, redox chemistry, acid base chemistry and chemical kinetics. These concepts are developed with a strong focus on the application of quantitative problem-solving skills.",
+    "prerequisites": "",
+    "incompatible": "CHEM1012 or 1013 or ENGG1040 or CHEM1001 or CHEM1021 or 1022",
+    "restricted": "Semester 1: BE students or other students with faculty permission; Semester 2: Available to all students."
+}

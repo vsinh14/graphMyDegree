@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3305",
+    "course_name": "Science & Engineering of Metals",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Phase diagrams, phase transformations, dislocations, strengthening mechanisms, metallography, corrosion, recycling, future directions. \nFor students who need to complete MECH3305, you will now enrol in MECH2310. This is a Course Code change only.",
+    "prerequisites": "ENGG1200 or MATE1000",
+    "incompatible": "MECH4305, MECH2310",
+    "restricted": ""
+}

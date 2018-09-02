@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL1013",
+    "course_name": "Introduction to Ethics",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to ethics and associated philosophical issues. Drawing on classical and contemporary ethical theories, this course introduces basic concepts and techniques of moral reasoning, raises critical questions, and encourages students to develop their own ideas and to understand the role of ethical thinking in everyday life. Topics include: justice, liberty and paternalism, democracy, environmentalism, feminism, cultural relativism, psychological egoism, duty and obligation, rights, and human and non-human animal experimentation.\nThis course may not run if there are fewer than 20 enrolments.",
+    "prerequisites": "",
+    "incompatible": "PD113, PD713, PD785, PHIL1130",
+    "restricted": ""
+}

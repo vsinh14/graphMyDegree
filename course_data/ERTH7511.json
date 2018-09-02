@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH7511",
+    "course_name": "Gravity & Magnetic Exploration",
+    "faculty": "Science",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Potential & field theory; magnetic properties & densities of Earth materials; instrumentation, field procedures; reduction & interpretation of magnetic & gravity data.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ERTH4121 or GM463 or 872",
+    "restricted": ""
+}

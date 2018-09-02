@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE2201",
+    "course_name": "Real Estate Investment",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Nature of financial markets. Property as an investment medium. Modern portfolio theories & strategic portfolio management. Analysis of property trusts & other investment vehicles.",
+    "prerequisites": "",
+    "incompatible": "REDE3503 or 7201",
+    "restricted": ""
+}

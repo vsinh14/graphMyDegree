@@ -1,0 +1,12 @@
+{
+    "course_code": "PHRM2021",
+    "course_name": "Dosage Form Design A1",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Pharmacy School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The study and application of physicochemical principles to the design, formulation and effective use of liquid and semi-solid dosage forms. The basic principles of biotechnology as they pertain to the pharmaceutical industry will be introduced.",
+    "prerequisites": "",
+    "incompatible": "PHRM2020",
+    "restricted": "Only available to students enrolled in the Bachelor of Pharmacy."
+}

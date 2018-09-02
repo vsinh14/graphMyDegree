@@ -1,0 +1,12 @@
+{
+    "course_code": "IENV7922",
+    "course_name": "Agile Methods",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(not offered in 2008) Professional issues in information environments: client briefs, requirements analysis, systems design & development approaches, user-participatory design; workplace studies. High level experience with software tools supporting design, project management & revision control.",
+    "prerequisites": "IENV7912",
+    "incompatible": "IENV2201 or IV212",
+    "restricted": ""
+}

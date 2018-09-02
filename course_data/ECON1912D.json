@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1912D",
+    "course_name": "Economics Statistics B",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This is an introductory course in quantitative analysis for business and economics. The course covers a variety of topics including hypothesis testing, analysis of variance and experiental design, anaysis of categorical data, simple regression analysis, multiple regression models, and time series forecasting.",
+    "prerequisites": "ECON1911D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7520",
+    "course_name": "International Macroeconomics and Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical topics on exchange rate behaviour & management, current account determination, international capital mobility, effectiveness of fiscal & monetary policies in open economies & select international macroeconomic policy issues.",
+    "prerequisites": "ECON2010 + 2020 or 7002 or 7010 or 7011 or 7110 + 7020 or 7021",
+    "incompatible": "ECON6510 or EC417 or 845",
+    "restricted": ""
+}

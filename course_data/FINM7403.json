@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7403",
+    "course_name": "Portfolio Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides students with techniques for evaluating investments on an individual basis and in the context of portfolios. Techniques for analysing investments focus on maximising expected returns while minimising risk. The most powerful way of achieving this objective is by creating a portfolio of investments.\n\nTopics covered are financial statement analysis, equity investments, debt investments, portfolio management, and macroeconomic and industry analysis.",
+    "prerequisites": "FINM7065 or 7401 or 7805",
+    "incompatible": "FINM3402",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3140",
+    "course_name": "Catchment Hydraulics: Open Channel Flow & Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Catchment hydraulics: behaviour of flows in channels; open channel flow; design & applications.",
+    "prerequisites": "",
+    "incompatible": "CIVL3110",
+    "restricted": ""
+}

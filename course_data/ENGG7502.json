@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7502",
+    "course_name": "Reservoir Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The aim of this module is to: Understand the rock and fluid properties of a hydrocarbon reservoir. Describe the nature of the fluid flow and pressure distribution in a reservoir. Understand the effects of production/ injection on recovery of reserves.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to MSc (Petroleum Eng) students."
+}

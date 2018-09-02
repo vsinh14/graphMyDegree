@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3800",
+    "course_name": "Human Resource Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered 2013\nThe course combines the classic approach to personnel economics with the modern behavioural economic approach to understanding organisations or human relations. Combined they are used to study aspects of human resource decision-making confronting both workers and firms under different institutional settings, drawing on the recent experimental literature as well as micro-economic modelling.",
+    "prerequisites": "ECON2030 + ECON2800",
+    "incompatible": "EC381",
+    "restricted": ""
+}

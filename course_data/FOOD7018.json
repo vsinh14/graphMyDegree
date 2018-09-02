@@ -1,0 +1,12 @@
+{
+    "course_code": "FOOD7018",
+    "course_name": "Food Bioprocessing",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Bioprocessing involves the use of biologically-derived substances, such as live cells (animal, plant, yeast, fungi, microbial) or enzymes, to generate valuable products. This course covers such areas as: (i) production, extraction, purification, immobilisation and directed evolution of enzymes, (ii) downstream processing and value adding of food processing wastes, (iii) fermentation technology and genetic enhancement, (iv) biosensors, and (v) bioseparations. This course will require the student to research and review current and emerging bioprocessing topics under the supervision of a member of academic staff.",
+    "prerequisites": "",
+    "incompatible": "FOOD4002",
+    "restricted": ""
+}

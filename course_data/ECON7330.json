@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7330",
+    "course_name": "Advanced Econometric Theory",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is an advanced course in econometric theory which builds upon ECON3330. The focus will be on theoretical foundations of econometrics, including the asymptotic theory behind M-estimators and likelihood-based inference, nonparametric and semiparametric econometrics.",
+    "prerequisites": "ECON3310 or (3330 + 3320) or 2310",
+    "incompatible": "ECON6310 or EC444 or 861",
+    "restricted": ""
+}

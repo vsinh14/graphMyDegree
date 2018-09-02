@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7201",
+    "course_name": "Introduction to Computer Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to digital logic & digital systems; machine level representation of data; computer organization; memory system organization & architecture; interfacing & communication; microcontroller architecture and usage; programming of microcontroller based systems.",
+    "prerequisites": "",
+    "incompatible": "COMP1300 or COMP2300 or COMP2302 or CSSE1000 or CSSE2010 or CSSE7035 or ELEC2002",
+    "restricted": ""
+}

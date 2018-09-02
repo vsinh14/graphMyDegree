@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4303",
+    "course_name": "Advanced Combinatorics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only). Various advanced topics in combinatorics, design theory and graph theory.",
+    "prerequisites": "MATH2302",
+    "incompatible": "MATH7303",
+    "restricted": ""
+}

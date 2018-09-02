@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC2000",
+    "course_name": "Biochemistry & Molecular Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with key principles of biochemistry & molecular biology. Topics covered include protein structure & function, biochemistry of DNA replication, transcription & translation, basic bioinformatics. Properties of enzymes. Key metabolic pathways & their regulation. This course will be of importance across the biological & biomedical sciences.",
+    "prerequisites": "(BIOL1020 or BIOM1050 or BIOM1051) + (CHEM1100, CHEM1221, CHEM1222, CHEM1021, or CHEM1022)",
+    "incompatible": "AGRC2001, BIOC2012, BIOC2014",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM3403",
+    "course_name": "International Financial Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Extends financial decision-making to the international setting. Problems introduced through exchange rates are considered. Issues such as the determination of cost of capital, benefits of international diversification, the quantification & hedging of economic exposure are addressed.",
+    "prerequisites": "FINM1415 or 2401 or 2411 or 2412",
+    "incompatible": "FINM7406",
+    "restricted": ""
+}

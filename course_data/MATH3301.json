@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3301",
+    "course_name": "Graph Theory and Design Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Various topics in Graph Theory including a selection from graph algorithms, connectivity, networks, planarity, graph colouring, graph symmetries. An introduction to Design Theory including a selection of topics from Latin squares, Steiner triple systems, balanced incomplete block designs, graph decompositions, projective and affine designs.",
+    "prerequisites": "MATH2302",
+    "incompatible": "MATH7331",
+    "restricted": ""
+}

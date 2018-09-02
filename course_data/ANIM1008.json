@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM1008",
+    "course_name": "Animal Health & Care",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The importance of animal health, types & causes of disease, methods of spread of disease, major parasites & diseases affecting Australian livestock, methods to control these diseases, first aid for animals.",
+    "prerequisites": "",
+    "incompatible": "QAA68 or QA108 or VG108 or ANIM3006",
+    "restricted": ""
+}

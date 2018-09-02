@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7130",
+    "course_name": "The Web from the Inside Out - from Geeks to Google & Facebook",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an insight into the development of the World Wide Web. You'll study its early document-centric design to today's distributed community focus. The course will look into the history, design, technology and economics of Web applications (including Google, Twitter, Youtube and Facebook), by analysing aspects such as identity & self-identity, trust & privacy, data and network structures, social semantics and collective intelligence (\"wisdom of the crowds\"). Students will create and publish information through an exploration of common types of Web applications. Students will learn to use the Web to manage and manipulate information, to discern information sources and their quality, to choose between suitable software alternatives and to work collaboratively within such an environment.",
+    "prerequisites": "",
+    "incompatible": "COMP1900 or INFS1300",
+    "restricted": ""
+}

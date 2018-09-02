@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3070",
+    "course_name": "Veterinary Clinical Principles",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Veterinary clinical practice encompass a broad range of skills required to be a successful veterinary practitioner and to proceed to the clinical years of the BVSc program. Broadly, this course will provide essential introductory training in both clinical approach and reasoning, as well as practical clinical skills. Students will develop skills in physical examination of different species, foundational clinical skills in radiography, radiology, surgery and anaesthesia, critical thinking and problem solving skills, the problems-based approach to clinical practice, and veterinary medical ethics and animal welfare and their application to clinical decision making.",
+    "prerequisites": "VETS2007; VETS2008; ANIM2503",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

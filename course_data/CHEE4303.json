@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4303",
+    "course_name": "Interface and Colloid Science and Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to engage students in the nano-micro scale, but hugely important, realm of interfacial phenomena. Interfaces are important across science and engineering, from manufacturing to energy to biomedicine to everyday activities, including cooking, eating, laundry, and drinking. Students will look at the role interfaces play in a range of important applications whilst investigating some of the theory, science, and engineering that go into these applications. Areas of application include supercapacitors, desalination, batteries, water purification, froth flotation, foams and cleaning, emulsions and microemulsions, nanofluidics, lab-on-chips, self-assembly and thin films.",
+    "prerequisites": "CHEM2056 or CHEM2002",
+    "incompatible": "",
+    "restricted": ""
+}

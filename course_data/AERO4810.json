@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO4810",
+    "course_name": "Aerospace Team Project II",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Small teams of students undertake design, implementation, testing, evaluation & presentation of a complete aerospace-related product.",
+    "prerequisites": "ENGG2800 or METR2800",
+    "incompatible": "ENGG3800, ENGG4810, METR3800",
+    "restricted": "Restricted to Electrical & Aerospace and Software Systems & Aerospace students"
+}

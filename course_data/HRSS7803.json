@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS7803",
+    "course_name": "Research Project",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "",
+    "prerequisites": "",
+    "incompatible": "[HRSS7800 + HRSS7801] (only if completed as an individual project), HRSS4100, HRSS4300, HRSS7300, HRSS7803, HRSS7805",
+    "restricted": "MAudSt students"
+}

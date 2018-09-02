@@ -1,0 +1,12 @@
+{
+    "course_code": "OHSS7007",
+    "course_name": "Physical Ergonomics",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Ergonomics is the scientific discipline concerned with the fundamental understanding of interactions among humans and other elements of a system and the application of appropriate methods theory and data to improve human well-being and overall system performance. Derived from the Greek ergon (work) and nomos (laws) to denote the science of work, ergonomics is a systems-orientated discipline which now extends across all aspects of human activity. Ergonomics promotes a holistic approach in which considerations of physical, social, organisational, environmental and other relevant factors are taken into account. In particular the course provides students with advanced skills and knowledge to effectively identify, analyse and control risks arising from physically demanding work. Through a range of lectures, case studies and workshops students will master specific analysis techniques and will critically review the current strategies for the minimisation of work-related musculoskeletal disorders.",
+    "prerequisites": "",
+    "incompatible": "OHSS3001",
+    "restricted": ""
+}

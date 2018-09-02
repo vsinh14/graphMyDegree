@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM6900",
+    "course_name": "Finance Theory",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course, which is the first in the sequence of doctoral seminars offered in finance, is designed to introduce students to the major models of asset pricing and to rational expectations models. All of the material is developed from first principles, so there are no formal prerequisites for taking this seminar. It is assumed, however, that students are familiar with basic microeconomic theory and have a working knowledge of both calculus and matrix algebra. The outline that follows provides a brief description of the material that is covered in the course. The course consists of three 2 Day Modules which deal with three broad categories of asset pricing models: single-period static models and discrete time intertemporal models (Module 1), continuous time mathematics, Black Scholes and continuous time models (Module 2) and finally rational expectations models: fully revealing equilibrium, noisy rational expectations equilibrium, the Kyle model, its extensions and future directions (Module 3). The general approach will be: to examine the economic intuition behind each model; provide a mathematically rigorous derivation of the model; discuss the model's important features, and outline the testable implications of the model.",
+    "prerequisites": "Permission from Head of School",
+    "incompatible": "",
+    "restricted": "PhD students only"
+}

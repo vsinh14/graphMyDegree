@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7128",
+    "course_name": "Health Behaviour Interventions",
+    "faculty": "Medicine & Biomedical Sciences",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides background knowledge and practical experience in research and designing an evidence-based behaviour intervention with the potential to reduce risk of chronic diseases (such as type 2 diabetes, cardiovascular disease and major cancers). It is highly recommended that students have some prior knowledge of principles of epidemiology, for example, the MPH core course PUBH7600 Introduction to Epidemiology or an equivalent. Please note that PUBH7128 builds upon behavioural epidemiology skills covered in PUBH7127 therefore it is advisable to completed PUBH7127 before PUBH7128. This course may not be offered if the enrolment is less than 10 students.",
+    "prerequisites": "PUBH7127",
+    "incompatible": "PUBH7122",
+    "restricted": ""
+}

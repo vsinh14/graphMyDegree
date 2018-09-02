@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7142",
+    "course_name": "Consumer Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an advanced level examination of consumer law as an element of the Australian legal system generally, and consumer protection legislation and regulation in particular. Students will have their knowledge of consumer law enhanced and will be expected to apply and improve their analytical and communication skills in practical, social and theoretical contexts.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5142 or 7342",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

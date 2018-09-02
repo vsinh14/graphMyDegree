@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE2020",
+    "course_name": "CSI UQ: Introduction to Forensic Science",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The gathering and analysis of evidence is fundamental to successfully solving crime. Forensic science techniques are used extensively in police, customs and insurance investigations. Each forensic investigation is a puzzle where the first steps involve the identification and quantification of a wide variety of substances. This course examines the role of interdisciplinary scientific inquiry in the criminal investigations and introduces the most commonly used analytical techniques in forensic science, which span a range of traditional scientific disciplines including microbiology, chemistry, physics, biochemistry and genetics, to name but a few. Through case studies and hands-on experience students will learn methods for the analysis of chemical and biological materials (including DNA, blood, paint, dust, gun shot residues and documents) and investigate their use in the examination and interrogation of the evidence of crime.",
+    "prerequisites": "SCIE1000 and #2 level 1 Chemistry",
+    "incompatible": "",
+    "restricted": ""
+}

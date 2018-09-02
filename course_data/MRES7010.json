@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7010",
+    "course_name": "Minor Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Minor research project. Literature surveys, data analysis & interpretation. For students with access to an MRI system, data acquisition.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite.",
+    "incompatible": "",
+    "restricted": ""
+}

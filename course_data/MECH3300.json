@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3300",
+    "course_name": "Finite Element Method & Fracture Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Finite element method: strain energy, Castigliano's theorem, interpolation functions, element types, 2-D analysis types, plate & shell models; introduction to nonlinear finite element models. Fracture mechanics: linear-elastic fracture mechanics, Griffith's energy balance, stress intensity estimation, fatigue, elastic-plastic fracture mechanics, J-integral.",
+    "prerequisites": "MECH2300",
+    "incompatible": "",
+    "restricted": ""
+}

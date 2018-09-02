@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7006",
+    "course_name": "Research Project",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course will provide students with the skills to develop & explore a critical issue within their advanced practice roles. Students will identify a question related to the demands of expanded clinical practice & critically address this through a systematic review of the literature relevant to their question.",
+    "prerequisites": "",
+    "incompatible": "NURS7020",
+    "restricted": "MMHNurs, MMid, MN and MNPracSt students only"
+}

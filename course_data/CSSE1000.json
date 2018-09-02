@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE1000",
+    "course_name": "Introduction to Computer Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by CSSE2010 in 2013] Digital logic & digital systems; machine level representation of data; assembly level machine organization; memory system organization & architecture; interfacing & communication; microcontroller and architecture and usage; functional organization; case studies & laboratory experiments.",
+    "prerequisites": "",
+    "incompatible": "COMP1300 or COMP2300 or COMP2302 or CSSE7035 or ELEC2002",
+    "restricted": ""
+}

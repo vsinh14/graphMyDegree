@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7501",
+    "course_name": "Broadband Communication Systems",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(not offered 2008) Source & channel coding, channel capacity, optimum receivers, synchronisation, adaptive equalisation, fading and multi-path channels, RAKE receivers, multi-carrier and multi-user systems (OFDM, CDMA), 3G mobile communication systems.",
+    "prerequisites": "COMS7105 or COMS4100",
+    "incompatible": "",
+    "restricted": ""
+}

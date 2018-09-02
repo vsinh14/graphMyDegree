@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3450",
+    "course_name": "Public Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the role of the government in the economy. Public policy issues are analysed theoretically and empirically. The course covers topics in government expenditure, taxation and political economy.",
+    "prerequisites": "ECON2030",
+    "incompatible": "EC341 or 342 or 343",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7304",
+    "course_name": "Number Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even years only)\nIntroduction to algebraic & analytic number theory & elliptic curves.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4304",
+    "restricted": ""
+}

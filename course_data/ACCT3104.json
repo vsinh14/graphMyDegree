@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT3104",
+    "course_name": "Management Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Accounting information relevant for planning, control & performance evaluation decisions by management in business & non-business organisations; alternative analyses & systems; conceptual issues & behavioural implications.",
+    "prerequisites": "ACCT2102 or 2113",
+    "incompatible": "",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

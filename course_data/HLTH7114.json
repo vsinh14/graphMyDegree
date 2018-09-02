@@ -1,0 +1,12 @@
+{
+    "course_code": "HLTH7114",
+    "course_name": "Application of Clinical Telehealth",
+    "faculty": "Medicine & Biomedical Sciences",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the two key approaches to clinical telehealth, i.e. store-and-foward and real-time. The applicability of each approach will be explored through a series of case studies across a range of clinical settings.",
+    "prerequisites": "HLTH7113",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS6502",
+    "course_name": "Advanced Physics Research Project",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "10",
+    "duration": "Two Semesters",
+    "description": "Advanced theoretical or experimental project in Physics or another field recommended by supervisor and approved by Head of Discipline. Students enrolling in course with #4/#6 split enrol in PHYS6501 if commencing in semester 1 or PHYS6502 if commencing in semester 2. Students enrolling in course with #6/#4 split enrol in PHYS6503 if commencing in semester 1 or PHYS6504 if commencing in semester 2. Students must enrol in the same course code in 2 semesters.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "BAdvSc(Hons) students only"
+}

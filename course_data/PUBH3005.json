@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH3005",
+    "course_name": "Influencing Health Behaviours",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an overview of an evidence-based approach to the development, implementation and evaluation of health behaviour interventions. PUBH3005 will develop and extend students' abilities in critically appraising, understanding and applying scientific evidence in the development, implementation and evaluation of population health intervention programs.",
+    "prerequisites": "PUBH2004",
+    "incompatible": "PUBH2005",
+    "restricted": ""
+}

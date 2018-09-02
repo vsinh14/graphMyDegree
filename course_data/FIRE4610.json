@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE4610",
+    "course_name": "Fire Engineering Design: Solutions for Implicit Safety",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to enable students to apply leading practice principles in prescriptive implementation of fire safety and fire protection technologies. This course aims to provide students with skills and knowledge to use codes and standards to deliver a \"Deem To Satisfy\" building. This course emphasizes design and assessment.",
+    "prerequisites": "FIRE3700 or ENGG3700",
+    "incompatible": "",
+    "restricted": ""
+}

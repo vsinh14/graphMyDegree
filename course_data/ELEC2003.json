@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC2003",
+    "course_name": "Electromechanics & Electronics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "First principles introduction to electromagnetic fields & their applications in electrical machines. Physical models of semiconductor devices. Common electronic circuits using discrete semiconductor devices. Theoretical investigations, substantial case studies & laboratory experiments.",
+    "prerequisites": "ELEC1000 or ENGG1300",
+    "incompatible": "ELEC2000",
+    "restricted": ""
+}

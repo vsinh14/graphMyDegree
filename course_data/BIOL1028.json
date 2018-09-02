@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL1028",
+    "course_name": "Cell and Tissue Biology",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A preclinical biomedical science course for veterinary science students covering homeostasis, the cellular environment, functions of the cell membrane, cytoskeleton and cell movement, cell signaling, specialised cells (in muscle, the nervous, endocrine, circulatory and immune systems), gas exchange and transport.",
+    "prerequisites": "",
+    "incompatible": "AGRC1041",
+    "restricted": "BVSc"
+}

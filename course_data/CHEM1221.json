@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1221",
+    "course_name": "General, Organic & Biological Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on concepts that have been introduced in CHEM1090 (Introductory Chemistry) and Senior Chemistry. Students who have completed CHEM1100 (Chemistry 1) will be able to apply a number of concepts they have encountered in new contexts. Students will develop their knowledge and understanding across organic and physical chemistry necessary for advancement to second level biochemistry courses. Core topics include: Structure, reactivity and mechanisms of reaction for organic molecules that form the building blocks of biomolecules (including amino acids and saccharides), acid/base chemistry and intermolecular forces in a biological context. This course is recommended for students in the following programs: B Health Sciences, B Exercise & Nutrition Science, B Applied Science (nutrition & food technology majors); B Science (for majors other than chemistry, chemical sciences, biochemistry & molecular biosciences, biomedical science and physics). It does not provide sufficient background for all areas of CHEM2052.",
+    "prerequisites": "Senior Chemistry or CHEM1090",
+    "incompatible": "CHEM1200, CHEM1222, CHEM1010, CHEM1020, CHEM1021, CHEM1022",
+    "restricted": ""
+}

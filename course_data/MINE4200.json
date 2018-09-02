@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4200",
+    "course_name": "Impact and Risk for Minerals Processing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "As professional engineers our graduates will in the future be responsible for critical aspects of engineering practice, design and decision making; these include the implementation of sound professional and ethical behaviour, responsibilities and liabilities for safe management of plant and personnel (HAZOP); critical assessment of issues of sustainability from project initiation to wider long term operations (SASOP); Environmental risk assessment including project environmental approvals. These issues and the modern approaches to assessing impact and risk will be explored in this course.",
+    "prerequisites": "CHEE2010 or MINE3214",
+    "incompatible": "CHEE4002",
+    "restricted": ""
+}

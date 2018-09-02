@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2052",
+    "course_name": "Chemical Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course focuses on the application of principles of inorganic & organic chemistry to the understanding of biological function at the molecular level. Topics covered will include functional group chemistry in a biological setting, mechanistic enzymology, chemistry of coenzymes & vitamins, chemistry of biosynthetic pathways, computational & spectroscopic methods in chemical biology, metal ion acquisition & speciation in biological systems, metallo-proteins, role of metal ions in disease states. This is a key course for those undertaking the Chemical Biology stream of the Chemical Sciences dual major & for students wishing to continue with Chemistry that is relevant to Biological & Biomedical Sciences.",
+    "prerequisites": "CHEM1200, CHEM1010 or CHEM1030",
+    "incompatible": "CHEM2041 or CHEM2001",
+    "restricted": ""
+}

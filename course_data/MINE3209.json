@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE3209",
+    "course_name": "Mineral Processing I",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Liberation of minerals & textures after comminution; design, engineering & operation of different comminution circuits and machineries.",
+    "prerequisites": "MINE2101 or 2201 or MMME2101 or 2201 or ERTH1501",
+    "incompatible": "MMME3207 or 3209 or 5E327",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5223",
+    "course_name": "Advanced Tax",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course builds on the basic tax concepts used to determine income tax payable by considering specific contemporary issues such as the taxation of entities, special topics in capital gains tax, international issues, tax evasion & avoidance, administrative aspects of tax, & goods & services tax.",
+    "prerequisites": "All Level 1 & 2 LAWS courses + LAWS3113 + LAWS3114 + LAWS4112 + LAWS5144",
+    "incompatible": "LAWS3102 or 5145 or 7145 or 7223",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

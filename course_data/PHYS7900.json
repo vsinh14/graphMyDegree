@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7900",
+    "course_name": "Perspectives in Physics Research",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "PHYS7900 is a capstone course that includes elements of scientific communication, ethics in research and research experience. The research component consists of a number of short research projects within research groups associated with Physics.",
+    "prerequisites": "",
+    "incompatible": "PHYS3900",
+    "restricted": "Permission of Head of School"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7144",
+    "course_name": "Advanced Hamiltonian Dynamics & Chaos",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd-numbered years only)\nNewtonian mechanics and the dynamics of a single particle. Lagrangian mechanics of many body systems. Hamiltonian dynamics, Poisson brackets and canonical transformations. Systems of very large numbers of particles, Statistical Mechanics and Thermodynamics.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "MATH4104",
+    "restricted": ""
+}

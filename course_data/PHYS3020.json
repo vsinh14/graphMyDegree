@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS3020",
+    "course_name": "Statistical Mechanics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical understanding of the physical properties of samples of material of macroscopic size, on the basis of the known quantum mechanical behaviour of the constituent (microscopic) particles; micro-canonical, canonical, and grand-canonical ensembles; classical and quantum gases; photons and phonons; Planck distribution and black-body radiation; fermions and bosons; Fermi-Dirac distribution and Fermi energy; Bose-Einstein distribution and Bose condensation.",
+    "prerequisites": "PHYS2020 + [MATH2000 or MATH2001] + PHYS2041",
+    "incompatible": "",
+    "restricted": ""
+}

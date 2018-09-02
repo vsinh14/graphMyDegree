@@ -1,0 +1,12 @@
+{
+    "course_code": "KORN3010",
+    "course_name": "Spoken Korean IIB",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course consolidate work done in KORN2101 and focuses on further facets of spoken Korean with immediate practical applications. This courses will introduce colloquial expressions and provide practice the use of wide range of the expressions. Increasingly, more complex grammatical structures will be practice using various materials such as textbooks and internet sources.",
+    "prerequisites": "KORN2101",
+    "incompatible": "KORN2102",
+    "restricted": ""
+}

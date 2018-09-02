@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1931D",
+    "course_name": "Business Communication A",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "Business Communication is covered by the study of two courses across consecutive trimesters, through which students will study the development of managerial skills and communication. This course, part A, covers self-awareness, communication theory, listening and non-verbal communication skills, and oral presentations.",
+    "prerequisites": "MGTS1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

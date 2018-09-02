@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2050",
+    "course_name": "Mathematical Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course begins extending elementary calculus concepts from ECON1050 to the analysis of functions of several variables. Then it covers convex multivariate optimisation. This is followed by further analysis on constrained optimisation. Finally, it provides essential elements of dynamic optimisation in discrete time. Applications include consumer problems, cost minimisation, and dynamic programming for dynamic economies.",
+    "prerequisites": "ECON1050 or MATH1051",
+    "incompatible": "EC233",
+    "restricted": ""
+}

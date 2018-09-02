@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7051",
+    "course_name": "Calculus & Linear Algebra I",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Vectors, linear independence, scalar product. Matrices, simultaneous equations, determinants, vector product, eigenvalues, eigenvectors, applications. Equation of straight line & plane. Extreme value theorem, maxima & minima. Sequences, series, Taylor series, L'Hopital's rules. Techniques of integration, numerical methods, volumes of revolution.",
+    "prerequisites": "",
+    "incompatible": "MATH1051",
+    "restricted": "GCSc, GCEdSt, GDipEdSt, MEdSt. \nPermission from the Head of School is required to enrol in this course."
+}

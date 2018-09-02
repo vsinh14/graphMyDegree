@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC3292",
+    "course_name": "Science Teaching for Human Movement Studies",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to prepare Human Movement Studies students to be effective teachers of Science for students in the Middle Years of Schooling. The specific context for this course is Queensland, and as such the course draws extensively on the Years 1-10 Science Syllabus. A variety of other documents will also be used as support material for ideas and influences in science education.",
+    "prerequisites": "EDUC3004",
+    "incompatible": "EDUC3003, EDUC4292",
+    "restricted": "BScApp(HMS) or BHMS (Educ) or BHSPE or BHSPE(Hon)"
+}

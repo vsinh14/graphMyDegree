@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3303",
+    "course_name": "Abstract Algebra & Number Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "MATH3303 covers key topics in group theory and ring theory, with a view towards commutative algebra, algebraic number theory and representation theory.",
+    "prerequisites": "MATH2301",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7280",
+    "course_name": "Engineering Project 8A",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Please Note: this course has been replaced by ENGG7290 as of Semester 1, 2018.\nProject or thesis on a topic relevant to the School's research profile & the student's field of engineering study. Students commencing a year long project in sem 1 enrol in ENGG7281 for sem 1 and sem 2; students commencing a year long project in sem 2 enrol in ENGG7282 for sem 2 & the following sem 1; students completing the course in a single semester enrol in ENGG7280. \nStudents enrolling in a placement through ENGG7280 are able to negotiate placement dates with their host institution between the following dates - Sem1: 15 Jan to 30 June; Sem2: 1 July to 15 December.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "ENGG7281 or ENGG7282",
+    "restricted": ""
+}

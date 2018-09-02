@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7107",
+    "course_name": "Advanced Mathematical Methods & Models B",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd years only)\nAdvanced techniques of modern applied mathematics & mathematical physics. Selected topics from: linear & nonlinear waves & solitons; advanced transform methods, tomography & wavelets; integrable models in statistical mechanics. Offered in odd years only.",
+    "prerequisites": "Permission of Head of School + MATH3401",
+    "incompatible": "MATH4107",
+    "restricted": ""
+}

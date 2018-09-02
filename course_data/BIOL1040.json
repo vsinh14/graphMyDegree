@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL1040",
+    "course_name": "Cells to Organisms",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers the fundamental concepts that allow complex organisms to function, with some focus on the human body & other higher organisms. Key concepts include basic cellular transport & signalling mechanisms, neuronal structure & function, motor mechanisms & locomotion, circulation & gas exchange, & the endocrine system. Of key importance is the integration of different concepts as they apply to the structure and function of different regions of the entire organism.",
+    "prerequisites": "",
+    "incompatible": "BIOM1050, BIOM1051",
+    "restricted": "Semester 1 only: Restricted to students enrolled in the Diploma in Science and other students who have at least #6 of credit to their UQ program. Request permission to enrol by sending an email to sbms@uq.edu.au."
+}

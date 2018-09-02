@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7250",
+    "course_name": "Advanced Mathematical Techniques for Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Study advanced calculus techniques useful for Economics, including multi-variate constrained and unconstrained optimisation. The study of advanced matrix algebra and an introduction to dynamic programming used in Economics.",
+    "prerequisites": "ECON7150 or ECON1050",
+    "incompatible": "ECON2050",
+    "restricted": ""
+}

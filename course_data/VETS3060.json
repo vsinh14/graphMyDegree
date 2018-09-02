@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3060",
+    "course_name": "Veterinary Systems Pathology and Medicine",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Students will learn the stereotypical ways in which each of the body systems respond to insult and examples of prototype veterinary diseases. For each body system, they will learn how these stereotypical responses manifest clinically, how to perform a clinical exam and how to choose and interpret clinical and laboratory tests in a body system focused diagnostic approach.",
+    "prerequisites": "VETS2007; VETS2008; ANIM2503",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

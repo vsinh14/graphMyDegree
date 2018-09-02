@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC2019",
+    "course_name": "Mind and Culture",
+    "faculty": "Social & Behavioural Sciences",
+    "school": "Education School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is offered as EDUC2716 from 2011.",
+    "prerequisites": "EDUC1029",
+    "incompatible": "ED203, EDUC2716",
+    "restricted": ""
+}

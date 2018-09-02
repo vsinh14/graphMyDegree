@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH4108",
+    "course_name": "Case Integration",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course helps the student to make the transition from the case-based disorder-specific courses in previous years to the more typical multifaceted communication disorders. Case integration using clinical reasoning, reflective practice, and evidence-based practice is the basis of this course.",
+    "prerequisites": "Completed all of Year one to three of BSpPath(Hons)",
+    "incompatible": "",
+    "restricted": "BSpPath"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2200",
+    "course_name": "Cell Structure & Function",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with an understanding of the molecules & complexes that make up cells & mediate cell activities.",
+    "prerequisites": "BIOL1020",
+    "incompatible": "BIOL2008",
+    "restricted": ""
+}

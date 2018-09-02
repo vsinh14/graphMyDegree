@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3203",
+    "course_name": "Managing Business Data",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Business issues in relation to database management, conceptual modelling & data modelling in business applications. Using structured Query Language (SQL) to uncover critical information for business decision making. Applications of database systems in a business context.",
+    "prerequisites": "BISM1201 or MGTS1201 or 2 units COMP/COMS/INFS courses",
+    "incompatible": "INFS1200 or 7900 or BISM7206 or MGTS3203 or MGTS7206",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

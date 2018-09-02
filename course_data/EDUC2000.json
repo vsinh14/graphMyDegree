@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC2000",
+    "course_name": "Communication for Learning",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to effective communication, analysis of discourse, instructional practices and motor task learning, observation and qualitative analysis of human movement.",
+    "prerequisites": "HMST2430 or PSYC2000",
+    "incompatible": "HM222 or HM223 or HMST2220",
+    "restricted": ""
+}

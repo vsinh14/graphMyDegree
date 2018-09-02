@@ -1,0 +1,12 @@
+{
+    "course_code": "SPAN3460",
+    "course_name": "Literatura en Espanol",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with an overview of the development of Hispanic literatures (Spain and Spanish America) from its origins to 20th Century. It will expose students to in-depth reading of representative texts from different periods and give evidence of the correlation between literary discourse and history of ideas.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "SPAN3110",
+    "incompatible": "SPAN2460",
+    "restricted": ""
+}

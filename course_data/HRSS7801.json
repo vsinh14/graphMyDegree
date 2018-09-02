@@ -1,0 +1,12 @@
+{
+    "course_code": "HRSS7801",
+    "course_name": "Research Project",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Interpretation of data & preparation of a scientific article in a form suitable for submission to a relevant journal.",
+    "prerequisites": "",
+    "incompatible": "HRSS4100 or HRSS6003",
+    "restricted": "MPhtySt and MSpPathSt students"
+}

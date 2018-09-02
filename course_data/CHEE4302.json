@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4302",
+    "course_name": "Electrochemistry & Corrosion",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamental of electrochemical reactions, thermodynamics and kinetics of electrochemical reactions, mass transfer/diffusion in electrolytes, electrochemical method of analysis, applications (fuel cells, re-chargeable batteries, super-capacitors, and photo-electrochemical reactions), corrosion fundamentals, design against corrosion, corrosion protection principles & practice, corrosion in common environments, corrosion resistant alloys.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

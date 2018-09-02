@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4405",
+    "course_name": "Measure Theory",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in even-numbered years only)\nLebesgue integral & measure. Monotone convergence theorem, Fatou's Lemma & Lebesgue dominated convergence theorem. Modes of convergence. Bounded variation. Absolute continuity. Signed measures. Generation of measures. Radon-Nikodym & Riesz representation theorems.",
+    "prerequisites": "MATH2400 or MATH2401",
+    "incompatible": "MATH7405",
+    "restricted": ""
+}

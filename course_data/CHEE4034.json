@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4034",
+    "course_name": "Cell & Tissue Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to mammalian cell & tissue engineering for human therapeutic applications. Design & production of functional tissue units, therapeutic cells & biomolecules. Clinical applications & regulatory issues.",
+    "prerequisites": "CHEE4020",
+    "incompatible": "CHEE7408",
+    "restricted": ""
+}

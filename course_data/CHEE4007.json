@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4007",
+    "course_name": "Individual Inquiry",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Self-directed learning under supervision by an academic staff member. Students arrange topic with supervisor & prepare an outline of proposed work, which must be accepted by the course coordinator prior to semester start.",
+    "prerequisites": "Permission of Head of School. Please email studentenquiries@chemeng.uq.edu.au.",
+    "incompatible": "CHEE4016 or CHEE4017 or MINE4205 or MINE4206 or MINE4216",
+    "restricted": ""
+}

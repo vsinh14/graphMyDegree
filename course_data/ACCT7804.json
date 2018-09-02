@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7804",
+    "course_name": "Accounting and Business Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Accounting involves compiling & interpreting financial information about an enterprise & its activities as a basis for making & evaluating economic decisions about the deployment of resources. Therefore, a basic knowledge of accounting is important for anyone involved in modern enterprises, whether they be profit oriented or government/non-profit entities. The aim of the course is to provide a broad understanding of the accounting discipline to enable students to comprehend, evaluate, interpret, question & intelligently discuss accounting information; & understand the uses, limitations, complexities & evolving nature of accounting.",
+    "prerequisites": "",
+    "incompatible": "ACCT2101 or 7020 or 7101 or 7700 or MEBS7101",
+    "restricted": "GCBA, GDipBA, MBA"
+}

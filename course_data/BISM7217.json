@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7217",
+    "course_name": "Advanced Business Data Analytics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The increasing collection of data by businesses, both from their own business operations and from external sources, presents businesses with the challenges of unlocking value from big data. A business that is capable of unlocking insights from such data to develop information is able to improve its decision-making. This course introduces the students to advanced predictive analytics techniques. It builds on the data mining and decision support system knowledge and skills developed in BISM7233, and facilitates students in applying their new skills in multiple settings (eg. social media analysis) while building evidence-based problem solving skills.",
+    "prerequisites": "8 units of MCom courses and BISM7233 or INFS7233",
+    "incompatible": "BISM3206 or MGTS3206 or MGTS7217",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

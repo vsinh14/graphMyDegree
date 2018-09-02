@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7011",
+    "course_name": "Destination Study Tour",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an insight into the complexities and challenges of destination development and management. It provides students with an opportunity to engage with various stakeholders by visiting a number of organisations in key areas of tourism, hospitality and events. Students will observe first-hand the various and competing perspectives, priorities and agendas of different stakeholders in a destination.",
+    "prerequisites": "TOUR7000 + TOUR7031 and #4 from the MTHEM list",
+    "incompatible": "TOUR7040",
+    "restricted": "GCTHEM, MTHEM. Maximum number of enrolments = 20."
+}

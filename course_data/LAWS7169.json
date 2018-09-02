@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7169",
+    "course_name": "Legal History",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is a comparative investigation into the history of the law of obligations in Australia and England. This course seeks to develop students\u00c2\u00bf awareness of the historical underpinnings of the modern law of obligations.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA410 or 745 or LAWS5169 or 7369",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

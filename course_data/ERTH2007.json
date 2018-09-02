@@ -1,0 +1,12 @@
+{
+    "course_code": "ERTH2007",
+    "course_name": "Quantitative Geology",
+    "faculty": "Science",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The description of natural processes is in many cases supported by measurements in the field. The obtained data helps analysing, describing, evaluating and also predicting these processes in a more realistic and illustrative way than a purely qualitative, descriptive approach. This course aims towards bridging the gap between qualitative observations and quantitative measurements. Students will learn how to interpret, analyse and present geological and more general geoscience data. The ability to assess quality of data and using data to support scientific hypothesis are emphasised during the semester.",
+    "prerequisites": "MATH1050 or SA in Year 12 Maths C",
+    "incompatible": "",
+    "restricted": "Minimum enrolment quota of 15 students."
+}

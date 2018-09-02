@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7450",
+    "course_name": "Advanced Human-Computer Interaction",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Design languages & methods applied to user interface design. Hands-on studio-based design experience. Task analysis, advanced interfaces, specifying & designing functionality, design principles, case studies. Advanced topics including social issues, groupware, adaptive interfaces, co-design of hardware & computer interfaces.",
+    "prerequisites": "COMP7904 or DECO7250",
+    "incompatible": "COMP4501 or COMP7501 or DECO4500",
+    "restricted": ""
+}

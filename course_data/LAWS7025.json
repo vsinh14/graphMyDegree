@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7025",
+    "course_name": "Private Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to deepen understanding of the foundations, organisation and purposes of the private law; as well to provide a more detailed analysis of the areas of tort law, contract law, commercial law and property law.",
+    "prerequisites": "",
+    "incompatible": "LAWS7001",
+    "restricted": "MAppLaw, LLM, LLM(Adv), LLM(16), LLM(24), MICLaw(16), MICLaw(24) and MICLaw/MCom"
+}

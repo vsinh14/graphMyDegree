@@ -1,0 +1,12 @@
+{
+    "course_code": "SOCY2339",
+    "course_name": "Introducing Quantitative Research",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Quantitative research methods are the most commonly used research methods in the social sciences. They are widely used by academic researchers, government agencies, private companies, and community organizations. This course provides an introduction to quantitative methods in the social sciences. It emphasises how social scientists use simple quantitative techniques to investigate research questions coming from social science theory, prior research and applied problems. The course focuses on the link between theory and research in social science, the logic of quantitative empirical analysis, and techniques for describing quantitative data and drawing inferences (generalizations) about larger populations. The course also introduces Stata statistical software for simple quantitative analysis.",
+    "prerequisites": "SOCY2019",
+    "incompatible": "SOCY2120, 2059, 7069, 7339, SO320, 321, 420, 421",
+    "restricted": ""
+}

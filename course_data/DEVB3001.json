@@ -1,0 +1,12 @@
+{
+    "course_code": "DEVB3001",
+    "course_name": "Developmental Neurobiology",
+    "faculty": "Medicine",
+    "school": "Biological Sciences School, Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course addresses basic principles of brain development critical for understanding brain function in modern medicine. Fundamental mechanisms such as neural specification, neural stem cell biology, neurogenesis, gliogenesis, neural migration, axon growth and guidance, synaptogenesis, plasticity, and cell death, are discussed in relation to contemporary issues such as the zeki virus, autism, genetic diseases, cancer, plasticity and regeneration. This course is an essential part of any student's toolkit for understanding brain function in health and disease.",
+    "prerequisites": "BIOL2200",
+    "incompatible": "",
+    "restricted": ""
+}

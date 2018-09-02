@@ -1,0 +1,12 @@
+{
+    "course_code": "GRMN3120",
+    "course_name": "Advanced German Language 4",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Continuation of GRMN3110.",
+    "prerequisites": "GRMN3110",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7103",
+    "course_name": "Molecular Imaging Advanced",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This unit of study will build on the knowledge gained in the core courses in semester 1. It will explore\nmolecular imaging technology in more depth and discuss realistic scenarios as they are encountered in research. Topics for discussion include the choices researchers make about suitable biological targets, radiopharmaceuticals, subjects (animal models and patient populations), molecular imaging instruments, experimental protocols and computational algorithms. Students will learn how to extract more useful information from the molecular imaging study through the use of pharmacological models and advanced methods of analysis. On completion of this unit, students will have the requisite knowledge and skills to join a multidisciplinary research team and make contributions to the experimental design and execution of a molecular imaging study.",
+    "prerequisites": "Radiotracer Based molecular Imaging : MRTY5109 (USyd course) and Molecular Targets and Imaging Probes: MOLI7101 (or USyd course equivalent MRTY5108)",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3410",
+    "course_name": "Fluid Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Fundamental descriptions of flow; viscous internal & external flows; turbomachinery; fundamentals of compressible flow; compressible pipe flows; flow measurement.",
+    "prerequisites": "MECH2410",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2056",
+    "course_name": "Physical Chemistry for Engineering",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Kinetics, including reaction mechanism, chain reactions, polymerisation reactions and collision theory. Phase transitions, vapour pressure, solutions, interfaces, surface tension, wetting, absorption, surfactants, Gibbs adsorption isotherm, micelles, adsorption at gas/solid interface, heterogeneous catalysis, insoluble monolayers.",
+    "prerequisites": "CHEM1100 or CHEM1020",
+    "incompatible": "CHEM2038",
+    "restricted": "Restricted to students in BE & BE dual programs"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ANTH2020",
+    "course_name": "Anthropology: History, Theory, Practice",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course surveys the history and development of anthropological theory from antiquity to the present, and its application in ethnographic research and writing.",
+    "prerequisites": "AY100 or ANTH1008 or (AY101 + 102)",
+    "incompatible": "AY200, AY204",
+    "restricted": ""
+}

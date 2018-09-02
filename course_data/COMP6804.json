@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP6804",
+    "course_name": "Computer Science Research Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Substantial research project focusing on a particular area of computer science. Year-long project culminates with a written thesis & presention of poster. Students commencing in sem 1 enrol in COMP6803 for sem 1 & 2; students commencing in sem 2 enrol in COMP6804 for sem & the following sem 1.",
+    "prerequisites": "Admission to BSc Honours or BInfTech Honours program.",
+    "incompatible": "COMP6801 or 6802 or 7805 or 7806",
+    "restricted": ""
+}

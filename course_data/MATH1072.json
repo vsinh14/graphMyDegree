@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1072",
+    "course_name": "Advanced Multivariate Calculus & Ordinary Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Vector calculus, arc-length, line integrals, applications. Calculus of 2 & 3 variables: partial derivatives, conservative fields, maxima & minima. 1st order & linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods for non-linear equations and differential equations. Introduction to mathematical modelling and programming. \n\n(MATH1072 can be studied concurrently with MATH1051)",
+    "prerequisites": "At least 6 in MATH1050 or HA in Yr 12 Maths C (or equivalent)",
+    "incompatible": "MATH1052, MATH7502",
+    "restricted": ""
+}

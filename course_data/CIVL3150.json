@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3150",
+    "course_name": "Modelling of Environmental Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students completing a dual major in Civil and Environmental Engineering must complete CIVL3150. Students completing a dual major in Chemical and Environmental Engineering may complete either CIVL3150 OR CHEE3007. Note that CHEE2501 is a recommended pre-requisite for CIVL3150 for students completing a dual major in Chemical and Environmental Engineering.",
+    "prerequisites": "ENGG1500 and (CIVL2130 or CIVL2135)",
+    "incompatible": "",
+    "restricted": ""
+}

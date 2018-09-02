@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4105",
+    "course_name": "General Relativity",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Manifolds, tensors, connections & covariant differentiation, parallel transport, goedesics & curvature, differential forms. Foundations of general relativity. Applications to astronomy & cosmology.",
+    "prerequisites": "(PHYS2100 or PHYS2101) + (MATH2000 or MATH2001 or MATH3102)",
+    "incompatible": "MATH7105",
+    "restricted": ""
+}

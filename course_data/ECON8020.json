@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8020",
+    "course_name": "Macroeconomics A",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is a core course in macroeconomic theory which addresses fundamental problems including output growth, business cycles and inflation in the context of mainstream models of the economy, fiscal and monetary policies.",
+    "prerequisites": "ECON3020 or 7040",
+    "incompatible": "EC414, ECON6020",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7107",
+    "course_name": "Management Accounting and Control",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To enable potential managers to make informed decisions about costs and cost management; organisational plans and budgets; and the evaluation of business and managerial performance within a framework value creation and the effective and efficient use of organisational resources.",
+    "prerequisites": "ACCT7101",
+    "incompatible": "ACCT2102 + ACCT3104",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

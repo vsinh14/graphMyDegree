@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7350",
+    "course_name": "Design of Composite Structures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A course on the advanced analysis and design of structural elements for students looking towards a career in Structural Engineering. The course covers: composite steel-concrete structures, elastic and rigid plastic analysis of composite beams, composite columns, composite connections, Advanced composite materials, mechanical properties, Failure theories, FRP strengthened RC/steel beams, FRP confined concrete columns.",
+    "prerequisites": "CIVL2330 and CIVL2340 and CIVL2360 and CIVL3340 and CIVL3350",
+    "incompatible": "CIVL4330 or CIVL4331",
+    "restricted": "Restricted to students enrolled in ME or BE (Hons)/ME in Civil & Structural Eng or Civil & Fire Safety Eng."
+}

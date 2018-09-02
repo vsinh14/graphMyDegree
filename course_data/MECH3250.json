@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3250",
+    "course_name": "Engineering Acoustics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Plane sound waves; physical aspects of sound; the human ear; physiological aspects of sound; sound level meters; statistical noise measures; occupational noise; road-traffic noise; directivity of sound; reflection & transmission of sound; sound in enclosed spaces; engineering acoustics applications.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

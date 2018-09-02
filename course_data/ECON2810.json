@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2810",
+    "course_name": "Industrial & Labour Relations",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "To study the existence of various frictions in a labour market and the behavioural interaction among workers, firms, and governments. This course will provide Economic theories as a powerful tool to understand how labour institutions behave and interact among each other to achieve mutual and desirable outcomes (or to resolve conflicts). Some empirical work from many different countries as well as Australia will also be discussed.",
+    "prerequisites": "ECON1010 + ECON1020",
+    "incompatible": "EC281",
+    "restricted": ""
+}

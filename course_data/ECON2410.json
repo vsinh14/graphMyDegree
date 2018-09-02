@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2410",
+    "course_name": "Economics of Business Strategy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Economics of the growth strategies of modern corporations, including vertical integration, diversification and multinational enterprise. Economic underpinnings of marketing management, including economics of retailing and Internet businesses.",
+    "prerequisites": "EC101 or 121 or ECON1010",
+    "incompatible": "ID226 or EC265 or ECON2400 or 2700",
+    "restricted": ""
+}

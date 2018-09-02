@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7121",
+    "course_name": "Family Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an intermediate level consideration, examination of, and reflection upon, the legal issues, legislation, case law, theory, practice, social context and key features of what is commonly known as 'family law' in Australia. The course seeks to develop students' knowledge of the law relating to the breakdown of interpersonal relationships; awareness of the application of the relevant principles set out in the Family Law Act (and other related legislation including the Domestic and Family Violence Act) in both a legal and wider social context; and ability to identify and critically consider legal issues in the midst of complex inter-personal issues.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA405 or 742 or LAWS5121or 7321",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

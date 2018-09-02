@@ -1,0 +1,12 @@
+{
+    "course_code": "LING2010",
+    "course_name": "Phonology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Classical & generative approaches to description of sound structures of languages. Concepts & problems in phonological analysis; generative phonology & some current issues in phonological theory.\nNOTE: Course offering may be cancelled unless a minimum of 20 students enrol.",
+    "prerequisites": "LING1005",
+    "incompatible": "LING7110",
+    "restricted": ""
+}

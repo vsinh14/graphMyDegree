@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM7005",
+    "course_name": "Geographical Information Systems",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with a foundation in the science and technology of geographical information systems (GIS). GIS science focuses on ways to describe and explain geographical patterns and processes. GIS technology focuses on data modelling, databases and map visualisation. The course provides GIS application skills in fields such as ecology, environmental, marine and earth sciences and physical geography, and provides laboratory sessions for students to apply GIS for practical problem solving in these fields.",
+    "prerequisites": "",
+    "incompatible": "GEOM2001 or 2002 or 7006 or GEOS2300 or 7300",
+    "restricted": ""
+}

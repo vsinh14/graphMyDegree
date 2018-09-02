@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3301",
+    "course_name": "Materials Selection",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principles & practice of materials selection in mechanical design. Influence of shape on selection. Economic aspects. Use of data sources. Material indices. Generation & use of material selection charts. Selection of fabrication method. Concurrent and compound objectives. Selection of materials for a practical application (project).",
+    "prerequisites": "MATE1000 or ENGG1200 or ENGG1211",
+    "incompatible": "MECH4301",
+    "restricted": ""
+}

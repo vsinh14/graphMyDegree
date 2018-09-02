@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3006",
+    "course_name": "Animal Health and Epidemiology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The maintenance of the health & productivity of individual animals, herds & flocks from a knowledge of disease pathogenesis, hygiene & the environmental factors affecting disease outbreaks.",
+    "prerequisites": "",
+    "incompatible": "VETS3000",
+    "restricted": ""
+}

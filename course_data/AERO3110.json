@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO3110",
+    "course_name": "Aero Design & Manufacturing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines aerospace structural design, with an emphasis on metallic structures. The course covers: 1) certification (i.e. what is required to demonstrate that a structural component is safe and compliant with applicable regulations); 2) stress analysis techniques used to design and certify the thin walled structures which comprise most of the aircraft structure; 3) characteristics and manufacturing processes for high strength aerospace metallic materials; 4) structural optimisation in a practical context (i.e. how to design a component, in terms of materials and sizing, to have minimum weight, the required strength, and be suitable for manufacture). For students who need to complete AERO3110, you will now enrol in AERO4100. This is a Course Code change only.",
+    "prerequisites": "MECH2300",
+    "incompatible": "AERO4100",
+    "restricted": ""
+}

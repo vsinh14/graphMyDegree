@@ -1,0 +1,12 @@
+{
+    "course_code": "EXMD7382",
+    "course_name": "Exercise Science Technical Skills",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Upon successful completion of EXMD7382, the graduate can, based on research and best practice, competently and safely conduct a health and exercise evaluation, assess physical activity/fitness status, interpret the results and communicate the findings.",
+    "prerequisites": "valid Apply First Aid (CPR) certificate",
+    "incompatible": "EXMD2382",
+    "restricted": "MCEP"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FIRE7640",
+    "course_name": "Fire Dynamics Laboratory",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to enable students to collect and analyse data to establish the origin, validity and limitations of fire safety calculations.",
+    "prerequisites": "FIRE7620",
+    "incompatible": "",
+    "restricted": "Maximum quota of 60 students"
+}

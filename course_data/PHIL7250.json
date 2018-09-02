@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL7250",
+    "course_name": "Philosophy & Art",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An exploration of aesthetics within the tradition of European philosophy, with reference to Plato, Kant, Nietzsche, Heidegger, Benjamin & Adorno.",
+    "prerequisites": "",
+    "incompatible": "PD250, PHIL2500",
+    "restricted": ""
+}

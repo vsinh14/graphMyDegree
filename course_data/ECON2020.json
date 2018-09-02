@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2020",
+    "course_name": "Macroeconomic Theory",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principles of macroeconomic theory. Determinants of national expenditure, income & employment in closed & open economies. Role of monetary & fiscal policy, factors influencing interest rates, causes of inflation & unemployment.",
+    "prerequisites": "ECON1010 + ECON1020",
+    "incompatible": "EC212",
+    "restricted": ""
+}

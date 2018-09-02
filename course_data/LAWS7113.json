@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7113",
+    "course_name": "Civil Procedure",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An analysis of the common law system of adversarial adjudication, including State and Federal civil court jurisdiction, costs of litigation, service of process, the role of the court in managing civil litigation, defining the questions for trial, obtaining evidence, pre-trial disclosure, disposition without trial, settling litigation, judgment and enforcing judgment, and appeals.",
+    "prerequisites": "At least #16 of LAWS courses",
+    "incompatible": "LA503 or 447 or 736 or LAWS3013 or 7313",
+    "restricted": "JD"
+}

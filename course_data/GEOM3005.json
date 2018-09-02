@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOM3005",
+    "course_name": "Geospatial Processing and Web Mapping",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops computing skills in Geographical Information Systems for processing tasks and web mapping. It includes: i) basic skills in programming with the Python scripting language to automate GIS processing tasks and to develop analysis tools, and ii) interactive web mapping and apps for publishing on the Internet. The course provides a highly desired industry competency for GIS analysts.",
+    "prerequisites": "GEOM2001 or GEOM2002, (SCIE1000 from 2020)",
+    "incompatible": "GEOM7004",
+    "restricted": ""
+}

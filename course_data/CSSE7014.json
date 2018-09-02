@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7014",
+    "course_name": "Distributed Computing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Motivation and models in distributed computing including models for communication, processes, naming, process synchronisation, replication, consistency & fault tolerance. Examples of distributed services & distributed computing environments. Design and implementation of distributed applications. Design principles of context-aware pervasive systems.",
+    "prerequisites": "COMP7308 and COMS7201",
+    "incompatible": "COMP4301 or COMP7301 or CSSE4004",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2003",
+    "course_name": "Food Chemistry",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The chemistry associated with the structure & functions of food components & systems. Reactions & interactions of food components, particularly related to degradative processes. Introduction to the chemical analysis of foods using modern analytical chemistry techniques.",
+    "prerequisites": "CHEM1100, CHEM1010 or CHEM1030",
+    "incompatible": "FOOD3018 and FOOD7013",
+    "restricted": ""
+}

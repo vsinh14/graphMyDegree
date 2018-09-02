@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL2530",
+    "course_name": "Probability, Statistics and Scientific Computing",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course introduces fundamental concepts of probability, statistical methods and computer programming strategies to perform data analyses and develop mathematical models for engineering applications. The content comprises probability distributions, sampling methods, hypothesis tests, regression, computer programming, graphing and visualisation, among others.",
+    "prerequisites": "ENGG1400 and (MATH1052 or MATH1072)",
+    "incompatible": "STAT2201 or STAT1201 or STAT1301 or STAT2203 or ENVM2000",
+    "restricted": ""
+}

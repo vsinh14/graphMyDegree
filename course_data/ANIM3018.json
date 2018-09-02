@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3018",
+    "course_name": "Wildlife Technologies",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Techniques & methods required to study fauna in their natural habitat, their application, interpretation of data, & generation of management options.",
+    "prerequisites": "ANIM1026",
+    "incompatible": "QM424 or VG316",
+    "restricted": ""
+}

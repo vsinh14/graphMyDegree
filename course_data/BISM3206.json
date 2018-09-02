@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3206",
+    "course_name": "Advanced Data Analytics",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Modern business collects large volumes of raw data through its daily operations. This data can come from business transactions, sensors, or external sources, for example, social media feeds. Competitive advantage can be obtained through unlocking insights from such data to develop information that can be used to support decision-making. This course builds on the data mining and decision support system knowledge and skills developed in MGTS2202, and introduces students to advanced predictive analytics techniques and their application in multiple settings (eg social media analysis). The course also develops evidence-based problem solving skills.",
+    "prerequisites": "BISM2202 or MGTS2202 and 8 units of BBusMan / BCom / BInfTech courses",
+    "incompatible": "BISM7217 or MGTS3206 or MGTS7217",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

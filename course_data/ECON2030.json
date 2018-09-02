@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2030",
+    "course_name": "Microeconomic Policy",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Extends microeconomic theory and demonstrates application to microeconomic policy issues; welfare economics, trade practices legislation, tariff policy and public enterprises.",
+    "prerequisites": "ECON1050 + (ECON2010 or ECON2011)",
+    "incompatible": "EC271",
+    "restricted": ""
+}

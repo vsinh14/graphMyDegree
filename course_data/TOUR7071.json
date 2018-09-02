@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR7071",
+    "course_name": "Professional Consultancy Project II",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "This course offers a capstone experience that provides students with the opportunity to conduct a project focussed on a real world industry problem or opportunity in a field related to their area of study. Projects are expected to address specific issues and problems that are of practical relevance to the industry and that explicitly elaborate on themes from other courses in the program. Students will examine themes in the context of the problems and challenges facing the industry, undertake a thorough analysis of appropriate data, and then suggest solutions or options that might assist the industry in moving forward. Student projects will be supported by an industry mentor.\n\nStudents commencing in semester 1 enrol in TOUR7071 in both semesters. Students commencing in semester 2 enrol in TOUR7070 in both semesters.",
+    "prerequisites": "#8 of study",
+    "incompatible": "TOUR7060, TOUR7061, TOUR7070, TOUR7009",
+    "restricted": "Master of Tourism Leadership cohort only"
+}

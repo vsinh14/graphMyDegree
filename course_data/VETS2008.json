@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2008",
+    "course_name": "Veterinary Reproduction",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A comparative approach to reproductive anatomy & physiology with emphasis on species considered of veterinary importance; The practical/clinical significance of structures & endocrine interactions; purposes, benefits & methods of manipulating reproduction with emphasis on current production & breeding management systems.",
+    "prerequisites": "AGRC1041",
+    "incompatible": "VETS2505",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

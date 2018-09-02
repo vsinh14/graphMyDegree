@@ -1,0 +1,12 @@
+{
+    "course_code": "EXMD2382",
+    "course_name": "Exercise Science Technical Skills",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Upon successful completion of EXMD2382, the graduate can, based on best practice, competently and safely conduct a health and exercise evaluation, assess physical activity/fitness status, perform common sport-related assessments, interpret the results and communicate the findings.",
+    "prerequisites": "Valid Apply First Aid (CPR)",
+    "incompatible": "EXMD7382",
+    "restricted": "BClinExP(Hons) or BExSS(Hons)"
+}

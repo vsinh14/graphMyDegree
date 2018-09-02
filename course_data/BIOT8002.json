@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOT8002",
+    "course_name": "Extended Research Proposal",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Written proposal in the form of a major research grant application involving an industry partner.",
+    "prerequisites": "Permission of Director, Biotechnology Program",
+    "incompatible": "BIOL7005",
+    "restricted": ""
+}

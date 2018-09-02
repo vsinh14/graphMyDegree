@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3002",
+    "course_name": "Human Biomedical Anatomy",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Gross morphology, structural inter-relationships & the functional anatomy of the human musculoskeletal system and viscera as revealed by cadaveric dissection, with focussed topics addressing anatomical variations, pathology and histology of given organ systems.",
+    "prerequisites": "Students must successfully complete BIOM2020 before attempting BIOM3002",
+    "incompatible": "",
+    "restricted": ""
+}

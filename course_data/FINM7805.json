@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7805",
+    "course_name": "Financial Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a comprehensive overview to corporate financial decision making and adding value to the firm. The course will cover a number of important concepts and introduce such topics as financial mathematics, short-term financial management, debt and equity securities and their valuation, project evaluation with emphasis on the discounted cash flow techniques of net present value (NPV) and internal rate of return (IRR), portfolio theory and diversification, the weighted-average cost of capital (WACC), risk and the capital asset pricing model (CAPM), hedging with derivatives.",
+    "prerequisites": "",
+    "incompatible": "CO815 or COMM7501 or BSFN2401 or BSFN3401 or BSFN7065 or BSFN7401 or FINM2401 or FINM3401 or FINM7401 or FINM7065",
+    "restricted": "GCBA, GDipBA, MBA"
+}

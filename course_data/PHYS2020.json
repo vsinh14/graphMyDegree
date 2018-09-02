@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2020",
+    "course_name": "Thermodynamics & Condensed Matter Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theoretical understanding of general properties of macroscopic sized material systems that apply irrespective of the detailed behaviour of microscopic particles constituting the system. Understanding of matter in condensed (liquid or solid) states.",
+    "prerequisites": "(MATH1051 or MATH1071) + PHYS1001",
+    "incompatible": "",
+    "restricted": ""
+}

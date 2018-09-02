@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT2052",
+    "course_name": "Advanced Biomedical Sciences for Dentistry",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences, Dentistry School",
+    "units": "6",
+    "duration": "Two Semesters",
+    "description": "Comprehensive introduction to the biological disciplines relevant to the practice of dentistry. Topics will cover physiology & pharmacology, metabolism & homeostasis, microbiology & immunology, molecular biology.",
+    "prerequisites": "BIOL1040 + CHEM1022",
+    "incompatible": "",
+    "restricted": "For BDSc students only"
+}

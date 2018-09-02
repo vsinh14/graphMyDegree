@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC7309",
+    "course_name": "Power System Planning and Reliability",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers power system planning, operation and management issues as well as reliability in a deregulated environment. The course will give a comprehensive overview of power system reliability. Evaluation of generation, transmission and distribution system reliability and their impacts on system planning will be covered. It will address the factors affecting power system expansion planning, operation and management as well as reliability in an electricity market including system adequacy, security, ancillary services market, decision making and other management issues. Students are assessed by tutorial, assignments and examination.",
+    "prerequisites": "ELEC4300 or ELEC7303",
+    "incompatible": "ELEC7301 or ELEC7305",
+    "restricted": ""
+}

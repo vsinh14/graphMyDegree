@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7610",
+    "course_name": "Concurrency: Theory and Practice",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides a solid understanding of the issues of concurrent programming - processes and threads, scheduling, synchronisation, communications, and data sharing - including their application in distributed systems. The course covers methods for both the specification and verification of such systems at a high level of abstraction, and their implementation in a modern programming language.",
+    "prerequisites": "CSSE2002 or CSSE7023",
+    "incompatible": "",
+    "restricted": ""
+}

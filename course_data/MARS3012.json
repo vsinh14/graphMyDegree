@@ -1,0 +1,12 @@
+{
+    "course_code": "MARS3012",
+    "course_name": "Physical-biological Oceanography",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with a clear understanding of the physical and biological processes in the ocean, and the influence of physical dynamics on biology - from open ocean to coral reefs, from phytoplankton to fisheries. Our changing climate is affecting the circulation and properties of our oceans, and the biology is responding. In order to understand the effects of climate change, we first need to understand how the ocean works. This course will challenge students with understanding the functioning of our oceans, and how the patterns and distribution of life in the ocean are controlled by the physical oceanography. The course consists of integrated lectures on physical-biological oceanography and climate change effects to provide the interdisciplinary foundation increasingly required in the contemporary environmental sciences. It covers the influence of the oceans on human activities and the influence of human activities on the characteristics of the oceans. Practicals will focus on learning to acquire and work with satellite oceanography data and measurements collected by autonomous oceanographic platforms.",
+    "prerequisites": "GEOS2100 or MARS2014 or equivalent; STAT1201 or equivalent",
+    "incompatible": "",
+    "restricted": "Maximum enrolment quota of 30 students."
+}

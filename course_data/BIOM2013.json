@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2013",
+    "course_name": "Integrative Cell & Tissue Biology for BBiomedSc",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will provide essential information as to how cells work together in tissue and organ function. The practical classes employ small-group learning and advanced methods to work on projects that are directly relevant to current research.",
+    "prerequisites": "BIOL1040",
+    "incompatible": "",
+    "restricted": "Restricted to BAdvSc(Hons) students."
+}

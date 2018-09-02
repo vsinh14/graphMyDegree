@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT4022",
+    "course_name": "Dental Practice III",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "Dental treatment planning & provision of comprehensive oral health care to all adults as provided in general dental practice; impact of medical status & social factors on treatment; dental team & their roles & responsibilities; principles of workplace health & safety.",
+    "prerequisites": "DENT3020 + 3030 +3042 + 3062 + 3072 + 3082",
+    "incompatible": "",
+    "restricted": ""
+}

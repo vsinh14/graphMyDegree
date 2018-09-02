@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7505",
+    "course_name": "Algorithms & Data Structures",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Data structures & types, mapping of abstract information structures into representations on primary & secondary storage. Analysis of time & space complexity of algorithms. Sequences. Lists. Stacks. Queues. Sets, multisets, tables. Trees. Sorting. Hash tables. Priority queues. Graphs. String algorithms.",
+    "prerequisites": "CSSE7023 and ( MATH7861 or MATH7501)",
+    "incompatible": "COMP2502 or COMP3506",
+    "restricted": ""
+}

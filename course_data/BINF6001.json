@@ -1,0 +1,12 @@
+{
+    "course_code": "BINF6001",
+    "course_name": "Introduction to Proteins and Nucleic Acids",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is designed to enable bioinformatics students without a solid background in biochemistry and molecular genetics to gain an understanding of important classes of biomolecules and their roles in biological processes. This will be studied at the molecular level with an emphasis on structure determining function. The course will be in two modules: (1) the proteins with coverage of their identification, structural characterization, functional analysis, and the concept of conservation of protein folding and function; and (2) the nucleic acids with coverage of the basic concepts of molecular genetics involving DNA, RNA, and proteins, and higher level concepts in epigenetics, genomics, biotechnology and molecular breeding.",
+    "prerequisites": "",
+    "incompatible": "BIOC6007",
+    "restricted": ""
+}

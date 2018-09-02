@@ -1,0 +1,12 @@
+{
+    "course_code": "ELEC3300",
+    "course_name": "Electrical Energy Conversion & Utilisation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Generation of electricity. Three phase balanced circuits; magnetic circuits. Transformers. Harmonics. Steady state analysis of dc. Synchronous & induction machines. Special motors. Modern motor control systems. Demand side management. Renewable energy sources. Distributed generation & uninterruptible power supplies.",
+    "prerequisites": "ELEC2003",
+    "incompatible": "For ELEC3300: inc ELEC7302\nFor ELEC7302: inc ELEC3300",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "HMST6945",
+    "course_name": "Research Thesis",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "A research project (thesis) available to students enrolled in the Graduate Diploma in Science in the field of human movement science. Students taking the course over a full year starting in sem 1 enrol in HMST6955. Students taking the course over a full year starting in sem 2 enrol in HMST6935 and those taking it as a single semester course enrol in HMST6945, regardless of semester.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "HM495",
+    "restricted": ""
+}

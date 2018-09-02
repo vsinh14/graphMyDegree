@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7232",
+    "course_name": "Law of Trusts A",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the nature & history of the equitable jurisdiction & to the law of trusts, focusing upon the creation of trusts, both testamentary & inter vivos. Classification of trusts & consideration of commercial & other applications of trusts.",
+    "prerequisites": "LAWS7103",
+    "incompatible": "LAWS3012 or 7112",
+    "restricted": "JD"
+}

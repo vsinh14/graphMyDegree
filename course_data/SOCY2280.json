@@ -1,0 +1,12 @@
+{
+    "course_code": "SOCY2280",
+    "course_name": "Sociology of Sport",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Examines sport from a sociological perspective, with a focus on gender, sexuality, race, violence, commodification, deviance, nationalism, globalisation and the mass media.",
+    "prerequisites": "#8 in undergraduate courses",
+    "incompatible": "HM220 or 318 or SO218",
+    "restricted": ""
+}

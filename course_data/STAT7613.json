@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7613",
+    "course_name": "Bayesian Statistical Methods",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Description: This course introduces Bayesian methods and their relationship to standard 'classical' statistical approaches, especially those based on likelihood methods; computational techniques in Bayesian methods for fitting heirarchical models to complex data structures. This course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "STAT7607 + STAT7608",
+    "incompatible": "",
+    "restricted": ""
+}

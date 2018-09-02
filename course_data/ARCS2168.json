@@ -1,0 +1,12 @@
+{
+    "course_code": "ARCS2168",
+    "course_name": "Human Evolution",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a broad overview of human biological and behavioural evolution over the last ~6 million years, ranging from the earliest hominins to the emergence of modern humans and their expansion across the globe. ARCS2168 draws upon the many fields that contribute to our understanding of human evolution, including archaeology, palaeontology, geology, geochronology, biology, systematics, and genetics. The course includes lectures as well as hands-on laboratory exercises that will provide training in human osteology and hominin anatomy.",
+    "prerequisites": "ARCA1000 or ARCA1001 or ARCS1001",
+    "incompatible": "ANTH2168",
+    "restricted": ""
+}

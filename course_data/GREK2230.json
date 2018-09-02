@@ -1,0 +1,12 @@
+{
+    "course_code": "GREK2230",
+    "course_name": "Greek Language & Literature 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An advanced reading course in ancient Greek which introduces the works of several Greek orators and playwrights. This is not a course in modern Greek language. \nNOTE: Instruction by small group teaching.",
+    "prerequisites": "GREK2120",
+    "incompatible": "GREK1230",
+    "restricted": ""
+}

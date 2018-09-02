@@ -1,0 +1,12 @@
+{
+    "course_code": "HORT7002",
+    "course_name": "Horticulture Production",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Principles and practices of horticultural production covering nursery, fruit, vegetables and floriculture industries. Based on an understanding of the horticultural science of plant growth and development and its manipulation, from propagation through to postharvest.",
+    "prerequisites": "",
+    "incompatible": "HORT3003",
+    "restricted": ""
+}

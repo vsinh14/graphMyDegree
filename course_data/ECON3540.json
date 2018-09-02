@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3540",
+    "course_name": "Evolution of Economic Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of how complex systems develop using contributions from behavioural, evolutionary and institutional economics with an emphasis on the role institutions, coordination problems, knowledge issues and cognitive aspects, illustrated with country-based case material.",
+    "prerequisites": "ECON1010",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3010",
+    "course_name": "Ecological & Evolutionary Genetics",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is no longer offered.\nThis course emphasizes the theory and practice of applying genetics approaches to ecological and evolutionary questions. The core of the course consists of four modules covering exciting current topics in evolutionary biology: 1) the creation and maintenance of genetic variability, 2) population genetics in a spatial context, 3) the evolution of sex chromosomes, and 4) epigenetics and its role in evolution. In each of these modules, there will be two Problem Based Learning activities where concepts are explored in-depth and while developing analytical tools. Scientific reports using the standards of peer-reviewed research will help students grasp the skills for effective scientific communication. This course will provide students with a cohesive framework and core tools and techniques for doing research at the intersection of ecology, evolution, and genetics.",
+    "prerequisites": "(BIOL2202 or BIOL2902) + (BIOL2010 or BIOL2201)",
+    "incompatible": "BIOL3007",
+    "restricted": ""
+}

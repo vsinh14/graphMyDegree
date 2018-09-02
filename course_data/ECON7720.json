@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7720",
+    "course_name": "Ecological & Environmental Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Selected issues such as market failures, externalities, pollution control, species preservation, natural areas, sustainable development, common property resources, global environmental & natural resources, conservation of renewable & non-renewable resources; evaluation techniques.",
+    "prerequisites": "ECON2010 or 7010 or 7110",
+    "incompatible": "ECON6700 or EC428 or 856",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOG2104",
+    "course_name": "Urban Geography",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a comprehensive overview of contemporary cities. Beginning with the origins and foundations of cities, the course proceeds to cover spatial structure, location theory, and economic and cultural geographies within cities. The course is taught from a global perspective, drawing examples from Australia in complement to international cities. A variety of processes are introduced, including urbanisation, suburbanisation, counterurbanisation, industrialisation, deindustrialisation, clustering, agglomeration, and more. Students from all backgrounds welcome, though foundational coursework in Geography, Planning, or Sociology is helpful.",
+    "prerequisites": "Any #2 from: GEOG1000, GEOS1100, PLAN1000 or PLAN1001",
+    "incompatible": "",
+    "restricted": ""
+}

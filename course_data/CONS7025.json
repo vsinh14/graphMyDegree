@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7025",
+    "course_name": "Rainforest Conservation",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides a comprehensive overview of the ecology of rainforests globally, and a detailed exploration of the issues relevant to their conservation. By using rainforests as a case study, it is intended that students will gain insights into the conservation and restoration of threatened habitats generally. An integral component of the course is a week-long field trip framed around a quantification of the biodiversity values of old growth rainforest versus post-clearing regrowth and restoration. From this, students will produce an assessment item in the style of a consultant's report, emphasising the effective application of real-world skills in research, analysis and communication.",
+    "prerequisites": "CONS6009 and CONS7008",
+    "incompatible": "ECOL6820",
+    "restricted": "MConsBiol, MConsSc"
+}

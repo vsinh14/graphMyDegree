@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT7000",
+    "course_name": "Anatomical Fundamentals for Speech & Language",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Understanding of head & neck anatomy as well as anatomy relating to the thorax & respiratory system.",
+    "prerequisites": "",
+    "incompatible": "ANAT1022",
+    "restricted": "MSpPathSt Students"
+}

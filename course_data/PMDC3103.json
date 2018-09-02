@@ -1,0 +1,12 @@
+{
+    "course_code": "PMDC3103",
+    "course_name": "Paramedic Clinical Placement 3",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Paramedic Clinical Placement 3 provides students with their third block of five weeks full-time practical experience with the Queensland Ambulance Service. Students will work as the third officer on an emergency ambulance vehicle and will be expected to perform as an effective team member under the direction of the ambulance crew. Students will build on the theoretical knowledge and practical skills learnt in the previous two years of the program, including their previous clinical placements (PMDC1303, PMDC2203) to effectively participate in patient care and transportation. Students will be expected to actively contribute to clinical decision making and treatment and to be able to undertake many tasks independently (to the level of their training). As students will have completed courses in Trauma & Environmental Emergencies (PMDC2201) and Behavioural Conditions & Emergencies (PMDC2202) since Clinical Placement 2, they will be expected to demonstrate knowledge and skills relevant to patients presenting with these conditions. Students must demonstrate knowledge and understanding of ambulance procedures, processes and documentation and demonstrate compliance with the Paramedic Professional Competency Standards. \nVariations in exposure to patient volume and variety will be supplemented by simulated learning and practical teaching.",
+    "prerequisites": "PMDC1102, PMDC1202, PMDC1303, PMDC2203, PMDC2100, PMDC2200, PMDC2101, PMDC2102, PMDC2201, PMDC2202",
+    "incompatible": "",
+    "restricted": "BParamedicSc"
+}

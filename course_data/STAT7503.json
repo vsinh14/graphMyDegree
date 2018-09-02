@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7503",
+    "course_name": "Advanced Statistics II",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in odd years only)\nThe selection of topics will depend on the (research) interest of the lecturer, and will lie in the areas of multivariate and computational statistics. Offered in odd-numbered years only.",
+    "prerequisites": "STAT7301 or STAT3001",
+    "incompatible": "STAT4402",
+    "restricted": "Permission of Head of School"
+}

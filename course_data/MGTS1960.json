@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1960",
+    "course_name": "Business Management I",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to business and its management. Collection & use of business management information, both physical and financial. Taxation issues. Planning techniques for business. Focuses on management of business firms within the rural & environmental sectors.",
+    "prerequisites": "",
+    "incompatible": "COMM1102 or QMA08 or QM236 or NR103 or ABUS1001 or BSAC1101 or ACCT1101",
+    "restricted": ""
+}

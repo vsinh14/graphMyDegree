@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7201",
+    "course_name": "Health, Society & Research 3",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is the third in a sequence of four courses, which develop core concepts in public health, health systems and research. The course will examine the role of health services, communities and community organisations in the prevention of disease and the promotion and maintenance of health across the lifespan: from early childhood through to older age. The course will focus on students learning how to write a research proposal.",
+    "prerequisites": "MEDI7101 and MEDI7102",
+    "incompatible": "MEDI7241",
+    "restricted": "Restricted to students in the second year of the MD program."
+}

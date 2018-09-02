@@ -1,0 +1,12 @@
+{
+    "course_code": "GEOS2101",
+    "course_name": "Climatology & Hydrology",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to the physical processes governing the atmosphere (climatology) and water on the earth\u00c2\u00bfs surface (hydrology). The first half of the course will cover atmospheric motion at a range of scales space-time scales, synoptic circulation and weather, and causes of climatic variation. The second half of the course will cover how water is partitioned at the earth\u00c2\u00bfs surface, including rainfall, runoff, infiltration, groundwater, and eco-hydrology. In each part of the course, the importance of understanding climate and hydrology will be highlighted through reference to problems facing the planet where these skills are needed, such as: extreme weather, ENSO and drought, flooding, and water scarcity. This course provides an excellent foundation for further study in geography, environmental management, environmental science, earth science, and engineering.",
+    "prerequisites": "",
+    "incompatible": "GEOS7104",
+    "restricted": ""
+}

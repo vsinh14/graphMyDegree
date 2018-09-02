@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4020",
+    "course_name": "Biomolecular Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Biochemical and biomolecular engineering principles, biomolecular reactions, kinetics and industrial applications. Analysis of engineered biomolecular systems. Design principles of biomolecular production. Downstream bioprocessing including solid-liquid separations, cell disruption, product concentration & purification, recombinant protein refolding and recovery, product stabilisation and formulation. Scale-up considerations.",
+    "prerequisites": "CHEE1001 and CHEE2001",
+    "incompatible": "",
+    "restricted": ""
+}

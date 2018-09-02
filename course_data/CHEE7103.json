@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE7103",
+    "course_name": "Chemical Engineering ME Design Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course is the capstone experience of the ME degree. Students will work in teams on a project of their choice, a process or a product in an area/industry of interest. In addition to the learning outcomes form the BE design, the ME design will allow students to cover the modelling/design of specific aspects in more detail, using skills gained from their ME level courses. Aspects of entrepreneurship, building a business case and funding mechanisms for engineering projects will be covered and applied in the project.",
+    "prerequisites": "(CHEE4060 or CHEE3006) and BE/ME placement",
+    "incompatible": "CHEE4001 or MINE4201 or MINE7204",
+    "restricted": ""
+}

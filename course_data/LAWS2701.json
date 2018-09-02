@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2701",
+    "course_name": "Criminal Law: Process and Procedure",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines procedural criminal law and demonstrates how the rules governing criminal procedure are integral to a fair and efficient criminal justice system.",
+    "prerequisites": "LAWS2700",
+    "incompatible": "LAWS2006 or LAWS2114",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "SPAN3310",
+    "course_name": "Text analysis and translation",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introduction to Spanish - English translation. It is modelled on a communicative approach that encourages critical analysis of the texts and the decision making processes by which the translated text is formulated.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "SPAN3110 or 3330",
+    "incompatible": "SPAN3320",
+    "restricted": ""
+}

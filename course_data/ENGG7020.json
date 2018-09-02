@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7020",
+    "course_name": "Systems Safety Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Course covering inherently safer design, defence in depth, resilience engineering, human factors, incident investigation and safety management and governance. Techniques covered include: Hazard and Operability Studies (HAZOP), Functional Failure Analysis (FFA), Fault Tree Analysis (FTA), Event Tree Analysis (ETA), Failure Modes and Effects Analysis (FMEA) and Failure Modes Effects and Criticality Analysis (FMECA), Bowtie Analysis, LOPA, Accimap and Safer.",
+    "prerequisites": "Admission to ME suite or MCompSc; MCompSc(Mgt); GDipCompSc; GCCompSc",
+    "incompatible": "ENGG4020",
+    "restricted": ""
+}

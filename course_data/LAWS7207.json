@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7207",
+    "course_name": "Patent and Trademark Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will examine patent and trademark law, which are of increasing importance to knowledge-based industries. It will consider registration criteria, protection of unregistered interests and associated legal concepts.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LAWS5140 or 5207 or 7140",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

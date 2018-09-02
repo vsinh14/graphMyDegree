@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL3002",
+    "course_name": "Philosophy Today",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores the cutting edge of recent and contemporary philosophy and how it relates to earlier philosophical traditions. The course will draw from the history of philosophy to address current issues. Topics will be drawn from questions in Epistemology and Metaphysics, Logic, European Philosophy and Moral and Political Philosophy.",
+    "prerequisites": "PHIL1002",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7308",
+    "course_name": "Antenna Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.) Fundamental properties of antennas and classification of antenna types, radiation formulations involving auxiliary potential functions. Topics from: Linear wire antennas \u00c2\u00bf dipoles, loops and similar elements on ground-planes; array theory encompassing both linear and planar elements including design procedures; specialized synthesis of arrays including the Dolph-Tschebycheff Array and limiting case of the Hanson-Woodyard criteria; mutual coupling, its formulation and its effects on antennas; scanned arrays; continuous synthesis methods including the Woodward-Lawson and Taylor line source synthesis methods; broadband matching techniques; ultrawide-band and travelling wave antennas; rectangular and conical horn design and other simple aperture antennas; simple microstrip antenna models and miniaturization limits; reflector antennas, antenna measurements.",
+    "prerequisites": "COMS4104 or COMS7104",
+    "incompatible": "",
+    "restricted": ""
+}

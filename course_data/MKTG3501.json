@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG3501",
+    "course_name": "Marketing Strategy",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Critical evaluation of marketing principles through practical exercises & detailed analyses of real-life case studies.",
+    "prerequisites": "MKTG2501",
+    "incompatible": "MKTG7512",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

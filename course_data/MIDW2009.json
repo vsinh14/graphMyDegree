@@ -1,0 +1,12 @@
+{
+    "course_code": "MIDW2009",
+    "course_name": "Transition to Midwifery Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "MIDW2009 is an alternative course to MIDW2001 and is specifically designed to enable students who have completed at least one year of a Bachelor of Nursing degree to make the transition to the dual degree Bachelor of Nursing/Bachelor of Midwifery or the Bachelor of Midwifery. It is also a required course for Bachelor of Nursing graduates who have been accepted into the Bachelor of Midwifery. The course provides the foundational midwifery knowledge covered in the four courses in the second semester of year one of the Bachelor of Midwifery and the dual degree.",
+    "prerequisites": "NURS1005, NURS1006, NURS1007 and NURS1008",
+    "incompatible": "MIDW2001",
+    "restricted": "BMid or BN/BMid"
+}

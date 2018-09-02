@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4250",
+    "course_name": "Numerical Methods in Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Not offered in 2018) Introduction to numerical methods in geomechanics; introductory tensor analysis and continuum mechanics; coupled hydro-mechanical behaviour of geomaterials; implementing constitutive models for soils and rocks; the finite element method (FEM); the finite difference method (FDM); applications of numerical methods in geomechanics; validation and calibration of numerical solutions; limitations of numerical modelling; overview of available computer codes for geotechnical engineering; importance of numerical simulations for cost-effective and safe designs of geotechnical structures.",
+    "prerequisites": "CIVL3210 and CIVL3340",
+    "incompatible": "",
+    "restricted": ""
+}

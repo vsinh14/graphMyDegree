@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC1018",
+    "course_name": "Introductory Biology",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the study of living organisms focusing on the understanding of fundamentals of cell structure and function, life chemistry, cell reproduction and genetics, the diversity of life forms on earth in the context of their relevance to agricultural and environmental systems.",
+    "prerequisites": "",
+    "incompatible": "AGRC1001, BIOL1660, LF101",
+    "restricted": ""
+}

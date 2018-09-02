@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7017",
+    "course_name": "Breast MRI",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide students with a broad understanding of the use of Magnetic Resonance Imaging (MRI) to image the human breast.",
+    "prerequisites": "Admission to the Magnetic Resonance suite of programs",
+    "incompatible": "",
+    "restricted": ""
+}

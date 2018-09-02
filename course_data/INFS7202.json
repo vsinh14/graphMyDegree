@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7202",
+    "course_name": "Web Information Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Concepts & fundamentals of web-based Information Systems (WIS): HTML, XHTML, CSS, JavaScript, JavaServlet, Java Server Page, client-server database applications on the internet, and XML. Latest and advanced technologies for developing WIS: AJAX, Web Security, Web Search, Web Service and current trends in WIS.",
+    "prerequisites": "CSSE7030 and INFS7900 and (MMDS7961 or DECO7140)",
+    "incompatible": "INFS3202",
+    "restricted": ""
+}

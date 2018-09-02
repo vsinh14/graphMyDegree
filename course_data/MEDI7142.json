@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7142",
+    "course_name": "Health, Society & Research 2 Indigenous Health and Research & Research Ethics",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In this course students will examine Australian Indigenous Health in a cultural and historic setting. The key aim is to provide students with an understanding of the practice of healthcare within diverse Indigenous Australian communities, and how issues such as culture, history, education, location, employment, family structure, and adverse life events impact upon health and doctor-patient relationships. The learning environment will consist of online and structured face-to-face learning opportunities, including interaction with elders and indigenous community members. \nThe research component of this course will build on the introduction to the foundations of research covered in MEDI7141 by engaging students with the skills of the research process within the context of Indigenous Health and the health amongst vulnerable groups. In this course students will get a comprehensive introduction to the many ethical and legal aspects of research involving humans in Australia. Students will gain a broad understanding of how ethical and legal considerations are vital to the integrity of any research project. Students will learn to identify the various forms of risk that may be associated with research projects and how mitigation of these risks will inform project design.",
+    "prerequisites": "MEDI7141",
+    "incompatible": "MEDI7102",
+    "restricted": "MD students only"
+}

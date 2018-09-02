@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH2300",
+    "course_name": "Structures & Materials",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Transformation of stress & strain. Mohr's circle, linear elasticity, mechanics of simple structures. Phase diagrams, TTT & heat treatment of steels, composites, concrete, wood. Corrosion & degradation of materials.",
+    "prerequisites": "(ENGG1010 or ENGG1400) and (ENGG1200 or MATE1000 or ENGG1211)",
+    "incompatible": "MECH2301 or MINE2123",
+    "restricted": ""
+}

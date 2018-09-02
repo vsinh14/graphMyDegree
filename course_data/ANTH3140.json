@@ -1,0 +1,12 @@
+{
+    "course_code": "ANTH3140",
+    "course_name": "Advanced Research Topics in Anthropology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In this course students will critically reflect on the broad scope of anthropological inquiry by engaging with a range of advanced topics.",
+    "prerequisites": "8 units of Anthropology courses",
+    "incompatible": "ANTH2140",
+    "restricted": ""
+}

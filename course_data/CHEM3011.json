@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM3011",
+    "course_name": "Advanced Physical Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introduction to concepts, theories & methods in modern physical chemistry & elements of computational molecular science. It will include molecular quantum mechanics, electronic structure, molecular dynamics, biomolecular & materials simulations, spectroscopy & statistical thermodynamics.",
+    "prerequisites": "CHEM2056 or CHEM2002 or CHEM2902 or (PHYS2020 + PHYS2041)",
+    "incompatible": "CHEM3003",
+    "restricted": ""
+}

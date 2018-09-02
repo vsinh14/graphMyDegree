@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL3110",
+    "course_name": "Advanced Logic",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "While elementary logic courses focus on using particular types of logic, this module makes logic itself the subject of investigation. The course will investigate the very limits of reason; more specifically, it will tackle: Henkin's completeness proof for first order logic; and G\u00c3\u00b6del's celebrated incompleteness theorem. Along the way, there will be preparatory discussion of elementary computability theory and model theory",
+    "prerequisites": "PHIL2110/PHIL1020",
+    "incompatible": "PHIL2100",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1021",
+    "course_name": "General Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to chemistry as a quantitative science. The course will provide students with the core chemistry skills and knowledge recommended for studies in the health, biological and nutrition sciences. This course will also meet the needs of non-science majors who wish to extend their chemistry knowledge and skills beyond year 12 chemistry level. Core topics include kinetic theory, thermodynamics, chemical equilibrium, acid base chemistry, chemical kinetics and redox chemistry. Each facet of the content will be presented in contemporary science contexts. The course is designed for those students who require general tertiary chemistry as a complement to other studies, not necessarily in the physical sciences.CHEM1021 provides sufficient preparation for CHEM2052 and BIOC2000 but not other second level chemistry courses. Students that may want to continue in higher level chemistry, should consider doing CHEM1020.",
+    "prerequisites": "Year 11 and 12 Chemistry or CHEM1090",
+    "incompatible": "CHEM1022 and CHEM1020",
+    "restricted": ""
+}

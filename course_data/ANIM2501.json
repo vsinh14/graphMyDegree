@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM2501",
+    "course_name": "Applied Animal Nutrition & Grazing Management",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl, Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Regulation of feed intake; requirements of animals for energy, protein, vitamins & minerals; clinical symptoms of nutritional deficiencies & toxicities; ration formulation. Australian rangelands, pasture science & grazing animal management; applied nutrition for dairy cattle, sheep, goats, poultry, pigs, horses, dogs & cats.",
+    "prerequisites": "BIOC1011 and VETS1003",
+    "incompatible": "ANIM2501",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

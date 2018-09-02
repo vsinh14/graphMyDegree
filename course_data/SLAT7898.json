@@ -1,0 +1,12 @@
+{
+    "course_code": "SLAT7898",
+    "course_name": "Independent Reading Course B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced level study of a special subject, allowing students to pursue a course of readings & tutorial discussion in areas related to their applied linguistic profession.",
+    "prerequisites": "Permission of the course coordinator",
+    "incompatible": "SLAT6898",
+    "restricted": ""
+}

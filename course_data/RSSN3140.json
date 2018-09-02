@@ -1,0 +1,12 @@
+{
+    "course_code": "RSSN3140",
+    "course_name": "Russian VI",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Consolidates and extends Russian language skills through the analysis and discussion of contemporary cultural materials.",
+    "prerequisites": "RSSN2120",
+    "incompatible": "RSSN2140",
+    "restricted": ""
+}

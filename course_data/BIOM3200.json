@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3200",
+    "course_name": "Biomedical Science",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Historical & Philosophical Inq, Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students majoring in biomedical sciences will gain an appreciation of 1) the contribution of their specialisation to contemporary biomedical science & the potential benefits to the community 2) the importance of scientific ethics & 3) the importance of statistical and/or computational skills in analysis & interpretation of data.",
+    "prerequisites": "BIOL2200 + STAT1201 + (BIOM2012 or BIOM2020 or BIOL2202 or BIOL2902 or BIOM2402 or BIOM2208 or MICR2000)",
+    "incompatible": "",
+    "restricted": "Course is available only to BBiomedSc and BSc (Biomedical Science) students."
+}

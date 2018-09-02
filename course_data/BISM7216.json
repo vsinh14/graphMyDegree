@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7216",
+    "course_name": "Business Process Improvement",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to Business Process Management and various process improvement techniques used in business to improve operational efficiency and effectiveness. Students will develop knowledge of the process lifecycle and skills in modelling organisational processes using the international BPMN modelling standard. Students will further develop knowledge of several popular process analysis and improvement techniques, including Lean. Developing skills in applying various process improvement techniques will be supported through the use of case studies and a group assignment.",
+    "prerequisites": "8 units of MCom courses",
+    "incompatible": "BISM2203 or MGTS2203 or MGTS7216",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7135",
+    "course_name": "Advanced Environmental Monitoring Techniques for Civil Engineers",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in odd-numbered years (eg. 2019). State of the art measuring techniques and environmental monitoring systems in water and environmental engineering settings are introduced. Students will undertake monitoring activities and engage in data processing techniques in key areas of river catchments, estuarine settings and the near coastal zone. The course uses a practice-oriented approach to teach basic and advanced monitoring techniques in water and environmental engineering. Students will obtain a working knowledge of a wide range of advanced environmental instruments and sensing systems. In addition, the course material and exercises aim to train students in data analysis and visualization methods commonly used in civil engineering practice. The course builds on the concepts covered in undergraduate courses in mathematics (MATH1051, MATH1052), statistics (STAT2201), environmental issues (CIVL2135) and hydrology (CIVL3141). Students will develop the capacity to formulate strategies to monitor and analyse key parameters in the water and environment discipline areas with a focus on environmental fluid mechanics and water quality. Successful completion will equip students with an understanding of best practice approaches for the implementation of advanced monitoring systems to support the water, environmental and coastal engineering components of modern civil engineering projects.",
+    "prerequisites": "(STAT2201 or CIVL2150) and CIVL2135 and CIVL3140 and CIVL3141",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7133",
+    "course_name": "Natural Resources Law",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT 2007\nStudy of Commonwealth & State laws relating to mineral exploration & development. Relevant aspects of constitutional & administrative law, creation & transfer of mining tenures & mining joint ventures.",
+    "prerequisites": "LAWS7000 or (LAWS7100 + 7102)",
+    "incompatible": "LA430 or 762 or LAWS5133 or 7333",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

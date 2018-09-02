@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2620",
+    "course_name": "Advanced Musicianship 1",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced study of techniques of Western tonal music, with reference to aspects of 19th-century music, and integrated writing, analysis & aural skills components.",
+    "prerequisites": "MUSC2060",
+    "incompatible": "MUSC2600, MUSC2601",
+    "restricted": ""
+}

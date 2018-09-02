@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM3070",
+    "course_name": "Crime over the Lifecourse",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to life-course criminology - the study of individual involvement in, and experiences of, crime over the lifespan. Throughout the semester, we\u00c2\u00bfll be reading about and discussing a number of key topics in life-course criminology including how people become involved in crime, why some people seem to commit crime throughout their lives, and how and why others leave it behind. We\u00c2\u00bfll also consider what it means to adopt a life-course perspective and how that perspective differs from other ways of thinking about individuals and crime. Finally, we'll consider some of the implications of taking a life course perspective for criminal justice policy.",
+    "prerequisites": "#2 from CRIM1000 or CRIM1019, plus #2 Level 2 or 3 CRIM",
+    "incompatible": "CRIM2070",
+    "restricted": ""
+}

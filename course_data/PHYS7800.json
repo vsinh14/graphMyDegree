@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7800",
+    "course_name": "Advanced Experimental Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced experiments approved by the course director.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "PH480 or PHYS6800 or 6801",
+    "restricted": ""
+}

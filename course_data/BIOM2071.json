@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2071",
+    "course_name": "Integrated Biomedical Sciences for Midwifery",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "BIOM2071 provides midwifery students with an opportunity to develop an understanding and appreciation of the integrative physiological and anatomical processes that underpin complex conditions that affect both the mother and the foetus during pregnancy and birth.",
+    "prerequisites": "BIOM1060 & BIOM1061",
+    "incompatible": "",
+    "restricted": "BMid, BN/BMid students only"
+}

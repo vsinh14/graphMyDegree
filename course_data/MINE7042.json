@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE7042",
+    "course_name": "Incident Investigation & Analysis",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School, Sustainable Minerals Institute",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Minimum enrolment quota of 5 students.) This course is designed to provide a comprehensive understanding of the concepts and issues that provide an effective framework for incident investigation. It employs case studies to demonstrate human factors and engineering failures within safety management systems. Data collection, analysis, and synthesis techniques are introduced, as well as an understanding of the key elements required to scope and develop an effective accident investigation system.",
+    "prerequisites": "MINE7033",
+    "incompatible": "",
+    "restricted": "Quota: Minimum of 5 enrolments"
+}

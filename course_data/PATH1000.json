@@ -1,0 +1,12 @@
+{
+    "course_code": "PATH1000",
+    "course_name": "Applied Pathology",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applied Pathology will build on foundational knowledge introduced in ANAT1100 (Anatomy for Paramedics) and complemented by concurrent learning in BIOM1100 (Physiology for Paramedics). The aim of this course will be to introduce pathology principles in a clinical context in order to highlight the pathogenesis of the most common presentations that health professionals will encounter. This will be achieved by initially covering general principles of disease processes such as cell injury and adaption. Subsequently, the mechanism of significant diseases of each major body system will be studied. The concept behind this approach is to provide a solid grounding in understanding the causes, mechanisms and dynamics of disease to support the implementation of knowledge and skills necessary for effective patient care.",
+    "prerequisites": "ANAT1100, PMDC1101, PMDC1102",
+    "incompatible": "",
+    "restricted": ""
+}

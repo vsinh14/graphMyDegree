@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT3042",
+    "course_name": "Dentistry for Children I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Basic instruction in laboratory & clinical techniques in paediatric dentistry & orthodontics.",
+    "prerequisites": "DENT2012 + 2022 + 2032",
+    "incompatible": "",
+    "restricted": ""
+}

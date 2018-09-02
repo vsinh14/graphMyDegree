@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH3102",
+    "course_name": "The School-Aged Child",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Focus on issues relevant to speech pathologists working with school aged children including material relating to literacy, language skills, auditory processing & classroom management.",
+    "prerequisites": "SPCH2105, SPCH2106",
+    "incompatible": "SL302",
+    "restricted": "BSpPath Students"
+}

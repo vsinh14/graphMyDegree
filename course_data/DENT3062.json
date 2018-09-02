@@ -1,0 +1,12 @@
+{
+    "course_code": "DENT3062",
+    "course_name": "Oral Diagnostic Sciences I",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Dentistry School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Interface between basic science & clinical dentistry, provides sound clinical understanding that underpins diagnosis of important oral diseases. Applied microbiology & immunology of importance in oral diseases, outline of cellular & molecular basis of health & disease, systemic disease conditions relevant to dental practice.",
+    "prerequisites": "DENT2052 + 2062 + 2022 + (2030 or 2032)",
+    "incompatible": "",
+    "restricted": ""
+}

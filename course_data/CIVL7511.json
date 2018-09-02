@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7511",
+    "course_name": "Research Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "4",
+    "duration": "Two Semesters",
+    "description": "This course provides students with an opportunity to apply all the knowledge and skills developed across the whole course to a research or real-world problem. Students will undertake a research project or a program of independent enquiry under the direction of an academic or research staff member.\n\nStudents commencing a yearlong project in semester 1 enrol in CIVL7511 for semester 1 & semester 2; students commencing a yearlong project in semester 2 enrol in CIVL7512 for semester 2 & the following semester 1",
+    "prerequisites": "CIVL7505",
+    "incompatible": "",
+    "restricted": "Enrolment in the Master of Engineering (Civil) or Master Engineering Science (Civil)"
+}

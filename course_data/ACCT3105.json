@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT3105",
+    "course_name": "Advanced Management Accounting",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of the design and use of management control systems; application of management control frameworks in analysis of case studies in for-profit & non-profit organisations.",
+    "prerequisites": "ACCT3104",
+    "incompatible": "ACCT7108",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH4107",
+    "course_name": "Advanced Mathematical Methods & Models B",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in semester 2 in odd years only). Advanced mathematical techniques and modelling. Selected techniques topics from advanced transform methods and asymptotic analysis. The techniques will be applied to modelling problems selected from heat and mass transport, solid mechanics & fluid dynamics.",
+    "prerequisites": "MATH3401",
+    "incompatible": "MATH7107",
+    "restricted": ""
+}

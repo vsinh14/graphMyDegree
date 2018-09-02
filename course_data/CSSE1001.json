@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE1001",
+    "course_name": "Introduction to Software Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to Software Engineering through programming with particular focus on the fundamentals of computing & programming, using an exploratory problem-based approach. Building abstractions with procedures, data & objects; data modelling; designing, coding & debugging programs of increasing complexity",
+    "prerequisites": "",
+    "incompatible": "COMP1502 or CSSE7030",
+    "restricted": ""
+}

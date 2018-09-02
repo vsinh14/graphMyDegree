@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI3007",
+    "course_name": "Medicine",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "The purpose of the Year 3 Medicine rotation is to provide an introduction to clinical medicine and therapeutics. The rotation is based upon placements in (mainly) general medicine units located in each Clinical School as a framework for clinical learning in medicine, coupled with clinical discussion sessions for each of the eight weeks of the rotation. The clinical discussion sessions will be co-ordinated by a consultant physician. In some cases a sub-specialist with a clinical interest in the topic of the week will be involved. The plan is for Year 3 students to continue to use their self-directed learning techniques and knowledge acquired during Years 1 and 2 of the MBBS to focus their learning within a hospital ward environment. Although core teaching time and subjects are uniform, each Clinical School will have some latitude to develop its own independent program.",
+    "prerequisites": "Satisfactory completion of Yrs 1 & 2 in the MBBS program.",
+    "incompatible": "MEDI3012",
+    "restricted": "MBBS students only."
+}

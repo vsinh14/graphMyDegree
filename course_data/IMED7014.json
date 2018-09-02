@@ -1,0 +1,12 @@
+{
+    "course_code": "IMED7014",
+    "course_name": "Audit and Research",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course works through clinical research of the student's own clinical work. An ability to critically review published literature on skin cancer medicine is integral to the academic content of the course.",
+    "prerequisites": "IMED7001, IMED7002, IMED7003, IMED7010 and IMED7011",
+    "incompatible": "IMED7008 and IMED7009",
+    "restricted": ""
+}

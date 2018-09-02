@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3102",
+    "course_name": "Industry Placement (Environmental Management)",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "A compulsory course in the Bachelor of Environmental Management program, where students are required to complete a minimum of 270 hours of placement in an organisation external to the University. Students will work with their placement provider to develop and complete a specific project which is both meaningful to the organisation and of sufficient technical content to meet the academic requirements of the course. This project will allow students to gain practical field-related experience while developing and enhancing skills in report writing and project management. The industry placement course is a cornerstone in the Bachelor of Environmental Management degree, allowing students to apply what they've learned in their studies and providing them with academic direction heading into the final year of study. Students also gain insight into their career goals while acquiring skills sought by today's employers. In return, placement providers benefit from access to highly motivated students who can focus on a specific project and provide a cost-effective injection of fresh ideas to the organisation.",
+    "prerequisites": "Permission of Head of School. Completion of at least #32 of the BEnvMan.",
+    "incompatible": "ENVM3521",
+    "restricted": "BEnvMan students only"
+}

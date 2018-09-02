@@ -1,0 +1,12 @@
+{
+    "course_code": "EDUC3079",
+    "course_name": "Becoming A Professional Educator",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Education School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course is designed to focus students' thinking towards their professional fourth year. It provides an understanding of the professional and pedagogical contexts which beginning teachers enter, so they are better equipped to deal with instructional processes in the classroom.",
+    "prerequisites": "EDUC1029, #8 EDUC",
+    "incompatible": "EDUC3002; EDUC3019",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7301",
+    "course_name": "Mathematical Statistics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an accessible, yet detailed, account of contemporary mathematical statistics. Topics include: Theory of linear models; likelihood methods; exponential families; Bayesian statistics; re-sampling methods.",
+    "prerequisites": "Permission of Head of School + MATH2000 + STAT2003 + STAT2004",
+    "incompatible": "STAT3001",
+    "restricted": ""
+}

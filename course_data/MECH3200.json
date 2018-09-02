@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3200",
+    "course_name": "Advanced Dynamics & Vibrations",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Discrete systems: multidegree of freedom systems & applications; vibration isolation and absorption. Continuous systems: free and forced vibration, modal analysis, approximate techniques, finite element method. Advanced topics: vibration measurement techniques, nonlinear phenomena, demonstration project.",
+    "prerequisites": "MECH2210",
+    "incompatible": "",
+    "restricted": ""
+}

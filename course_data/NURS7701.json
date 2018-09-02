@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7701",
+    "course_name": "Gastroenterology Nursing Specialist Practice",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on NURS7700 (Foundations of Gastroenterology Nursing), expanding on the concepts with greater depth and complexity. The course provides the knowledge and skill required by the specialist gastroenterological nurse, working in a range of settings within the Australian Health Care system. This course focuses on nursing management and education of patients with common gastroenterological disorders who are undergoing common assessments, investigations and interventions.",
+    "prerequisites": "NURS7700",
+    "incompatible": "",
+    "restricted": "Registered Nurses"
+}

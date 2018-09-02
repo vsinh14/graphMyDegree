@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1222",
+    "course_name": "Chemistry for Pharmacy & Dentistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course develops the knowledge and understanding across inorganic, physical and organic chemistry necessary for advancement to the higher levels of study in pharmacy and dentistry courses. Core topics include: organic structure, function & reactions, polymers & biopolymer, kinetics, self-assembly, metals, alloys and ceramics, solutions, osmosis, acid and base equilibria and biological redox chemistry. This course is recommended for all students in the following programs: B Dental Science and B Pharmacy.",
+    "prerequisites": "Senior Chemistry or CHEM1090",
+    "incompatible": "CHEM1200 or CHEM1221, CHEM1010, CHEM1020, CHEM1022, CHEM1021",
+    "restricted": "Restricted to students enrolled in BPharm & BDSc programs."
+}

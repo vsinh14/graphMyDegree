@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7201",
+    "course_name": "Data Analytics at Scale",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Data Science techniques often need to be applied to large amounts of data to generate insights. To deal with volume, velocity, and variety of data we need to rely on novel computational architectures that focus on scaling-out data processing as compared to the classic scale-up approach. Such systems allow to add computational resources to a distributed system depending on requirements and load which changes over time. In this course\u00c2\u00a0we will give students knowledge about modern scale-out system architectures to perform data analytics queries over very large structured/unstructured datasets as well as to run data mining algorithms at scale.",
+    "prerequisites": "INFS7907",
+    "incompatible": "",
+    "restricted": "Restricted to MDataSc students only."
+}

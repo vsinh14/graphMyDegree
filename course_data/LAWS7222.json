@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7222",
+    "course_name": "Advanced Public Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Advanced public law provides the opportunity for students to investigate advanced themes & issues in selected areas of constitutional and administrative law & theory.",
+    "prerequisites": "#18 LAWS courses",
+    "incompatible": "LAWS5222",
+    "restricted": "JD, GCAppLaw, GDipAppLaw, MAppLaw"
+}

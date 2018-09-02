@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7910",
+    "course_name": "Research Report",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Research report (maximum 10,000 words) on topic approved by the Head of School.",
+    "prerequisites": "#4 of level 7 ECON courses or 20 credit points of level 8 EC courses",
+    "incompatible": "ECON7920 or EC859 or 869",
+    "restricted": ""
+}

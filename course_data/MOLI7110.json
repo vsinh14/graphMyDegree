@@ -1,0 +1,12 @@
+{
+    "course_code": "MOLI7110",
+    "course_name": "Pathological Correlates of Molecular Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Although molecular imaging techniques are non-invasive and are performed in vivo (on the intact living body), it is common to take a tissue biopsy or post mortem sample for further analysis and comparison with the in vivo imaging findings. This unit of study will explore the techniques used to analyse such samples microscopically and how the pathology observed at the cellular level may be correlated with disease related changes observed in vivo through molecular imaging techniques. Topics covered include tissue preparation, staining techniques, light microscopy, autoradiography and pathological interpretation of tissue samples and in vivo images. On completion of this unit, students will have a good understanding of the key cellular processes and features measured by immunohistochemical staining techniques, autoradiography, and their in-vivo counterparts in molecular imaging.",
+    "prerequisites": "MRES7100",
+    "incompatible": "",
+    "restricted": "Restricted to MMIT students."
+}

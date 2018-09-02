@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL7100",
+    "course_name": "Introductory Philosophy",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The questions of what philosophy is and what philosophers do are approached through a discussion of the work of philosophers such as Descartes, Locke, Hume, Camus, Sartre, and Beauvoir. The first section of this course is devoted to questions of what there is (metaphysics) and what it is to know (epistemology), and topics covered include scepticism, the relationship between mind and body, and the problem of personal identity. The second section provides an introduction to philosophy from existential and phenomenological perspectives concerning meaning, ethics, emotions, freedom and the Other.",
+    "prerequisites": "",
+    "incompatible": "PD100, PD712, PHIL1000, PHIL1010",
+    "restricted": ""
+}

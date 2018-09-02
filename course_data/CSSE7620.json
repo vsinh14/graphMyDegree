@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE7620",
+    "course_name": "Model-Driven Software Engineering",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered on an occasional basis.)\nModel-Driven Software Engineering is an approach for the architecture and development of software systems based on describing the different parts of the system using domain-specific models with formalised mappings between them in order to manage their complexity and improve their quality. This course introduces the idea of model-driven engineering, and teaches students how it can be used to develop and reason about systems, including the creation of tools for supporting modelling processes, and the use of model-based approaches for building and reasoning about software systems.",
+    "prerequisites": "CSSE3002 or CSSE7001",
+    "incompatible": "",
+    "restricted": ""
+}

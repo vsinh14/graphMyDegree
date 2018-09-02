@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE7204",
+    "course_name": "Metallurgical Engineering ME Design Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "Metallurgical Engineering ME Design Project is a capstone course for the BE/ME degree. Students will work in teams on a metallurgical plant and process design. In addition to the learning outcomes of the BE plan design, the BE/ME design will require individual students to produce detailed process design and analysis using the additional knowledge and skills obtained in their ME level courses. The course and the final project report will also include economic anaylses of the proposed cases.",
+    "prerequisites": "CHEE4060 (or CHEE3006) + BE/ME placement",
+    "incompatible": "CHEE4001, MINE4201, CHEE7103",
+    "restricted": ""
+}

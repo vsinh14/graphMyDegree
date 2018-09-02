@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL3130",
+    "course_name": "Fluid Mechanics for Civil Engineers",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(This course is no longer offered.)\nThis is an introductory level course dealing with the properties and behaviour of fluids in usual civil\nand environmental engineering applications. The fundamental principles of continuity, energy\nand momentum are introduced and applied to applications that include fluid statics, fluid dynamics,\npipe flows, similarity laws, fluid loading and unsteady flows. The course provides essential\nknowledge for the study of natural flow phenomena in rivers, estuaries, oceans and the\natmosphere. It provides the fundamental theory for design of hydraulic structures such as culverts,\nspillways, energy dissipators and pipe networks.",
+    "prerequisites": "",
+    "incompatible": "CIVL2110; CIVL2120; CIVL2131; CHEE2003; MECH2410; MINE2101",
+    "restricted": ""
+}

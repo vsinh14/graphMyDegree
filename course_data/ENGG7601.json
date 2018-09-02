@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7601",
+    "course_name": "Experimental Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Students will learn how to design experiments to explore the entire parameter space for an engineering problem and to test hypotheses to a desired degree of confidence; they will learn how to process data from engineering sensors and how to analyse such data using advanced multivariate statistics.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

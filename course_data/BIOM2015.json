@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM2015",
+    "course_name": "Physiology and Pharmacology of Human Disease",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An integrated pathophysiology and related pharmacology in human disease relevant to allied health sciences. Students will be introduced to the physiology of major systems (nervous, respiratory, vascular, endocrine) and how the process of ageing can disrupt these systems and lead to disease. Students will be introduced to common medicinal drugs used in the treatment of conditions mentioned in this course.",
+    "prerequisites": "[ANAT1000 or ANAT1005] and [BIOM1000 or BIOL1040 or BIOM1050]",
+    "incompatible": "BIOM2012",
+    "restricted": "B Health Sciences, B Applied Sciences"
+}

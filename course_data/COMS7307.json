@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7307",
+    "course_name": "Advanced Photonics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(Offered odd years only.) Advanced topics in modern photonics for applications in optical communications & optical sensing including terahertz and biomedical photonics. After completing the course, students will have operational knowledge and understanding of modern photonic technologies and the ability to analyse & simulate photonic devices.",
+    "prerequisites": "COMS4103 or COMS7400",
+    "incompatible": "",
+    "restricted": ""
+}

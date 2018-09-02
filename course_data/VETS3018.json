@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3018",
+    "course_name": "Large Animal Health & Management",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Husbandry, health & nutrition of farm animals including common diseases & how farm management impacts on disease.",
+    "prerequisites": "AGRC2001, ANIM2051, ANIM2052 & VETS2001",
+    "incompatible": "ANIM3021",
+    "restricted": "Only available to 3rd year Veterinary Technology students"
+}

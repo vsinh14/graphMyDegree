@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3520",
+    "course_name": "Economics of International Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "International monetary system, the IMF, dependent economy models, competitiveness, fiscal & monetary policy in open economy, external adjustment, capital mobility, exchange rate volatility, the current account, macroeconomics of foreign investment & external debt.",
+    "prerequisites": "ECON2040",
+    "incompatible": "EC351",
+    "restricted": ""
+}

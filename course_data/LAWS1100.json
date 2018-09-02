@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1100",
+    "course_name": "Business Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an introductory level examination of the law regulating business in Australia today for accountants, business managers and other non-legal professionals. The course seeks to develop students' knowledge of the Australian legal system and of the laws associated with starting, managing, financing and closing a business, as well as their ability to solve simple legal problems.",
+    "prerequisites": "",
+    "incompatible": "LAWS7010",
+    "restricted": "Not to be studied by LLB, LLB dual, LLB(Hons) or LLB(Hons) dual students"
+}

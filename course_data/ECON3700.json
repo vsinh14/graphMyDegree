@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3700",
+    "course_name": "Environmental Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Markets, market failures & externalities; economics of environmental pollution problems; economic measures for pollution control & environmental regulation. Environmental change, economic growth, natural resource depletion & population growth.",
+    "prerequisites": "ECON1010",
+    "incompatible": "EC376",
+    "restricted": ""
+}

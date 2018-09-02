@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC4613",
+    "course_name": "Research Project",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "Design, implement, complete and report on an independent research project in an agricultural science specialization. Communicate the research in oral and written formats. Students completing the course in one semester must enrol in AGRC4613. Students enrolling in the year-long course enrol in AGRC4614 if commencing in semester 1 and finishing in semester 2 or AGRC4615 if commencing in semester 2 and finishing in semester 1",
+    "prerequisites": "STAT1201 or STAT2701, AGRC3032, STAT3702",
+    "incompatible": "",
+    "restricted": ""
+}

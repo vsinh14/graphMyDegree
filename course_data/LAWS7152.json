@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7152",
+    "course_name": "Financial Services Regulation",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A study of aspects of corporations and securities law concerned with the nature of corporate securities, prospectuses, corporate capital restructuring, the securities industry, duties and liabilities of stockbrokers and advisers, prohibited practices and takeovers.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA461 or 779 or LAWS5152 or 7352",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

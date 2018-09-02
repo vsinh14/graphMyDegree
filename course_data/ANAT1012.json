@@ -1,0 +1,12 @@
+{
+    "course_code": "ANAT1012",
+    "course_name": "Regional Anatomy",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Regional anatomy of the human body. An integrated approach focusing on the skeletal, muscular & nervous systems, particularly of the limbs & back.",
+    "prerequisites": "ANAT1020",
+    "incompatible": "AN109 or 112 or ID131",
+    "restricted": "BPhty, Student Exchange."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4280",
+    "course_name": "Advanced Rock Mechanics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applications of rock mechanics; investigation of rock masses; in situ and laboratory testing of rocks, their applications and limitations, and their interpretation; rock mass classification systems; rock parameter assessment; rock support and excavation lining systems; and analytical and numerical analyses of rock masses, including example applications to rock slopes, underground excavations in rock, and rock support and excavation lining systems.",
+    "prerequisites": "MINE3121",
+    "incompatible": "",
+    "restricted": ""
+}

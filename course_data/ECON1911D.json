@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1911D",
+    "course_name": "Economic Statistics A",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This is an introductory course in quantitative analysis for business and economics. The course covers a variety of topics including descriptive statistics, probability, normal distribution, and sampling distribution.",
+    "prerequisites": "MATH1901D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7608",
+    "course_name": "Categorical Data & Generalised Linear Models",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Description: This course begins with conventional methods for contingency tables and then introduces generalised linear models (GLM's)(exponential family of distributions; parameter estimation and inference for GLM's). This is followed by binary, nominal and ordinal logistic regresion and poisson regression. This course is part of the Biostatistics Collaboration of Australia. If you are not enrolled in a Biostatistics program at UQ, please contact the Program Director, Dr Mark Jones, to seek permission before enrolling.",
+    "prerequisites": "PUBH7600 + STAT7604 + STAT7614",
+    "incompatible": "",
+    "restricted": ""
+}

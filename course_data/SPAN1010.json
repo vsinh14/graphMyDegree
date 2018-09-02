@@ -1,0 +1,12 @@
+{
+    "course_code": "SPAN1010",
+    "course_name": "Introductory Spanish A",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to basic skills of communication in the Spanish language. Open only to students with no previous experience of Spanish.\nMaximum class number of students is 30.",
+    "prerequisites": "",
+    "incompatible": "SPAN1210 or SPAN1220",
+    "restricted": ""
+}

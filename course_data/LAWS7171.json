@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7171",
+    "course_name": "Advanced Crime and Criminology",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The discipline of criminology involves a systematic study of crime and social control. In addition to analysing the causes of crime and the responses of criminal justice agencies such as the police, the courts and the correctional system, criminology offers critical perspectives on the nature of social control in contemporary societies. This course focuses on four major concepts within the discipline of criminology, and explores the theoretical underpinnings and policy implications of each issue.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA420 or 753 or LAWS5171 or 7371",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

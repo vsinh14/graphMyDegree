@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG2501",
+    "course_name": "Consumer Behaviour",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with the fundamental theories and models to develop a sound understanding of consumers, their needs, desires and behaviours. Study in this course will encourage students to examine individual and group decision-making, buying experiences and the interrelationships between the individual consumer, consumption practices and lifestyle activities.",
+    "prerequisites": "MKTG1501",
+    "incompatible": "MKTG7503",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

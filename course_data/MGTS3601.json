@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3601",
+    "course_name": "Organisational Design & Change Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Covers diverse nature of organisation theory & its use in analysing & designing effective organisations. Considers many forms of organisation-level change & the many influences on it including organisational structure, technology, culture, power & organisation's external environment.",
+    "prerequisites": "(MGTS1601 + 4 units) or MGTS2604",
+    "incompatible": "MEBS7130 or 7501 or MGTS7080 or 7618 or 7707",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

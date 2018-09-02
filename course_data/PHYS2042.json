@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2042",
+    "course_name": "Advanced Quantum Physics",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Experimental bases and general features of quantum physics. Selected topics from atomic, nuclear and solid state physics; laboratory experiments crucial to the development of modern physics. Advanced topics.",
+    "prerequisites": "PHYS1001 + PHYS1002 + (MATH1051 or MATH1071) + (MATH1052 or MATH1072)",
+    "incompatible": "PHYS2041",
+    "restricted": "BAdvSc(Hons) students only or with permission of the course coordinator"
+}

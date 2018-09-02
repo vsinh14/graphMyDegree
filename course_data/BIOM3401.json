@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3401",
+    "course_name": "Systems Pharmacology",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Systems Pharmacology introduces students to the action of drugs on whole systems and provides an integrated approach to how drugs affect human physiology. Students will learn the effect of drugs on major physiological systems and how these effects can be beneficial or detrimental. Experimental experience is expanded to develop practical skills in core pharmacology methodology, drug measurements and drug effects.",
+    "prerequisites": "BIOM2402 + BIOM2011",
+    "incompatible": "BIOM3008",
+    "restricted": ""
+}

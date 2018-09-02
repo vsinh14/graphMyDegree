@@ -1,0 +1,12 @@
+{
+    "course_code": "ANIM3046",
+    "course_name": "Animal Breeding & Genetics",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The application of breeding programs in animal enterprises based on the principles of mendelian & population genetics.",
+    "prerequisites": "",
+    "incompatible": "ANIM2002",
+    "restricted": ""
+}

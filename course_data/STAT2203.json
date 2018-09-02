@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT2203",
+    "course_name": "Probability Models and Data Analysis for Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Course to be first offered in 2013.",
+    "prerequisites": "MATH1051 or MATH1071",
+    "incompatible": "ECON1310, ECON1320, ENVM2000, STAT1201, STAT2003, STAT2201, STAT2202",
+    "restricted": ""
+}

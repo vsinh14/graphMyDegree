@@ -1,0 +1,12 @@
+{
+    "course_code": "INFS7903",
+    "course_name": "Relational Database Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Semester two only from 2015] Concepts needed to build a large information system using current technology requirement engineering, functional analysis & dataflow, transaction processing, concurrency control, query processing & views, index structures for access.",
+    "prerequisites": "INFS7900",
+    "incompatible": "INFS2200 or BSIS7206 or COMM7605 or MGTS7206",
+    "restricted": ""
+}

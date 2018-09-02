@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2320",
+    "course_name": "Business & Economic Decision Techniques",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides a working understanding of some of the principal techniques used in business decision making. Topics include linear programming, transportation & assignment models, project scheduling & control, inventory models, & decision theory & games. These techniques can be used to solve problems in areas as diverse as product mixing & blending, firm efficiency & benchmarking, project management, & multi-period financial planning. Problems & exercises are solved using Microsoft Excel or a simple menu-drive software package.",
+    "prerequisites": "ECON1050; (For BInfTech students ECON1010 + STAT2004), (For Engineering students MATH1050, MATH1051 or MATH1052)",
+    "incompatible": "ECON7322 or EC235 or 736",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO4470",
+    "course_name": "Hypersonics & Rarefied Gas Dynamics",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Hypersonic gas dynamics including: hypersonic equivalence, small perturbation, blunt body analysis, viscous flows, non-equilibrium flows, rarefied gas dynamics, satellite drag.",
+    "prerequisites": "MECH3410",
+    "incompatible": "MECH4470",
+    "restricted": ""
+}

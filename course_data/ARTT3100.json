@@ -1,0 +1,12 @@
+{
+    "course_code": "ARTT3100",
+    "course_name": "Readings in Art History",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "An introduction to the founding concepts of Art History from the Renaissance to 20th century.",
+    "prerequisites": "",
+    "incompatible": "ARTT2140, ARTT2150, WRIT2150",
+    "restricted": ""
+}

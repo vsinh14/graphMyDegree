@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO4300",
+    "course_name": "Aerospace Composites",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Application of composite materials used in the aerospace industry. Characteristics of composite materials; Analysis of the stiffness & strength behaviour of fibre-reinforced composite & sandwich structures; Composite materials manufacturing processes & techniques used in the aerospace industry.",
+    "prerequisites": "",
+    "incompatible": "AERO3100",
+    "restricted": ""
+}

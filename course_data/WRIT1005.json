@@ -1,0 +1,12 @@
+{
+    "course_code": "WRIT1005",
+    "course_name": "Fundamentals of Academic Writing",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers the fundamentals of reading, writing and critiquing as an academic.",
+    "prerequisites": "",
+    "incompatible": "WRIT1000",
+    "restricted": "External offering restricted to students enrolled in Enhanced Studies program (program code 1014)."
+}

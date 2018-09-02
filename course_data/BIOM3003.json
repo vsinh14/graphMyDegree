@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOM3003",
+    "course_name": "Functional Musculoskeletal Anatomy",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Recent advances in research are used to explain and highlight the interplay between orthopaedic biomechanics, muscle function and neuromuscular control in human posture and locomotion. Experimental components are integrated with theoretical knowledge.",
+    "prerequisites": "BIOL2200 + BIOM2011 + BIOM2020 (from 2014)",
+    "incompatible": "",
+    "restricted": ""
+}

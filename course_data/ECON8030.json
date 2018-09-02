@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8030",
+    "course_name": "Microeconomics B",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course explores in detail the economics of information and uncertainty introducing mechanism design and agency theory at an advanced level. This course will be particularly useful for students who wish to specialise in the area of Microeconomics.",
+    "prerequisites": "ECON6010 or 8010",
+    "incompatible": "ECON6030",
+    "restricted": ""
+}

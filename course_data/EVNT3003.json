@@ -1,0 +1,12 @@
+{
+    "course_code": "EVNT3003",
+    "course_name": "Event Operations Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines the logistics of event management. It examines risk management and the use of technology in event operations within the framework of event facilities management.",
+    "prerequisites": "",
+    "incompatible": "(EVNT3001 + 3002)",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1932D",
+    "course_name": "Business Communication B",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "Business Communication is covered by the study of two course across consecutive trimesters, through which students will study the development of managerial skills and communication. This course, part B, covers interpersonal problem-solving, stress and stress management, persuasion and influence, oral presentations, and meetings and interviews.",
+    "prerequisites": "MGTS1931D",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

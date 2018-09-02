@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP2506",
+    "course_name": "Human-Computer Interaction",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "[Not offered from 2012 - replaced by DECO2500.]",
+    "prerequisites": "CSSE1001 or IENV1000 or MMDS1400",
+    "incompatible": "COMP3501 or COMP7904 or CS342 or 343 or 344",
+    "restricted": ""
+}

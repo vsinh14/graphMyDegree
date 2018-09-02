@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS3009",
+    "course_name": "Small Animal Health",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers foundational pathology and clinical pathology of small animals, and relevant aspects of common diseases affecting core body systems.",
+    "prerequisites": "ANIM2051, ANIM2052, AGRC2001, VETS2001",
+    "incompatible": "",
+    "restricted": "Course only available to BAppSc/BVetTech students"
+}

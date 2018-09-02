@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1901D",
+    "course_name": "Microeconomics",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "The course aims to set students on the path to becoming effective decision-makers. It equips students with the core economic principles that are necessary to understand how decisions are made with the best possible use of limited available resources. Whether sudents are operating in the role of a consumer apportioning their income, a company manager striving to maximise profits, or a government policy-maker seeking to tackle environmental degradation; these principles are fundamental to effective decision-making.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

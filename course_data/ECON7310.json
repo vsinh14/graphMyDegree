@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7310",
+    "course_name": "Elements of Econometrics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introductory applied econometric course for students with basic economic statistics background. Topics covered include: economic models and role of econometrics, linear regression, general linear model, hypothesis testing, specification testing, dummy variables, simple dynamic models and simple cointegration models. Tutorial problems are solved using a relevant econometrics program.",
+    "prerequisites": "ECON1310 or 7300 or EC134 or 136 or 834",
+    "incompatible": "ECON2300 or EC230 or 735 or 843",
+    "restricted": ""
+}

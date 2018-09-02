@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM6401",
+    "course_name": "Corporate Finance Honours",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Develops a rigorous framework for analysing a range of corporate finance issues with a strong focus on practical applications. Centred around (i) cost of capital estimation, & (ii) creating firm value via capital structure management. Topics include the value of franking credits, market risk premium, marginal tax rates, beta estimation, credit ratings, default premiums, & optimal capital structure.",
+    "prerequisites": "(FINM2415 or 3401 or 3411) + permission from Head of School",
+    "incompatible": "",
+    "restricted": "BAdvBus(Hons), BCom(Hons), BAdvFinEcon(Hons), GCBusRMeth, GDipBRM, MCom(#32), MCom(Adv), PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN3360",
+    "course_name": "Le Cinema en francais",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course, taught in French, provides students with an overview of some technical, methodological or theoretical questions relevant to the study of cinema as an art form and requires students to analyse French or Francophone films from within the theoretical frameworks examined. Topics and approaches to be covered will be those most relevant to the study of the films in question and thus may cover areas such as auteur or genre theory and non-narrative filmmaking.",
+    "prerequisites": "FREN3111 or FREN3112",
+    "incompatible": "FREN2340",
+    "restricted": ""
+}

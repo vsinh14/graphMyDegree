@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7235",
+    "course_name": "Underground Structures, Support Design and Construction",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in even-numbered years (eg. 2018). Underground structures are an important element of urban infrastructure, ranging from flood storage to urban transport, retail spaces to public places. This course will cover the planning, design, construction and operational aspects of underground projects. Through the projects, students will develop an awareness of spatial planning strategies using examples of major infrastructure projects. Students will obtain knowledge about planning, the socio-economic benefits for society, geotechnical investigations, preliminary and detailed design, and construction of underground assets. Detailed design using empirical, semi-empirical and numerical modelling will be introduced as well as aspects of monitoring and observation of actual support behaviour. Students will apply these concepts to a project scenario and develop the ability to use urban underground structures.",
+    "prerequisites": "CIVL3210",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

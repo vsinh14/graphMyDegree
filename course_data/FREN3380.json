@@ -1,0 +1,12 @@
+{
+    "course_code": "FREN3380",
+    "course_name": "Identites francaises et francophones",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Taught in French, this course allows students to study a variety of French language texts in order to gain insights into how issues relating to identity (nationality, ethnicity, gender, sexuality etc) influence cultural production across various genres.",
+    "prerequisites": "FREN3111 or FREN3112",
+    "incompatible": "FREN2370",
+    "restricted": ""
+}

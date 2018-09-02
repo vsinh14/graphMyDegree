@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1200",
+    "course_name": "Chemistry 2",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on concepts that have been introduced in CHEM1100 (Chemistry 1) thereby developing the knowledge and understanding across inorganic, physical and organic chemistry necessary for advancement to the higher levels of study in chemistry, biochemistry and engineering courses. Core topics include: reaction profiles and kinetics, structure, reactivity and mechanisms, organic functional group chemistry, structural determination, acid and base chemistry and transition metal chemistry. This course is recommended for all students in the following programs: BSc, B Biomedical Science, B Biotechnology, B Engineering and B Occupational Health and Safety Science.",
+    "prerequisites": "CHEM1100",
+    "incompatible": "CHEM1221, CHEM1222, CHEM1010, CHEM1020, CHEM1021, CHEM1022",
+    "restricted": "Summer Semester Quota of 175."
+}

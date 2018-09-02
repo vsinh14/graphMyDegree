@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3212",
+    "course_name": "Advanced Evolutionary Biology",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is no longer offered.\nConsiders various evolutionary explanations for biological phenomena. Unifying theme is adaptation & the origin of species. With special emphasis on developmental processes, natural & sexual selection, molecular evolution & symbiotic interactions. Practical focus on analysis & synthesis of the primary literature as a basis for the identification of significant research questions.",
+    "prerequisites": "BIOL2201",
+    "incompatible": "ZOOL3001",
+    "restricted": ""
+}

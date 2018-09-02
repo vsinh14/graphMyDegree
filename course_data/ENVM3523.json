@@ -1,0 +1,12 @@
+{
+    "course_code": "ENVM3523",
+    "course_name": "Natural Resource Management",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Exploration of natural resource problems related to energy use, renewable and non-renewable resources, and agriculture and food; integration of ecological, economic, and institutional dimensions; application to management and policy issues at regional, national and global levels.",
+    "prerequisites": "",
+    "incompatible": "NRSM4001 or LPWM4000",
+    "restricted": ""
+}

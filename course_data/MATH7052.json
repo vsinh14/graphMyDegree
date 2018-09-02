@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7052",
+    "course_name": "Multivariate Calculus & Ordinary Differential Equations",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Vector calculus, arclength, line integrals, applications. Calculus of 2 & 3 variables: partial derivatives, conservative fields, Taylor series, maxima & minima, non-linear equations. 1st order & linear 2nd order differential equations (constant coefficients). Applications (dynamical systems etc), numerical methods.",
+    "prerequisites": "",
+    "incompatible": "MATH1052",
+    "restricted": "GCSc, GCEdSt, GDipEdSt, MEdSt. \nPermission from the Head of School is required to enrol in this course."
+}

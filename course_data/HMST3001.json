@@ -1,0 +1,12 @@
+{
+    "course_code": "HMST3001",
+    "course_name": "Clinical Exercise Physiology Practicum (Healthy Populations)",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Human Movement & Nutrition Sci",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "140 hours practicum placement with low-risk, off-campus clients.",
+    "prerequisites": "[HMST3372 or EXMD3372] + Apply First Aid (CPR) certificate + Blue Card. Please note that CPR must be renewed on a yearly basis.",
+    "incompatible": "",
+    "restricted": "BExSS or BExSS(Hons) or BClinExP(Hons)"
+}

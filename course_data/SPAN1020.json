@@ -1,0 +1,12 @@
+{
+    "course_code": "SPAN1020",
+    "course_name": "Introductory Spanish B",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Consolidation of basic skills of communication in Spanish language.",
+    "prerequisites": "SPAN1010 or placement test",
+    "incompatible": "SPAN1210 or SPAN1220",
+    "restricted": ""
+}

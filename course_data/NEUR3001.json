@@ -1,0 +1,12 @@
+{
+    "course_code": "NEUR3001",
+    "course_name": "Molecular & Cellular Neuroscience",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduces aspects of molecular & cellular neuroscience through lectures tutorials, presentations & SDLs. Part 1 will provide the basic information & Part 2 will place this information in the context of current developments in molecular neuroscience & neurochemistry.",
+    "prerequisites": "BIOM2011 + BIOL2200",
+    "incompatible": "",
+    "restricted": ""
+}

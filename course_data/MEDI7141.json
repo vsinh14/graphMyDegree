@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI7141",
+    "course_name": "Health, Society & Research 1: Evidence-Based Practice and Introduction to Rese",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to give students a solid foundation in research methods and the principles of Evidence-Based Practice (EBP), including formulation of answerable clinical questions (PICO), searching for evidence, critical appraisal, and judging applicability of evidence. The course provides an introduction to levels of evidence in clinical practice and the most common research designs used in clinical research, both quantitative and qualitative. For each study design the advantages and disadvantages, the potential sources of bias, and most appropriate methods of analysis is explained. At the conclusion of the course students will be able to formulate a question, search appropriate databases, assess the risk of bias of both observational and experimental study designs, understand how the results are analysed, and assess the applicability of the findings in a clinical setting. The course will also introduce the research process from the perspective of a clinical researcher. This includes formulation of a research question or hypothesis, selecting an appropriate study design, describing the research method and drafting a protocol or research proposal.",
+    "prerequisites": "",
+    "incompatible": "MEDI7101",
+    "restricted": "MD students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL4460",
+    "course_name": "Highway Geometric Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Civil Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides students with an understanding of the basic principles and techniques of highway design. This will include laying out potential routes, design of the alignment and intersections, evaluation of earthwork requirements, and safety considerations. The student should understand and apply these principles to highway design problems. The student should also use existing computer tools to generate, design, and evaluate these designs.",
+    "prerequisites": "CIVL3420",
+    "incompatible": "",
+    "restricted": ""
+}

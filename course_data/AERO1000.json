@@ -1,0 +1,12 @@
+{
+    "course_code": "AERO1000",
+    "course_name": "Introduction to Aviation Systems",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to the practices & procedures of modern aviation systems. Theory & practice of flight control systems using flight simulators. Theory and practice of Unmanned Aerial Vehicles. Description, simulation & analysis of flight dynamics using computer-based dynamical system simulation software. Involves some lectures & visits to Brisbane Airport and Archerfield airport. Course held 7 hours per day x 7-8 days during weeks 1 & 2 of semester.",
+    "prerequisites": "Permission of Head of School.",
+    "incompatible": "",
+    "restricted": "Restricted to BE (Elec&Aero) & BE (SWSys&Aero), max. quota 24 students, minimum enrolment of 12 students required."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7025",
+    "course_name": "Magnetic Resonance Clinical Practice 1",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will allow students to experience three full weeks within a clinical MRI department. Students will have the opportunity to reflect on their progress throughout their clinical exposure & will research & present two clinical case studies.",
+    "prerequisites": "(MRES7001 or MRES7100) + MRES7002 + MRES7003 + MRES7004",
+    "incompatible": "",
+    "restricted": "Maximum of 8 in first semester of introduction, increasing as further positions become available"
+}

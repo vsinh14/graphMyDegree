@@ -1,0 +1,12 @@
+{
+    "course_code": "CSSE2310",
+    "course_name": "Computer Systems Principles and Programming",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Systems Programming in C. Operating Systems Principles: memory management, basics of machine organization, file systems, processes & threads, interprocess communication. Computer Networks Principles: topologies & models of computer networks, protocols, network programming, network applications.",
+    "prerequisites": "CSSE1001 and (CSSE1000 or CSSE2010)",
+    "incompatible": "COMP2303 or COMP7306 or CSSE7231",
+    "restricted": ""
+}

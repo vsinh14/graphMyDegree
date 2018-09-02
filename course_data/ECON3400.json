@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON3400",
+    "course_name": "Industrial Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Economics of industrial structure; size of firms, entry conditions, concentration, vertical integration, diversification, pricing behaviour, growth, productivity, technological change.",
+    "prerequisites": "ECON2030",
+    "incompatible": "EC373",
+    "restricted": ""
+}

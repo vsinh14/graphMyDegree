@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7406",
+    "course_name": "International Financial Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course extends financial decision-making to the international setting. Topics include the foreign exchange market, predicting exchange rate movements, hedging exposures with various derivative and other alternatives, the challenges of raising funds internationally and the process and documents of international trade. The course makes extensive use of case studies and there is an expectation that students will make recommendations to real life problems and justify their decisions. This is a challenging course with a significant theory content which requires seminar attendance and participation in addition to the appropriate independent study and thought to be successful.",
+    "prerequisites": "FINM7065 or 7401 or 7805",
+    "incompatible": "FINM3403",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

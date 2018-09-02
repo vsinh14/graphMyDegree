@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC1010",
+    "course_name": "Introduction to Music Technology",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Digital sound recording and editing, mobile and app-based music creation and performance, music type setting",
+    "prerequisites": "",
+    "incompatible": "MU188",
+    "restricted": ""
+}

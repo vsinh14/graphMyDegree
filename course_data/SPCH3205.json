@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH3205",
+    "course_name": "Clinical Education IIIB",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Clinical practice. Students are placed in a clinic full-time for six weeks with a clinical educator to develop competency in practical components of speech pathology including development of effective communication skills, report writing, case management & professional development.",
+    "prerequisites": "SPCH3102, SPCH3106, SPCH3107",
+    "incompatible": "",
+    "restricted": "BSpPath Students"
+}

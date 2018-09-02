@@ -1,0 +1,12 @@
+{
+    "course_code": "FOOD7013",
+    "course_name": "Food Chemistry & Analysis",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Studies of the chemistry & stability of food components, how they interact to affect the properties of food, & their identification & quantification using modern analytical chemistry techniques.",
+    "prerequisites": "",
+    "incompatible": "CHEM2003",
+    "restricted": ""
+}

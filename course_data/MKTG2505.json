@@ -1,0 +1,12 @@
+{
+    "course_code": "MKTG2505",
+    "course_name": "Product and Service Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to marketing issues relating to managing products and services: market learning, new product and service development process, product/service launch, reaching viable markets, entrepreneurial marketing strategies, marketing channels and building relationships with targeted customers.",
+    "prerequisites": "MKTG1501",
+    "incompatible": "MKTG7505",
+    "restricted": "Quota: Minimum of 35 enrolments"
+}

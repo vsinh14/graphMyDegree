@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3206",
+    "course_name": "Australian Marine Vertebrates",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is no longer offered.\nBiology of marine vertebrates, including elasmobranchs, bony fish, reptiles, birds & mammals with an emphasis on Australian fauna.",
+    "prerequisites": "BIOL2204",
+    "incompatible": "ZOOL3006 or ZOOL3010",
+    "restricted": ""
+}

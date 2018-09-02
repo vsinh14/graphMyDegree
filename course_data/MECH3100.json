@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3100",
+    "course_name": "Mechanical Systems Design",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Design of a powered machine using principles of systems engineering. Synthesis of machine frame, power transmission & controls. Risk & safety assessment. Model-based design using CAD. Basic design for manufacture & cost estimation.",
+    "prerequisites": "ENGG1400 and MECH2100 and MECH2300",
+    "incompatible": "",
+    "restricted": ""
+}

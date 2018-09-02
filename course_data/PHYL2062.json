@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYL2062",
+    "course_name": "Physiology I",
+    "faculty": "Medicine",
+    "school": "Biomedical Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Systematic physiology for BPhty students. This course includes the study of cell biology and neurophysiology and the physiology of muscle, cardiovascular, pulmonary and renal function.",
+    "prerequisites": "ANAT1020, ANAT1012",
+    "incompatible": "PL262",
+    "restricted": "BPhty students only."
+}

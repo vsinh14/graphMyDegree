@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON1902D",
+    "course_name": "Macroeconomics",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This course examines how the Australian economy functions and its interaction with international economy. Students will also study GDP, unemployment and inflation, interest rates, investment, government expenditure, and taxation policies and balance of payments. Alternative macroeconomic theories and models are also examined.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

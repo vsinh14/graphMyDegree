@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG7800",
+    "course_name": "Engineering Project Management",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project management in high-tech electrical & information technology engineering laboratories, where dealing with risk & fast changing technologies are special factors. Good working knowledge of project management for the early career engineer. Development of interpersonal skills for team management.",
+    "prerequisites": "Admission to ME suite",
+    "incompatible": "CSSE3004 or CSSE3005 or CSSE7024 or CSSE7025 or ENGG4800 or METR4910 or MECH3600",
+    "restricted": ""
+}

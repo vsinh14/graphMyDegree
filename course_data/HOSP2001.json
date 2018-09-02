@@ -1,0 +1,12 @@
+{
+    "course_code": "HOSP2001",
+    "course_name": "Hotel Operations",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an insight into the practical aspects of hotel operations. The general structure and subsequent development of tactics relevant for implementation in today's dynamic hotel operations are covered.",
+    "prerequisites": "",
+    "incompatible": "QB118 or TALM2105",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE4022",
+    "course_name": "Principles of Adsorption",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Adsorption mechanisms of solutes onto porous & non-porous adsorbents, with solids such as carbon black, activated carbon, alumina, silica gel & zeolites. Equilibria & kinetics is emphasized.",
+    "prerequisites": "CHEM2056 and CHEE4009",
+    "incompatible": "",
+    "restricted": ""
+}

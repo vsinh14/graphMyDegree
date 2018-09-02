@@ -1,0 +1,12 @@
+{
+    "course_code": "MINE4203",
+    "course_name": "Flotation",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of flotation banks & circuits on a size-by-size & liberation basis. Kinetics. Coagulation, flocculation & dispersion; electric double layer. Frothing. Surface chemistry of minerals; hydrophobic & hydrophilic surfaces. Adsorption from aqueous solution; mechanisms for collection, activation & depression.",
+    "prerequisites": "CHEM2056 and (MINE3208 or CHEE3004)",
+    "incompatible": "",
+    "restricted": ""
+}

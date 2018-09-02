@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2060",
+    "course_name": "Musicianship 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further study of techniques of Western tonal music and integrated writing, analysis & aural skills components.",
+    "prerequisites": "MUSC1600 or 2014 MUSC1060",
+    "incompatible": "MU196",
+    "restricted": ""
+}

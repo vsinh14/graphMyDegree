@@ -1,0 +1,12 @@
+{
+    "course_code": "DATA7703",
+    "course_name": "Machine Learning",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Machine learning is a branch of artificial intelligence concerned with the development & application of adaptive algorithms that use example data or previous experience to solve a given problem. Topics include: learning problems (e.g regression, classification, unsupervised, reinforcement) & theory, neural networks, statistical & probabilistic models, clustering, ensembles, implementation issues, applications (e.g. bioinformatics, cognitive science, forecasting, robotics, signal & image processing).",
+    "prerequisites": "CSSE7030 and MATH7501 and STAT7203",
+    "incompatible": "COMP4702 or COMP7703",
+    "restricted": "Restricted to MDataSc students only"
+}

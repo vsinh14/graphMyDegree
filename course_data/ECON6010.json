@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON6010",
+    "course_name": "Microeconomics A",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "A course in advanced microeconomic theory. The focus is on consumer theory, the theory of the firm, general equilibrium and welfare.",
+    "prerequisites": "ECON3010",
+    "incompatible": "ECON8010 and EC413",
+    "restricted": "BEcon (Hons), BA (Hons)(Economics)"
+}

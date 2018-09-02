@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7008",
+    "course_name": "Sampling Design and Analysis in Conservation Science",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The modern conservation professional possesses the ability to collect/interpret data, and to understand statistical analysis as presented in research reports.\nAs part of this course you will develop highly important skills in statistical analysis using the R program. \nThe underlying theory and philosophy is explained without recourse to mathematical symbolism. Illustrations draw from a wide variety of studies in conservation biology. \nThese skills will be reinforced and utilized throughout many of the remaining courses in the Masters of Conservation Biology program",
+    "prerequisites": "",
+    "incompatible": "CONS6008",
+    "restricted": ""
+}

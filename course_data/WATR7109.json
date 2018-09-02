@@ -1,0 +1,12 @@
+{
+    "course_code": "WATR7109",
+    "course_name": "Drinking Water Supply: Source, Treatment and Distribution",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers engineering principles and practices associated with drinking and potable reuse water treatment, and their application and impacts in the context of water supply.\nKey topics include:\n-\tConventional (i.e., surface water and groundwater) and alternative (i.e., desalination and treated wastewater) water supplies: introduction to strategic planning\n-\tDrinking and recycled water treatment: theory, design and troubleshooting of conventional and advanced treatments\n-\tDistribution system: design and operation\n-\tManaging risk and drinking water quality",
+    "prerequisites": "(CHEE2003 or CIVL3130) and CHEM1200 and CHEE3002",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3008",
+    "course_name": "Special Topics C",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Topics relating to specific technologies in chemical engineering. For details & availability, contact Head of School.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "",
+    "restricted": ""
+}

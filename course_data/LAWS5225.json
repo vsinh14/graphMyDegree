@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS5225",
+    "course_name": "Special Topic C",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will involve the study of a topical legal issue or field of law. Topics will vary from year to year. Refer to the Law School website for the current topic.",
+    "prerequisites": "All Level 1 & 2 LAWS courses",
+    "incompatible": "LAWS7225",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB, LLB (Graduate Entry), LLB(Hons) duals and LLB dual programs."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "AUDL7824",
+    "course_name": "Clinical Practice III & Professional Issues",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Clinical practice in audiology in a range of settings and professional and ethical issues associated with such practice.",
+    "prerequisites": "AUDL7803, AUDL7806, AUDL7823",
+    "incompatible": "AUDL7809 & AUDL7810",
+    "restricted": "MAudSt students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MSTU3000",
+    "course_name": "Topics in Media Studies",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course presents some of the diverse theoretical and methodological perspectives that can be used in studying media and culture. Students have the opportunity to design and complete their own research project.",
+    "prerequisites": "#8 from Media Studies major",
+    "incompatible": "MSTU7100",
+    "restricted": ""
+}

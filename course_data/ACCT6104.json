@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT6104",
+    "course_name": "Managerial Accounting Honours A",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course introduces the major theoretical foundations of management accounting research, including economic (agency), psychological, and organizational (contingency) approaches, with a particular emphasis on contingency theory. A major focus of the course is the design and use of management control systems (MCS), and within this focus, the operation of performance measurement systems and budgets are considered. Management accounting research across different sectors (for example, for-profit, non-profit) is discussed, along with the implication of MCS design choices both within the firm, and in inter-firm relationships.",
+    "prerequisites": "ACCT3104 + permission from Head of School",
+    "incompatible": "",
+    "restricted": "BAdvBus(Hons), BCom(Hons), GCBusRMeth, GDipBRM, MCom(#32), MCom(Adv), PhD, MPhil.\nQuota: Minimum of 10 enrolments"
+}

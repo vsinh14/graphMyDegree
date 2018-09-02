@@ -1,0 +1,12 @@
+{
+    "course_code": "EIBS7800",
+    "course_name": "Entrepreneurship Capstone",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This capstone course is designed to enable students to integrate all of the capabilities that they have built in the MBA program to execute an entrepreneurship project. Lean startup techniques are in widespread use for developing the business models that all new ideas need to succeed. This approach originated in the technology startup sector, but it is now in widespread use not just there, but in research commercialisation, social enterprise and corporate innovation programs. Students with interests in all of these areas can use this course to build a validated business model to support an innovative new idea. The course content is based on the Lean LaunchPad approach developed for use by the National Science Foundation in the US. Students will use in-depth customer development interviews, rapid prototyping, and agile development to develop their business models.",
+    "prerequisites": "Completion of at least 12 units in the MBA program",
+    "incompatible": "",
+    "restricted": "GCBA, GDipBA, MBA"
+}

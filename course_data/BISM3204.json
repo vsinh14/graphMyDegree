@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM3204",
+    "course_name": "Data Visualisation in R",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The R environment provides data scientists with powerful methods for data visualisation that aid in communicating and implementing the knowledge gained from business analytics. This course provides students of business analytics with an overview of the types of data visualisation methods available in R. A range of topics are introduced including basic plots, higher-dimensional plots, visualising text, and creating applications in R.",
+    "prerequisites": "BISM2204",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program"
+}

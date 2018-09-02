@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7300",
+    "course_name": "Statistics for Business & Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Statistical inference, probability & sampling distributions, estimation, hypothesis tests, correlation & regression, experimental design, sample survey design, quality sampling, modern business decision theory.",
+    "prerequisites": "",
+    "incompatible": "ECON1310 or BA815 or EC134 or 136 or 834",
+    "restricted": ""
+}

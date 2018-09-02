@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7134",
+    "course_name": "Environmental Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is a critical examination and analysis of the legal, social and political contexts of environmental law in Australia. The course seeks to develop students' knowledge of environmental laws, and ability to solve complex legal problems and critically evaluate the effectiveness of environmental laws.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA455 or 777 or LAWS5134 or 7334",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

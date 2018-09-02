@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7023",
+    "course_name": "Applied Fauna Conservation",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is focused on species extinction and risk of extinction, including detecting and assessing species declines, ways to address threats to species persistence on islands and continents (including indigenous management), and the role of museums and systematics in conservation biology. In this course you will learn about indirect and direct methods to detect species, techniques to estimate the abundance and activity of animals, and how these are used in ecological impact assessment, threatened species management and species conservation status listing. The field trip will be at Taunton National Park (scientific) (a park with remnant brigalow forest specifically protected for the conservation of the bridled nailtail wallaby, not open to the general public), and Blackdown National Park (a park with unique plants, unusual landforms, and indigenous heritage and management), in central Queensland.",
+    "prerequisites": "CONS6009, CONS7008",
+    "incompatible": "",
+    "restricted": "MConsBiol, MConsSc"
+}

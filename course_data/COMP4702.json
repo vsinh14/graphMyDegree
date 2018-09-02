@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP4702",
+    "course_name": "Machine Learning",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Machine learning is a branch of artificial intelligence concerned with the development & application of adaptive algorithms that use example data or previous experience to solve a given problem. Topics include: \nlearning problems (e.g regression, classification, unsupervised,\nreinforcement) & theory, neural networks, statistical & probabilistic models, clustering, ensembles, implementation issues, applications (e.g. bioinformatics, cognitive science, forecasting, robotics, signal & image processing).",
+    "prerequisites": "CSSE1001 and MATH1051 and (STAT1201 or STAT2203 or STAT2202 or STAT2003)",
+    "incompatible": "COGS4021 or COMP3700 or COMP7703 or ELEC4700 or ELEC7701",
+    "restricted": ""
+}

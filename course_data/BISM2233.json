@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM2233",
+    "course_name": "eBusiness Systems and Strategy",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to managerial, technical, social, and regulatory aspects of modern e-Commerce and provides students with experience in the development and publication of websites.",
+    "prerequisites": "BISM1201 or INFS1200 or MGTS1201",
+    "incompatible": "INFS2233 or BISM7210 or INFS7210",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

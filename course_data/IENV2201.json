@@ -1,0 +1,12 @@
+{
+    "course_code": "IENV2201",
+    "course_name": "Agile Methods",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(not offered in 2008) Introduction to professional issues in information environments: client briefs, requirement analysis, systems design & development approaches, user-participatory design & workplace studies. Introduction to, & experience with, software tools supporting design, project management & revision control.",
+    "prerequisites": "(IENV1201 or IV112) + (IENV1802 or IV121)",
+    "incompatible": "IENV7922 or IV212",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH6034",
+    "course_name": "Advanced Mathematics Research Project",
+    "faculty": "",
+    "school": "",
+    "units": "8",
+    "duration": "Two Semesters",
+    "description": "Supervised project on research topic in mathematics, approved by the Head of Mathematics. Each student will select a supervisor and project topic through negotiation with academic staff. The research will be presented in a thesis, and in a seminar. Students enrolling in course with #4/#4 split enrol in MATH6031 if commencing in semester 1 or MATH6032 if commencing in semester 2. Students enrolling in course with #2/#6 split enrol in MATH6033 if commencing in semester 1 or MATH6034 if commencing in semester 2. Students enrolling in course with #6/#2 split enrol in MATH6035 if commencing in semester 1 or MATH6036 if commencing in semester 2. Students must enrol in the same course code in 2 semesters.",
+    "prerequisites": "Completion of #48 of BAdvSc(Hons) degree",
+    "incompatible": "",
+    "restricted": "BAdvSc(Hons) students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3230",
+    "course_name": "Endocrinology & Metabolism",
+    "faculty": "Science",
+    "school": "Biomedical Sciences School, Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is aimed at illustrating for students how the disciplines of physiology, biochemistry and nutrition integrate to provide a basis for an understanding of human biology. In particular, the theme of obesity and the metabolic syndrome will be used to show how knowledge from these disciplines aids in our understanding of this health problem affecting many world-wide. The course will be of particular interest to students who are interested in a career in nutritional science or dietetics.",
+    "prerequisites": "BIOM2012 + BIOC2000",
+    "incompatible": "BIOM3001 + BIOC3001",
+    "restricted": ""
+}

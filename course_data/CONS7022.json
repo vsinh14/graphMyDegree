@@ -1,0 +1,12 @@
+{
+    "course_code": "CONS7022",
+    "course_name": "Ecology and Management of Invasive Species",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Invasive species are species that have moved beyond their natural distributions and are damaging to the environment and native biodiversity. Such species cause enormous problems around the world, and thus understanding why some species become invaders, which invaders cause most environmental damage, and methods of control of invasive species are critical for conservation biologists. This course will cover: relevant theory on invasiveness; examples of a broad range of invasive species, including weeds, insect pests, introduced mammals and marine invaders, and the damage they cause; and the issues surrounding methods used to control these. The course will include field work in central Queensland, plus lectures, readings and assignments.",
+    "prerequisites": "CONS6009 and CONS7008",
+    "incompatible": "",
+    "restricted": "MConsBiol, MConsSc"
+}

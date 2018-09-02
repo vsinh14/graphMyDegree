@@ -1,0 +1,12 @@
+{
+    "course_code": "PHIL2013",
+    "course_name": "Rise of Modern Philosophy",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Historical & Philosophical Inq",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course traces the rise of modern philosophy as a reaction to dramatic changes in scientific thinking in the seventeenth century. It examines three major points of intersection between science and philosophy in the period in debates about (1) the ontology of nature; (2) causation; and (3) cognitive psychology. Philosophers examined include Descartes, Princess Elisabeth of Bohemia, Spinoza, Malebranche, Margaret Cavendish, Ann Conway, Ralph Cudworth, Leibniz, Hobbes, Locke, Berkeley and Hume.",
+    "prerequisites": "",
+    "incompatible": "PHIL3611",
+    "restricted": ""
+}

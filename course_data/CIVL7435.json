@@ -1,0 +1,12 @@
+{
+    "course_code": "CIVL7435",
+    "course_name": "Traffic Simulation: Methods and Applications",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Please Note: this course is only offered in odd-numbered years (eg. 2019). The representation of transport phenomena requires a level of detail and accuracy that can be achieved only with a simulation approach able to capture the dynamics of all elements of the transport system. This course provides the principles and the applications of traffic simulation that captures the dynamics and the interactions between agents in urban networks. Alongside the theoretical underpinnings in mathematical techniques and stochastic simulation methods, this course presents the application to transport problems and the discussion of scenarios for policy implementation.",
+    "prerequisites": "CIVL3420",
+    "incompatible": "",
+    "restricted": "Minimum 30 students or at Head of School's discretion"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH4450",
+    "course_name": "Aerospace Propulsion",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Air-breathing propulsion systems; rocket propulsion systems; combustion applied to aerospace propulsion systems. For students who need to complete MECH4450, you will now enrol in AERO4450. This is a Course Code change only.",
+    "prerequisites": "MECH3410",
+    "incompatible": "AERO4450",
+    "restricted": ""
+}

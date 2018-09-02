@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS1702",
+    "course_name": "Law of Contract II: Principles of Contractual Liability",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course examines the nature and elements of contractual liability, including the rules relating to privity, discharge, vitiating factors, and remedies.",
+    "prerequisites": "LAWS1701",
+    "incompatible": "LAWS1003 or LAWS2112",
+    "restricted": "LLB(Hons) and LLB(Hons) duals"
+}

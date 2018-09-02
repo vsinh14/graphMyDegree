@@ -1,0 +1,12 @@
+{
+    "course_code": "RSSN1120",
+    "course_name": "Introductory Russian II",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "RSSN1110 continued, with consolidation & further development of basic skills.",
+    "prerequisites": "RSSN1110",
+    "incompatible": "Senior Russian or equivalent",
+    "restricted": ""
+}

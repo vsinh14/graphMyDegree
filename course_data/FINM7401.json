@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7401",
+    "course_name": "Finance",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides a comprehensive introduction to financial management & financial analysis. Focuses on creating shareholder value. Topics include the time value of money, stock & bond valuation, capital budgeting & net present value, risk & diversification, & the Capital Asset Pricing Model.",
+    "prerequisites": "",
+    "incompatible": "FINM2401 or 7065 or 7805 or MEBS7106",
+    "restricted": ""
+}

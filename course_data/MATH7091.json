@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH7091",
+    "course_name": "Financial Calculus",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Topics from financial calculus including financial derivatives & arbitrage, asset prices, price dynamics, continuous-time hedging, Brownian motion, Martingales, stochastic integration, solving stochastic differential equations & stochastic control.",
+    "prerequisites": "",
+    "incompatible": "MATH4091 or MS479",
+    "restricted": "Permission of Head of School"
+}

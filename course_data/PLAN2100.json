@@ -1,0 +1,12 @@
+{
+    "course_code": "PLAN2100",
+    "course_name": "Transport Planning",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This is an introductory course on transport planning and management of transport systems. The course covers basic concepts on the interaction between transport and land use as well as with the overall urban context, integrated transport planning process, transport data and modelling, transport economics and finance, travel behaviour and travel demand management, public transport planning, active transport planning.",
+    "prerequisites": "",
+    "incompatible": "PLAN3002 and PLAN7116",
+    "restricted": ""
+}

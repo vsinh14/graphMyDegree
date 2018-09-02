@@ -1,0 +1,12 @@
+{
+    "course_code": "MEDI3013",
+    "course_name": "Medicine in Society",
+    "faculty": "Medicine",
+    "school": "Medicine Faculty",
+    "units": "3",
+    "duration": "One Semester",
+    "description": "The Medicine in Society course provides a unique opportunity for medical students to understand and experience the rewards, benefits and challenges of clinical practice amongst population groups and/or in communities that face access and equity challenges associated with health service delivery. \n\nSuch challenges can be attributed to contextual factors such as geographical isolation, ethnicity, disability, socioeconomic status and/or life circumstance. Clinical practice within such a contextual framework requires distinctively generalist knowledge, skills and attitudes. Whilst the context might be different, clinical practice is governed by a number of common parameters such as isolation, professional challenges, holistic patient care and team based case management. At the core of each student's learning experience will be a structured clinical placement where students will work closely with a Preceptor who will guide and support students as they provide health care in context.",
+    "prerequisites": "Satisfactory completion of Yrs 1 & 2 in the MBBS program.",
+    "incompatible": "MEDI3014",
+    "restricted": "MBBS students only - Domestic students must undertake Stream A: Rural & Remote. International students must undertake Stream B: International Rural & Remote Medicine OR Stream C: Community Medicine."
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2060",
+    "course_name": "Intermediate Chemistry 2",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "In 2018, if you are unsure if you should be taking this course, please seek academic advising.\n\nThis course contains theory for inorganic main group chemistry, organic chemistry as well as thermodynamics and interfacial science that a student will need to advance to third level chemistry.",
+    "prerequisites": "CHEM1100 and CHEM1200",
+    "incompatible": "",
+    "restricted": ""
+}

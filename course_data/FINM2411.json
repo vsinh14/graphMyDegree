@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM2411",
+    "course_name": "Principles of Financial Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Provides a comprehensive introduction to financial management and financial analysis. Focus is on creating shareholder value. Topics include financial modelling, the time value of money, stock and bond valuation, capital budgeting and net present value, risk and diversification, and the Capital Asset Pricing Model.",
+    "prerequisites": "",
+    "incompatible": "FINM2401 or 2412 or 7401 or 7805",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+}

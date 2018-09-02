@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEE3005",
+    "course_name": "Reaction Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Reaction kinetics & mechanisms. Design of batch, flow & multiple reactors. Residence time distribution & non-ideal flow reactors. Non-isothermal reactors. Catalytic & non-catalytic heterogeneous reactions. Transport effects. Multiple reactors.",
+    "prerequisites": "CHEE3002 and CHEE3003",
+    "incompatible": "",
+    "restricted": ""
+}

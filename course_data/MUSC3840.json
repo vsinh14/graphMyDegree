@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC3840",
+    "course_name": "Multi-Instrumental Pedagogy A",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Development of resources & skills for Music Education, including basic keyboard & guitar skills, and experience with strings, woodwind and brass.",
+    "prerequisites": "MUSC1050 and MUSC1600",
+    "incompatible": "MU318",
+    "restricted": ""
+}

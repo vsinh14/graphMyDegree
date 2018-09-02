@@ -1,0 +1,12 @@
+{
+    "course_code": "COSC7504",
+    "course_name": "Introduction to Computational Biology",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "",
+    "description": "(Course offering for 2012 is subject to final approval). Postgraduate Coursework - This course introduces approaches and techniques of computational science that are becoming essential for 21st century biologists, including text searching, text mining, and particle simulations. Two broad areas will be covered: Biological sequence analysis (DNA and proteins) as an introduction to genomics, and (bio-)molecular forces and simulations. These methods are also important in physics, chemistry, and engineering.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

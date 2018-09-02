@@ -1,0 +1,12 @@
+{
+    "course_code": "MRES7006",
+    "course_name": "Vascular Imaging",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Theory & implementation of MR imaging methods currently used to maximise image contrast between signal from flowing blood & stationary tissues, such as time-of-flight & phase contrast imaging.",
+    "prerequisites": "Admission to Magnetic Resonance Technology postgraduate program suite + (MRES7001 or MRES7100) + MRES7004 + MRES7005",
+    "incompatible": "",
+    "restricted": ""
+}

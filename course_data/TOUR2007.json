@@ -1,0 +1,12 @@
+{
+    "course_code": "TOUR2007",
+    "course_name": "Sustainable Tourism",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the concept of sustainability and its relevance to contemporary society. It examines its application to socio-cultural, economic, and environmental impacts relevant to the areas of Tourism, Hospitality and Event management.",
+    "prerequisites": "TOUR1000",
+    "incompatible": "TOUR3000",
+    "restricted": ""
+}

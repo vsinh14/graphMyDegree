@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM1090",
+    "course_name": "Introductory Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the core concepts and principles in chemistry at a foundation level that enables students who have not previously studied chemistry to progress further in tertiary chemistry. Concepts encountered include: atomic and electronic structure; bonding and molecular structure; intermolecular associations; states of matter; gas laws; solutions; equilibrium; acids & bases; thermochemistry; kinetics; redox processes; stoichiometry; and an introduction to organic chemistry. These are all considered in contexts that develop quantitative chemistry skills.",
+    "prerequisites": "",
+    "incompatible": "Qld Year 12 Chemistry (HA or VHA) or (a pass in CHEM1010 or CHEM1012 or CHEM1020 or CHEM1021 or CHEM1022 or CHEM1030 or CHEM1100 or CHEM1200 or CHEM1221 or CHEM1222, or ENGG1040)",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC6020",
+    "course_name": "Bioinformatics for Molecular Biologists",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide a practical introduction to genomics and bioinformatics. Topics include next-generation sequencing, biological databases, sequence alignment, similarity searches, genome browsers, molecular evolution, human disease genetics and proteomics. No previous computing experience is expected. Students will undertake computer-based practical modules throughout the course that provide hands-on experience with established bioinformatics tools and approaches. In addition, students will meet weekly to work on a semester-long research project in which bioinformatics tools will be applied to the analysis of a real sequence dataset. This course will provide students with an understanding of the key concepts that underpin bioinformatics and genomics approaches and a thorough grounding in the practical application of computational tools for biological sequence analysis.",
+    "prerequisites": "",
+    "incompatible": "BIOL3004",
+    "restricted": ""
+}

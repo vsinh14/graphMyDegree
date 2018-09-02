@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH2008",
+    "course_name": "Major Diseases & their control",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to give the students a global snapshot of the major non-communicable diseases (NCDs) affecting the human population. Basic epidemiology concepts pertaining to NCDs and their risk factors will be covered along with an introduction to prevention and control strategies for managing these different conditions.",
+    "prerequisites": "",
+    "incompatible": "PUBH1104",
+    "restricted": ""
+}

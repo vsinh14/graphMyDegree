@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH3302",
+    "course_name": "Coding & Cryptography",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Cryptographic methods for encryption, decryption & authentication. AES, RSA. Error correction & detection. Hamming, BCH, Reed-Solomon & cyclic codes. Applications: CD players, EFTPOS, etc.",
+    "prerequisites": "MATH2301",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT4404",
+    "course_name": "Advanced Probability & Stochastic Processes II",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "(offered in odd years only). State of the art in advanced probability and stochastic processes. The selection of topics will depend on the research interest of the lecturer.",
+    "prerequisites": "STAT3004",
+    "incompatible": "STAT7505",
+    "restricted": ""
+}

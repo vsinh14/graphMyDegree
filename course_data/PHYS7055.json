@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS7055",
+    "course_name": "Laser Physics & Quantum Optics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to the physics of lasers, atom-light interactions, and the quantization of the electromagnetic field. The implications for the conceptual foundations of quantum mechanics and nonclassical effects which arise will be considered.",
+    "prerequisites": "PHYS3040",
+    "incompatible": "PHYS4060 or PHYS7060 or PHYS4090 or PHYS7090 or PHYS4055",
+    "restricted": "Permission of Head of School"
+}

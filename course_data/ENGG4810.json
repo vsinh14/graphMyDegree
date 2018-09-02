@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGG4810",
+    "course_name": "Team Project II",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Small teams of students undertake design, implementation, testing, evaluation & presentation of a complete product",
+    "prerequisites": "ENGG2800",
+    "incompatible": "ENGG3800 or METR3800 or METR4810",
+    "restricted": ""
+}

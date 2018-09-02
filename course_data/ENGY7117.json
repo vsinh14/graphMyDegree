@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGY7117",
+    "course_name": "Energy Markets, Law and Policy",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course provides an introduction to world energy markets,\nenergy policy and how governments regulate and intervene in these systems. Its context is the rapid\ntransformation that is underway and the key drivers for this. Students will gain an understanding of how\nvarious energy markets have changed over recent times and what challenges they bring to energy policy\ndevelopment. Energy regulations, policies and agreements from a range of countries will be examined.",
+    "prerequisites": "",
+    "incompatible": "ENGY7107",
+    "restricted": "Restricted to MSE, GDSE and GCSE students"
+}

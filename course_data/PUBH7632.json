@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7632",
+    "course_name": "Advanced Biostatistics & Epidemiology",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide researchers with the practical skills to use to cutting-edge methods in Epidemiology and Biostatistics. They will be introduced to the concept of causal inference using observational data. Topics include directed acyclic graphs, mediation analyses, longitudinal data analysis, and multiple imputations.",
+    "prerequisites": "PUBH7631",
+    "incompatible": "",
+    "restricted": ""
+}

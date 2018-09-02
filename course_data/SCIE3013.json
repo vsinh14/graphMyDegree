@@ -1,0 +1,12 @@
+{
+    "course_code": "SCIE3013",
+    "course_name": "Special Project",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Study carried out under the direction of a supervisor approved by the Associate Dean.",
+    "prerequisites": "",
+    "incompatible": "BIOL3013",
+    "restricted": ""
+}

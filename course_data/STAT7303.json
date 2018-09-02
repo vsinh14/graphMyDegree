@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7303",
+    "course_name": "Experimental Design",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Experimental Design (completely randomised design, block design, factorial experiments including confounding and fractional replication); Sampling techniques and surveys including stratification and cluster sampling.",
+    "prerequisites": "Permission of Head of School and STAT2004",
+    "incompatible": "STAT3003.",
+    "restricted": ""
+}

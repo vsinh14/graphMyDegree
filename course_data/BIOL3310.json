@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL3310",
+    "course_name": "Macroecology and Biogeography",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Biological diversity has puzzled and fascinated evolutionary biologists and ecologists for well over a century. In this course we will explore evolutionary and ecological theories of diversity, while learning core methods for studying patterns of diversity from a variety of angles. Questions we will explore in this course include: Why are species found in some locations and not others? Are the geographic distributions of communities, higher order taxa, species, and alleles predictable by geography, environment, historical contingencies or interactions with other species, or inherent characteristics of species?\nMacroecology and biogeography are the study of spatial and temporal distributions of organisms, drawing upon the complementary disciplines of ecology and evolutionary biology. In this course, students will consider spatial patterns of biodiversity from global to local scales and considering both terrestrial and marine examples. Students will gain experience using approaches from comparative phylogenetics, community ecology, and landscape genetics to infer underlying causes of extant distributions and project future distributions in a changing world. Weekly learning activities will emphasize student participation, with discussions based on readings from the primary literature and problem solving using state-of-the-field computing. Enrolling students are expected to have basic familiarity with R (and have completed Biostatistics,BIOL2006) and to have completed second Ecology (BIOL2010) or Evolution (BIOL2201).",
+    "prerequisites": "BIOL2006 or BIOL2106",
+    "incompatible": "",
+    "restricted": ""
+}

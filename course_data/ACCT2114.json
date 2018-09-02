@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT2114",
+    "course_name": "Foundations of Management Accounting",
+    "faculty": "",
+    "school": "",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Week 1: Course Introduction; What is management accounting?; Key issues in management accounting\nWeek 2: Costs and cost behaviour\nWeek 3: Cost-volume-profit analysis\nWeek 4: Relevant costs for decision making\nWeek 5 and 6: Accumulating and assigning costs to cost objects: Traditional approaches\nWeek 7: Activity-based costing\nWeek 8: Budgeting\nWeek 9 and 10: Performance measurement\nWeek 11: Measuring and managing customer relationships\nWeek 12: Incentive schemes and other behavioural issues\nWeek 13: Revision",
+    "prerequisites": "ACCT2111",
+    "incompatible": "ACCT2102, ACCT2113",
+    "restricted": "Restricted to students enrolled in the BAdvFinEcon(Hons)"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "MATH1040",
+    "course_name": "Basic Mathematics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course covers fundamental mathematical concepts, useful to students in a wide range of discipline areas, including agriculture, arts, business, education, health sciences, science, social sciences, applied science and engineering. It is the UQ equivalent course to Queensland Secondary School Mathematics B. Topics include: review of numbers, estimating, algebraic manipulations, straight lines and their graphs, simultaneous equations, functions, quadratics, logarithmic and exponential functions, non-linear functions, trigonometric functions, differentiation and its applications, and integration and its applications.",
+    "prerequisites": "",
+    "incompatible": "HA or higher in Year 12 Mathematics B, or equivalent.",
+    "restricted": "BSc (single & dual), BE(Hons), BE(Hons)/BMath, BInfTech (single & dual), BBiomedSc, BBiomedSc/BSc, BBiotech(Hons), BEnvSc(Hons), BFoodTech(Hons), BOHSSc(Hons), BMath (single & dual), BCom (single & dual), BEcon (single & dual), BAdvFin&Econ(Hons) and BAdvBus(Hons) are not permitted to take MATH1040."
+}

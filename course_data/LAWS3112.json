@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS3112",
+    "course_name": "Law of Property B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is an intermediate level analysis of the law of real and personal property interests in Australia. The course builds on the fundamental principles and concepts related to property that are considered in Property Law A. The course comprises a study of statutory schemes relating to property: the Torrens Title system to land and the Personal Property Securities Act in relation to personal property. It also examines equitable interests in property and proprietary interests in real and personal property. The course seeks to deepen students' knowledge in these areas and their ability to solve complex legal problems related to interests in property.",
+    "prerequisites": "All Level 1 LAWS courses + LAWS2111 + LAWS2112 + LAWS3111 + LAWS3113",
+    "incompatible": "LAWS2706 or 3011 or 7111",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

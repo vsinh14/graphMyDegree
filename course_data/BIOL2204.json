@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOL2204",
+    "course_name": "Zoology",
+    "faculty": "Science",
+    "school": "Biological Sciences School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover animal diversity & evolution, from primitive metazoans to vertebrates. It describes the fantastic diversity of animal and life histories in an evolutionary and phylogenetic context. Students will become familiar with body form & function, & life history characteristics of the major groups of animals.",
+    "prerequisites": "BIOL1030",
+    "incompatible": "ZOOL2028 or ZOOL2029",
+    "restricted": ""
+}

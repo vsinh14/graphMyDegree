@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS1901D",
+    "course_name": "Management Principles",
+    "faculty": "UQ College",
+    "school": "Business, Economics & Law Fac",
+    "units": "2",
+    "duration": "One Trimester",
+    "description": "This course covers the foundations of management and the application of fundamental management principles in organisations. Students will learn to apply organisational management concepts, models and challenges from both national and international perspectives.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "AssocDBus students only"
+}

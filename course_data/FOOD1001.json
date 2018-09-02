@@ -1,0 +1,12 @@
+{
+    "course_code": "FOOD1001",
+    "course_name": "Principles of Food Preservation",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Food preservation methods & techniques used in commercial food processing.",
+    "prerequisites": "",
+    "incompatible": "FOOD2006",
+    "restricted": ""
+}

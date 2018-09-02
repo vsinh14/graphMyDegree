@@ -1,0 +1,12 @@
+{
+    "course_code": "MECH3600",
+    "course_name": "Engineering Management & Communication",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Mech & Mine Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Project management in the context of engineering research & design projects. Research approaches & information skills. Project scope; risk, resource & time management, estimation & cost management; communication, leadership, procurement, human resource management. Web-based project management tools. Systems engineering approach to mechanical design.",
+    "prerequisites": "",
+    "incompatible": "ENGG4800 or CSSE3004 or CSSE3005",
+    "restricted": ""
+}

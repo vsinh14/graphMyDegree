@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH7611",
+    "course_name": "Epidemiology in Practice",
+    "faculty": "Medicine",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course will provide in-depth exposure to the fundamental concepts, research designs and analytic strategies of epidemiology. It aims to develop a coherent understanding of the principles of epidemiology. This course has prerequisite of PUBH7600 Introduction to Epidemiology and students must have successfully completed this course before enrolling in PUBH7611.",
+    "prerequisites": "PUBH7600",
+    "incompatible": "",
+    "restricted": ""
+}

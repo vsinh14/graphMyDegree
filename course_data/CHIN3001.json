@@ -1,0 +1,12 @@
+{
+    "course_code": "CHIN3001",
+    "course_name": "Written Chinese IIA",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Further study, based on prepared text, of Chinese sentence structure & character vocabulary, leading to practice in simple letter-writing.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "CHIN2200",
+    "incompatible": "CHIN2201, CHIN2210",
+    "restricted": "Minimum quota 20 students"
+}

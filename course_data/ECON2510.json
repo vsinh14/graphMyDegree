@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON2510",
+    "course_name": "Development Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces the student to the literature, theoretical and applied, on various aspects of the economics of less developed countries. Emphasis is given to both comparative theoretical approaches and cross-country analysis of contemporary issues and policy options facing low and middle income countries in the context of the global economy.",
+    "prerequisites": "ECON1010 & ECON1020",
+    "incompatible": "ECON3500",
+    "restricted": ""
+}

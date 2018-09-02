@@ -1,0 +1,12 @@
+{
+    "course_code": "PSYC3010",
+    "course_name": "Psychological Research Methodology III",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Psychology School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on aspects of psychological factorial design covered in PSYC2010. In it, students learn to extend one-variable designs to designs involving multiple independent variables. Methodological issues associated with the use of these designs in psychological research are explored. For example, lectures will be devoted to design-related confounds, measurement issues, and other interpretational concerns. In addition, the analysis techniques appropriate to these designs are addressed (especially factorial analysis of variance and multiple regression). Students gain experience in computer-based analysis using statistical packages.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "BINF6000",
+    "course_name": "Concepts in Bioinformatics",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course aims to provide students from a broad range of backgrounds with an introduction to bioinformatics, an emerging discipline that is transforming how we make discoveries in molecular bioscience. The course develops both theoretical and practical skills in bioinformatics, with emphasis on the extraction and analysis of data, driven by current technologies. The course aims to equip students with a working knowledge of computing methodology relevant to the biosciences, including the use of databases, the automation of\ncommon bioinformatics tools, and the development of methods tailored for representative problems and data types in the molecular biosciences. The course will prepare students for more advanced courses in the area of bioinformatics, genomics and systems biology.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": ""
+}

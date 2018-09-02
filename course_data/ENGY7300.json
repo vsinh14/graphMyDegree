@@ -1,0 +1,12 @@
+{
+    "course_code": "ENGY7300",
+    "course_name": "Power Generation Technologies",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Chemical Engineering School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on ENGY7003 to further develop and explore technologies for power generation that address the challenge presented to us by climate change. Power generation technologies including renewables and low emission technologies will be discussed. Resource mapping, storage and grid integration, including centralised and decentralised systems, will be explored as will recent developments to reduce implementation costs. Competitive electricity market principles will also be discussed.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Restricted to MES, GDES students."
+}

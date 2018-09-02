@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE3102",
+    "course_name": "Advanced Valuation",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Valuation of urban properties such as shopping centres and land with development potential as well as urban property of a specialised nature e.g. motels/hotels, fast food restaurants, airports, self- funded retirement villages. An introduction to the valuation of rural properties. Application of advanced computer based cash flow modelling and other software to the valuation of multi-tenanted real estate and the preparation of related valuation reports.",
+    "prerequisites": "REDE1100",
+    "incompatible": "REDE3502 or 7102",
+    "restricted": ""
+}

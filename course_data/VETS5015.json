@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS5015",
+    "course_name": "Equine Clinics",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "Two Semesters",
+    "description": "Intra-mural clinical practical work in equine medicine and surgery.",
+    "prerequisites": "VETS4010, VETS4022, VETS4035, VETS4034, VETS4012, VETS4021",
+    "incompatible": "",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

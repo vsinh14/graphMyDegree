@@ -1,0 +1,12 @@
+{
+    "course_code": "OCTY4208",
+    "course_name": "Occupational Therapy Practice Specialisation",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This capstone course will provide occupational therapy students with an opportunity to build upon their professional skills and knowledge within a specific contemporary occupational therapy practice area. Students will expand their professional skills to become proficient in the planning, delivery and evaluation of a clinical occupational therapy service. Teaching will involve three lectures, weekly tutorials and clinical experience in the management of clients within a clinical setting.",
+    "prerequisites": "OCTY4104",
+    "incompatible": "OCTY4236, OCTY4120, OCTY4250",
+    "restricted": "BOccThy(Hons) students only"
+}

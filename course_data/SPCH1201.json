@@ -1,0 +1,12 @@
+{
+    "course_code": "SPCH1201",
+    "course_name": "Communication Across the Lifespan",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Health & Rehab Sci School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to changes in communication skills across the lifespan & to aspects of professional practice. Focus on experiential opportunities. Theoretical aspects of clinical practice & professional preparation will be addressed.",
+    "prerequisites": "SPCH1100, SPCH1101",
+    "incompatible": "SL101",
+    "restricted": "BSpPath Students"
+}

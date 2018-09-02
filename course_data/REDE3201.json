@@ -1,0 +1,12 @@
+{
+    "course_code": "REDE3201",
+    "course_name": "Sustainable Real Estate Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Management of residential and commercial real estate. The role of the property or corporate real estate manager in the delivery and maintenance of environmentally sustainable buildings. Performance measurement of buildings and green rating systems. Workplace design for corporate productivity.",
+    "prerequisites": "REDE1300",
+    "incompatible": "REDE3500 or 7203",
+    "restricted": ""
+}

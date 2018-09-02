@@ -1,0 +1,12 @@
+{
+    "course_code": "PUBH2010",
+    "course_name": "Global Health and Infectious Disease",
+    "faculty": "Medicine & Biomedical Sciences",
+    "school": "Public Health School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course gives a broad introduction to major global health problems with an emphasis on infectious disease in resource poor countries. Issues addressed include the causes and control of: malaria, TB, HIV, malnutrition, acute respiratory infection, diarrhoeal disease, vaccine preventable disease, water and sanitation and other environmental related health problems, cardiovascular disease, diabetes and other child and maternal health issues. The course will also explore major international health policy and program developments, particularly the Millennium Development Goals, and the translation of those policies into practice.",
+    "prerequisites": "",
+    "incompatible": "PUBH3010",
+    "restricted": ""
+}

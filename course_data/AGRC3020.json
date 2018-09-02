@@ -1,0 +1,12 @@
+{
+    "course_code": "AGRC3020",
+    "course_name": "Industrial Placement",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course will include a minimum of 12 weeks of industrial placement. Students will gain experience & fulfill a learning contract in a work environment that is congruent with their proposed career direction.",
+    "prerequisites": "#24 from BAppSc",
+    "incompatible": "PLNT3003, AGRC3028, AGRC3029, AGRC3030, PLNT3004",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7865",
+    "course_name": "Maritime Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course covers maritime liabilities and claims and their enforcement using as central examples collisions, salvage and limitation of liability. It will consider how these liabilities and claims arise and are enforced in a variety of international laws, as well as in international conventions and under standard form contracts in use worldwide.",
+    "prerequisites": "",
+    "incompatible": "LA893",
+    "restricted": "GCAppLaw, GDipAppLaw, MAppLaw, LLM, LLM(Adv), LLM(#16), LLM(#24), MICLaw\nQuota: Minimum of 12 enrolments"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7108",
+    "course_name": "Jurisprudence",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is not offered in 2014.",
+    "prerequisites": "LAWS7100",
+    "incompatible": "LA309 or 739 or LAWS2008 or 7308",
+    "restricted": "JD"
+}

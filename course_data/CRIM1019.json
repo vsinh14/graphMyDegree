@@ -1,0 +1,12 @@
+{
+    "course_code": "CRIM1019",
+    "course_name": "Introduction to Criminal Justice",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course provides an introduction to the criminal justice system in Australia. Students will examine the policies and practices of law enforcement, adjudicative and correctional agencies of the criminal justice system. Topics will include the role of the criminal justice system in social control, the aims and current issues facing the police, courts and corrections, and criminal justice reform.",
+    "prerequisites": "",
+    "incompatible": "CRIM7019, SOCY2079, 7079",
+    "restricted": ""
+}

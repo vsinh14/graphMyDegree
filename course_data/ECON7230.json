@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7230",
+    "course_name": "Trading Floor and Financial Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "NOT 2010. The purpose of the course is to offer advanced students in business/finance and or economics an understanding of the financial markets from a very hands on applied viewpoint. The course will be applied to the real world financial markets using an online real time trading room allowing the student to trade in Stocks, Bonds, Options and Futures and short or long sell derivatives. The online real time trading floor will enable the student to build a portfolio using historical and real time company information, with graphs, charts and company announcements to guide them in their choice. The course will be looking at yields, duration and convexity and will discuss and apply modern portfolio theory using the real time trading floor. The focus will be on institutional details /technical analysis/market efficiency and of course trading strategies designed to exploit market, limit and stop orders and others exploiting the single index model support and valuation issues. A pod cast of lectures will be available.",
+    "prerequisites": "",
+    "incompatible": "ECON3230",
+    "restricted": "Quota: Maximum of 40 enrolments"
+}

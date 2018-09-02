@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON7060",
+    "course_name": "Evolution of Economic Systems",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Analysis of how complex systems develop using contributions from behavioural, evolutionary and institutional economics with an emphasis on the role institutions, coordination problems, knowledge issues and cognitive aspects, illustrated with country-based case material.",
+    "prerequisites": "ECON7010 or ECON7110 or ECON7570 or ECON2010 or ECON2510",
+    "incompatible": "ECON3540",
+    "restricted": ""
+}

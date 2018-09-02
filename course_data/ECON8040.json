@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8040",
+    "course_name": "Macroeconomics B",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course extends the core materials in the field of macroeconomics beyond that covered in Macroeconomics A (currently ECON8020 Macroeconomic Theory). Whilst Macroeconomics A provides a comprehensive coverage of key, standard macroeconomic analysis at the introductory PhD level, Macroeconomics B is intended to provide a more in-depth, extended coverage of important, contemporary, dynamic macroeconomic topics that cannot be covered in Macroeconomics A due to time constraints. The Macroeconomics B course will be particularly useful for those students who are writing a thesis on a topic related to macroeconomics or who wish to specialise in the area of macroeconomics, and is seen as essential for PhD students wishing to research and build a career in the field of macroeconomic analysis.",
+    "prerequisites": "ECON6020 or 8020",
+    "incompatible": "ECON6040",
+    "restricted": ""
+}

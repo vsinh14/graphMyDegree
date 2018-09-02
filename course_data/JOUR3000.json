@@ -1,0 +1,12 @@
+{
+    "course_code": "JOUR3000",
+    "course_name": "Data Journalism",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Communication & Arts School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course aims to provide an advanced level experience in the use of a variety of forms of large data in journalistic storytelling.\nThis course skills students in journalistic storytelling through the prism of large corpora of data. Such data can include volumes of text from sources as diverse as social media and manuscript archives, as well as statistics.\nStudents will be required to create data sets, access published and unpublished data sets, filter and analyse such data, and visualise their findings. As such the course blends traditional critical approaches to manuscript collections (including visuals), and the emerging computational social sciences, in order to create compelling stories.",
+    "prerequisites": "COMU1130, COMU2130.  \nPrerequisites are waived for students who commenced prior to 2017.",
+    "incompatible": "JOUR3290",
+    "restricted": "Restricted to students in the Bachelor of Journalism"
+}

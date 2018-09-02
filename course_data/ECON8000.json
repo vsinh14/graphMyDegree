@@ -1,0 +1,12 @@
+{
+    "course_code": "ECON8000",
+    "course_name": "Quantitative Skills for Economics",
+    "faculty": "Business, Economics & Law",
+    "school": "Economics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The course will cover various topics in mathematics and statistics, including matrix algebra, calculus, optimisation, probability, random variables, and estimation methods. Understanding this material will prepare the students for graduate courses in economics, especially those involving quantitative components. The emphasis will be in the formal aspects of the analysis, including definitions, main results, and problem solving.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Master of Advanced Economics students only"
+}

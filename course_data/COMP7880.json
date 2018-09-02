@@ -1,0 +1,12 @@
+{
+    "course_code": "COMP7880",
+    "course_name": "Computer Science Research Project",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "8",
+    "duration": "One Semester",
+    "description": "A research-based thesis course that offers students the opportunity to work on a comprehensive, individual project that demonstrates mastery of computer science. Topic to be agreed in consultation with a supervisor. The project will be of suitable complexity for results to be published for an expert audience. Students commencing in semester 1 enrol in COMP7881, students commencing in semester 2 enrol in COMP7882. Students wishing to complete thesis in a single semester enrol in COMP7880.",
+    "prerequisites": "Permission Head of School",
+    "incompatible": "COMP7805 or COMP7806 or COMP7807",
+    "restricted": "MCompSc, MCompSc(Mgmt)"
+}

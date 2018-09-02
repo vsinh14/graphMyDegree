@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7202",
+    "course_name": "Probability Models for Science",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "1",
+    "duration": "One Semester",
+    "description": "Probability models & applications in science, including basic probability theory, distributions & their properties, transform methods, construction of probability models, reliability, joint distributions, random processes: queues, Markov processes, Gaussian processes & weakly stationary processes.",
+    "prerequisites": "Permission of Head of School",
+    "incompatible": "STAT2002 or 2201",
+    "restricted": ""
+}

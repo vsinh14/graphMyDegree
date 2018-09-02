@@ -1,0 +1,12 @@
+{
+    "course_code": "BISM7221",
+    "course_name": "Information Systems Control, Governance and Audit",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Management & application system controls; computer-assisted audit techniques; computer security; data quality; data privacy; approaches to information systems auditing; information systems audit profession & standards.",
+    "prerequisites": "ACCT7209 or BISM7209 or (ACCT7101 + (BISM7202 or MGTS7202))",
+    "incompatible": "INFS7000 or 7221",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

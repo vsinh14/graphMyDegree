@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS7138",
+    "course_name": "Competition Law",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course is a critical investigation into Australian competition law. The course seeks to develop students' knowledge of the Competition and Consumer Act 2010 (Cth) and ability to solve complex legal problems.",
+    "prerequisites": "LAWS7000 or LAWS7936",
+    "incompatible": "LA414 or LW816 or LAWS5138 or 7338",
+    "restricted": "JD; GCAppLaw; GDipAppLaw; MAppLaw"
+}

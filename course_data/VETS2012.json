@@ -1,0 +1,12 @@
+{
+    "course_code": "VETS2012",
+    "course_name": "Structure and Function II",
+    "faculty": "Science",
+    "school": "Veterinary Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Anatomy & physiology of urinary & endocrine systems, with integrative physiology, comparative, applied & topographic anatomy of domestic animals.",
+    "prerequisites": "AGRC1041",
+    "incompatible": "PHYL2026 or 2028, VETS2002 or 2003",
+    "restricted": "Enrolment restricted to Veterinary Science students only"
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "PHYS2055",
+    "course_name": "Introduction to Fields in Physics",
+    "faculty": "Science",
+    "school": "Mathematics & Physics School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Introduction to field theory in physics. Topics include an overview of classical field theories, the mathematical description of field theories, and a detailed coverage of classical electromagnetism, including Maxwell's equations, and optics.",
+    "prerequisites": "PHYS1002 + MATH1051 or MATH1071",
+    "incompatible": "PHYS3050",
+    "restricted": ""
+}

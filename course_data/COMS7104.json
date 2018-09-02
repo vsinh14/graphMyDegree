@@ -1,0 +1,12 @@
+{
+    "course_code": "COMS7104",
+    "course_name": "Microwave Engineering",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course uses electromagnetic principles to present the theory & operation of simple circuit devices & antennas at microwave frequencies, which are the part of modern microwave communication equipment. The emphasis is placed on planar guiding & radiating structures that enable either hybrid &/or monolithic integration of the devices. Modern CAD software packages are introduced & demonstrated through simulations of microwave networks & antenna configurations.",
+    "prerequisites": "ELEC7101 and MATH2000",
+    "incompatible": "COMS4104",
+    "restricted": ""
+}

@@ -1,0 +1,12 @@
+{
+    "course_code": "NURS7109",
+    "course_name": "Interprofessional Practice Project",
+    "faculty": "Health & Behavioural Sciences",
+    "school": "Nursing, Midwifery & Social Wk",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course provides students with the opportunity to explore the interprofessional aspects of nursing practice. Students will plan to undertake a project that is based in a clinical setting and involves interacting with health professionals/health professional students from a profession other than nursing with the aim of improving patient care/services.",
+    "prerequisites": "NURS7105, NURS7106, NURS7107,NURS7108",
+    "incompatible": "",
+    "restricted": "MNStudies"
+}

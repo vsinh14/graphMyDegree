@@ -1,0 +1,12 @@
+{
+    "course_code": "FINM7405",
+    "course_name": "Financial Risk Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Use of swaps & futures to manage interest rate, commodity price & exchange rate risk. Practical application of important risk management principles & tools in a bond trading game.",
+    "prerequisites": "FINM7065 or 7401 or 7805",
+    "incompatible": "",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

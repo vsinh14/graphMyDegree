@@ -1,0 +1,12 @@
+{
+    "course_code": "MUSC2630",
+    "course_name": "Advanced Musicianship 2",
+    "faculty": "Humanities and Social Sciences",
+    "school": "Music School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Applied independent learning of techniques prominent in 20th and 21st century Western art music, with integrated writing, analysis & aural skills components.",
+    "prerequisites": "MUSC2620",
+    "incompatible": "MUSC2610, MUSC2611",
+    "restricted": ""
+}

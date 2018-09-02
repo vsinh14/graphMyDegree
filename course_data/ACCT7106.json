@@ -1,0 +1,12 @@
+{
+    "course_code": "ACCT7106",
+    "course_name": "Financial Statement Analysis",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Financial statement analysis, traditional procedures & current developments. Use of accounting data for valuation of firms.",
+    "prerequisites": "(ACCT7101 + FINM7401)",
+    "incompatible": "",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

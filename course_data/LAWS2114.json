@@ -1,0 +1,12 @@
+{
+    "course_code": "LAWS2114",
+    "course_name": "Criminal Law and Procedure B",
+    "faculty": "Business, Economics & Law",
+    "school": "Law School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Criminal Law and Procedure B examines the practical operation of the criminal law. The course explores two central concepts; discretion and fairness, to examine the processes involved from the pre-trial stage to sentencing and appeals.",
+    "prerequisites": "LAWS1111 + 2113",
+    "incompatible": "LAWS2006 or 2701 or 7106 or 7231",
+    "restricted": "LLB(Hons)(#64), LLB(Hons)(#48), LLB(Hons)#64 duals, LLB, LLB duals and LLB (Graduate Entry) programs."
+}

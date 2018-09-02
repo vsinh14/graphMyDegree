@@ -1,0 +1,12 @@
+{
+    "course_code": "IBUS2303",
+    "course_name": "Business Operations",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course introduces students to the theory and applications of operational systems and processes. A range of business decision analytics are covered in the course that have as their goal, optimizing economical use of resources. Drawing on the recognisable tools and methods of operations management and operations research, students will use analytic models, deterministic methods of analysis, and scrutiny of results. Upon completion of the course, students will understand the importance of examining and determining applicable information, how to extract essential features of the data, by what means to construct a representative model, evaluate the model, and determine preferred options of improvement. The consequences to the organisation and stakeholders of making improvements and changes are also considered.",
+    "prerequisites": "",
+    "incompatible": "",
+    "restricted": "Course is restricted to students enrolled in the BAdvBus(Hons) program."
+}

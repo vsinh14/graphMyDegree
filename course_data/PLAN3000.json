@@ -1,0 +1,12 @@
+{
+    "course_code": "PLAN3000",
+    "course_name": "Plan Making",
+    "faculty": "Science",
+    "school": "Earth and Environment Sc Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Practical work on complex planning problems designed to integrate subject material covered in third year of program; generally involves projects dealing with metropolitan, regional or city centre planning issues.",
+    "prerequisites": "PLAN2000",
+    "incompatible": "",
+    "restricted": ""
+}

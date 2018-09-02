@@ -1,0 +1,12 @@
+{
+    "course_code": "SOSC3202",
+    "course_name": "Project",
+    "faculty": "",
+    "school": "",
+    "units": "4",
+    "duration": "One Semester",
+    "description": "This course involves the conduct of original research with an industry partner. It is the companion to SOSC3201 and both should be completed in consecutive semesters in the third or final year of study. The course integrates and applies skills acquired in core courses, and majors, through applied team research projects with an industry partner. Students identify plan, implement and evaluate a research project to address the problem, and disseminate research findings through written and oral reports.",
+    "prerequisites": "SOSC3201",
+    "incompatible": "SOSC3211",
+    "restricted": "This course is for Bachelor of Social Science students only."
+}

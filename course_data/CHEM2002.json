@@ -1,0 +1,12 @@
+{
+    "course_code": "CHEM2002",
+    "course_name": "Physical Chemistry",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course has been discontinued. Students using the 2017 course planner who consider to enrol in CHEM2002 should now consider CHEM2060 in its place or seek academic advising. \n\nThe course covers the basic physical principles that are the foundation of essentially all materials and biological chemistry. Topics include electronic structure, chemical bonding, non-covalent and intermolecular interactions, chemical kinetics and thermodynamics. The course also provides an introduction into a range of physical techniques used to characterise (bio) molecular systems. These include UV/visible spectroscopy, fluorescence spectroscopy, circular dichroism, as well as scanning differential and isothermal calorimetry.",
+    "prerequisites": "CHEM1100 or CHEM1020",
+    "incompatible": "",
+    "restricted": ""
+}

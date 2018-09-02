@@ -1,0 +1,12 @@
+{
+    "course_code": "MGTS3204",
+    "course_name": "Electronic Commerce Infrastructure Management",
+    "faculty": "Business, Economics & Law",
+    "school": "Business School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Managerial understanding of fundamental hardware & software infrastructure needed to support electronic commerce/online business emphasising standard internet protocols; cost-benefit analysis & connectivity options; capacity planning for management consideration.",
+    "prerequisites": "INFS2233",
+    "incompatible": "MGTS7212",
+    "restricted": "Quota: Minimum of 15 enrolments"
+}

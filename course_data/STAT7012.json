@@ -1,0 +1,12 @@
+{
+    "course_code": "STAT7012",
+    "course_name": "Designs of Factorial Experiments",
+    "faculty": "Science",
+    "school": "Agriculture Food Sciences Schl",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Factorial designs common in Science, Technology and Engineering with application in Food Science and Technology. The principles and techniques of design and ANOVA of full and partial factorial, Taguchi and mixture experiments are taught on the basis of experiments in food physical assessment, quality control and the assessment of process performance.",
+    "prerequisites": "",
+    "incompatible": "STAT3003",
+    "restricted": ""
+}

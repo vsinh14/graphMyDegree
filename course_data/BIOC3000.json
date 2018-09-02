@@ -1,0 +1,12 @@
+{
+    "course_code": "BIOC3000",
+    "course_name": "Advanced Biochemistry and Molecular Biology",
+    "faculty": "Science",
+    "school": "Chemistry & Molec Biosciences",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "The understanding of molecular structure & function is of central importance to students undertaking a major in the biological or chemical fields. This course focuses on concepts of DNA/RNA, protein, lipid & carbohydrate relating structure to function. Some content and assignments are based on current literature describing recent DNA & protein structures & how structure can inform about function. Laboratory work will emphasize the techniques required to analyse biomolecules. Students will integrate theoretical knowledge with experimental data.",
+    "prerequisites": "BIOC2000",
+    "incompatible": "BIOC3004 or BIOC3002",
+    "restricted": ""
+}

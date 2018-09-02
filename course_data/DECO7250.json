@@ -1,0 +1,12 @@
+{
+    "course_code": "DECO7250",
+    "course_name": "Human-Computer Interaction",
+    "faculty": "Engineering, Architecture & Information Technology",
+    "school": "Info Tech & Elec Engineering",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Models & methods of interaction, practical use of interface development systems, user considerations, visual presentation, design principles, interface design methods, implementation issues, evaluation. Societal considerations, groupware, multimedia, media perspectives.",
+    "prerequisites": "DECO7140 or MMDS7961 or CSSE7030",
+    "incompatible": "COMP2506 or COMP3501 or COMP7904 or DECO2500",
+    "restricted": ""
+}
