@@ -10,11 +10,8 @@ class Subject:
     """
     Add all other values relating to the subjects
     """
-    def addValues(self, stringName, duration, offering):
+    def addValues(self, stringName, offering, part):
         self.name = stringName
-        self.duration = duration
-        self.Faculty = Faculty
-        self.School = School
         # 1 for sem 1
         # 2 for sem 2
         # 3 for sem 1 & 2
@@ -22,29 +19,19 @@ class Subject:
         # 5 for summer sem and sem 1
         # 6 for summer sem and sem 2
         # 7 for sem 1 sem 2 and summer sem 
+        self.part = part
         self.offering = offering
 
     """
-    return duration of subject
+
     """
-    def getDuration(self):
-        return self.duration
+    def getMajorPart(self):
+        return self.part    
     """
     returns full name of subject
     """
     def getName(self):
         return self.name 
-    """
-    return school ofering Subject
-    """
-    def getSchool(self):
-        return self.School
-    """
-    returns faculty
-    """
-    
-    def getFaculty(self):
-        return self.Faculty
     """
     returns offering int
     """

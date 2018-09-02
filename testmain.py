@@ -5,19 +5,64 @@ import matplotlib.pyplot as plotting
 import networkx as nx
 from graphviz import Digraph as dg
 from draw_graph import *
+from sys import exit
 
-data = Data_structure()
-graph = data.getGraph()
+dataStructure = Data_structure()
+graph = dataStructure.getGraph()
+data = dataStructure.getData()
+orCounter = 0
+
+def courseCheck(dataDict, string):
+    if string in dataDict:
+        return true
+    return false
+
+def recursiveRelation(dataStruct, key, part):
+    if(isinstance(part, list)):
+        #only one subject
+        dataStruct.addPreRequisite(part[0], key)
+        return
+    #actual recursion
+    actualRecursion(dataStruct, key, part)
+
+
+def actualRecursion(dataStruct, key, part):
+    #type all base case do nothing different
+    global orCounter 
+    if(part['type'] == "all"):
+        for i in part['children']:
+            if(isinstance(i, str)):
+                dataStruct.addPreRequisite(i, key)
+            else:
+                actualRecursion(dataStruct, key, i)
+    #type any or node before 
+    
+    if(part['type'] == "any"):
+        orName = "orNode" + str(orCounter)
+        orCounter+=1
+        orNode = Subject(orName)
+        dataStruct.addSubject(orName, Subject(orName))
+        for i in part["children"]:
+            if(isinstance(i, str)):
+                dataStruct.addPreRequisite(i, orName)
+            else:
+                actualRecursion(dataStruct, orName, i)
+        dataStruct.addPreRequisite(orName, key)
+        
+#adding all subjects and information associated with subject
 with open("data/SOFTWX2342/course_data.json") as json_file:
     data1= js.load(json_file)
-    for p in data1:
-        #courseSubject = Subject(p)
-        #data.addSubject(p, courseSubject)
-        """
-preReqFile = open()
-print(graph.nodes)
-data.addPreRequisite("ENGG1100","ENGG1200")
-data.addPreRequisite("ENGG1200", "ENGG1211")
-print(graph.edges)
-draw_graph(data)
-"""
+    for k, p in data1.items():
+        print(k)
+        print(p['semesters'])
+        courseSubject = Subject(p)
+        courseSubject.addValues(p['course_name'], p['semesters'], p['major_part'] )
+        dataStructure.addSubject(k, courseSubject)
+# add prereqs
+with open("data/SOFTWX2342/prerequisites.json") as pre_file:
+    data2= js.load(pre_file)
+    for k, p in data2.items():
+        if(len(p) == 0):
+            continue
+        recursiveRelation(dataStructure, k, p)
+draw_graph(dataStructure)
