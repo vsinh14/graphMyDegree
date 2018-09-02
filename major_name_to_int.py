@@ -2,10 +2,11 @@ import json
 
 
 def main():
-    with open('data/SOFTWX2342/major_parts.json') as f:
+    major = 'ELECTX2342'
+    with open(f'data/{major}/major_parts.json') as f:
         major_parts = json.load(f)
 
-    with open('data/SOFTWX2342/course_data.json') as f:
+    with open(f'data/{major}/course_data.json') as f:
         course_data = json.load(f)
 
     for course, parts in major_parts.items():
@@ -13,7 +14,7 @@ def main():
         print(course, parts, min_parts)
         course_data[course]['major_part'] = min_parts
 
-    with open('data/SOFTWX2342/course_data.json', 'w') as f:
+    with open(f'data/{major}/course_data.json', 'w') as f:
         json.dump(course_data, f, indent=4)
 
 
