@@ -4,6 +4,8 @@ from datetime import datetime
 import json
 from collections import defaultdict
 
+import multiprocessing.dummy as mp
+
 import bs4 
 
 from subject import *
@@ -72,55 +74,54 @@ def _parse_course_codes(major_soup: bs4.BeautifulSoup):
     for l in links:
         yield l.attrs['href'].replace('/programs-courses/course.html?course_code=', '', 1)
 
+_id_mapping = {
+    'course-faculty': 'faculty',
+    'course-school': 'school',
+    'course-units': 'units',
+    'course-duration': 'duration',
+    'course-summary': 'description',
+    'course-prerequisite': 'prerequisites',
+    'course-incompatible': 'incompatible',
+    'course-restricted': 'restricted'
+}
+
 def parse_course_code(course_code: str):
     url = 'https://my.uq.edu.au/programs-courses/course.html?course_code='+course_code
     with urllib.request.urlopen(url) as html_file:
         soup = bs4.BeautifulSoup(html_file.read())
+
+        dictionary = {}
+        def _find_section(element_id, output_key):
+            try:
+                dictionary[output_key] = soup.find('p', {'id': element_id}).text.strip()
+            except AttributeError:
+                dictionary[output_key] = ''
 
         # Get the course title by deleting " (ABCD1234)" from the heading.
         try:
             course_name = soup.find('h1', {'id': 'course-title'}).text.replace(' ('+course_code+')', '', 1)
         except AttributeError:
             return None
-        # Gets everything else
-        try:
-            faculty = soup.find('p', {'id': 'course-faculty'}).text.strip()
-        except AttributeError:
-            faculty = ''
-        try:
-            school = soup.find('p', {'id': 'course-school'}).text.strip()
-        except AttributeError:
-            school = ''
-        units = int(soup.find('p', {'id': 'course-units'}).text)
 
-        duration = soup.find('p', {'id': 'course-duration'}).text.strip()
+        dictionary['course_code'] = course_code
+        dictionary['course_name'] = course_name
+
 
         this_year = str(datetime.today().year)
-        try:
-            prereq = soup.find('p', {'id': 'course-prerequisite'}).text.strip()
-        except AttributeError:
-            prereq = ''
-
-        description = soup.find('p', {'id': 'course-summary'}).text
-
         offerings = SemesterFlags(0)
         semester_elements = soup.find_all('a', {'class': 'course-offering-year'})
         for sem_elem in semester_elements:
             # TODO: Will break for the first half of a year!!
             if this_year in sem_elem.text: # only consider offerings in this year.
                 offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
-        print(course_code)
-        return {
-            'course_name':course_name,
-            'course_code':course_code,
-            'duration':duration,
-            'units': units,
-            'faculty':faculty,
-            'school':school,
-            'description': description,
-            'semesters':(offerings).int(),
-            'prerequisites': prereq
-        }
+
+        dictionary['semesters'] = offerings
+
+        for k, v in _id_mapping.items():
+            _find_section(k, v)
+        # gets everything else
+
+        return dictionary
 
 class MajorPart(dict):
     def __init__(self, parent, label):
@@ -191,9 +192,27 @@ def write_course_data_to_file(course_list, file_name):
     for c in course_list:
         print('Getting course data for', c)
         courses_dict[c] = parse_course_code(c)
-        with open(file_name, 'w') as f:
-            f.write(json.encoder.JSONEncoder(indent=4).encode(courses_dict))
+    with open(file_name, 'w') as f:
+        f.write(json.encoder.JSONEncoder(indent=4).encode(courses_dict))
     return courses_dict
+
+def scrape_one_course_worker(course_code, folder_name):
+    print('Starting', course_code)
+    result = parse_course_code(course_code)
+    with open(folder_name + '/'+course_code+'.json', 'w') as f:
+        f.write(json.encoder.JSONEncoder(indent=4).encode(result))
+    print('Finished', course_code)
+
+def multithread_write_course_data_to_file(course_list, folder_name):
+    with mp.Pool(50) as pool:
+        for c in course_list:
+            pool.apply_async(
+                func=scrape_one_course_worker, 
+                args=(c, folder_name)
+            )
+        pool.close() 
+        pool.join()
+
 
 def write_major_parts_to_file(major_code, file_name):
     parts = parse_major_properly(major_code)
