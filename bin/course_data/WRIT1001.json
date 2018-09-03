@@ -1,0 +1,13 @@
+{
+    "course_code": "WRIT1001",
+    "course_name": "Writing for International Students",
+    "semesters": 3,
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "For undergraduate students who use English as a second language. Teaches the argumentative essay, focusing on developing and structuring an argument, critical thinking and analysis, and using sources.",
+    "prerequisites": "",
+    "incompatible": "ASIA1000",
+    "restricted": "WRIT1001 is designed to assist international and domestic undergraduate students who use English as a second language. It is not suitable for native speakers of English. Students MUST sign a non-native English speaker declaration form to stay enrolled in this course."
+}

@@ -1,0 +1,13 @@
+{
+    "course_code": "CHIN3770",
+    "course_name": "Advanced Chinese>English Translation",
+    "semesters": 1,
+    "faculty": "Humanities and Social Sciences",
+    "school": "Languages & Cultures School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "This course builds on the translation concepts introduced in CHIN2700 and extends their application to texts of both the same and new, more complex, genre. In so doing, an advanced understanding of genre-specific issues in translation from Chinese into English is provided as well as advanced development of context-appropriate English expression.\nThis course may be cancelled if there are fewer than 20 enrolments.",
+    "prerequisites": "CHIN2700",
+    "incompatible": "CHIN3300",
+    "restricted": "This course is for native speakers of Chinese."
+}

@@ -1,0 +1,13 @@
+{
+    "course_code": "ARCS1001",
+    "course_name": "Doing Archaeology",
+    "semesters": 2,
+    "faculty": "Humanities and Social Sciences",
+    "school": "Social Science School",
+    "units": "2",
+    "duration": "One Semester",
+    "description": "Contemporary archaeological methods with a practical application. Australian and international case studies. Emphasises group problem solving in the lab.",
+    "prerequisites": "",
+    "incompatible": "ARCA1001, ARCA2030, ARCS2030",
+    "restricted": ""
+}
