@@ -1,6 +1,7 @@
 {
     "course_code": "MATH2100",
     "course_name": "Applied Mathematical Analysis",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

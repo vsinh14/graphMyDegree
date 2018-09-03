@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3103",
     "course_name": "Algebraic Methods of Mathematical Physics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

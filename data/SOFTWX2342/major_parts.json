@@ -87,7 +87,6 @@
         "Part B - Electives"
     ],
     "COMP4702": [
-        "Part D - Minor",
         "Part B - Electives"
     ],
     "COMS3000": [
@@ -103,7 +102,6 @@
         "Part B - Electives"
     ],
     "COSC3000": [
-        "Part D - Minor",
         "Part B - Electives"
     ],
     "COSC3500": [
@@ -134,7 +132,6 @@
         "Part B - Electives"
     ],
     "INFS3200": [
-        "Part D - Minor",
         "Part B - Electives"
     ],
     "INFS3202": [
@@ -153,7 +150,6 @@
         "Part C - Coverage Electives"
     ],
     "INFS4203": [
-        "Part D - Minor",
         "Part C - Coverage Electives"
     ],
     "INFS4205": [
@@ -167,17 +163,5 @@
     ],
     "MATH2010": [
         "Part C - Coverage Electives"
-    ],
-    "STAT2004": [
-        "Part D - Minor"
-    ],
-    "STAT3001": [
-        "Part D - Minor"
-    ],
-    "STAT3003": [
-        "Part D - Minor"
-    ],
-    "STAT3004": [
-        "Part D - Minor"
     ]
 }

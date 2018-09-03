@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3306",
     "course_name": "Set Theory & Mathematical Logic",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Historical & Philosophical Inq, Mathematics & Physics School",
     "units": "2",

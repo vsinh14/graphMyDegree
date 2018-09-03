@@ -1,6 +1,7 @@
 {
     "course_code": "MATH2301",
     "course_name": "Linear & Abstract Algebra & Number Theory",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

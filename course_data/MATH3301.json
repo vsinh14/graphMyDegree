@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3301",
     "course_name": "Graph Theory and Design Theory",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

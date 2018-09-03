@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3303",
     "course_name": "Abstract Algebra & Number Theory",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

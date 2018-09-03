@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3403",
     "course_name": "Partial Differential Equations",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

@@ -1,6 +1,7 @@
 {
     "course_code": "PHYS2100",
     "course_name": "Dynamics, Chaos & Special Relativity",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

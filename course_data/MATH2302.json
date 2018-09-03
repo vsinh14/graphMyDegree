@@ -1,6 +1,7 @@
 {
     "course_code": "MATH2302",
     "course_name": "Discrete Mathematics II",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

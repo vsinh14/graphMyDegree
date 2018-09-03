@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3302",
     "course_name": "Coding & Cryptography",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

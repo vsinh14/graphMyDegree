@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3402",
     "course_name": "Functional Analysis",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",
