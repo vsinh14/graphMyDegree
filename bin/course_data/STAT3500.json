@@ -1,6 +1,7 @@
 {
     "course_code": "STAT3500",
     "course_name": "Problems & Applications in Modern Statistics",
+    "semesters": 2,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

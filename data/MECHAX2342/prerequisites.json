@@ -1,0 +1,354 @@
+{
+    "ENGG1100": [],
+    "ENGG1200": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA",
+            "ENGG1100"
+        ]
+    },
+    "ENGG1211": [],
+    "MATH1051": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1071": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "MATH1052": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MATH1072": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_HA"
+        ]
+    },
+    "ENGG1400": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "ENGG1500": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "12_Maths_B",
+                    "MATH1040"
+                ]
+            }
+        ]
+    },
+    "ENGG1300": {
+        "type": "any",
+        "children": [
+            "12_Maths_B",
+            "MATH1040"
+        ]
+    },
+    "MATH2000": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MATH2001": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "MECH2300": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1010",
+                    "ENGG1400"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1200",
+                    "MATE1000",
+                    "ENGG1211"
+                ]
+            }
+        ]
+    },
+    "MECH2305": {
+        "type": "any",
+        "children": [
+            "ENGG1200",
+            "ENGG1211"
+        ]
+    },
+    "MECH2410": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1010",
+                    "ENGG1400"
+                ]
+            }
+        ]
+    },
+    "MECH2100": {
+        "type": "all",
+        "children": [
+            "MECH2300",
+            {
+                "type": "any",
+                "children": [
+                    "MECH2305",
+                    "METR2800"
+                ]
+            }
+        ]
+    },
+    "MECH2210": {
+        "type": "any",
+        "children": [
+            "ENGG1010",
+            "ENGG1400"
+        ]
+    },
+    "MECH2700": [],
+    "MATH2010": {
+        "type": "any",
+        "children": [
+            "MATH1052",
+            "MATH1072"
+        ]
+    },
+    "MECH3400": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "ENGG1050",
+                    "ENGG1500"
+                ]
+            },
+            "MECH2410"
+        ]
+    },
+    "MECH3600": [],
+    "STAT2201": {
+        "type": "any",
+        "children": [
+            "MATH1050",
+            "12_Maths_C_SA"
+        ]
+    },
+    "MECH3300": [
+        "MECH2300"
+    ],
+    "MECH3100": {
+        "type": "all",
+        "children": [
+            "ENGG1400",
+            "MECH2100",
+            "MECH2300"
+        ]
+    },
+    "MECH3200": [
+        "MECH2210"
+    ],
+    "MECH3410": [
+        "MECH2410"
+    ],
+    "METR4201": {
+        "type": "any",
+        "children": [
+            "MECH2210",
+            "ELEC2004"
+        ]
+    },
+    "ENGG4900": [],
+    "ENGG4011": [],
+    "MECH4500": [
+        "HOS_Permission"
+    ],
+    "MECH4501": [
+        "HOS_Permission"
+    ],
+    "MECH4552": [],
+    "CHEM1090": [],
+    "MATH1050": {
+        "type": "any",
+        "children": [
+            "MATH1040",
+            "12_Maths_B"
+        ]
+    },
+    "PHYS1171": [],
+    "CHEM1100": {
+        "type": "any",
+        "children": [
+            "CHEM1090"
+        ]
+    },
+    "CSSE1001": [],
+    "ENGG1600": {
+        "type": "all",
+        "children": []
+    },
+    "PHYS1002": [],
+    "AERO4300": [],
+    "AERO4450": [
+        "MECH3410"
+    ],
+    "AERO4470": [
+        "MECH3410"
+    ],
+    "AERO4800": {
+        "type": "all",
+        "children": [
+            "MECH2210",
+            "MECH3400",
+            "MECH2700"
+        ]
+    },
+    "CHEE4302": [],
+    "ELEC2003": {
+        "type": "any",
+        "children": [
+            "ELEC1000",
+            "ENGG1300"
+        ]
+    },
+    "ENGG4103": [],
+    "ENGY4000": {
+        "type": "any",
+        "children": [
+            {
+                "type": "all",
+                "children": [
+                    {
+                        "type": "any",
+                        "children": [
+                            "CHEE3020",
+                            "CHEE2002"
+                        ]
+                    },
+                    "CHEE3004"
+                ]
+            },
+            "MECH3400"
+        ]
+    },
+    "FIRE3700": {
+        "type": "all",
+        "children": [
+            "ENGG1400",
+            "CIVL2131",
+            "CIVL2330"
+        ]
+    },
+    "MECH2310": {
+        "type": "any",
+        "children": [
+            "ENGG1211",
+            "ENGG1200"
+        ]
+    },
+    "MECH3250": [],
+    "MECH3301": {
+        "type": "any",
+        "children": [
+            "MATE1000",
+            "ENGG1200",
+            "ENGG1211"
+        ]
+    },
+    "MECH3750": [
+        "MECH2700"
+    ],
+    "MECH4304": [],
+    "MECH4480": {
+        "type": "all",
+        "children": [
+            "MECH2410",
+            "MECH3400",
+            {
+                "type": "any",
+                "children": [
+                    "MECH2700",
+                    "MECH3750"
+                ]
+            }
+        ]
+    },
+    "MECH4950": [
+        "HOS_Permission"
+    ],
+    "MECH4951": [
+        "HOS_Permission"
+    ],
+    "METR3100": [],
+    "METR4202": {
+        "type": "any",
+        "children": [
+            "ELEC3004",
+            "METR3200",
+            "METR4201"
+        ]
+    },
+    "PHYS2082": {
+        "type": "any",
+        "children": [
+            "PHYS1001",
+            "PHYS1171"
+        ]
+    },
+    "TIMS3309": []
+}

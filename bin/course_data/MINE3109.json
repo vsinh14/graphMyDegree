@@ -1,6 +1,7 @@
 {
     "course_code": "MINE3109",
     "course_name": "Special Topics in Mining II",
+    "semesters": 3,
     "faculty": "Engineering, Architecture & Information Technology",
     "school": "Mech & Mine Engineering School",
     "units": "2",

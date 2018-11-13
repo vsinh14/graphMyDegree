@@ -1,0 +1,176 @@
+{
+    "COSC2500": {
+        "type": "any",
+        "children": [
+            "SCIE1000",
+            {
+                "type": "any",
+                "children": [
+                    {
+                        "type": "all",
+                        "children": [
+                            "CSSE1001",
+                            "MATH1051"
+                        ]
+                    },
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    {
+                        "type": "all",
+                        "children": [
+                            {
+                                "type": "any",
+                                "children": [
+                                    "MATH1051",
+                                    "MATH1071"
+                                ]
+                            },
+                            "MATH1052"
+                        ]
+                    },
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "STAT2003": {
+        "type": "any",
+        "children": [
+            "MATH1050"
+        ]
+    },
+    "STAT2004": [
+        {
+            "type": "any",
+            "children": [
+                {
+                    "type": "all",
+                    "children": [
+                        {
+                            "type": "any",
+                            "children": [
+                                "MATH1051",
+                                "MATH1071"
+                            ]
+                        },
+                        {
+                            "type": "any",
+                            "children": [
+                                "STAT1201",
+                                "STAT1301",
+                                "STAT2201"
+                            ]
+                        },
+                        "STAT2003"
+                    ]
+                },
+                "STAT2203"
+            ]
+        }
+    ],
+    "STAT3001": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH2000",
+                    "MATH2001"
+                ]
+            },
+            "STAT2004"
+        ]
+    },
+    "MATH3202": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            }
+        ]
+    },
+    "COSC3000": {
+        "type": "any",
+        "children": [
+            "COSC2500",
+            "CSSE2002"
+        ]
+    },
+    "MATH3090": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH1051",
+                    "MATH1071"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "MATH1052",
+                    "MATH1072"
+                ]
+            },
+            {
+                "type": "any",
+                "children": [
+                    "STAT2003",
+                    "STAT2004"
+                ]
+            }
+        ]
+    },
+    "MATH3404": {
+        "type": "any",
+        "children": [
+            "MATH2000",
+            "MATH2001"
+        ]
+    },
+    "MATH4202": [
+        "MATH3202"
+    ],
+    "STAT3003": [
+        "STAT2004"
+    ],
+    "STAT3004": {
+        "type": "all",
+        "children": [
+            {
+                "type": "any",
+                "children": [
+                    "MATH2000",
+                    "MATH2001"
+                ]
+            },
+            "STAT2003"
+        ]
+    },
+    "STAT3306": {
+        "type": "any",
+        "children": [
+            "STAT2004",
+            "STAT2203"
+        ]
+    },
+    "STAT3500": [
+        "STAT3001"
+    ]
+}

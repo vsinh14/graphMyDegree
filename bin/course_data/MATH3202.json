@@ -1,6 +1,7 @@
 {
     "course_code": "MATH3202",
     "course_name": "Operations Research & Mathematical Planning",
+    "semesters": 1,
     "faculty": "Science",
     "school": "Mathematics & Physics School",
     "units": "2",

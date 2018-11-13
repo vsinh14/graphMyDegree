@@ -1,0 +1,32 @@
+digraph "course plan" {
+	node [shape=box]
+	fontname=Arial
+	COSC2500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>COSC2500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Numerical Methods in Computational Science</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT2003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT2003</TD></TR><TR><TD><FONT POINT-SIZE="10">Probability &amp; Statistics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT2004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT2004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Statistical Modelling &amp; Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3001 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT3001</TD></TR><TR><TD><FONT POINT-SIZE="10">Mathematical Statistics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MATH3202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH3202</TD></TR><TR><TD><FONT POINT-SIZE="10">Operations Research &amp; Mathematical Planning</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	COSC3000 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>COSC3000</TD></TR><TR><TD><FONT POINT-SIZE="10">Visualization, Computer Graphics &amp; Data Analysis</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MATH3090 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>MATH3090</TD></TR><TR><TD><FONT POINT-SIZE="10">Financial Mathematics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MATH3404 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH3404</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Optimisation Theory</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	MATH4202 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>MATH4202</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Advanced Topics in Operations Research</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3003 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><HR/><TR><TD>STAT3003</TD></TR><TR><TD><FONT POINT-SIZE="10">Experimental Design</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3004 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT3004</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Probability Models &amp; Stochastic Processes</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3306 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT3306</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Statistical Analysis of Genetic Data</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	STAT3500 [label=<<FONT FACE="Arial"><TABLE BORDER="0"><TR><TD></TD></TR><TR><TD>STAT3500</TD></TR><HR/><TR><TD><FONT POINT-SIZE="10">Problems &amp; Applications in Modern Statistics</FONT></TD></TR></TABLE></FONT>> fillcolor=white style=filled]
+	node [color=grey fillcolor=grey shape=circle style=filled]
+	orNode11 [label=or]
+	node [shape=box style=filled]
+	COSC2500 -> COSC3000
+	STAT2003 -> orNode11
+	STAT2003 -> STAT3004
+	STAT2004 -> STAT3001
+	STAT2004 -> orNode11
+	STAT2004 -> STAT3003
+	STAT2004 -> STAT3306
+	STAT3001 -> STAT3500
+	MATH3202 -> MATH4202
+	orNode11 -> MATH3090
+	label="\n\nOrange is part A electives\nGreen is part B electives\nYellow is part C electives\nBlue is part D electives\nWhite is other"
+	fontsize=20
+}
