@@ -5,7 +5,7 @@ import os
 import json
 
 def write_all_data_for_major(major_code):
-    major_dir = './data/'+major_code+'/'
+    major_dir = '../data/'+major_code+'/'
     os.makedirs(major_dir, exist_ok=True)
     # Writes the list of only course codes.
     print('Reading courses for', major_code)
@@ -18,9 +18,9 @@ def write_all_data_for_major(major_code):
         print('Finding data for', c)
         # If the course is already parsed and updated with a semester code,
         # use that.
-        if os.path.isfile(f'bin/course_data/{c}.json'):
+        if os.path.isfile(f'../bin/course_data/{c}.json'):
             try:
-                with open(f'bin/course_data/{c}.json') as f:
+                with open(f'../bin/course_data/{c}.json') as f:
                     old_data = json.load(f)
             except json.JSONDecodeError:
                 old_data = {} # Corrupted data, re-scrape.
@@ -33,7 +33,7 @@ def write_all_data_for_major(major_code):
         new_data = parse_course_code(c)
         course_data[c] = new_data
         # Write to folder of all courses ever.
-        with open(f'bin/course_data/{c}.json', 'w') as f:
+        with open(f'../bin/course_data/{c}.json', 'w') as f:
             json.dump(new_data, f, indent=4)
 
     # Handled writing course data manually above and further below.
@@ -69,5 +69,5 @@ def write_all_data_for_major(major_code):
         f.write(json.encoder.JSONEncoder(indent=4).encode(prereq_dict))
 
 if __name__ == '__main__':
-    for x in ('ELECTX2342', 'MECHAX2342', 'CIVILX2342', 'CHEMIX2342', 'MININX2342'):
+    for x in ('DAOPRX2394', ):
         write_all_data_for_major(x)
