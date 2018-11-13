@@ -18,9 +18,9 @@ def write_all_data_for_major(major_code):
         print('Finding data for', c)
         # If the course is already parsed and updated with a semester code,
         # use that.
-        if os.path.isfile(f'course_data/{c}.json'):
+        if os.path.isfile(f'bin/course_data/{c}.json'):
             try:
-                with open(f'course_data/{c}.json') as f:
+                with open(f'bin/course_data/{c}.json') as f:
                     old_data = json.load(f)
             except json.JSONDecodeError:
                 old_data = {} # Corrupted data, re-scrape.
@@ -33,7 +33,7 @@ def write_all_data_for_major(major_code):
         new_data = parse_course_code(c)
         course_data[c] = new_data
         # Write to folder of all courses ever.
-        with open(f'course_data/{c}.json', 'w') as f:
+        with open(f'bin/course_data/{c}.json', 'w') as f:
             json.dump(new_data, f, indent=4)
 
     # Handled writing course data manually above and further below.
