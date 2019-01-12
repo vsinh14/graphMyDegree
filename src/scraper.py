@@ -75,14 +75,19 @@ def _parse_course_codes(major_soup: bs4.BeautifulSoup):
         yield l.attrs['href'].replace('/programs-courses/course.html?course_code=', '', 1)
 
 _id_mapping = {
+    'course-level': 'level',
     'course-faculty': 'faculty',
     'course-school': 'school',
     'course-units': 'units',
     'course-duration': 'duration',
-    'course-summary': 'description',
-    'course-prerequisite': 'prerequisites',
+    'course-contact': 'contact',
+    'course-restricted': 'restricted',
     'course-incompatible': 'incompatible',
-    'course-restricted': 'restricted'
+    'course-prerequisite': 'prerequisites',
+    'course-assessment-methods': 'assessment-methods',
+    'course-coordinator': 'coordinator',
+    'course-studyabroard': 'study-abroad',
+    'course-summary': 'description',
 }
 
 def parse_course_code(course_code: str):
@@ -107,15 +112,18 @@ def parse_course_code(course_code: str):
         dictionary['course_name'] = course_name
 
 
-        this_year = str(datetime.today().year)
-        offerings = SemesterFlags(0)
+        # this_year = str(datetime.today().year)
+        # offerings = SemesterFlags(0)
+        semesters = []
         semester_elements = soup.find_all('a', {'class': 'course-offering-year'})
         for sem_elem in semester_elements:
-            # TODO: Will break for the first half of a year!!
-            if this_year in sem_elem.text: # only consider offerings in this year.
-                offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
+            sem = sem_elem['href'].split('&offer=')[1].split('&')[0]
+            semesters.append(sem)
+            # # TODO: Will break for the first half of a year!!
+            # if this_year in sem_elem.text: # only consider offerings in this year.
+            #     offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
 
-        dictionary['semesters'] = offerings.int()
+        dictionary['semesters'] = semesters
 
         for k, v in _id_mapping.items():
             _find_section(k, v)
@@ -197,19 +205,24 @@ def write_course_data_to_file(course_list, file_name):
     return courses_dict
 
 def scrape_one_course_worker(course_code, folder_name):
-    print('Starting', course_code)
+    print('Start', course_code)
     result = parse_course_code(course_code)
     with open(folder_name + '/'+course_code+'.json', 'w') as f:
         f.write(json.encoder.JSONEncoder(indent=4).encode(result))
     print('Finished', course_code)
 
 def multithread_write_course_data_to_file(course_list, folder_name):
+    # for c in course_list:
+    #     scrape_one_course_worker(c, folder_name)
+    import time
+    import random
     with mp.Pool(50) as pool:
         for c in course_list:
             pool.apply_async(
                 func=scrape_one_course_worker, 
                 args=(c, folder_name)
             )
+            time.sleep(0.5+1*random.random())
         pool.close() 
         pool.join()
 
