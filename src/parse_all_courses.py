@@ -2,6 +2,7 @@ from scraper import multithread_write_course_data_to_file
 import json.decoder
 import asyncio
 import os
+import scraper
 
 def main():
     with open('course_codes.json') as f:
@@ -11,8 +12,18 @@ def main():
     print(f'Parsed {len(existing_courses)} of {len(course_list)} courses.')
     # URL: https://my.uq.edu.au/programs-courses/browse.html?level=ugpg
 
-    multithread_write_course_data_to_file(
-        set(course_list)-existing_courses, './course_data/')
+    # s = []
+    # for c in set(course_list) - existing_courses:
+    #     s.append(f'wget \'https://my.uq.edu.au/programs-courses/course.html?course_code={c}\' -O {c}.html')
+    # with open('wget.sh', 'w', newline='\n') as f:
+    #     f.write('\n'.join(s))
+    # return
+
+    for c in set(course_list) - existing_courses:
+        scraper.scrape_one_course_worker(c, './course_data/')
+    # multithread_write_course_data_to_file(
+    #     set(course_list)-existing_courses, './course_data/')
+    return
     d = {}
     with open('all_course_data.json', 'w') as out:
         for f in os.listdir('./course_data/'):

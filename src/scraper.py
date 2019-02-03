@@ -1,7 +1,8 @@
 import enum
 import urllib.request
-from datetime import datetime
+import datetime as dt
 import json
+import os
 from collections import defaultdict
 
 import multiprocessing.dummy as mp
@@ -90,9 +91,18 @@ _id_mapping = {
     'course-summary': 'description',
 }
 
+def course_html_opener(code): 
+    html_path = f'./html/{code}.html'
+    if os.path.exists(html_path):
+        print('loading from html', code)
+        return open(html_path, encoding='utf-8')
+    else:
+        print('downloading', code)
+        return urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9'}))
+
 def parse_course_code(course_code: str):
     url = 'https://my.uq.edu.au/programs-courses/course.html?course_code='+course_code
-    with urllib.request.urlopen(url) as html_file:
+    with course_html_opener(course_code) as html_file:
         soup = bs4.BeautifulSoup(html_file.read())
 
         dictionary = {}
@@ -112,13 +122,24 @@ def parse_course_code(course_code: str):
         dictionary['course_name'] = course_name
 
 
-        # this_year = str(datetime.today().year)
+        # this_year = str(dt.datetime.today().year)
         # offerings = SemesterFlags(0)
         semesters = []
-        semester_elements = soup.find_all('a', {'class': 'course-offering-year'})
+        semester_elements = soup.find('div', {'id': 'description'}).find_all('a', {'class': 'course-offering-year'})
         for sem_elem in semester_elements:
             sem = sem_elem['href'].split('&offer=')[1].split('&')[0]
-            semesters.append(sem)
+            if '&year=' in sem_elem['href']:
+                year = int(sem_elem['href'].split('&year=')[1].split('+')[0])
+            else:
+                year = dt.datetime.today().year
+            teaching_period = None 
+            sem_elem: bs4.Tag = sem_elem
+            if '(' in sem_elem.text:
+                print(sem_elem.text)
+                teaching_period = sem_elem.text.split('(')[1].split(')')[0]
+                if teaching_period == 'Standard':
+                    teaching_period = None
+            semesters.append({'code': sem, 'year': year, 'teaching_period': teaching_period})
             # # TODO: Will break for the first half of a year!!
             # if this_year in sem_elem.text: # only consider offerings in this year.
             #     offerings |= SemesterFlags.from_str(sem_elem.text.replace(', '+this_year, '', 1).strip().split(' (')[0])
@@ -128,6 +149,8 @@ def parse_course_code(course_code: str):
         for k, v in _id_mapping.items():
             _find_section(k, v)
         # gets everything else
+
+        dictionary['last_updated'] = dt.datetime.now(dt.timezone.utc).isoformat()
 
         return dictionary
 
@@ -222,7 +245,7 @@ def multithread_write_course_data_to_file(course_list, folder_name):
                 func=scrape_one_course_worker, 
                 args=(c, folder_name)
             )
-            time.sleep(0.5+1*random.random())
+            time.sleep(3.5+1*random.random())
         pool.close() 
         pool.join()
 
